@@ -7,7 +7,7 @@ import { Icon } from '../components/icons';
 import { normalizeArabic } from '../lib/arabic';
 import { vocabBanks, type VocabBank } from '../lib/vocabBanks';
 
-/** المكتبة — every vocabulary bank in the book, by chapter. */
+/** المطبخ (the kitchen) — every vocabulary bank in the book, by chapter. */
 export function VocabView({ courseId }: { courseId: string }) {
   const course = getCourse(courseId);
   const p = useProgress(courseId);
@@ -57,8 +57,8 @@ export function VocabView({ courseId }: { courseId: string }) {
   return (
     <div className="stack">
       <div className="card arch-card" style={{ textAlign: 'center' }}>
-        <Ar size="lg">المَكْتَبة</Ar>
-        <div className="translit small">il-maktabe · the library</div>
+        <Ar size="lg">المَطْبَخ</Ar>
+        <div className="translit small">il-maṭbakh · the kitchen</div>
         <h1 style={{ marginTop: 6 }}>Vocabulary</h1>
         <p className="muted" style={{ margin: 0 }}>
           Every vocabulary bank in the book, {banks.length} banks and {total} words. Listen to a word, play a whole bank, or learn it with the metronome.
