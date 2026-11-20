@@ -1,0 +1,184 @@
+{
+  "recordings": [
+    {
+      "key": "ch5-yousef-walid-1",
+      "src": "audio/abv-vol1/ch5-yousef-walid-1.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[concerned]"
+    },
+    {
+      "key": "ch5-yousef-walid-2",
+      "src": "audio/abv-vol1/ch5-yousef-walid-2.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[tired]"
+    },
+    {
+      "key": "ch5-yousef-walid-3",
+      "src": "audio/abv-vol1/ch5-yousef-walid-3.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[gently]"
+    },
+    {
+      "key": "ch5-yousef-walid-4",
+      "src": "audio/abv-vol1/ch5-yousef-walid-4.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[stressed]"
+    },
+    {
+      "key": "ch5-yousef-walid-5",
+      "src": "audio/abv-vol1/ch5-yousef-walid-5.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[sympathetic]"
+    },
+    {
+      "key": "ch5-yousef-walid-6",
+      "src": "audio/abv-vol1/ch5-yousef-walid-6.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[frustrated]"
+    },
+    {
+      "key": "ch5-yousef-walid-7",
+      "src": "audio/abv-vol1/ch5-yousef-walid-7.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[gently]"
+    },
+    {
+      "key": "ch5-yousef-walid-8",
+      "src": "audio/abv-vol1/ch5-yousef-walid-8.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[worried]"
+    },
+    {
+      "key": "ch5-yousef-walid-9",
+      "src": "audio/abv-vol1/ch5-yousef-walid-9.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[concerned]"
+    },
+    {
+      "key": "ch5-yousef-walid-10",
+      "src": "audio/abv-vol1/ch5-yousef-walid-10.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[worried]"
+    },
+    {
+      "key": "ch5-yousef-walid-11",
+      "src": "audio/abv-vol1/ch5-yousef-walid-11.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[surprised]"
+    },
+    {
+      "key": "ch5-yousef-walid-12",
+      "src": "audio/abv-vol1/ch5-yousef-walid-12.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch5-yousef-walid-13",
+      "src": "audio/abv-vol1/ch5-yousef-walid-13.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[impressed]"
+    },
+    {
+      "key": "ch5-yousef-walid-14",
+      "src": "audio/abv-vol1/ch5-yousef-walid-14.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[concerned]"
+    },
+    {
+      "key": "ch5-yousef-walid-15",
+      "src": "audio/abv-vol1/ch5-yousef-walid-15.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[reassuring]"
+    },
+    {
+      "key": "ch5-yousef-walid-16",
+      "src": "audio/abv-vol1/ch5-yousef-walid-16.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[proudly]"
+    },
+    {
+      "key": "ch5-yousef-walid-17",
+      "src": "audio/abv-vol1/ch5-yousef-walid-17.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch5-yousef-walid-18",
+      "src": "audio/abv-vol1/ch5-yousef-walid-18.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[relieved]"
+    },
+    {
+      "key": "ch5-yousef-walid-19",
+      "src": "audio/abv-vol1/ch5-yousef-walid-19.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walid",
+      "voice": "Booker (Palestinian, mature)",
+      "model": "eleven_v4",
+      "direction": "[reassuring]"
+    },
+    {
+      "key": "ch5-yousef-walid-20",
+      "src": "audio/abv-vol1/ch5-yousef-walid-20.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yousef",
+      "voice": "Samir (Jordanian, Ammani)",
+      "model": "eleven_v4",
+      "direction": "[laughs softly] [cheerful]"
+    }
+  ]
+}

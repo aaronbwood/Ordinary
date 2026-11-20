@@ -38,7 +38,8 @@
           "translit": "marḥaba yā Yūsuf, shū mālak? shiklak taʿbān ktīr.",
           "en": "Hey Yousef, what’s wrong? You look really tired.",
           "dialogueLine": 0,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[concerned]"
         }
       ],
       "caption": null
@@ -61,7 +62,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in الشغل (dialogue الشّغل) and بالدراسة (dialogue بالدّراسة); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[tired]"
         }
       ],
       "caption": null
@@ -84,7 +86,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in والدراسة (dialogue والدّراسة); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[gently]"
         }
       ],
       "caption": null
@@ -107,7 +110,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in شوي (dialogue شويّ), بس (dialogue بسّ) and التوجيهي (dialogue التّوجيهي); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[stressed]"
         }
       ],
       "caption": null
@@ -124,7 +128,8 @@
           "translit": "āh, hāy aṣʿab fatra bis-sane.",
           "en": "Yeah, this is the hardest time of the year.",
           "dialogueLine": 4,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[sympathetic]"
         }
       ],
       "caption": null
@@ -147,7 +152,8 @@
               "kind": "suspected-error",
               "note": "Bubble has اسبوع without hamza (dialogue أسبوع) — likely typo; bubble also omits shadda in الدرس (dialogue الدّرس)"
             }
-          ]
+          ],
+          "direction": "[frustrated]"
         }
       ],
       "caption": null
@@ -164,7 +170,8 @@
           "translit": "w-kīf immak?",
           "en": "And how’s your mom?",
           "dialogueLine": 6,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[gently]"
         }
       ],
       "caption": null
@@ -181,7 +188,8 @@
           "translit": "immī ʾalʾāne ktīr ʿa akhūy iẓ-ẓghīr.",
           "en": "My mom is really worried about my little brother.",
           "dialogueLine": 7,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[worried]"
         }
       ],
       "caption": null
@@ -198,7 +206,8 @@
           "translit": "shū fīh?",
           "en": "What’s with him?",
           "dialogueLine": 8,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[concerned]"
         }
       ],
       "caption": null
@@ -221,7 +230,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in الدراسة (dialogue الدّراسة) and هالأيام (dialogue هالأيّام); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[worried]"
         }
       ],
       "caption": null
@@ -238,7 +248,8 @@
           "translit": "ʿanjad? hāy mushkile. w-ukhtak?",
           "en": "Seriously? That’s a problem. And your sister?",
           "dialogueLine": 10,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[surprised]"
         },
         {
           "id": "ch5-yousef-walid-12",
@@ -253,7 +264,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in السنة (dialogue السّنة); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[warmly]"
         }
       ],
       "caption": null,
@@ -271,7 +283,8 @@
           "translit": "mā shāʾ Allāh, shiklha jiddiyye ktīr.",
           "en": "Mashallah, she seems really serious.",
           "dialogueLine": 12,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[impressed]"
         }
       ],
       "caption": null
@@ -294,7 +307,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in بس (dialogue بسّ); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[concerned]"
         }
       ],
       "caption": null
@@ -317,7 +331,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in بس (dialogue بسّ), الراحة (dialogue الرّاحة), مهمة (dialogue مهمّة) and كل (dialogue كلّ); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[reassuring]"
         }
       ],
       "caption": null
@@ -340,7 +355,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in بس (dialogue بسّ), بالتوجيهي (dialogue بالتّوجيهي) and السنة (dialogue السّنة); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[proudly]"
         }
       ],
       "caption": null
@@ -363,7 +379,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in طيب (dialogue طيّب), بلمة (dialogue بلمّة), شوية (dialogue شويّة) and جو (dialogue جوّ); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[warmly]"
         }
       ],
       "caption": null
@@ -386,7 +403,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in كلنا (dialogue كلّنا); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[relieved]"
         }
       ],
       "caption": null
@@ -409,7 +427,8 @@
               "kind": "bubble-differs",
               "note": "Bubble omits shadda in الصبر (dialogue الصّبر); dialogue has it"
             }
-          ]
+          ],
+          "direction": "[reassuring]"
         }
       ],
       "caption": null
@@ -426,7 +445,8 @@
           "translit": "wallāh maʿak ḥaʾʾ. w-baʿd il-imtiḥānāt, il-ʿasha ʿalayy!",
           "en": "You’re right. And after the exams, dinner’s on me!",
           "dialogueLine": 19,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[laughs softly] [cheerful]"
         }
       ],
       "caption": null
