@@ -6,7 +6,7 @@
    "src": "audio/abv-vol1/ch1-tahas-cafe-1.mp3",
    "status": "generated-candidate",
    "speaker": "Taha",
-   "voice": "Bader Eshtaya (Palestinian)",
+   "voice": "Daoud (Jordanian, warm, deep)",
    "model": "eleven_v4",
    "direction": "[warmly]"
   },
@@ -24,7 +24,7 @@
    "src": "audio/abv-vol1/ch1-tahas-cafe-3.mp3",
    "status": "generated-candidate",
    "speaker": "Taha",
-   "voice": "Bader Eshtaya (Palestinian)",
+   "voice": "Daoud (Jordanian, warm, deep)",
    "model": "eleven_v4",
    "direction": "[friendly]"
   },
@@ -42,7 +42,7 @@
    "src": "audio/abv-vol1/ch1-tahas-cafe-5.mp3",
    "status": "generated-candidate",
    "speaker": "Taha",
-   "voice": "Bader Eshtaya (Palestinian)",
+   "voice": "Daoud (Jordanian, warm, deep)",
    "model": "eleven_v4",
    "direction": "[curious]"
   },
@@ -60,7 +60,7 @@
    "src": "audio/abv-vol1/ch1-tahas-cafe-7.mp3",
    "status": "generated-candidate",
    "speaker": "Taha",
-   "voice": "Bader Eshtaya (Palestinian)",
+   "voice": "Daoud (Jordanian, warm, deep)",
    "model": "eleven_v4",
    "direction": "[delighted]"
   },
@@ -78,7 +78,7 @@
    "src": "audio/abv-vol1/ch1-tahas-cafe-9.mp3",
    "status": "generated-candidate",
    "speaker": "Taha",
-   "voice": "Bader Eshtaya (Palestinian)",
+   "voice": "Daoud (Jordanian, warm, deep)",
    "model": "eleven_v4",
    "direction": "[proudly]"
   },
@@ -87,7 +87,7 @@
    "src": "audio/abv-vol1/ch1-tahas-cafe-10.mp3",
    "status": "generated-candidate",
    "speaker": "Taha",
-   "voice": "Bader Eshtaya (Palestinian)",
+   "voice": "Daoud (Jordanian, warm, deep)",
    "model": "eleven_v4",
    "direction": "[friendly]"
   },
