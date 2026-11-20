@@ -60,7 +60,13 @@
      "direction": "[warmly]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 1,
+    "bookPage": 68,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p68-2",
@@ -88,7 +94,13 @@
      "direction": "[cheerfully]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 1,
+    "bookPage": 68,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p68-3",
@@ -116,7 +128,13 @@
      "direction": "[friendly]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 1,
+    "bookPage": 68,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p68-4",
@@ -144,7 +162,13 @@
      "direction": "[happily]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 1,
+    "bookPage": 68,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p68-5",
@@ -172,7 +196,13 @@
      "direction": "[curious]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 1,
+    "bookPage": 68,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p68-6",
@@ -204,7 +234,13 @@
      "direction": "[warmly]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 1,
+    "bookPage": 68,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p69-1",
@@ -228,7 +264,13 @@
      "direction": "[delighted]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 2,
+    "bookPage": 69,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p69-2",
@@ -256,7 +298,13 @@
      "direction": "[warmly]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 2,
+    "bookPage": 69,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p69-3",
@@ -284,7 +332,13 @@
      "direction": "[proudly]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 2,
+    "bookPage": 69,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p69-4",
@@ -308,7 +362,13 @@
      "direction": "[friendly]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 2,
+    "bookPage": 69,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p69-5",
@@ -332,7 +392,13 @@
      "direction": "[casually]"
     }
    ],
-   "caption": null
+   "caption": null,
+   "imageSource": {
+    "designId": "DAHbfFSBOo8",
+    "page": 2,
+    "bookPage": 69,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
+   }
   },
   {
    "id": "p69-6",
@@ -352,9 +418,10 @@
    ],
    "caption": null,
    "imageSource": {
-    "designId": "DAHbe4KPipE",
-    "page": 1,
-    "note": "Working copy of book p.69 with Walaa's bubble text enlarged and centred; the original design DAHaz00vw2w is unchanged."
+    "designId": "DAHbfFSBOo8",
+    "page": 2,
+    "bookPage": 69,
+    "note": "Working copy with every bubble’s text centred and sized; the original design DAHaz00vw2w is unchanged."
    }
   }
  ]
