@@ -56,11 +56,26 @@ export function playPhrase(
   if (!phrase?.ar) return 'unavailable';
   const rec = findRecording(courseId, keys, phrase.ar);
   if (rec) {
-    const a = new Audio(rec.src.startsWith('http') ? rec.src : `${import.meta.env.BASE_URL}${rec.src.replace(/^\//, '')}`);
+    const url = rec.src.startsWith('http') ? rec.src : `${import.meta.env.BASE_URL}${rec.src.replace(/^\//, '')}`;
+    const clip = typeof rec.start === 'number' && typeof rec.end === 'number';
+    const a = new Audio(clip ? `${url}#t=${rec.start},${rec.end}` : url);
     current = a;
-    a.onended = () => onEnd?.();
-    a.onerror = () => onEnd?.();
-    a.play().catch(() => onEnd?.());
+    let done = false;
+    const finish = () => { if (!done) { done = true; onEnd?.(); } };
+    a.onended = finish;
+    a.onerror = finish;
+    if (clip) {
+      // play only this clip: seek to its start (if the fragment was ignored) and stop at its end
+      a.addEventListener('loadedmetadata', () => { if (Math.abs(a.currentTime - rec.start!) > 0.05) a.currentTime = rec.start!; });
+      // each clip ends with ~0.3 s of silence, so stopping a little early never cuts the word;
+      // timeupdate fires only every ~250 ms, too coarse, so poll
+      const stopAt = rec.end! - 0.15;
+      const timer = setInterval(() => {
+        if (current !== a) { clearInterval(timer); return; }
+        if (a.currentTime >= stopAt) { clearInterval(timer); a.pause(); finish(); }
+      }, 25);
+    }
+    a.play().catch(finish);
     return rec.status;
   }
   const voice = getSettings().allowGeneratedVoice ? arabicVoice() : undefined;

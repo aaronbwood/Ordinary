@@ -167,6 +167,9 @@ export type AudioStatus = 'teacher' | 'native-reviewed' | 'generated-candidate';
 export interface AudioRecording {
   key: string; // item id, vocab id, dialogue line id or normalised Arabic text
   src: string;
+  /** For a clip inside a longer file (e.g. a chapter's vocabulary audio): where it starts and ends, in seconds. */
+  start?: number;
+  end?: number;
   status: AudioStatus;
   speaker?: string;
   reviewedBy?: string;

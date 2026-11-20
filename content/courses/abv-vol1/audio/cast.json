@@ -56,5 +56,16 @@
    "voiceName": "Samir (Jordanian, Ammani)"
   }
  },
- "account": "Creator account (131,000 credits/month); library voices are shared across accounts"
+ "account": "Creator account (131,000 credits/month); library voices are shared across accounts",
+ "vocabulary": {
+  "voiceId": "uakRCDk2wfHQmleUrr6T",
+  "voiceName": "Aaron (your instant clone, Creator account)",
+  "professionalCloneId": "rixeu8s9keXP5glrCSu3",
+  "note": "All vocabulary words. Switch to the Professional clone once ElevenLabs finishes training it, then re-run the vocabulary batch."
+ },
+ "available": {
+  "Heba": {
+   "note": "Approved by the author for use (labelled Syrian in the ElevenLabs library). Not assigned to a character yet."
+  }
+ }
 }

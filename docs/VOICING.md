@@ -28,3 +28,19 @@ voiced. The screen keeps the printed Arabic; only the text sent to the voice cha
 - ذ → ز/د and ث → ت/س where the transliteration has z/d or t/s (ذوقك → زوءك, الثّالث → التّالت)
 - a word-initial bare ا becomes إ/أُ by the transliteration's vowel (امي → إمّي, "immi")
 - where bubble and dialogue have the same words, the dialogue's fuller vowel marks are used
+
+## Vocabulary words
+
+Every vocabulary word is voiced in Aaron's own voice (see `vocabulary` in `audio/cast.json`).
+
+1. `node scripts/vocab-voice-jobs.mjs vocab-jobs.json` lists each unique word once (the same word on
+   two pages shares one file) and builds the text the voice reads, respelled with
+   `scripts/pronounce.mjs` so it follows the transliteration (قهوة → أهوة for ʾahwe, صغير → زغير for ẓghīr).
+   Entries written "kbīr(e)" are voiced in the masculine form only; "āh / naʿam" is voiced as both words.
+2. Words are generated 14 per request, one per line, which costs far less than one request per word.
+3. `python3 -I scripts/split-batch.py batch.mp3 out/ id=text …` cuts each batch into one file per word.
+   It picks the cut points by matching pause length *and* each piece's length to its text, because a comma inside
+   a two-part entry also makes a pause. Check any word it reports as a poor fit and re-record that word alone.
+4. Level the files with `scripts/normalize-audio.sh`, pack them into one file per chapter with
+   `scripts/pack-vocab-audio.py` (the published app may hold only ~500 files), then list them in `audio/parts/vocab.json` and the manifest
+   (`kind: "vocab"`, keyed by vocabulary id, with `start`/`end` of the word inside its chapter file).
