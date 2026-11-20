@@ -57,6 +57,11 @@ export function Home() {
           <strong>Lessons</strong>
           <small>Read, listen and practise chapter by chapter</small>
         </a>
+        <a className="room" href={`#/c/${c}/words`}>
+          <span className="ar">المَطْبَخ</span>
+          <strong>Vocabulary</strong>
+          <small>Every vocabulary bank in the book, with audio and the metronome</small>
+        </a>
         <a className="room" href={`#/c/${c}/drills`}>
           <span className="ar">الصّالون</span>
           <strong>Drills</strong>
