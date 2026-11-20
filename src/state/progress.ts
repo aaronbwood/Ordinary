@@ -25,6 +25,7 @@ export interface Settings {
   autoPlayModel: boolean;
   allowGeneratedVoice: boolean; // browser TTS, unreviewed — off by default
   arabicSize: number; // rem
+  showReviewFlags: boolean; // teacher view: show flagged/composed items
 }
 
 const DEFAULT_SETTINGS: Settings = {
@@ -33,6 +34,7 @@ const DEFAULT_SETTINGS: Settings = {
   autoPlayModel: true,
   allowGeneratedVoice: false,
   arabicSize: 1.9,
+  showReviewFlags: false,
 };
 
 const empty = (): CourseProgress => ({ completedLessons: {}, completedActivities: {}, items: {}, review: {} });

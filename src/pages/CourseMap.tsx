@@ -39,15 +39,27 @@ export function CourseMap({ courseId }: { courseId: string }) {
             </summary>
             <ul className="lesson-list" style={{ marginTop: 8 }}>
               {ch.lessons.map((l) => {
-                const ex = exercisesOf(l);
+                const ex = exercisesOf(l).filter((e) => e.exerciseType !== 'discussion');
                 return (
                   <li key={l.id}>
                     <a href={`#/c/${courseId}/l/${l.id}`}>
                       <span className={`dot ${p.completedLessons[l.id] ? 'done' : ''}`} aria-label={p.completedLessons[l.id] ? 'complete' : 'not complete'} />
                       <span className="code">{l.code ?? ''}</span>
                       <span style={{ flex: 1 }}>{l.title}</span>
-                      {ex.length > 0 && <span className="badge blue">{ex.length} practice</span>}
                     </a>
+                    {ex.map((e) => (
+                      <a key={e.id} className="drill-link" href={`#/c/${courseId}/l/${l.id}/x/${e.id}`}>
+                        <span className={`dot ${p.completedActivities[e.id] ? 'done' : ''}`} style={{ width: 9, height: 9 }} />
+                        <span style={{ flex: 1 }}>{e.title}</span>
+                        <span className="small muted">{e.items.length}</span>
+                      </a>
+                    ))}
+                    {l.blocks.filter((b) => b.type === 'scene').map((b: any) => (
+                      <a key={b.id} className="drill-link" style={{ color: 'var(--olive)' }} href={`#/c/${courseId}/l/${l.id}/scene/${b.id}`}>
+                        <span className="dot" style={{ width: 9, height: 9 }} />
+                        <span style={{ flex: 1 }}>{b.title}</span>
+                      </a>
+                    ))}
                   </li>
                 );
               })}

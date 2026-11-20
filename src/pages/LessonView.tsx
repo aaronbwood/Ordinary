@@ -1,12 +1,14 @@
 import { useEffect } from 'react';
 import type { Block, Exercise } from '../content/types';
+import { SegmentsAr, SegmentsTranslit } from '../components/common';
+import { getScene } from '../content/loader';
 import { findLesson, flatLessons, getCourse } from '../content/loader';
 import { progress, useProgress, useSettings } from '../state/progress';
 import { Ar, AidToggles, Flags, PhraseView, SourceLink } from '../components/common';
 import { DialoguePlayer } from '../components/DialoguePlayer';
 import { Icon } from '../components/icons';
 
-const TYPE_LABEL: Record<string, string> = {
+export const TYPE_LABEL: Record<string, string> = {
   'translate-to-arabic': 'Translate & say',
   'translate-to-english': 'Understand',
   'fill-blank': 'Fill the blank',
@@ -160,6 +162,18 @@ function BlockView({ block: b, courseId, lessonId }: { block: Block; courseId: s
       );
     case 'exercise':
       return <ExerciseCard ex={b} courseId={courseId} lessonId={lessonId} />;
+    case 'scene': {
+      const scene = getScene(courseId, b.sceneId);
+      if (!scene) return null;
+      return (
+        <a className="card scene-card" href={`#/c/${courseId}/l/${lessonId}/scene/${b.id}`}>
+          <div className="eyebrow">Walkthrough · {scene.rooms.map((r) => r.ar).join(' ← ')}</div>
+          <h3 style={{ margin: '2px 0' }}>{b.title}</h3>
+          {b.text && <p className="small muted" style={{ margin: 0 }}>{b.text}</p>}
+          <span className="btn olive small" style={{ alignSelf: 'flex-start', marginTop: 8 }}>Enter the apartment</span>
+        </a>
+      );
+    }
     default:
       return null;
   }
@@ -169,6 +183,7 @@ function ExerciseCard({ ex, courseId, lessonId }: { ex: Exercise; courseId: stri
   const p = useProgress(courseId);
   const done = p.completedActivities[ex.id];
   const flagged = ex.items.filter((i) => i.flags?.length).length;
+  const settings = useSettings();
   return (
     <div className="card" style={{ borderInlineStart: '4px solid var(--terracotta)' }}>
       <div className="row" style={{ justifyContent: 'space-between' }}>
@@ -179,14 +194,43 @@ function ExerciseCard({ ex, courseId, lessonId }: { ex: Exercise; courseId: stri
         <SourceLink source={ex.source} />
       </div>
       {ex.instructions && <p className="small muted" dir="auto">{ex.instructions}</p>}
-      <div className="row">
+      <DrillPreview ex={ex} count={3} />
+      <div className="row" style={{ marginTop: 10 }}>
         <a className="btn primary" href={`#/c/${courseId}/l/${lessonId}/x/${ex.id}`}>
           <Icon name="mic" size={16} /> {done ? 'Practise again' : 'Practise aloud'} · {ex.items.length}
         </a>
         {done && <span className="badge ok">Done</span>}
-        {flagged > 0 && <span className="badge warn">{flagged} flagged for review</span>}
+        {flagged > 0 && settings.showReviewFlags && <span className="badge warn">{flagged} flagged for review</span>}
       </div>
       <Flags flags={ex.items.length === 0 ? [{ kind: 'missing-answer', note: 'No items transcribed' }] : undefined} />
+    </div>
+  );
+}
+
+/** The first few items of a drill as they appear in the book (Arabic with its blank). */
+export function DrillPreview({ ex, count, compact }: { ex: Exercise; count: number; compact?: boolean }) {
+  const items = ex.items.slice(0, count);
+  if (!items.length) return null;
+  return (
+    <div className={compact ? '' : 'drill-preview'} style={compact ? { marginTop: 4 } : undefined}>
+      {items.map((it, i) => (
+        <div key={it.id} className="drill-line">
+          {!compact && <span className="small muted drill-num">{i + 1}.</span>}
+          <div style={{ flex: 1, minWidth: 0, textAlign: 'right' }}>
+            {it.segments?.some((x) => x.blank) ? (
+              <SegmentsAr segments={it.segments} size={compact ? 'lg' : 'lg'} />
+            ) : it.prompt?.ar ? (
+              <span className="ar ar-md" dir="rtl" lang="ar">{it.prompt.ar}</span>
+            ) : (
+              <span className="small" style={{ display: 'block', textAlign: 'left' }}>{it.prompt?.en}</span>
+            )}
+            {!compact && it.translitSegments?.some((x) => x.blank) && (
+              <div className="small" style={{ textAlign: 'left' }}><SegmentsTranslit segments={it.translitSegments} /></div>
+            )}
+          </div>
+        </div>
+      ))}
+      {!compact && ex.items.length > count && <div className="small muted">…and {ex.items.length - count} more</div>}
     </div>
   );
 }

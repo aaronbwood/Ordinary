@@ -10,6 +10,7 @@ import { PracticeView } from './pages/PracticeView';
 import { ReviewView } from './pages/ReviewView';
 import { RhythmView } from './pages/RhythmView';
 import { ApartmentView } from './pages/ApartmentView';
+import { DrillsView } from './pages/DrillsView';
 import { SettingsView } from './pages/SettingsView';
 
 export const DEFAULT_COURSE = 'abv-vol1';
@@ -28,21 +29,22 @@ export function App() {
 
   let page: JSX.Element;
   let m: Record<string, string> | null;
-  if ((m = match('/c/:course/l/:lesson/x/:ex', path))) page = <PracticeView courseId={m.course} lessonId={m.lesson} exerciseId={m.ex} />;
+  if ((m = match('/c/:course/l/:lesson/scene/:scene', path))) page = <ApartmentView courseId={m.course} lessonId={m.lesson} blockId={m.scene} />;
+  else if ((m = match('/c/:course/l/:lesson/x/:ex', path))) page = <PracticeView courseId={m.course} lessonId={m.lesson} exerciseId={m.ex} />;
   else if ((m = match('/c/:course/l/:lesson', path))) page = <LessonView courseId={m.course} lessonId={m.lesson} />;
   else if ((m = match('/c/:course/review', path))) page = <ReviewView courseId={m.course} />;
   else if ((m = match('/c/:course/rhythm', path))) page = <RhythmView courseId={m.course} />;
-  else if ((m = match('/c/:course/apartment', path))) page = <ApartmentView courseId={m.course} />;
+  else if ((m = match('/c/:course/drills', path))) page = <DrillsView courseId={m.course} />;
   else if ((m = match('/c/:course', path))) page = <CourseMap courseId={m.course} />;
   else if (path === '/settings') page = <SettingsView />;
   else page = <Home />;
 
-  const tab = path === '/' ? 'home' : path.includes('/review') ? 'review' : path.includes('/rhythm') ? 'rhythm' : path.includes('/apartment') ? 'apartment' : path === '/settings' ? 'settings' : 'study';
+  const tab = path === '/' ? 'home' : path.includes('/review') ? 'review' : path.includes('/rhythm') ? 'rhythm' : path.includes('/drills') || path.includes('/x/') ? 'drills' : path === '/settings' ? 'settings' : 'study';
   const c = courseParam;
   const nav = [
     { id: 'home', href: '#/', label: 'Home', icon: 'home' },
     { id: 'study', href: `#/c/${c}`, label: 'Lessons', icon: 'book' },
-    { id: 'apartment', href: `#/c/${c}/apartment`, label: 'Apartment', icon: 'door' },
+    { id: 'drills', href: `#/c/${c}/drills`, label: 'Drills', icon: 'mic' },
     { id: 'rhythm', href: `#/c/${c}/rhythm`, label: 'Rhythm', icon: 'metronome' },
     { id: 'review', href: `#/c/${c}/review`, label: 'Review', icon: 'review' },
   ];

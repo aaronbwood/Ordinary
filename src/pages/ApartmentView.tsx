@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import type { Exercise, Phrase, Scene, SceneObject, SceneRoom, SceneTask } from '../content/types';
-import { flatLessons, getCourse, getScene } from '../content/loader';
+import { findLesson, getCourse, getScene } from '../content/loader';
 import { playPhrase, resolveSource } from '../audio/audio';
 import { checkSubmission } from '../lib/check';
 import { progress, useProgress, useSettings } from '../state/progress';
@@ -24,61 +24,53 @@ const MODES: { id: Mode; label: string; ar?: string }[] = [
 const center = (h: { x: number; y: number; w: number; h: number }) => ({ x: h.x + h.w / 2, y: h.y + h.h / 2 });
 const inBox = (p: { x: number; y: number }, b: { x: number; y: number; w: number; h: number }) => p.x >= b.x && p.x <= b.x + b.w && p.y >= b.y && p.y <= b.y + b.h;
 
-export function ApartmentView({ courseId }: { courseId: string }) {
+export function ApartmentView({ courseId, lessonId, blockId }: { courseId: string; lessonId?: string; blockId?: string }) {
   const course = getCourse(courseId);
-  const scene = getScene(courseId, 'apartment') as (Scene & { unlocks?: Record<string, string> }) | undefined;
+  const scene = getScene(courseId, 'apartment') as Scene | undefined;
   const p = useProgress(courseId);
   const s = useSettings();
-  const [mode, setMode] = useState<Mode>(() => (p.completedActivities['apartment:guided'] ? 'explore' : 'guided'));
+  const ref = course && lessonId ? findLesson(course, lessonId) : undefined;
+  const block = ref?.lesson.blocks.find((b) => b.type === 'scene' && b.id === blockId) as { modes?: string[]; title?: string } | undefined;
+  const allowed = MODES.filter((m) => !block?.modes || block.modes.includes(m.id));
+  const [mode, setMode] = useState<Mode>(() =>
+    allowed[0]?.id === 'guided' && p.completedActivities['apartment:guided'] ? (allowed[1]?.id ?? 'guided') : (allowed[0]?.id ?? 'explore'),
+  );
   const [roomId, setRoomId] = useState('entrance');
-  const [preview, setPreview] = useState(false);
-
-  const reachedIdx = useMemo(() => {
-    if (!course) return -1;
-    const ls = flatLessons(course);
-    const idx = ls.filter((r) => p.completedLessons[r.lesson.id] || r.lesson.id === p.lastLessonId).map((r) => r.index);
-    return idx.length ? Math.max(...idx) : -1;
-  }, [course, p]);
+  useEffect(() => {
+    if (ref && blockId) progress.visit(courseId, ref.lesson.id, `/c/${courseId}/l/${ref.lesson.id}/scene/${blockId}`);
+  }, [courseId, blockId, !!ref]); // eslint-disable-line react-hooks/exhaustive-deps
 
   if (!course || !scene) return <div className="notice">The apartment scene is not available.</div>;
   const room = scene.rooms.find((r) => r.id === roomId) ?? scene.rooms[0];
 
-  const lockLesson = mode === 'guided' || mode === 'review' ? undefined : scene.unlocks?.[mode];
-  const lockRef = lockLesson ? flatLessons(course).find((r) => r.lesson.id === lockLesson) : undefined;
-  const locked = !!lockRef && lockRef.index > reachedIdx && !preview;
-
   return (
     <div className="stack">
+      {ref && (
+        <a className="small" href={`#/c/${courseId}/l/${ref.lesson.id}`}>
+          ← Chapter {ref.chapter.number} · {ref.lesson.code ? `${ref.lesson.code} ` : ''}{ref.lesson.title}
+        </a>
+      )}
       <div className="row" style={{ justifyContent: 'space-between' }}>
         <div>
-          <div className="eyebrow">The apartment · {room.en}</div>
+          <div className="eyebrow">{block?.title ?? 'The apartment'} · {room.en}</div>
           <h1 style={{ margin: 0 }}>
             <Ar size="lg">{room.ar}</Ar> <span className="translit small">{room.translit}</span>
           </h1>
         </div>
         <SourceLink source={scene.source} />
       </div>
-      <div className="modes" role="tablist" aria-label="Practice mode">
-        {MODES.map((m) => (
-          <button key={m.id} role="tab" aria-selected={mode === m.id} className={`chip ${mode === m.id ? 'on' : ''}`} onClick={() => setMode(m.id)}>
-            {m.label}
-          </button>
-        ))}
-      </div>
-
-      {locked ? (
-        <div className="card stack">
-          <p style={{ margin: 0 }}>
-            <strong>{MODES.find((m) => m.id === mode)?.label}</strong> uses language from{' '}
-            <a href={`#/c/${courseId}/l/${lockRef!.lesson.id}`}>{lockRef!.lesson.code ? `${lockRef!.lesson.code} ` : ''}{lockRef!.lesson.title}</a>, which you haven't reached yet.
-          </p>
-          <div className="row">
-            <a className="btn primary" href={`#/c/${courseId}/l/${lockRef!.lesson.id}`}>Go to the lesson</a>
-            <button className="btn" onClick={() => setPreview(true)}>Preview anyway</button>
-          </div>
+      {allowed.length > 1 && (
+        <div className="modes" role="tablist" aria-label="Practice mode">
+          {allowed.map((m) => (
+            <button key={m.id} role="tab" aria-selected={mode === m.id} className={`chip ${mode === m.id ? 'on' : ''}`} onClick={() => setMode(m.id)}>
+              {m.label}
+            </button>
+          ))}
         </div>
-      ) : mode === 'guided' ? (
-        <Guided courseId={courseId} scene={scene} onDone={() => { progress.completeActivity(courseId, 'apartment:guided'); setMode('explore'); }} />
+      )}
+
+      {mode === 'guided' ? (
+        <Guided courseId={courseId} scene={scene} onDone={() => { progress.completeActivity(courseId, 'apartment:guided'); setMode(allowed.find((m) => m.id !== 'guided')?.id ?? 'explore'); }} />
       ) : (
         <RoomPlay key={`${room.id}-${mode}`} courseId={courseId} scene={scene} room={room} mode={mode} onRoom={setRoomId} showTranslit={s.showTranslit && mode !== 'review'} />
       )}

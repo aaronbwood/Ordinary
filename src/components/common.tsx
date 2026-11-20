@@ -137,7 +137,8 @@ export function SourceLink({ source }: { source?: SourceRef }) {
 }
 
 export function Flags({ flags }: { flags?: Flag[] }) {
-  if (!flags?.length) return null;
+  const s = useSettings();
+  if (!flags?.length || !s.showReviewFlags) return null;
   return (
     <div className="flag" role="note">
       {flags.map((f, i) => (

@@ -40,6 +40,13 @@ export function SettingsView() {
         <div className="small muted">Pronunciation is not scored in this version; answer checking compares the words you said with the approved answer key.</div>
       </div>
       <div className="card stack">
+        <h2>Teacher view</h2>
+        <label className="row">
+          <input type="checkbox" checked={s.showReviewFlags} onChange={(e) => updateSettings({ showReviewFlags: e.target.checked })} />
+          Show review flags (suspected source errors, missing answers, sentences composed for the app)
+        </label>
+      </div>
+      <div className="card stack">
         <h2>Progress</h2>
         {courses.map((c) => (
           <ResetRow key={c.id} id={c.id} title={c.title} />

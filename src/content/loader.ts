@@ -5,7 +5,7 @@ const chapterFiles = import.meta.glob('../../content/courses/*/chapters/*.json',
 const sceneFiles = import.meta.glob('../../content/courses/*/scenes/*.json', { eager: true, import: 'default' });
 const audioFiles = import.meta.glob('../../content/courses/*/audio/manifest.json', { eager: true, import: 'default' });
 
-const BLOCK_TYPES = new Set(['text', 'callout', 'examples', 'vocab', 'table', 'dialogue', 'image', 'exercise']);
+const BLOCK_TYPES = new Set(['text', 'callout', 'examples', 'vocab', 'table', 'dialogue', 'image', 'exercise', 'scene']);
 
 function courseIdOf(path: string) {
   return path.split('/courses/')[1].split('/')[0];

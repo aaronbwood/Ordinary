@@ -78,18 +78,18 @@ Canonical source: Canva `DAHaz00vw2w` “Volume 1 - Meal Ticket”.
 | ambiguous | 341 | ch4 · The Kam Drill · ch4-ex-kam-9 | Page order: items 19–23 are on p. 340 and items 9–18 on p. 341 (answer key on p. 339 sits between items 1–8 and the rest). Items are kept in numeric order here. |
 | ambiguous | 381 | ch5 · Emotional States with Prepositions Drill — Part B: Connect the Ideas · ch5-ex-prep-b-14 | Arabic line has a space after the preposition blank (____ السَّفْرة) although لـ attaches; transliteration has no space. Left as in source. |
 | ambiguous | 404 | ch5 · States and Activities Drill — Part C: Guided Sentence Building · ch5-ex-states-activities-c-21 | Answer key gives قِراية (ʾirāye) without the construct -t; as the first term of an إضافة (قِراية هَداك الكْتاب) one would expect ʾirāyet (cf. p. 399 ʾirāyet il-ktāb). Left as in source. |
-| needs-review |  | scene apartment · the entrance · e-id-bab: هادا الباب. | Composed for the walkthrough |
-| needs-review |  | scene apartment · the entrance · e-id-miraye: هاي المِراية. | Composed for the walkthrough |
-| needs-review |  | scene apartment · the entrance · e-id-lambe: هاي اللَّمْبِة. | Composed for the walkthrough |
+| needs-review |  | scene apartment · the entrance · e-id-bab: باب | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
+| needs-review |  | scene apartment · the entrance · e-id-miraye: مِراية | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
+| needs-review |  | scene apartment · the entrance · e-id-lambe: لَمْبِة | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
 | needs-review |  | scene apartment · the entrance · e-find-khizane: في خِزانة تَحْت المِراية. | Composed for the walkthrough |
 | needs-review |  | scene apartment · the entrance · e-find-sajjade: في سَجّادِة قُدّام الباب. | Composed for the walkthrough |
 | needs-review |  | scene apartment · the entrance · e-desc-miraye: في مِراية فوق الخِزانة. | Composed for the walkthrough |
 | needs-review |  | scene apartment · the entrance · e-desc-sajjade: في سَجّادِة قُدّام الباب. | Composed for the walkthrough |
-| needs-review |  | scene apartment · the living room · s-id-kanabaye: هاي الكَنَبايِة. | Composed for the walkthrough |
-| needs-review |  | scene apartment · the living room · s-id-tilfizyon: هادا التِّلْفِزْيون. | Composed for the walkthrough |
-| needs-review |  | scene apartment · the living room · s-id-shubbak: هادا الشُّبّاك. | Composed for the walkthrough |
-| needs-review |  | scene apartment · the living room · s-id-raff: هادا الرَّفّ. | Composed for the walkthrough |
-| needs-review |  | scene apartment · the living room · s-id-mkhadde: هاي المْخَدِّة. | Composed for the walkthrough |
+| needs-review |  | scene apartment · the living room · s-id-kanabaye: كَنَبايِة | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
+| needs-review |  | scene apartment · the living room · s-id-tilfizyon: تِلْفِزْيون | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
+| needs-review |  | scene apartment · the living room · s-id-shubbak: شُبّاك | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
+| needs-review |  | scene apartment · the living room · s-id-raff: رَفّ | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
+| needs-review |  | scene apartment · the living room · s-id-mkhadde: مْخَدِّة | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
 | needs-review |  | scene apartment · the living room · s-find-sajjade: في سَجّادِة تَحْت الطّاوْلِة. | Composed for the walkthrough |
 | needs-review |  | scene apartment · the living room · s-find-tilfizyon: في تِلْفِزْيون فوق الخِزانة. | Composed for the walkthrough |
 | needs-review |  | scene apartment · the living room · s-find-kursi: في كُرْسي بَيْن الكَنَبايِة والخِزانة. | Composed for the walkthrough |
@@ -99,5 +99,5 @@ Canonical source: Canva `DAHaz00vw2w` “Volume 1 - Meal Ticket”.
 | needs-review |  | scene apartment · the living room · s-desc-mkhadde: في مْخَدِّة عَلى الكَنَبايِة. | Composed for the walkthrough |
 | needs-review |  | scene apartment · the living room · s-place-kursi: الكُرْسي قُدّام التِّلْفِزْيون. | Composed for the walkthrough |
 | needs-review |  | scene apartment · the living room · s-place-mkhadde: المْخَدِّة عَلى الكُرْسي. | Composed for the walkthrough |
-| needs-review |  | scene apartment · the balcony · b-id-kursi: هادا الكُرْسي. | Composed for the walkthrough |
+| needs-review |  | scene apartment · the balcony · b-id-kursi: كُرْسي | Prompt وين …؟ composed for the walkthrough; answer word is from the vocabulary bank |
 | needs-review |  | scene apartment · the balcony · b-find-kursi: في كُرْسي جَنْب الطّاوْلِة. | Composed for the walkthrough |

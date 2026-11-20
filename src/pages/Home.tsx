@@ -53,24 +53,24 @@ export function Home() {
 
       <div className="rooms">
         <a className="room" href={`#/c/${c}`}>
-          <span className="ar">مَكْتَب</span>
-          <strong>The study</strong>
-          <small>Chapters & lessons</small>
+          <span className="ar">المَكْتَب</span>
+          <strong>Lessons</strong>
+          <small>Read, listen and practise chapter by chapter</small>
         </a>
-        <a className="room" href={`#/c/${c}/apartment`}>
-          <span className="ar">المَدْخَل</span>
-          <strong>The apartment</strong>
-          <small>Walk through, name & describe</small>
+        <a className="room" href={`#/c/${c}/drills`}>
+          <span className="ar">الصّالون</span>
+          <strong>Drills</strong>
+          <small>Every fill-in-the-blank and recall drill, in book order</small>
         </a>
         <a className="room" href={`#/c/${c}/rhythm`}>
-          <span className="ar">حوش</span>
-          <strong>The courtyard</strong>
-          <small>Rhythm drills with a metronome</small>
+          <span className="ar">الحوش</span>
+          <strong>Rhythm</strong>
+          <small>Drill aloud to a steady beat</small>
         </a>
         <a className="room" href={`#/c/${c}/review`}>
-          <span className="ar">بَلْكونِة</span>
-          <strong>The balcony{due ? ` · ${due}` : ''}</strong>
-          <small>{due ? `${due} item${due === 1 ? '' : 's'} to review` : 'Review — nothing due'}</small>
+          <span className="ar">البَلْكونِة</span>
+          <strong>Review{due ? ` · ${due}` : ''}</strong>
+          <small>{due ? `${due} item${due === 1 ? '' : 's'} ready to review` : 'Nothing due right now'}</small>
         </a>
       </div>
 

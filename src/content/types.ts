@@ -110,6 +110,15 @@ export type Block =
       src?: string;
       source?: SourceRef;
     }
+  | {
+      type: 'scene';
+      id: string;
+      sceneId: string;
+      title?: string;
+      text?: string;
+      modes?: string[];
+      source?: SourceRef;
+    }
   | Exercise;
 
 export interface Lesson {

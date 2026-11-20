@@ -381,3 +381,11 @@ details > summary { cursor: pointer; }
 .desk-nav { display: none; gap: 4px; }
 .desk-nav a { text-decoration: none; color: var(--ink-2); padding: 6px 10px; border-radius: 999px; font-size: 0.9rem; }
 .desk-nav a.active { background: var(--terracotta-soft); color: var(--terracotta); }
+
+.drill-preview { border-top: 1px dashed var(--line); border-bottom: 1px dashed var(--line); padding: 6px 0; margin-top: 8px; }
+.drill-line { display: flex; gap: 8px; align-items: baseline; padding: 4px 0; }
+.drill-line .ar-lg { font-size: calc(var(--ar-size) * 0.72); }
+.drill-num { min-width: 1.5em; }
+.scene-card { display: flex; flex-direction: column; text-decoration: none; color: var(--ink); border-inline-start: 4px solid var(--olive); }
+.scene-card:hover { background: var(--plaster); }
+.lesson-list .drill-link { padding-inline-start: 52px; font-size: 0.9rem; color: var(--terracotta); border-bottom: 0; padding-block: 4px; }
