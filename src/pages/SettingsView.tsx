@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { courses } from '../content/loader';
 import { progress, updateSettings, useSettings } from '../state/progress';
 import { arabicVoice } from '../audio/audio';
@@ -41,12 +42,27 @@ export function SettingsView() {
       <div className="card stack">
         <h2>Progress</h2>
         {courses.map((c) => (
-          <div className="row" key={c.id} style={{ justifyContent: 'space-between' }}>
-            <span>{c.title}</span>
-            <button className="btn small" onClick={() => confirm(`Reset all progress for ${c.title}?`) && progress.reset(c.id)}>Reset</button>
-          </div>
+          <ResetRow key={c.id} id={c.id} title={c.title} />
         ))}
       </div>
+    </div>
+  );
+}
+
+function ResetRow({ id, title }: { id: string; title: string }) {
+  const [asking, setAsking] = useState(false);
+  return (
+    <div className="row" style={{ justifyContent: 'space-between' }}>
+      <span>{title}</span>
+      {asking ? (
+        <span className="row">
+          <span className="small">Erase all progress?</span>
+          <button className="btn small" onClick={() => { progress.reset(id); setAsking(false); }}>Erase</button>
+          <button className="btn small ghost" onClick={() => setAsking(false)}>Keep</button>
+        </span>
+      ) : (
+        <button className="btn small" onClick={() => setAsking(true)}>Reset</button>
+      )}
     </div>
   );
 }
