@@ -33,7 +33,7 @@ export function App() {
   else if ((m = match('/c/:course/l/:lesson/x/:ex', path))) page = <PracticeView courseId={m.course} lessonId={m.lesson} exerciseId={m.ex} />;
   else if ((m = match('/c/:course/l/:lesson', path))) page = <LessonView courseId={m.course} lessonId={m.lesson} />;
   else if ((m = match('/c/:course/review', path))) page = <ReviewView courseId={m.course} />;
-  else if ((m = match('/c/:course/rhythm', path))) page = <RhythmView courseId={m.course} />;
+  else if ((m = match('/c/:course/rhythm', path))) page = <RhythmView key={window.location.hash} courseId={m.course} />;
   else if ((m = match('/c/:course/drills', path))) page = <DrillsView courseId={m.course} />;
   else if ((m = match('/c/:course', path))) page = <CourseMap courseId={m.course} />;
   else if (path === '/settings') page = <SettingsView />;

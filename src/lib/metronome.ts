@@ -2,13 +2,17 @@
 // scheduler. The timeline (count-in, prepare, respond, reveal beats) is
 // precomputed so prompts advance automatically without key presses.
 
-export type Phase = 'count' | 'prep' | 'respond' | 'reveal' | 'end';
+export type Phase = 'count' | 'prep' | 'respond' | 'reveal' | 'end' | 'line' | 'syllable' | 'whole' | 'rest';
 
 export interface Beat {
   phase: Phase;
   item: number; // -1 for count-in
   beatInPhase: number;
   phaseLength: number;
+  /** index into the caller's segment list (what to display on this beat) */
+  seg?: number;
+  /** quieter click, e.g. under a SOFT line */
+  soft?: boolean;
 }
 
 export interface TimelineOptions {
@@ -77,9 +81,17 @@ export class Metronome {
     const osc = ctx.createOscillator();
     const gain = ctx.createGain();
     const accent = b.beatInPhase === 0;
-    osc.frequency.value = b.phase === 'count' ? (accent ? 1320 : 990) : b.phase === 'respond' ? (accent ? 880 : 660) : accent ? 1100 : 820;
+    osc.frequency.value =
+      b.phase === 'count' ? (accent ? 1320 : 990)
+      : b.phase === 'respond' ? (accent ? 880 : 660)
+      : b.phase === 'syllable' || b.phase === 'whole' ? 1000
+      : accent ? 1100 : 820;
     osc.type = b.phase === 'respond' ? 'triangle' : 'sine';
-    const v = this.volume * (accent ? 1 : 0.55) * (b.phase === 'reveal' ? 0.6 : 1);
+    const v =
+      this.volume *
+      (b.phase === 'syllable' || b.phase === 'whole' ? 0.85 : accent ? 1 : 0.55) *
+      (b.phase === 'reveal' || b.phase === 'rest' ? 0.5 : 1) *
+      (b.soft ? 0.6 : 1);
     gain.gain.setValueAtTime(0.0001, when);
     gain.gain.exponentialRampToValueAtTime(Math.max(v, 0.0002), when + 0.004);
     gain.gain.exponentialRampToValueAtTime(0.0001, when + 0.07);

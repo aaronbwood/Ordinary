@@ -112,6 +112,9 @@ function BlockView({ block: b, courseId, lessonId }: { block: Block; courseId: s
             <h3 style={{ margin: 0 }}>{b.heading ?? 'Vocabulary'}</h3>
             <SourceLink source={b.source} />
           </div>
+          <a className="btn small olive" style={{ marginTop: 8 }} href={`#/c/${courseId}/rhythm?mode=vocab&bank=${encodeURIComponent(b.id ?? '')}`}>
+            <Icon name="metronome" size={16} /> Learn these words with the metronome
+          </a>
           <div className="vocab-grid" style={{ marginTop: 10 }}>
             {b.items.map((v) => (
               <div className="vocab-card" key={v.id}>
@@ -199,6 +202,11 @@ function ExerciseCard({ ex, courseId, lessonId }: { ex: Exercise; courseId: stri
         <a className="btn primary" href={`#/c/${courseId}/l/${lessonId}/x/${ex.id}`}>
           <Icon name="mic" size={16} /> {done ? 'Practise again' : 'Practise aloud'} · {ex.items.length}
         </a>
+        {ex.exerciseType === 'speaker-responder' && (
+          <a className="btn olive" href={`#/c/${courseId}/rhythm?mode=sr`}>
+            <Icon name="metronome" size={16} /> With the metronome
+          </a>
+        )}
         {done && <span className="badge ok">Done</span>}
         {flagged > 0 && settings.showReviewFlags && <span className="badge warn">{flagged} flagged for review</span>}
       </div>

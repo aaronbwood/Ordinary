@@ -389,3 +389,20 @@ details > summary { cursor: pointer; }
 .scene-card { display: flex; flex-direction: column; text-decoration: none; color: var(--ink); border-inline-start: 4px solid var(--olive); }
 .scene-card:hover { background: var(--plaster); }
 .lesson-list .drill-link { padding-inline-start: 52px; font-size: 0.9rem; color: var(--terracotta); border-bottom: 0; padding-block: 4px; }
+
+.select { min-height: 44px; border-radius: 10px; padding: 0 8px; background: var(--plaster); border: 1px solid var(--line); width: 100%; }
+.beat.soft.on { background: var(--blue); }
+.syl-line { display: flex; gap: 6px; justify-content: center; flex-wrap: wrap; font-size: 1.15rem; }
+.syl { padding: 2px 8px; border-radius: 8px; transition: background 0.06s; }
+.syl.on { background: var(--terracotta); color: #fff; font-style: normal; }
+.sr-line { border-radius: 14px; padding: 8px 12px; border: 1px solid var(--line); background: var(--plaster-2); opacity: 0.55; transition: opacity 0.1s; }
+.sr-line.active { opacity: 1; }
+.sr-line.speaker { border-inline-start: 6px solid var(--blue); }
+.sr-line.responder { border-inline-start: 6px solid var(--terracotta); }
+.sr-line.soft .ar { font-weight: 400; color: var(--ink-2); }
+.sr-line.loud .ar { font-weight: 700; }
+.sr-tag { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-3); }
+.sr-line.speaker .sr-tag, .sr-row.speaker .sr-tag { color: var(--blue); }
+.sr-line.responder .sr-tag, .sr-row.responder .sr-tag { color: var(--terracotta); }
+.sr-preview { padding: 6px 0; border-bottom: 1px dashed var(--line); }
+.sr-row { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }

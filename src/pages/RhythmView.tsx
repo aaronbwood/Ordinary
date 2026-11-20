@@ -1,108 +1,101 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import type { Exercise, ExerciseItem, Phrase } from '../content/types';
-import { exercisesOf, flatLessons, getCourse, type LessonRef } from '../content/loader';
-import { buildTimeline, Metronome, type Beat } from '../lib/metronome';
-import { completeModel } from '../lib/check';
+import type { Phrase, VocabItem } from '../content/types';
+import { exercisesOf, flatLessons, getCourse } from '../content/loader';
+import { Metronome, type Beat } from '../lib/metronome';
+import { expandOptions, speakerResponderPlan, vocabPlan, type Seg, type SRPair, type VocabWord } from '../lib/rhythmPlans';
 import { progress, useProgress, useSettings } from '../state/progress';
 import { stopAudio } from '../audio/audio';
-import { Ar, AudioButton, SegmentsAr, SegmentsTranslit, SourceLink } from '../components/common';
+import { Ar, AudioButton, SourceLink } from '../components/common';
 import { Icon } from '../components/icons';
+import { syllabify } from '../lib/syllables';
 
-const PRODUCTION = ['rhythm', 'speaker-responder', 'vocab-recall', 'translate-to-arabic', 'fill-blank', 'transform'];
+type Mode = 'sr' | 'vocab';
 
-interface RItem {
-  id: string;
-  cue: Phrase;
-  segments?: ExerciseItem['segments'];
-  translitSegments?: ExerciseItem['translitSegments'];
-  model: Phrase;
-  words: number;
+function hashQuery(): URLSearchParams {
+  const q = window.location.hash.split('?')[1] ?? '';
+  return new URLSearchParams(q);
 }
 
-interface DrillSource {
-  id: string;
+interface Bank {
+  key: string;
   label: string;
-  lesson: LessonRef;
-  items: RItem[];
-  source?: Exercise['source'];
-  rhythmNative: boolean;
-}
-
-function toRItem(item: ExerciseItem): RItem | null {
-  const model = completeModel(item);
-  if (!model?.ar) return null;
-  return {
-    id: item.id,
-    cue: item.prompt ?? {},
-    segments: item.segments,
-    translitSegments: item.translitSegments,
-    model,
-    words: model.ar.split(/\s+/).length,
-  };
+  chapter: number;
+  lessonIndex: number;
+  words: VocabWord[];
+  source?: { designId: string; pages?: number[] };
 }
 
 export function RhythmView({ courseId }: { courseId: string }) {
   const course = getCourse(courseId);
   const p = useProgress(courseId);
   const s = useSettings();
+  const q = hashQuery();
+  const [mode, setMode] = useState<Mode>(q.get('mode') === 'sr' ? 'sr' : 'vocab');
 
-  // Only material the student has reached in the book.
   const lessons = useMemo(() => (course ? flatLessons(course) : []), [course]);
   const reached = useMemo(() => {
     const idx = lessons.filter((r) => p.completedLessons[r.lesson.id] || r.lesson.id === p.lastLessonId).map((r) => r.index);
     return idx.length ? Math.max(...idx) : -1;
   }, [lessons, p]);
 
-  const drills: DrillSource[] = useMemo(() => {
-    const out: DrillSource[] = [];
-    for (const r of lessons) {
-      if (r.index > reached) break;
+  // Speaker–Responder exchanges (Solo Practice, p.40), every slash option practised
+  const srSets = useMemo(() => {
+    const out: { id: string; title: string; lessonId: string; pairs: SRPair[]; source?: any }[] = [];
+    for (const r of lessons)
       for (const ex of exercisesOf(r.lesson)) {
-        if (!PRODUCTION.includes(ex.exerciseType ?? '')) continue;
-        const items = ex.items.map(toRItem).filter(Boolean) as RItem[];
-        if (items.length)
-          out.push({
-            id: ex.id,
-            label: `${r.chapter.number ? `Ch ${r.chapter.number} · ` : ''}${r.lesson.code ? r.lesson.code + ' ' : ''}${ex.title ?? r.lesson.title}`,
-            lesson: r,
-            items,
-            source: ex.source,
-            rhythmNative: ex.exerciseType === 'rhythm',
-          });
+        if (ex.exerciseType !== 'speaker-responder') continue;
+        const pairs: SRPair[] = [];
+        for (const it of ex.items) {
+          if (!it.prompt?.ar) continue;
+          const responses = (it.answers?.length ? it.answers : it.model ? [it.model] : []).flatMap((a) => expandOptions(a as Phrase));
+          for (const sp of expandOptions(it.prompt))
+            for (const rs of responses) pairs.push({ id: `${it.id}:${pairs.length}`, title: (it as any).title, speaker: sp, responder: { ...rs, en: it.model?.en } });
+        }
+        out.push({ id: ex.id, title: ex.title ?? 'Speaker–Responder', lessonId: r.lesson.id, pairs, source: ex.source });
       }
-      for (const b of r.lesson.blocks) {
-        if (b.type !== 'vocab') continue;
-        const items = b.items
-          .filter((v) => v.ar && v.en)
-          .map((v) => ({ id: v.id, cue: { en: v.en }, model: { ar: v.ar, translit: v.translit, en: v.en }, words: v.ar!.split(/\s+/).length }));
-        if (items.length)
-          out.push({ id: `vocab:${r.lesson.id}:${b.heading}`, label: `${r.chapter.number ? `Ch ${r.chapter.number} · ` : ''}${b.heading ?? 'Vocabulary'}`, lesson: r, items, source: b.source, rhythmNative: false });
-      }
-    }
-    return out.sort((a, b) => Number(b.rhythmNative) - Number(a.rhythmNative));
-  }, [lessons, reached]);
+    return out;
+  }, [lessons]);
 
-  const [drillId, setDrillId] = useState<string>('');
-  const drill = drills.find((d) => d.id === drillId) ?? drills[0];
-  const [level, setLevel] = useState<'easier' | 'harder'>('easier');
-  const [bpm, setBpm] = useState(72);
-  const [countIn, setCountIn] = useState(4);
-  const [prep, setPrep] = useState(4);
-  const [respond, setRespond] = useState(4);
-  const [reveal, setReveal] = useState(2);
-  const [autoFit, setAutoFit] = useState(true);
-  const [count, setCount] = useState(8);
-  const [roundItems, setRoundItems] = useState<RItem[]>([]);
+  // Vocabulary banks, in book order
+  const banks: Bank[] = useMemo(() => {
+    const out: Bank[] = [];
+    for (const r of lessons)
+      r.lesson.blocks.forEach((b, i) => {
+        if (b.type !== 'vocab') return;
+        const words = (b.items as VocabItem[])
+          .filter((v) => v.ar && v.translit)
+          .map((v) => ({ id: v.id, ar: v.ar!, translit: v.translit!, en: v.en, syllables: (v as any).syllables }));
+        if (words.length)
+          out.push({ key: b.id ?? `${r.lesson.id}:${i}`, label: `Ch ${r.chapter.number} · ${b.heading ?? r.lesson.title}`, chapter: r.chapter.number, lessonIndex: r.index, words, source: b.source });
+      });
+    return out;
+  }, [lessons]);
+
+  const defaultBank = q.get('bank') ?? [...banks].reverse().find((b) => b.lessonIndex <= reached)?.key ?? banks[0]?.key;
+  const [bankKey, setBankKey] = useState(defaultBank ?? '');
+  const bank = banks.find((b) => b.key === bankKey) ?? banks[0];
+  const [chunk, setChunk] = useState(0);
+  const CHUNK = 8;
+  useEffect(() => setChunk(0), [bankKey]);
+
+  const [srId, setSrId] = useState(srSets[0]?.id ?? '');
+  const srSet = srSets.find((x) => x.id === srId) ?? srSets[0];
+  const [srChunk, setSrChunk] = useState(0);
+  const SR_CHUNK = 5;
+
+  // Book tempos: Speaker–Responder 70–90 BPM; vocabulary 60–80 BPM.
+  const [bpmSR, setBpmSR] = useState(80);
+  const [bpmV, setBpmV] = useState(66);
+  const [repeats, setRepeats] = useState(2);
+  const [reverse, setReverse] = useState(true);
+  const [passes, setPasses] = useState(2);
+
   const [status, setStatus] = useState<'setup' | 'running' | 'paused' | 'finished'>('setup');
   const [beatIdx, setBeatIdx] = useState(-1);
   const metro = useRef<Metronome | null>(null);
-  const timeline = useRef<Beat[]>([]);
+  const plan = useRef<{ segs: Seg[]; beats: Beat[] }>({ segs: [], beats: [] });
   const raf = useRef<number | null>(null);
-
-  useEffect(() => {
-    if (level === 'easier') { setBpm(66); setPrep(4); setRespond(4); }
-    else { setBpm(84); setPrep(2); setRespond(4); }
-  }, [level]);
+  const roundItems = useRef<{ mode: Mode; pairs?: SRPair[]; words?: VocabWord[] }>({ mode: 'vocab' });
 
   useEffect(() => () => {
     if (raf.current) cancelAnimationFrame(raf.current);
@@ -111,32 +104,28 @@ export function RhythmView({ courseId }: { courseId: string }) {
 
   if (!course) return <div className="notice">Course not found.</div>;
 
-  const pickItems = () => {
-    if (!drill) return [];
-    let pool = drill.items;
-    if (level === 'easier') {
-      const short = pool.filter((i) => i.words <= 4);
-      if (short.length >= 3) pool = short;
-    }
-    return pool.slice(0, count === 0 ? pool.length : count);
-  };
+  const words = bank ? bank.words.slice(chunk * CHUNK, chunk * CHUNK + CHUNK) : [];
+  const pairs = srSet ? srSet.pairs.slice(srChunk * SR_CHUNK, srChunk * SR_CHUNK + SR_CHUNK) : [];
 
-  const run = async (items: RItem[]) => {
+  const run = async (m: Mode) => {
     stopAudio();
-    setRoundItems(items);
-    timeline.current = buildTimeline(items.map((i) => i.words), {
-      countIn, prepBeats: prep, respondBeats: respond, revealBeats: reveal, wordsPerExtraBeat: autoFit ? 3 : 0,
-    });
+    if (m === 'sr') {
+      roundItems.current = { mode: 'sr', pairs };
+      plan.current = speakerResponderPlan(pairs, { countIn: 4, repeats, reverse, restBeats: 2 });
+    } else {
+      roundItems.current = { mode: 'vocab', words };
+      plan.current = vocabPlan(words, { countIn: 4, showBeats: 2, syllablePasses: passes });
+    }
+    window.scrollTo(0, 0);
     metro.current = metro.current ?? new Metronome();
-    await metro.current.start(timeline.current, bpm);
+    await metro.current.start(plan.current.beats, m === 'sr' ? bpmSR : bpmV);
     setStatus('running');
     const tick = () => {
-      const pos = metro.current!.position();
-      const i = Math.floor(pos);
-      if (i >= timeline.current.length) {
+      const i = Math.floor(metro.current!.position());
+      if (i >= plan.current.beats.length) {
         setStatus('finished');
         setBeatIdx(-1);
-        progress.completeActivity(courseId, `rhythm:${drill?.id}`);
+        progress.completeActivity(courseId, m === 'sr' ? `rhythm:sr:${srSet?.id}:${srChunk}` : `rhythm:vocab:${bank?.key}:${chunk}`);
         return;
       }
       setBeatIdx(i);
@@ -145,7 +134,6 @@ export function RhythmView({ courseId }: { courseId: string }) {
     if (raf.current) cancelAnimationFrame(raf.current);
     raf.current = requestAnimationFrame(tick);
   };
-
   const pause = async () => { await metro.current?.pause(); setStatus('paused'); };
   const resume = async () => { await metro.current?.resume(); setStatus('running'); };
   const stop = () => {
@@ -155,61 +143,25 @@ export function RhythmView({ courseId }: { courseId: string }) {
     setBeatIdx(-1);
   };
 
-  if (!drills.length) {
-    return (
-      <div className="card arch-card" style={{ textAlign: 'center' }}>
-        <div className="eyebrow">The courtyard · Rhythm</div>
-        <h1>Rhythm practice opens as you study</h1>
-        <p className="muted">Rhythm rounds only use material you've already reached in the book. Open a lesson with a drill first.</p>
-        <a className="btn primary" href={`#/c/${courseId}`}>Go to lessons</a>
-      </div>
-    );
-  }
-
-  const beat = beatIdx >= 0 ? timeline.current[beatIdx] : null;
-  const cur = beat && beat.item >= 0 ? roundItems[beat.item] : null;
-  // visible pulse for the current phase
-  const phaseBeats = beat ? Array.from({ length: beat.phaseLength }, (_, k) => k) : [];
-
-  if (status !== 'setup' && status !== 'finished') {
+  // ---------------- running ----------------
+  if (status === 'running' || status === 'paused') {
+    const beat = beatIdx >= 0 ? plan.current.beats[beatIdx] : null;
+    const seg = beat?.seg != null ? plan.current.segs[beat.seg] : null;
     return (
       <div className="stack">
-        <div className="card metro-stage tiles" style={{ minHeight: 340 }}>
+        <div className="card metro-stage tiles" style={{ minHeight: 360 }}>
           <div className="row" style={{ justifyContent: 'space-between' }}>
-            <span className="small muted">{bpm} BPM</span>
-            <span className="small muted">{cur ? `${beat!.item + 1} / ${roundItems.length}` : ''}</span>
+            <span className="small muted">{roundItems.current.mode === 'sr' ? bpmSR : bpmV} BPM</span>
+            <span className="small muted">{seg && seg.item >= 0 ? `${seg.item + 1} / ${(roundItems.current.pairs ?? roundItems.current.words ?? []).length}` : ''}</span>
           </div>
-          <div className={`phase ${beat?.phase ?? ''}`}>
-            {beat?.phase === 'count' ? 'Get ready' : beat?.phase === 'prep' ? 'Read the cue' : beat?.phase === 'respond' ? 'Say it now' : beat?.phase === 'reveal' ? 'Check' : ''}
-          </div>
-          <div className="beats" aria-hidden="true">
-            {phaseBeats.map((k) => (
-              <span key={k} className={`beat ${beat?.phase === 'respond' ? 'respond' : ''} ${k === beat?.beatInPhase ? 'on' : ''}`} />
-            ))}
-          </div>
-          <div style={{ minHeight: 150, display: 'flex', flexDirection: 'column', justifyContent: 'center', gap: 6 }}>
-            {beat?.phase === 'count' && <div style={{ fontSize: '3rem', fontWeight: 600 }}>{beat.phaseLength - beat.beatInPhase}</div>}
-            {cur && (
-              <>
-                {cur.segments?.some((x) => x.blank) ? (
-                  <>
-                    <SegmentsAr segments={cur.segments} />
-                    {cur.translitSegments && s.showTranslit && <SegmentsTranslit segments={cur.translitSegments} />}
-                  </>
-                ) : cur.cue.en && !cur.cue.ar ? (
-                  <div style={{ fontSize: '1.4rem', fontWeight: 500 }}>{cur.cue.en}</div>
-                ) : (
-                  cur.cue.ar && <Ar size="xl">{cur.cue.ar}</Ar>
-                )}
-                {beat!.phase === 'reveal' && (
-                  <div className="model-line" style={{ marginTop: 6 }}>
-                    <Ar size="lg">{cur.model.ar}</Ar>
-                    {cur.model.translit && s.showTranslit && <div className="translit">{cur.model.translit}</div>}
-                  </div>
-                )}
-              </>
-            )}
-          </div>
+          <Pulse beat={beat} />
+          {seg?.kind === 'count' && <div style={{ fontSize: '3rem', fontWeight: 600 }}>{beat!.phaseLength - beat!.beatInPhase}</div>}
+          {seg && seg.kind !== 'count' && roundItems.current.mode === 'sr' && (
+            <SRStage pair={roundItems.current.pairs![seg.item]} seg={seg} beat={beat!} showTranslit={s.showTranslit} />
+          )}
+          {seg && seg.kind !== 'count' && roundItems.current.mode === 'vocab' && (
+            <VocabStage word={roundItems.current.words![seg.item]} seg={seg} />
+          )}
         </div>
         <div className="sticky-actions">
           {status === 'running' ? (
@@ -217,75 +169,206 @@ export function RhythmView({ courseId }: { courseId: string }) {
           ) : (
             <button className="btn primary" onClick={resume}><Icon name="play" /> Resume</button>
           )}
-          <button className="btn" onClick={() => run(roundItems)}><Icon name="replay" /> Restart</button>
+          <button className="btn" onClick={() => run(roundItems.current.mode)}><Icon name="replay" /> Restart</button>
           <button className="btn ghost" onClick={stop}>Stop</button>
         </div>
         <p className="small muted" style={{ textAlign: 'center' }}>
-          Answer aloud during the green beats. Prompts move on their own — no need to press anything. Model audio is saved for the end of the round so it never breaks the beat.
+          {roundItems.current.mode === 'sr'
+            ? 'Say both parts yourself. LOUD lines in a clear, confident voice; SOFT lines more quietly — soft does not mean silently. Let the beat land on the consonants.'
+            : 'One syllable on each click, then the whole word in one smooth flow. Picture it, hear it, feel it.'}
         </p>
       </div>
     );
   }
 
+  // ---------------- setup / finished ----------------
   return (
     <div className="stack">
       <div className="card arch-card" style={{ textAlign: 'center' }}>
-        <div className="eyebrow">The courtyard · Rhythm</div>
-        <h1>Practise in rhythm</h1>
-        <p className="muted" style={{ margin: 0 }}>A steady beat, a short count-in, then cue → answer aloud → check, again and again.</p>
+        <div className="eyebrow">الحوش · Metronome practice</div>
+        <h1>Practise to the beat</h1>
+        <p className="muted" style={{ margin: 0 }}>The two metronome methods from the book: encoding new vocabulary, and the Speaker–Responder solo practice.</p>
       </div>
 
-      {status === 'finished' && (
-        <div className="card">
-          <h2>Round complete</h2>
-          <p className="small muted">Listen to the full sentences, say each once more, then go again.</p>
-          {roundItems.map((it) => (
-            <div key={it.id} className="phrase">
-              <div className="row" style={{ justifyContent: 'space-between', flexWrap: 'nowrap' }}>
-                <AudioButton courseId={courseId} phrase={it.model} keys={[it.id]} compact />
-                <Ar size="md">{it.model.ar}</Ar>
-              </div>
-              {it.model.translit && <div className="translit small">{it.model.translit}</div>}
-            </div>
-          ))}
-          <div className="row" style={{ marginTop: 10 }}>
-            <button className="btn primary" onClick={() => run(roundItems)}><Icon name="replay" /> Replay round</button>
-            <button className="btn" onClick={() => run(pickItems())}>New round</button>
+      <div className="row" role="tablist" aria-label="Method">
+        <button role="tab" aria-selected={mode === 'vocab'} className={`chip ${mode === 'vocab' ? 'on' : ''}`} onClick={() => { setMode('vocab'); setStatus('setup'); }}>
+          Vocabulary · Sound–Image–Feeling
+        </button>
+        <button role="tab" aria-selected={mode === 'sr'} className={`chip ${mode === 'sr' ? 'on' : ''}`} onClick={() => { setMode('sr'); setStatus('setup'); }}>
+          Speaker–Responder · solo practice
+        </button>
+      </div>
+
+      {status === 'finished' && <RoundSummary courseId={courseId} items={roundItems.current} onReplay={() => run(roundItems.current.mode)} />}
+
+      {mode === 'vocab' && bank && (
+        <div className="card stack">
+          <div className="row" style={{ justifyContent: 'space-between' }}>
+            <h2 style={{ margin: 0 }}>Vocabulary bank</h2>
+            <SourceLink source={{ designId: 'DAHaz00vw2w', pages: [82] }} />
           </div>
+          <p className="small muted" style={{ margin: 0 }}>
+            Metronome Practice (p.82): set a slow, comfortable tempo (about 60–80 beats per minute), say one syllable on each click, repeat slowly until it feels natural, then say the whole word in one smooth flow.
+          </p>
+          <select className="select" value={bank.key} onChange={(e) => setBankKey(e.target.value)} aria-label="Vocabulary bank">
+            {banks.map((b) => (
+              <option key={b.key} value={b.key}>
+                {b.label} ({b.words.length}){b.lessonIndex > reached ? ' · later in the book' : ''}
+              </option>
+            ))}
+          </select>
+          <div className="row" aria-label="Words">
+            {Array.from({ length: Math.ceil(bank.words.length / CHUNK) }).map((_, i) => (
+              <button key={i} className={`chip ${chunk === i ? 'on' : ''}`} onClick={() => setChunk(i)}>
+                {i * CHUNK + 1}–{Math.min(bank.words.length, (i + 1) * CHUNK)}
+                {p.completedActivities[`rhythm:vocab:${bank.key}:${i}`] ? ' ✓' : ''}
+              </button>
+            ))}
+          </div>
+          <div className="vocab-grid">
+            {words.map((w) => (
+              <div key={w.id} className="vocab-card">
+                <Ar size="md">{w.ar}</Ar>
+                <span className="translit">{(w.syllables?.length ? w.syllables : syllabify(w.translit)).join(' · ')}</span>
+                {w.en && <span className="en">{w.en}</span>}
+              </div>
+            ))}
+          </div>
+          <Slider label={`Tempo: ${bpmV} BPM (book: 60–80)`} min={40} max={120} value={bpmV} onChange={setBpmV} />
+          <Slider label={`Syllable passes per word: ${passes}`} min={1} max={4} value={passes} onChange={setPasses} />
+          <p className="small muted" style={{ margin: 0 }}>The syllable beats are worked out from the book's transliteration.</p>
+          <button className="btn primary" onClick={() => run('vocab')}><Icon name="play" /> Start</button>
         </div>
       )}
 
-      <div className="card stack">
-        <label className="range">
-          <span className="small">Drill (from lessons you've reached)</span>
-          <select value={drill?.id} onChange={(e) => setDrillId(e.target.value)} style={{ minHeight: 44, borderRadius: 10, padding: '0 8px', background: 'var(--plaster)', border: '1px solid var(--line)' }}>
-            {drills.map((d) => (
-              <option key={d.id} value={d.id}>{d.rhythmNative ? '♩ ' : ''}{d.label} ({d.items.length})</option>
+      {mode === 'sr' && srSet && (
+        <div className="card stack">
+          <div className="row" style={{ justifyContent: 'space-between' }}>
+            <h2 style={{ margin: 0 }}>{srSet.title}</h2>
+            <SourceLink source={{ designId: 'DAHaz00vw2w', pages: [40] }} />
+          </div>
+          <p className="small muted" style={{ margin: 0 }}>
+            The Speaker–Responder Method (p.40): Speaker loud, Responder soft, then reverse the roles. Start around 70–90 BPM. If you are alone, say both parts yourself. Every option after a slash is practised.
+          </p>
+          <div className="row">
+            {Array.from({ length: Math.ceil(srSet.pairs.length / SR_CHUNK) }).map((_, i) => (
+              <button key={i} className={`chip ${srChunk === i ? 'on' : ''}`} onClick={() => setSrChunk(i)}>
+                {i * SR_CHUNK + 1}–{Math.min(srSet.pairs.length, (i + 1) * SR_CHUNK)}
+                {p.completedActivities[`rhythm:sr:${srSet.id}:${i}`] ? ' ✓' : ''}
+              </button>
             ))}
-          </select>
-        </label>
-        {drill && <SourceLink source={drill.source} />}
-        <div className="row">
-          <button className={`chip ${level === 'easier' ? 'on' : ''}`} onClick={() => setLevel('easier')}>Easier</button>
-          <button className={`chip ${level === 'harder' ? 'on' : ''}`} onClick={() => setLevel('harder')}>Harder</button>
-          <span className="small muted">Easier favours short items with more time; harder is faster with less preparation.</span>
+          </div>
+          <div>
+            {pairs.map((pr) => (
+              <div key={pr.id} className="sr-preview">
+                <div className="sr-row speaker"><span className="sr-tag">Speaker</span><Ar size="md">{pr.speaker.ar}</Ar></div>
+                <div className="sr-row responder"><span className="sr-tag">Responder</span><Ar size="md">{pr.responder.ar}</Ar></div>
+              </div>
+            ))}
+          </div>
+          <Slider label={`Tempo: ${bpmSR} BPM (book: 70–90)`} min={40} max={140} value={bpmSR} onChange={setBpmSR} />
+          <Slider label={`Repeat each pair: ${repeats}×`} min={1} max={4} value={repeats} onChange={setRepeats} />
+          <label className="row small">
+            <input type="checkbox" checked={reverse} onChange={(e) => setReverse(e.target.checked)} /> Round 2 — reverse practice (speaker soft, responder loud)
+          </label>
+          <button className="btn primary" onClick={() => run('sr')}><Icon name="play" /> Start</button>
         </div>
-        <Slider label={`Tempo: ${bpm} BPM`} min={40} max={140} value={bpm} onChange={setBpm} />
-        <Slider label={`Count-in: ${countIn} beats`} min={2} max={8} value={countIn} onChange={setCountIn} />
-        <Slider label={`Preparation: ${prep} beats`} min={1} max={8} value={prep} onChange={setPrep} />
-        <Slider label={`Response window: ${respond} beats${autoFit ? ' + more for longer sentences' : ''}`} min={2} max={12} value={respond} onChange={setRespond} />
-        <Slider label={`Show answer: ${reveal} beats`} min={0} max={4} value={reveal} onChange={setReveal} />
-        <label className="row small"><input type="checkbox" checked={autoFit} onChange={(e) => setAutoFit(e.target.checked)} /> Add a beat for every 3 extra words</label>
-        <label className="row small">
-          Items per round
-          <select value={count} onChange={(e) => setCount(+e.target.value)}>
-            <option value={5}>5</option>
-            <option value={8}>8</option>
-            <option value={12}>12</option>
-            <option value={0}>All</option>
-          </select>
-        </label>
-        <button className="btn primary" onClick={() => run(pickItems())}><Icon name="play" /> Start round</button>
+      )}
+      {mode === 'sr' && !srSet && <div className="notice">No Speaker–Responder drill in this course.</div>}
+    </div>
+  );
+}
+
+
+function Pulse({ beat }: { beat: Beat | null }) {
+  if (!beat) return <div className="beats" />;
+  return (
+    <div className="beats" aria-hidden="true">
+      {Array.from({ length: Math.min(beat.phaseLength, 12) }).map((_, k) => (
+        <span key={k} className={`beat ${k === beat.beatInPhase ? 'on' : ''} ${beat.soft ? 'soft' : ''}`} />
+      ))}
+    </div>
+  );
+}
+
+function SyllableLine({ syl, active }: { syl: string[]; active: number }) {
+  return (
+    <div className="syl-line translit">
+      {syl.map((x, i) => (
+        <span key={i} className={i === active ? 'syl on' : 'syl'}>{x}</span>
+      ))}
+    </div>
+  );
+}
+
+function SRStage({ pair, seg, beat, showTranslit }: { pair: SRPair; seg: Seg; beat: Beat; showTranslit: boolean }) {
+  const speakerActive = seg.role === 'speaker';
+  const responderActive = seg.role === 'responder';
+  const round = seg.round ?? 1;
+  const vol = (role: 'speaker' | 'responder') => (round === 1 ? (role === 'speaker' ? 'Loud' : 'Soft') : role === 'speaker' ? 'Soft' : 'Loud');
+  return (
+    <div className="stack" style={{ gap: 8 }}>
+      <div className={`phase ${round === 1 ? 'prep' : 'respond'}`}>Round {round} · {round === 1 ? 'Normal' : 'Reverse practice'}</div>
+      {pair.title && <div className="small muted">{pair.title}</div>}
+      {(['speaker', 'responder'] as const).map((role) => {
+        const ph = role === 'speaker' ? pair.speaker : pair.responder;
+        const active = role === 'speaker' ? speakerActive : responderActive;
+        const loud = vol(role) === 'Loud';
+        return (
+          <div key={role} className={`sr-line ${role} ${active ? 'active' : ''} ${loud ? 'loud' : 'soft'}`}>
+            <div className="sr-tag">{role === 'speaker' ? 'Speaker' : 'Responder'} ({vol(role)})</div>
+            <Ar size={loud ? 'xl' : 'lg'}>{ph.ar}</Ar>
+            {showTranslit && ph.translit && (active ? <SyllableLine syl={seg.syllables ?? []} active={beat.beatInPhase} /> : <div className="translit small">{ph.translit}</div>)}
+          </div>
+        );
+      })}
+      {seg.kind === 'rest' && <div className="small muted">…and again</div>}
+    </div>
+  );
+}
+
+function VocabStage({ word, seg }: { word: VocabWord; seg: Seg }) {
+  const syl = seg.syllables ?? [];
+  return (
+    <div className="stack" style={{ gap: 6, alignItems: 'center' }}>
+      <div className={`phase ${seg.kind === 'whole' ? 'reveal' : 'prep'}`}>
+        {seg.kind === 'show' ? 'See it · picture it' : seg.kind === 'syllable' ? 'One syllable per click' : seg.kind === 'whole' ? 'The whole word, one smooth flow' : '…'}
+      </div>
+      <Ar size="xl">{word.ar}</Ar>
+      <SyllableLine syl={syl} active={seg.kind === 'syllable' ? seg.syllableIndex ?? -1 : seg.kind === 'whole' ? -2 : -1} />
+      {seg.kind === 'whole' && <div className="translit" style={{ fontWeight: 600 }}>{word.translit}</div>}
+      {word.en && <div className="en">{word.en}</div>}
+    </div>
+  );
+}
+
+function RoundSummary({ courseId, items, onReplay }: { courseId: string; items: { mode: Mode; pairs?: SRPair[]; words?: VocabWord[] }; onReplay: () => void }) {
+  return (
+    <div className="card">
+      <h2>Round complete</h2>
+      <p className="small muted">Listen to the full models, say each once more out loud, then go again.</p>
+      {items.mode === 'sr'
+        ? items.pairs?.map((pr) => (
+            <div key={pr.id} className="phrase">
+              {[pr.speaker, pr.responder].map((ph, i) => (
+                <div key={i} className="row" style={{ justifyContent: 'space-between', flexWrap: 'nowrap' }}>
+                  <AudioButton courseId={courseId} phrase={ph} compact />
+                  <Ar size="md">{ph.ar}</Ar>
+                </div>
+              ))}
+            </div>
+          ))
+        : items.words?.map((w) => (
+            <div key={w.id} className="phrase">
+              <div className="row" style={{ justifyContent: 'space-between', flexWrap: 'nowrap' }}>
+                <AudioButton courseId={courseId} phrase={w} keys={[w.id]} compact />
+                <Ar size="md">{w.ar}</Ar>
+              </div>
+              <div className="translit small">{w.translit}</div>
+            </div>
+          ))}
+      <div className="row" style={{ marginTop: 10 }}>
+        <button className="btn primary" onClick={onReplay}><Icon name="replay" /> Replay round</button>
       </div>
     </div>
   );
