@@ -3,12 +3,16 @@
  "model": "eleven_v4",
  "characters": {
   "Aaron": {
-   "voiceId": "HAiY6E3VjohedjUlBO1p",
-   "voiceName": "Aaron Main (your clone)"
+   "voiceId": "uakRCDk2wfHQmleUrr6T",
+   "voiceName": "Aaron (your instant clone, Creator account)",
+   "professionalCloneId": "rixeu8s9keXP5glrCSu3",
+   "note": "Switch to the Professional clone once ElevenLabs finishes training it"
   },
   "Aaron and Walaa": {
-   "voiceId": "HAiY6E3VjohedjUlBO1p",
-   "voiceName": "Aaron Main (your clone)"
+   "voiceId": "uakRCDk2wfHQmleUrr6T",
+   "voiceName": "Aaron (your instant clone, Creator account)",
+   "professionalCloneId": "rixeu8s9keXP5glrCSu3",
+   "note": "Switch to the Professional clone once ElevenLabs finishes training it"
   },
   "Taha": {
    "voiceId": "fw7cr3U7H7Q0wGpoCmjW",
@@ -51,5 +55,6 @@
    "voiceId": "dtZya8QgrkOnEbmiQOmI",
    "voiceName": "Samir (Jordanian, Ammani)"
   }
- }
+ },
+ "account": "Creator account (131,000 credits/month); library voices are shared across accounts"
 }

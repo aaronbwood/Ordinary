@@ -96,9 +96,10 @@
    "src": "audio/abv-vol1/ch1-tahas-cafe-11.mp3",
    "status": "generated-candidate",
    "speaker": "Aaron",
-   "voice": "Aaron Main (your clone)",
+   "voice": "Aaron (your instant clone, Creator account)",
    "model": "eleven_v4",
-   "direction": "[casually]"
+   "direction": "[casually]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch1-tahas-cafe-12",
@@ -161,7 +162,8 @@
    "speaker": "Ahmad",
    "voice": "Mohammad Zain (Jordanian, young)",
    "model": "eleven_v4",
-   "direction": "[proudly]"
+   "direction": "[proudly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch2-ahmads-house-7",
@@ -341,7 +343,8 @@
    "speaker": "Ghayda",
    "voice": "Sara (young female)",
    "model": "eleven_v4",
-   "direction": "[proudly]"
+   "direction": "[proudly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-10",
@@ -548,7 +551,8 @@
    "speaker": "Muhammad",
    "voice": "Odai (Palestinian)",
    "model": "eleven_v4",
-   "direction": "[excited]"
+   "direction": "[excited]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch4-everyone-wants-something-11",
@@ -728,7 +732,8 @@
    "speaker": "Yousef",
    "voice": "Samir (Jordanian, Ammani)",
    "model": "eleven_v4",
-   "direction": "[worried]"
+   "direction": "[worried]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch5-yousef-walid-9",
