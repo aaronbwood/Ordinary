@@ -406,3 +406,14 @@ details > summary { cursor: pointer; }
 .sr-line.responder .sr-tag, .sr-row.responder .sr-tag { color: var(--terracotta); }
 .sr-preview { padding: 6px 0; border-bottom: 1px dashed var(--line); }
 .sr-row { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.drill-index { list-style: none; margin: 10px 0 0; padding: 0; counter-reset: drill; }
+.drill-row { border-top: 1px solid var(--line); padding: 8px 0; }
+.drill-row > div > a, .drill-row.scene > a { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); min-height: 36px; }
+.drill-name { flex: 1; min-width: 0; font-weight: 500; }
+.drill-row.scene a { color: var(--olive); }
+.drill-meta { padding-inline-start: 22px; display: flex; align-items: center; flex-wrap: wrap; }
+.drill-parts { list-style: none; margin: 6px 0 0; padding: 0 0 0 22px; }
+.drill-parts a { display: flex; align-items: center; gap: 8px; text-decoration: none; color: var(--ink-2); padding: 5px 0; font-size: 0.92rem; }
+.drill-parts .dot { width: 9px; height: 9px; }
+.drill-index .dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--line); flex: none; }
+.drill-index .dot.done { background: var(--olive); border-color: var(--olive); }

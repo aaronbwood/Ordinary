@@ -78,6 +78,8 @@ export interface Exercise {
   type: 'exercise';
   id: string;
   exerciseType?: ExerciseType; // normalised from `type` field in JSON
+  /** the drill's name as the book uses it; parts of one drill share it */
+  drillName?: string;
   title?: string;
   instructions?: string;
   mode?: 'drill' | 'conversation';

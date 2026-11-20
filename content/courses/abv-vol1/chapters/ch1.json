@@ -3146,7 +3146,8 @@
         ]
        }
       }
-     ]
+     ],
+     "drillName": "Speaker-Responder Drill"
     }
    ]
   },
@@ -5524,7 +5525,8 @@
         ]
        }
       }
-     ]
+     ],
+     "drillName": "Basics & Greetings Drill"
     }
    ]
   },
@@ -7676,7 +7678,8 @@
         ]
        }
       }
-     ]
+     ],
+     "drillName": "Interrogatives Drill"
     }
    ]
   },
@@ -10165,7 +10168,8 @@
         ]
        }
       }
-     ]
+     ],
+     "drillName": "Pronouns + Names Drill"
     }
    ]
   },
@@ -10867,7 +10871,8 @@
         ]
        }
       }
-     ]
+     ],
+     "drillName": "Translation Drill"
     }
    ]
   },
@@ -11423,7 +11428,8 @@
         ]
        }
       }
-     ]
+     ],
+     "drillName": "Dialogue Discussion"
     },
     {
      "type": "exercise",
@@ -11523,7 +11529,8 @@
         ]
        }
       }
-     ]
+     ],
+     "drillName": "Dialogue Discussion"
     }
    ]
   }
