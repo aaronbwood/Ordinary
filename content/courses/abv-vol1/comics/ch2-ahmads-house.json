@@ -56,7 +56,8 @@
               "kind": "suspected-error",
               "note": "Bubble has أهلا وسهلا … تفضل (no tanwīn, no shadda); dialogue has أهلًا وسهلًا … تفضّل."
             }
-          ]
+          ],
+          "direction": "[warmly]"
         },
         {
           "id": "ch2-ahmads-house-2",
@@ -71,7 +72,8 @@
               "kind": "suspected-error",
               "note": "Bubble has يسلمو. (no final alif, full stop); dialogue has يسلموا، (alif, comma)."
             }
-          ]
+          ],
+          "direction": "[gratefully]"
         }
       ],
       "caption": null
@@ -88,7 +90,8 @@
           "translit": "yislam zōʾak. hāy ghurfet il-ʾaʿde. tfaḍḍal.",
           "en": "That’s very kind of you. This is the living room. Go ahead.",
           "dialogueLine": 2,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[warmly]"
         },
         {
           "id": "ch2-ahmads-house-4",
@@ -102,7 +105,8 @@
               "kind": "ambiguous",
               "note": "Extra line in the comic (Sami: شكراً.) not in the printed dialogue; translit and English supplied editorially, not printed."
             }
-          ]
+          ],
+          "direction": "[casually]"
         }
       ],
       "caption": null,
@@ -126,7 +130,8 @@
               "kind": "suspected-error",
               "note": "Bubble has الناس اللي بالصورة (no shaddas); dialogue has النّاس اللّي بالصّورة."
             }
-          ]
+          ],
+          "direction": "[curious]"
         }
       ],
       "caption": null
@@ -149,7 +154,8 @@
               "kind": "suspected-error",
               "note": "Bubble has امي, بس, هم; dialogue has إمّي, بسّ, همّ. Bubble also has a double space after أخوي. (Canva source)."
             }
-          ]
+          ],
+          "direction": "[proudly]"
         }
       ],
       "caption": null,
@@ -167,7 +173,8 @@
           "translit": "biddī kam shaghle min ghurftī.",
           "en": "I need a few things from my room.",
           "dialogueLine": 7,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[casually]"
         },
         {
           "id": "ch2-ahmads-house-8",
@@ -176,7 +183,8 @@
           "translit": "tamām.",
           "en": "Okay.",
           "dialogueLine": 8,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[casually]"
         }
       ],
       "caption": null
@@ -193,7 +201,8 @@
           "translit": "w-hāda kalbī Hāru, w-hadīk bisset martī, Lūlu.",
           "en": "This is my dog, Haru, and that’s my wife’s cat, Lulu.",
           "dialogueLine": 10,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[cheerfully]"
         }
       ],
       "caption": null,
@@ -217,7 +226,8 @@
               "kind": "suspected-error",
               "note": "Bubble has شوي and بس; dialogue has شويّ and بسّ."
             }
-          ]
+          ],
+          "direction": "[laughs softly]"
         }
       ],
       "caption": null
@@ -234,7 +244,8 @@
           "translit": "mā shāʾ Allāh! kalbak kbīr ktīr!",
           "en": "Wow! Your dog is really big!",
           "dialogueLine": 12,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[surprised]"
         }
       ],
       "caption": null
@@ -257,7 +268,8 @@
               "kind": "suspected-error",
               "note": "Bubble has آه كبير… بس (no comma, no shadda); dialogue has آه، كبير… بسّ."
             }
-          ]
+          ],
+          "direction": "[reassuring]"
         }
       ],
       "caption": null,
@@ -281,7 +293,8 @@
               "kind": "suspected-error",
               "note": "Bubble has ثواني بس… (no shadda, ellipsis); dialogue has ثواني بسّ. (shadda, full stop)."
             }
-          ]
+          ],
+          "direction": "[casually]"
         },
         {
           "id": "ch2-ahmads-house-14",
@@ -290,7 +303,8 @@
           "translit": "shū biddak?",
           "en": "What do you need?",
           "dialogueLine": 16,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[curious]"
         }
       ],
       "caption": null
@@ -313,7 +327,8 @@
               "kind": "suspected-error",
               "note": "Bubble has بدي جوالي ومفاتيحي وشوية مصاري. (no shaddas, no commas, و before مفاتيحي); dialogue has بدّي جوّالي، مفاتيحي، وشويّة مصاري."
             }
-          ]
+          ],
+          "direction": "[casually]"
         }
       ],
       "caption": null,
@@ -331,7 +346,8 @@
           "translit": "yalla, jāhiz?",
           "en": "All right, ready?",
           "dialogueLine": 19,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[cheerfully]"
         },
         {
           "id": "ch2-ahmads-house-17",
@@ -340,7 +356,8 @@
           "translit": "jāhiz. yalla!",
           "en": "Ready. Let’s go!",
           "dialogueLine": 20,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[excited]"
         }
       ],
       "caption": null

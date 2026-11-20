@@ -1,0 +1,157 @@
+{
+  "recordings": [
+    {
+      "key": "ch2-ahmads-house-1",
+      "src": "audio/abv-vol1/ch2-ahmads-house-1.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch2-ahmads-house-2",
+      "src": "audio/abv-vol1/ch2-ahmads-house-2.mp3",
+      "status": "generated-candidate",
+      "speaker": "Sami",
+      "voice": "Mo Jn (Jordanian, calm)",
+      "model": "eleven_v4",
+      "direction": "[gratefully]"
+    },
+    {
+      "key": "ch2-ahmads-house-3",
+      "src": "audio/abv-vol1/ch2-ahmads-house-3.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch2-ahmads-house-4",
+      "src": "audio/abv-vol1/ch2-ahmads-house-4.mp3",
+      "status": "generated-candidate",
+      "speaker": "Sami",
+      "voice": "Mo Jn (Jordanian, calm)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch2-ahmads-house-5",
+      "src": "audio/abv-vol1/ch2-ahmads-house-5.mp3",
+      "status": "generated-candidate",
+      "speaker": "Sami",
+      "voice": "Mo Jn (Jordanian, calm)",
+      "model": "eleven_v4",
+      "direction": "[curious]"
+    },
+    {
+      "key": "ch2-ahmads-house-6",
+      "src": "audio/abv-vol1/ch2-ahmads-house-6.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[proudly]"
+    },
+    {
+      "key": "ch2-ahmads-house-7",
+      "src": "audio/abv-vol1/ch2-ahmads-house-7.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch2-ahmads-house-8",
+      "src": "audio/abv-vol1/ch2-ahmads-house-8.mp3",
+      "status": "generated-candidate",
+      "speaker": "Sami",
+      "voice": "Mo Jn (Jordanian, calm)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch2-ahmads-house-9",
+      "src": "audio/abv-vol1/ch2-ahmads-house-9.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[cheerfully]"
+    },
+    {
+      "key": "ch2-ahmads-house-10",
+      "src": "audio/abv-vol1/ch2-ahmads-house-10.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[laughs softly]"
+    },
+    {
+      "key": "ch2-ahmads-house-11",
+      "src": "audio/abv-vol1/ch2-ahmads-house-11.mp3",
+      "status": "generated-candidate",
+      "speaker": "Sami",
+      "voice": "Mo Jn (Jordanian, calm)",
+      "model": "eleven_v4",
+      "direction": "[surprised]"
+    },
+    {
+      "key": "ch2-ahmads-house-12",
+      "src": "audio/abv-vol1/ch2-ahmads-house-12.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[reassuring]"
+    },
+    {
+      "key": "ch2-ahmads-house-13",
+      "src": "audio/abv-vol1/ch2-ahmads-house-13.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch2-ahmads-house-14",
+      "src": "audio/abv-vol1/ch2-ahmads-house-14.mp3",
+      "status": "generated-candidate",
+      "speaker": "Sami",
+      "voice": "Mo Jn (Jordanian, calm)",
+      "model": "eleven_v4",
+      "direction": "[curious]"
+    },
+    {
+      "key": "ch2-ahmads-house-15",
+      "src": "audio/abv-vol1/ch2-ahmads-house-15.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch2-ahmads-house-16",
+      "src": "audio/abv-vol1/ch2-ahmads-house-16.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ahmad",
+      "voice": "Mohammad Zain (Jordanian, young)",
+      "model": "eleven_v4",
+      "direction": "[cheerfully]"
+    },
+    {
+      "key": "ch2-ahmads-house-17",
+      "src": "audio/abv-vol1/ch2-ahmads-house-17.mp3",
+      "status": "generated-candidate",
+      "speaker": "Sami",
+      "voice": "Mo Jn (Jordanian, calm)",
+      "model": "eleven_v4",
+      "direction": "[excited]"
+    }
+  ]
+}
