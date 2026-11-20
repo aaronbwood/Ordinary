@@ -1,0 +1,202 @@
+{
+  "recordings": [
+    {
+      "key": "ch3-ghaydas-new-place-1",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-1.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-2",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-2.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[excited]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-3",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-3.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[surprised]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-4",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-4.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[happily]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-5",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-5.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[excited]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-6",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-6.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-7",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-7.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[excited]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-8",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-8.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[curious]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-9",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-9.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[proudly]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-10",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-10.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-11",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-11.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[delighted]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-12",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-12.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[proudly]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-13",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-13.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[curious]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-14",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-14.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[proudly]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-15",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-15.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[impressed]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-16",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-16.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-17",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-17.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[curious]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-18",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-18.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[proudly]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-19",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-19.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[curious]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-20",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-20.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[happily]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-21",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-21.mp3",
+      "status": "generated-candidate",
+      "speaker": "Walaa",
+      "voice": "Lina (Jordanian, young female)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch3-ghaydas-new-place-22",
+      "src": "audio/abv-vol1/ch3-ghaydas-new-place-22.mp3",
+      "status": "generated-candidate",
+      "speaker": "Ghayda",
+      "voice": "Sara (young female)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    }
+  ]
+}

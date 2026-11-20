@@ -12,7 +12,9 @@ export function ComicsView({ courseId }: { courseId: string }) {
   const lessons = flatLessons(course);
   const order = (lessonId: string) => lessons.find((r) => r.lesson.id === lessonId)?.index ?? 999;
   const comics = listComics(courseId).sort((a, b) => order(a.lessonId) - order(b.lessonId));
-  const reached = Math.max(-1, ...lessons.filter((r) => p.completedLessons[r.lesson.id] || r.lesson.id === p.lastLessonId).map((r) => r.index));
+  const reachedIdx = Math.max(-1, ...lessons.filter((r) => p.completedLessons[r.lesson.id] || r.lesson.id === p.lastLessonId).map((r) => r.index));
+  // a comic is "later" only if its chapter comes after the chapter the student has reached (at least Chapter 1)
+  const reachedChapter = Math.max(1, lessons.find((r) => r.index === reachedIdx)?.chapter.number ?? 1);
 
   return (
     <div className="stack">
@@ -30,7 +32,7 @@ export function ComicsView({ courseId }: { courseId: string }) {
           const voiced = lines.filter((l) => resolveSource(courseId, l, [l.id]) !== 'unavailable').length;
           const speakers = [...new Set(lines.map((l) => l.speaker))].filter((s) => !/ and /i.test(s));
           const played = speakers.filter((s) => p.completedActivities[`comic:${c.id}:${s}`]);
-          const later = ref && ref.index > reached;
+          const later = !!ref && ref.chapter.number > reachedChapter;
           return (
             <a key={c.id} className="comic-tile" href={`#/c/${courseId}/l/${c.lessonId}/comic/${c.id}`}>
               <img src={`${import.meta.env.BASE_URL}${c.panels[0]?.image}`} alt="" loading="lazy" />

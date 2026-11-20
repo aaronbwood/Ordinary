@@ -47,7 +47,8 @@
           "en": "Hey Ghayda, what’s up?",
           "dialogueId": "ch3-dlg-ghayda-scene-1",
           "dialogueLine": 0,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[warmly]"
         }
       ],
       "caption": null
@@ -65,7 +66,8 @@
           "en": "Everything’s good. I have a new apartment near the university.",
           "dialogueId": "ch3-dlg-ghayda-scene-1",
           "dialogueLine": 1,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[excited]"
         }
       ],
       "caption": null
@@ -83,7 +85,8 @@
           "en": "Really? Where exactly?",
           "dialogueId": "ch3-dlg-ghayda-scene-1",
           "dialogueLine": 2,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[surprised]"
         }
       ],
       "caption": null
@@ -101,7 +104,8 @@
           "en": "In a quiet neighborhood, about a five-minute walk from the university.",
           "dialogueId": "ch3-dlg-ghayda-scene-1",
           "dialogueLine": 3,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[happily]"
         }
       ],
       "caption": null
@@ -119,7 +123,8 @@
           "en": "Excellent! What’s the apartment like inside?",
           "dialogueId": "ch3-dlg-ghayda-scene-1",
           "dialogueLine": 4,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[excited]"
         }
       ],
       "caption": null
@@ -143,7 +148,8 @@
               "kind": "suspected-error",
               "note": "Bubble has الشقة (no shadda); dialogue has الشقّة."
             }
-          ]
+          ],
+          "direction": "[warmly]"
         }
       ],
       "caption": null
@@ -161,7 +167,8 @@
           "en": "Definitely!",
           "dialogueId": "ch3-dlg-ghayda-scene-1",
           "dialogueLine": 6,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[excited]"
         }
       ],
       "caption": null
@@ -179,7 +186,8 @@
           "en": "Is this the new building?",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 0,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[curious]"
         }
       ],
       "caption": null,
@@ -204,7 +212,8 @@
               "kind": "suspected-error",
               "note": "Bubble has هاي هي (no shadda); dialogue has هاي هيّ."
             }
-          ]
+          ],
+          "direction": "[proudly]"
         }
       ],
       "caption": null
@@ -228,7 +237,8 @@
               "kind": "suspected-error",
               "note": "Bubble has no final full stop (تفضّلي، هاي شقّتي); dialogue has تفضّلي، هاي شقّتي."
             }
-          ]
+          ],
+          "direction": "[warmly]"
         }
       ],
       "caption": null,
@@ -247,7 +257,8 @@
           "en": "Wow! The apartment is really nice. Is this your first apartment of your own?",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 3,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[delighted]"
         }
       ],
       "caption": null
@@ -265,7 +276,8 @@
           "en": "Yes. Before, I was at my parents’ house; now this apartment is mine.",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 4,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[proudly]"
         }
       ],
       "caption": null
@@ -283,7 +295,8 @@
           "en": "How many rooms does the apartment have?",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 5,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[curious]"
         }
       ],
       "caption": null
@@ -301,7 +314,8 @@
           "en": "It has two bedrooms, a spacious living room, a large kitchen, and a clean bathroom.",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 6,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[proudly]"
         }
       ],
       "caption": null
@@ -319,7 +333,8 @@
           "en": "The furniture looks really nice.",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 7,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[impressed]"
         }
       ],
       "caption": null
@@ -337,7 +352,8 @@
           "en": "In my room, I have a large bed under the window and a large wardrobe.",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 8,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[casually]"
         }
       ],
       "caption": null
@@ -355,7 +371,8 @@
           "en": "And the balcony?",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 9,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[curious]"
         }
       ],
       "caption": null
@@ -373,7 +390,8 @@
           "en": "It has a really beautiful view of the city.",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 10,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[proudly]"
         }
       ],
       "caption": null
@@ -391,7 +409,8 @@
           "en": "Will there be a lot of people at the get-together today?",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 11,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[curious]"
         }
       ],
       "caption": null
@@ -409,7 +428,8 @@
           "en": "Yes, a lot. Even the new neighbors are invited.",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 12,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[happily]"
         }
       ],
       "caption": null
@@ -427,7 +447,8 @@
           "en": "Excellent! Congratulations on the new apartment.",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 13,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[warmly]"
         }
       ],
       "caption": null
@@ -445,7 +466,8 @@
           "en": "God bless you. Come out to the balcony, the coffee is ready.",
           "dialogueId": "ch3-dlg-ghayda-scene-2",
           "dialogueLine": 14,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[warmly]"
         }
       ],
       "caption": null

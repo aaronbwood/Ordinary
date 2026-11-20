@@ -108,6 +108,735 @@
    "voice": "Lina (Jordanian, young female)",
    "model": "eleven_v4",
    "direction": "[playfully]"
+  },
+  {
+   "key": "ch2-ahmads-house-1",
+   "src": "audio/abv-vol1/ch2-ahmads-house-1.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch2-ahmads-house-2",
+   "src": "audio/abv-vol1/ch2-ahmads-house-2.mp3",
+   "status": "generated-candidate",
+   "speaker": "Sami",
+   "voice": "Mo Jn (Jordanian, calm)",
+   "model": "eleven_v4",
+   "direction": "[gratefully]"
+  },
+  {
+   "key": "ch2-ahmads-house-3",
+   "src": "audio/abv-vol1/ch2-ahmads-house-3.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch2-ahmads-house-4",
+   "src": "audio/abv-vol1/ch2-ahmads-house-4.mp3",
+   "status": "generated-candidate",
+   "speaker": "Sami",
+   "voice": "Mo Jn (Jordanian, calm)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch2-ahmads-house-5",
+   "src": "audio/abv-vol1/ch2-ahmads-house-5.mp3",
+   "status": "generated-candidate",
+   "speaker": "Sami",
+   "voice": "Mo Jn (Jordanian, calm)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch2-ahmads-house-6",
+   "src": "audio/abv-vol1/ch2-ahmads-house-6.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[proudly]"
+  },
+  {
+   "key": "ch2-ahmads-house-7",
+   "src": "audio/abv-vol1/ch2-ahmads-house-7.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch2-ahmads-house-8",
+   "src": "audio/abv-vol1/ch2-ahmads-house-8.mp3",
+   "status": "generated-candidate",
+   "speaker": "Sami",
+   "voice": "Mo Jn (Jordanian, calm)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch2-ahmads-house-9",
+   "src": "audio/abv-vol1/ch2-ahmads-house-9.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[cheerfully]"
+  },
+  {
+   "key": "ch2-ahmads-house-10",
+   "src": "audio/abv-vol1/ch2-ahmads-house-10.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[laughs softly]"
+  },
+  {
+   "key": "ch2-ahmads-house-11",
+   "src": "audio/abv-vol1/ch2-ahmads-house-11.mp3",
+   "status": "generated-candidate",
+   "speaker": "Sami",
+   "voice": "Mo Jn (Jordanian, calm)",
+   "model": "eleven_v4",
+   "direction": "[surprised]"
+  },
+  {
+   "key": "ch2-ahmads-house-12",
+   "src": "audio/abv-vol1/ch2-ahmads-house-12.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[reassuring]"
+  },
+  {
+   "key": "ch2-ahmads-house-13",
+   "src": "audio/abv-vol1/ch2-ahmads-house-13.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch2-ahmads-house-14",
+   "src": "audio/abv-vol1/ch2-ahmads-house-14.mp3",
+   "status": "generated-candidate",
+   "speaker": "Sami",
+   "voice": "Mo Jn (Jordanian, calm)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch2-ahmads-house-15",
+   "src": "audio/abv-vol1/ch2-ahmads-house-15.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch2-ahmads-house-16",
+   "src": "audio/abv-vol1/ch2-ahmads-house-16.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ahmad",
+   "voice": "Mohammad Zain (Jordanian, young)",
+   "model": "eleven_v4",
+   "direction": "[cheerfully]"
+  },
+  {
+   "key": "ch2-ahmads-house-17",
+   "src": "audio/abv-vol1/ch2-ahmads-house-17.mp3",
+   "status": "generated-candidate",
+   "speaker": "Sami",
+   "voice": "Mo Jn (Jordanian, calm)",
+   "model": "eleven_v4",
+   "direction": "[excited]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-1",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-1.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-2",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-2.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[excited]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-3",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-3.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[surprised]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-4",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-4.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[happily]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-5",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-5.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[excited]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-6",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-6.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-7",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-7.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[excited]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-8",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-8.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-9",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-9.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[proudly]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-10",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-10.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-11",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-11.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[delighted]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-12",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-12.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[proudly]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-13",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-13.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-14",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-14.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[proudly]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-15",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-15.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[impressed]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-16",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-16.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-17",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-17.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-18",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-18.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[proudly]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-19",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-19.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-20",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-20.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[happily]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-21",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-21.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch3-ghaydas-new-place-22",
+   "src": "audio/abv-vol1/ch3-ghaydas-new-place-22.mp3",
+   "status": "generated-candidate",
+   "speaker": "Ghayda",
+   "voice": "Sara (young female)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-1",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-1.mp3",
+   "status": "generated-candidate",
+   "speaker": "Mom",
+   "voice": "Bebe (Jordanian, middle-aged female)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-2",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-2.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-3",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-3.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[cheerfully]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-4",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-4.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[doubtful]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-5",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-5.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[cheerfully]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-6",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-6.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[sighs]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-7",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-7.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-8",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-8.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-9",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-9.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-10",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-10.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[excited]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-11",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-11.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[thoughtful]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-12",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-12.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[cheerfully]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-13",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-13.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[excited]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-14",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-14.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[surprised]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-15",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-15.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-16",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-16.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[overwhelmed]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-17",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-17.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[cheerfully]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-18",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-18.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-19",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-19.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[excited]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-20",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-20.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[exasperated]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-21",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-21.mp3",
+   "status": "generated-candidate",
+   "speaker": "Muhammad",
+   "voice": "Odai (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[teasing]"
+  },
+  {
+   "key": "ch4-everyone-wants-something-22",
+   "src": "audio/abv-vol1/ch4-everyone-wants-something-22.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yezan",
+   "voice": "Khaled Alnajjar (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[exasperated]"
+  },
+  {
+   "key": "ch5-yousef-walid-1",
+   "src": "audio/abv-vol1/ch5-yousef-walid-1.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[concerned]"
+  },
+  {
+   "key": "ch5-yousef-walid-2",
+   "src": "audio/abv-vol1/ch5-yousef-walid-2.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[tired]"
+  },
+  {
+   "key": "ch5-yousef-walid-3",
+   "src": "audio/abv-vol1/ch5-yousef-walid-3.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[gently]"
+  },
+  {
+   "key": "ch5-yousef-walid-4",
+   "src": "audio/abv-vol1/ch5-yousef-walid-4.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[stressed]"
+  },
+  {
+   "key": "ch5-yousef-walid-5",
+   "src": "audio/abv-vol1/ch5-yousef-walid-5.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[sympathetic]"
+  },
+  {
+   "key": "ch5-yousef-walid-6",
+   "src": "audio/abv-vol1/ch5-yousef-walid-6.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[frustrated]"
+  },
+  {
+   "key": "ch5-yousef-walid-7",
+   "src": "audio/abv-vol1/ch5-yousef-walid-7.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[gently]"
+  },
+  {
+   "key": "ch5-yousef-walid-8",
+   "src": "audio/abv-vol1/ch5-yousef-walid-8.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[worried]"
+  },
+  {
+   "key": "ch5-yousef-walid-9",
+   "src": "audio/abv-vol1/ch5-yousef-walid-9.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[concerned]"
+  },
+  {
+   "key": "ch5-yousef-walid-10",
+   "src": "audio/abv-vol1/ch5-yousef-walid-10.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[worried]"
+  },
+  {
+   "key": "ch5-yousef-walid-11",
+   "src": "audio/abv-vol1/ch5-yousef-walid-11.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[surprised]"
+  },
+  {
+   "key": "ch5-yousef-walid-12",
+   "src": "audio/abv-vol1/ch5-yousef-walid-12.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch5-yousef-walid-13",
+   "src": "audio/abv-vol1/ch5-yousef-walid-13.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[impressed]"
+  },
+  {
+   "key": "ch5-yousef-walid-14",
+   "src": "audio/abv-vol1/ch5-yousef-walid-14.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[concerned]"
+  },
+  {
+   "key": "ch5-yousef-walid-15",
+   "src": "audio/abv-vol1/ch5-yousef-walid-15.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[reassuring]"
+  },
+  {
+   "key": "ch5-yousef-walid-16",
+   "src": "audio/abv-vol1/ch5-yousef-walid-16.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[proudly]"
+  },
+  {
+   "key": "ch5-yousef-walid-17",
+   "src": "audio/abv-vol1/ch5-yousef-walid-17.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch5-yousef-walid-18",
+   "src": "audio/abv-vol1/ch5-yousef-walid-18.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[relieved]"
+  },
+  {
+   "key": "ch5-yousef-walid-19",
+   "src": "audio/abv-vol1/ch5-yousef-walid-19.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walid",
+   "voice": "Booker (Palestinian, mature)",
+   "model": "eleven_v4",
+   "direction": "[reassuring]"
+  },
+  {
+   "key": "ch5-yousef-walid-20",
+   "src": "audio/abv-vol1/ch5-yousef-walid-20.mp3",
+   "status": "generated-candidate",
+   "speaker": "Yousef",
+   "voice": "Samir (Jordanian, Ammani)",
+   "model": "eleven_v4",
+   "direction": "[laughs softly] [cheerful]"
   }
  ]
 }
