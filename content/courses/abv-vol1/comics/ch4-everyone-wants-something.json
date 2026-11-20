@@ -1,0 +1,380 @@
+{
+  "id": "ch4-everyone-wants-something",
+  "title": {
+    "ar": null,
+    "translit": null,
+    "en": "Everyone Wants Something"
+  },
+  "chapterId": "ch4",
+  "lessonId": "ch4-putting-it-all-together",
+  "dialogueId": "ch4-dlg-everyone-wants-something",
+  "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+      345,
+      346,
+      347
+    ]
+  },
+  "characters": [
+    {
+      "name": "Yezan",
+      "nameAr": "يزن",
+      "description": "oldest brother; tall, curly dark hair, black glasses, navy overshirt over red T-shirt, jeans, dark messenger bag; carries a notepad"
+    },
+    {
+      "name": "Muhammad",
+      "nameAr": "محمد",
+      "description": "middle brother; shorter, curly dark hair, green hoodie with grey sleeves over orange T-shirt, backpack"
+    },
+    {
+      "name": "Mom",
+      "description": "mother in the kitchen; pink hijab, dark top, floral apron"
+    },
+    {
+      "name": "Ziyad",
+      "nameAr": "زياد",
+      "description": "youngest brother (no lines); curly dark hair, green T-shirt, reads a book about Egypt on the sofa"
+    }
+  ],
+  "panels": [
+    {
+      "id": "p345-1",
+      "image": "comics/abv-vol1/p345-1.webp",
+      "page": 345,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-1",
+          "speaker": "Mom",
+          "ar": "يا ولاد، شو بدكم من برا؟ يزن بطريقه عالبلد.",
+          "translit": "yā wlād, shū biddkum min barra? Yezan bi-ṭarīʾo ʿal-balad.",
+          "en": "Boys, what do you want from outside? Yezan is on his way downtown.",
+          "dialogueLine": 0,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p345-2",
+      "image": "comics/abv-vol1/p345-2.webp",
+      "page": 345,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-2",
+          "speaker": "Yezan",
+          "ar": "يا محمد، شو بدّها ماما من برا؟",
+          "translit": "yā Muḥammad, shū biddha māma min barra?",
+          "en": "Hey Muhammad, what does Mom want from outside?",
+          "dialogueLine": 1,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p345-3",
+      "image": "comics/abv-vol1/p345-3.webp",
+      "page": 345,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-3",
+          "speaker": "Muhammad",
+          "ar": "بدّها خبز وحليب وبيض من السوبرماركت.",
+          "translit": "biddha khubz w-ḥalīb w-bēḍ min is-sūbarmārkit.",
+          "en": "She wants bread, milk, and eggs from the supermarket.",
+          "dialogueLine": 2,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p345-4",
+      "image": "comics/abv-vol1/p345-4.webp",
+      "page": 345,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-4",
+          "speaker": "Yezan",
+          "ar": "بس هيك؟",
+          "translit": "bass hēk?",
+          "en": "That’s it?",
+          "dialogueLine": 3,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p345-5",
+      "image": "comics/abv-vol1/p345-5.webp",
+      "page": 345,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-5",
+          "speaker": "Muhammad",
+          "ar": "لأ، كمان بدّها دوا من الصيدلية.",
+          "translit": "laʾ, kamān biddha dawa min iṣ-ṣaydaliyye.",
+          "en": "No, she also wants medicine from the pharmacy.",
+          "dialogueLine": 4,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch4-everyone-wants-something-6",
+          "speaker": "Yezan",
+          "ar": "ماشي. . .",
+          "translit": "māshi…",
+          "en": "Okay…",
+          "dialogueLine": 5,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has ماشي. . . (three spaced periods); dialogue has ماشي… (ellipsis character)"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p346-1",
+      "image": "comics/abv-vol1/p346-1.webp",
+      "page": 346,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-7",
+          "speaker": "Yezan",
+          "ar": "شو نوع الدوا اللي بدّها إياه؟",
+          "translit": "shū nōʿ id-dawa illī biddha iyyāh?",
+          "en": "What kind of medicine does she want?",
+          "dialogueLine": 6,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p346-2",
+      "image": "comics/abv-vol1/p346-2.webp",
+      "page": 346,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-8",
+          "speaker": "Muhammad",
+          "ar": "بدّها دوا للصداع.",
+          "translit": "biddha dawa liṣ-ṣudāʿ.",
+          "en": "She wants headache medicine.",
+          "dialogueLine": 7,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p346-3",
+      "image": "comics/abv-vol1/p346-3.webp",
+      "page": 346,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-9",
+          "speaker": "Yezan",
+          "ar": "طيّب، وبابا شو بدّه؟",
+          "translit": "ṭayyib, w-bāba shū biddo?",
+          "en": "Okay, and what does Dad want?",
+          "dialogueLine": 8,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p346-4",
+      "image": "comics/abv-vol1/p346-4.webp",
+      "page": 346,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-10",
+          "speaker": "Muhammad",
+          "ar": "بابا بدّه قهوة من الكافيه الجديد.",
+          "translit": "bāba biddo ʾahwe min il-kāfēh il-jdīd.",
+          "en": "Dad wants coffee from the new café.",
+          "dialogueLine": 9,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p346-5",
+      "image": "comics/abv-vol1/p346-5.webp",
+      "page": 346,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-11",
+          "speaker": "Yezan",
+          "ar": "شو نوع القهوة اللي بدّه إياها؟",
+          "translit": "shū nōʿ il-ʾahwe illī biddo iyyāha?",
+          "en": "What kind of coffee does he want?",
+          "dialogueLine": 10,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p346-6",
+      "image": "comics/abv-vol1/p346-6.webp",
+      "page": 346,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-12",
+          "speaker": "Muhammad",
+          "ar": "بدّه قهوة تركية فيها هيل.",
+          "translit": "biddo ʾahwe turkiyye fīha hēl.",
+          "en": "He wants Turkish coffee with cardamom.",
+          "dialogueLine": 11,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p347-1",
+      "image": "comics/abv-vol1/p347-1.webp",
+      "page": 347,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-13",
+          "speaker": "Muhammad",
+          "ar": "وكمان بدنا تذكرة للمتحف لأنّه زياد عنده رحلة مدرسية بكرا.",
+          "translit": "w-kamān bidna tazkara lil-matḥaf laʾanno Ziyād ʿindo riḥle madrasiyye bukra.",
+          "en": "And we also need a museum ticket because Ziyad has a school field trip tomorrow.",
+          "dialogueLine": 12,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has لأنّه (with shadda); dialogue has لأنه"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p347-2",
+      "image": "comics/abv-vol1/p347-2.webp",
+      "page": 347,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-14",
+          "speaker": "Yezan",
+          "ar": "تذكرة للمتحف كمان؟",
+          "translit": "tazkara lil-matḥaf kamān?",
+          "en": "A museum ticket too?",
+          "dialogueLine": 13,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch4-everyone-wants-something-15",
+          "speaker": "Muhammad",
+          "ar": "آه، للرحلة المدرسية.",
+          "translit": "āh, lir-riḥle il-madrasiyye.",
+          "en": "Yeah, for the school field trip.",
+          "dialogueLine": 14,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p347-3",
+      "image": "comics/abv-vol1/p347-3.webp",
+      "page": 347,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-16",
+          "speaker": "Yezan",
+          "ar": "يعني السوبرماركت، والصيدلية، والكافيه، والمتحف؟",
+          "translit": "yaʿni is-sūbarmārkit, wiṣ-ṣaydaliyye, wil-kāfēh, wil-matḥaf?",
+          "en": "So, the supermarket, the pharmacy, the café, and the museum?",
+          "dialogueLine": 15,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch4-everyone-wants-something-17",
+          "speaker": "Muhammad",
+          "ar": "آه، بس هيك.",
+          "translit": "āh, bass hēk.",
+          "en": "Yeah, that’s it.",
+          "dialogueLine": 16,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p347-4",
+      "image": "comics/abv-vol1/p347-4.webp",
+      "page": 347,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-18",
+          "speaker": "Yezan",
+          "ar": "وإنت شو بدّك؟",
+          "translit": "w-inta shū biddak?",
+          "en": "And what do you want?",
+          "dialogueLine": 17,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch4-everyone-wants-something-19",
+          "speaker": "Muhammad",
+          "ar": "بدي شاورما من المطعم اللي جنب الكافيه.",
+          "translit": "biddī shāwarma min il-maṭʿam illī janb il-kāfēh.",
+          "en": "I want shawarma from the restaurant next to the café.",
+          "dialogueLine": 18,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p347-5",
+      "image": "comics/abv-vol1/p347-5.webp",
+      "page": 347,
+      "lines": [
+        {
+          "id": "ch4-everyone-wants-something-20",
+          "speaker": "Yezan",
+          "ar": "والله بدّي مصاري أكتر!",
+          "translit": "wallāh biddī maṣāri aktar!",
+          "en": "I swear, I need more money!",
+          "dialogueLine": 19,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch4-everyone-wants-something-21",
+          "speaker": "Muhammad",
+          "ar": "معك مصاري!",
+          "translit": "maʿak maṣāri!",
+          "en": "You have money!",
+          "dialogueLine": 20,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch4-everyone-wants-something-22",
+          "speaker": "Yezan",
+          "ar": "مش كفاية لكل هاد!",
+          "translit": "mish kifāye la-kull hād!",
+          "en": "Not enough for all this!",
+          "dialogueLine": 21,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    }
+  ]
+}

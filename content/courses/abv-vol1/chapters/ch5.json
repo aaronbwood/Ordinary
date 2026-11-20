@@ -17249,6 +17249,19 @@
      }
     },
     {
+     "type": "comic",
+     "id": "comic-ch5-yousef-walid",
+     "comicId": "ch5-yousef-walid",
+     "title": "Yousef and Walid",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       415,
+       417
+      ]
+     }
+    },
+    {
      "type": "image",
      "kind": "comic",
      "description": "Twelve-panel comic of the first half of the dialogue (lines 1–12). Walid — a bearded man with dark curly hair in a dark jacket — and Yousef — a young man with curly hair and glasses in a red jacket — sit at an outdoor café table with laptops, books and coffee, old stone buildings of a Levantine city behind them. Speech bubbles carry the Arabic lines (unvowelled/lightly vowelled), from \"مرحبا يا يوسف، شو مالك؟ شكلك تعبان كتير.\" through \"أختي مسؤولة كتير. وعندها شغل جديد بالكافيه، وكمان عندها تسجيل بالجامعة بآخر السنة.\" Yousef looks tired, stressed (head in hand) in several panels.",

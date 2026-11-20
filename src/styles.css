@@ -417,3 +417,18 @@ details > summary { cursor: pointer; }
 .drill-parts .dot { width: 9px; height: 9px; }
 .drill-index .dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--line); flex: none; }
 .drill-index .dot.done { background: var(--olive); border-color: var(--olive); }
+
+.comic-frame { position: relative; border: 3px solid var(--ink); border-radius: 8px; overflow: hidden; background: var(--plaster-2); }
+.comic-frame img { display: block; width: 100%; height: auto; }
+.comic-num { position: absolute; top: 8px; right: 8px; background: var(--ink); color: var(--plaster); border-radius: 999px; font-size: 0.72rem; padding: 1px 8px; }
+.comic-line { border-inline-start: 5px solid var(--line); background: var(--plaster-2); border-radius: 12px; padding: 8px 12px; transition: box-shadow 0.15s; }
+.comic-line.active { box-shadow: 0 0 0 2px var(--olive); }
+.comic-speaker { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+.comic-nav { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.comic-dots { display: flex; gap: 5px; flex-wrap: wrap; justify-content: center; flex: 1; }
+.comic-dots span { width: 8px; height: 8px; border-radius: 50%; background: var(--shade); }
+.comic-dots span.seen { background: var(--olive-soft); }
+.comic-dots span.on { background: var(--terracotta); }
+.comic-card { display: flex; gap: 12px; text-decoration: none; color: var(--ink); border-inline-start: 4px solid var(--blue); align-items: flex-start; }
+.comic-card img { width: 110px; border-radius: 8px; border: 2px solid var(--ink); flex: none; }
+@media (max-width: 420px) { .comic-card { flex-direction: column; } .comic-card img { width: 100%; } }

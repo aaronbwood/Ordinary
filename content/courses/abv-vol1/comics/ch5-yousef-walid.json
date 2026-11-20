@@ -1,0 +1,435 @@
+{
+  "id": "ch5-yousef-walid",
+  "title": {
+    "ar": "يوسف ووليد",
+    "translit": "Yūsuf w-Walīd",
+    "en": "Yousef and Walid"
+  },
+  "chapterId": "ch5",
+  "lessonId": "ch5-final-conversation",
+  "dialogueId": "ch5-dlg-yousef-walid",
+  "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+      415,
+      417
+    ]
+  },
+  "characters": [
+    {
+      "name": "Walid",
+      "description": "black hair with shaved sides, full black beard, dark green-black jacket over a white T-shirt"
+    },
+    {
+      "name": "Yousef",
+      "description": "curly brown hair, round glasses, dark red hoodie-jacket over a blue-grey T-shirt; laptop and books on the table"
+    }
+  ],
+  "panels": [
+    {
+      "id": "p415-1",
+      "image": "comics/abv-vol1/p415-1.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-1",
+          "speaker": "Walid",
+          "ar": "مرحبا يا يوسف، شو مالك؟ شكلك تعبان كتير.",
+          "translit": "marḥaba yā Yūsuf, shū mālak? shiklak taʿbān ktīr.",
+          "en": "Hey Yousef, what’s wrong? You look really tired.",
+          "dialogueLine": 0,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-2",
+      "image": "comics/abv-vol1/p415-2.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-2",
+          "speaker": "Yousef",
+          "ar": "آه والله، أنا تعبان من الشغل، ومشغول بالدراسة كمان.",
+          "translit": "āh wallāh, ana taʿbān min ish-shughl, w-mashghūl bid-dirāse kamān.",
+          "en": "Yeah, I’m tired from work, and I’m busy with studying too.",
+          "dialogueLine": 1,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in الشغل (dialogue الشّغل) and بالدراسة (dialogue بالدّراسة); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-3",
+      "image": "comics/abv-vol1/p415-3.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-3",
+          "speaker": "Walid",
+          "ar": "والدراسة؟ صعبة هالأسبوع؟",
+          "translit": "w-id-dirāse? ṣaʿbe hal-usbūʿ?",
+          "en": "And studying? Is it difficult this week?",
+          "dialogueLine": 2,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in والدراسة (dialogue والدّراسة); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-4",
+      "image": "comics/abv-vol1/p415-4.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-4",
+          "speaker": "Yousef",
+          "ar": "آه، صعبة شوي، بس مهمّة عشان التوجيهي.",
+          "translit": "āh, ṣaʿbe shwayy, bass muhimme ʿashān it-tawjīhī.",
+          "en": "Yeah, it’s a little difficult, but it’s important because of the Tawjihi.",
+          "dialogueLine": 3,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in شوي (dialogue شويّ), بس (dialogue بسّ) and التوجيهي (dialogue التّوجيهي); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-5",
+      "image": "comics/abv-vol1/p415-5.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-5",
+          "speaker": "Walid",
+          "ar": "آه، هاي أصعب فترة بالسّنة.",
+          "translit": "āh, hāy aṣʿab fatra bis-sane.",
+          "en": "Yeah, this is the hardest time of the year.",
+          "dialogueLine": 4,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-6",
+      "image": "comics/abv-vol1/p415-6.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-6",
+          "speaker": "Yousef",
+          "ar": "صحيح. الدرس كلّ اسبوع أصعب من اللّي قبله.",
+          "translit": "ṣaḥīḥ. id-dars kull usbūʿ aṣʿab min illī ʾablo.",
+          "en": "True. The lesson each week is harder than the one before it.",
+          "dialogueLine": 5,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has اسبوع without hamza (dialogue أسبوع) — likely typo; bubble also omits shadda in الدرس (dialogue الدّرس)"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-7",
+      "image": "comics/abv-vol1/p415-7.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-7",
+          "speaker": "Walid",
+          "ar": "وكيف إمّك؟",
+          "translit": "w-kīf immak?",
+          "en": "And how’s your mom?",
+          "dialogueLine": 6,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-8",
+      "image": "comics/abv-vol1/p415-8.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-8",
+          "speaker": "Yousef",
+          "ar": "إمّي قلقانة كتير ع أخوي الصغير.",
+          "translit": "immī ʾalʾāne ktīr ʿa akhūy iẓ-ẓghīr.",
+          "en": "My mom is really worried about my little brother.",
+          "dialogueLine": 7,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-9",
+      "image": "comics/abv-vol1/p415-9.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-9",
+          "speaker": "Walid",
+          "ar": "شو فيه؟",
+          "translit": "shū fīh?",
+          "en": "What’s with him?",
+          "dialogueLine": 8,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-10",
+      "image": "comics/abv-vol1/p415-10.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-10",
+          "speaker": "Yousef",
+          "ar": "شكله مشغول بالقعدة مع أصحابه أكتر من الدراسة هالأيام.",
+          "translit": "shiklo mashghūl bil-ʾaʿde maʿ aṣḥābo aktar min id-dirāse hal-ayyām.",
+          "en": "He seems to be spending more time hanging out with his friends than studying these days.",
+          "dialogueLine": 9,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in الدراسة (dialogue الدّراسة) and هالأيام (dialogue هالأيّام); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p415-11",
+      "image": "comics/abv-vol1/p415-11.webp",
+      "page": 415,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-11",
+          "speaker": "Walid",
+          "ar": "عنجد؟ هاي مشكلة. وأختك؟",
+          "translit": "ʿanjad? hāy mushkile. w-ukhtak?",
+          "en": "Seriously? That’s a problem. And your sister?",
+          "dialogueLine": 10,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch5-yousef-walid-12",
+          "speaker": "Yousef",
+          "ar": "أختي مسؤولة كتير. وعندها شغل جديد بالكافيه، وكمان عندها تسجيل بالجامعة بآخر السنة.",
+          "translit": "ukhtī masʾūle ktīr. w-ʿindha shughl jdīd bil-kāfēh, w-kamān ʿindha tasjīl bil-jāmʿa bi-ākhir is-sane.",
+          "en": "My sister is really responsible. She has a new job at the café, and she also has university registration at the end of the year.",
+          "dialogueLine": 11,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in السنة (dialogue السّنة); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null,
+      "note": "Single full-width panel holding two bubbles (dialogue lines 10 and 11): Walid (right bubble) then Yousef (left bubble). The page art has no gutter here; p415 has 11 panels, not 12."
+    },
+    {
+      "id": "p417-1",
+      "image": "comics/abv-vol1/p417-1.webp",
+      "page": 417,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-13",
+          "speaker": "Walid",
+          "ar": "ما شاء الله، شكلها جدّيّة كتير.",
+          "translit": "mā shāʾ Allāh, shiklha jiddiyye ktīr.",
+          "en": "Mashallah, she seems really serious.",
+          "dialogueLine": 12,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p417-2",
+      "image": "comics/abv-vol1/p417-2.webp",
+      "page": 417,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-14",
+          "speaker": "Yousef",
+          "ar": "معك حقّ، بس ما عندها وقت لحالها.",
+          "translit": "maʿak ḥaʾʾ, bass mā ʿindha waʾt laḥālha.",
+          "en": "You’re right, but she doesn’t have any time for herself.",
+          "dialogueLine": 13,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in بس (dialogue بسّ); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p417-3",
+      "image": "comics/abv-vol1/p417-3.webp",
+      "page": 417,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-15",
+          "speaker": "Walid",
+          "ar": "بس الراحة مهمة كمان. مش كل إشي دراسة وامتحانات.",
+          "translit": "bass ir-rāḥa muhimme kamān. mish kull ishi dirāse w-imtiḥānāt.",
+          "en": "But rest is important too. Not everything is studying and exams.",
+          "dialogueLine": 14,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in بس (dialogue بسّ), الراحة (dialogue الرّاحة), مهمة (dialogue مهمّة) and كل (dialogue كلّ); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p417-4",
+      "image": "comics/abv-vol1/p417-4.webp",
+      "page": 417,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-16",
+          "speaker": "Yousef",
+          "ar": "آه، بس إحنا فخورين فيها كتير بنجاحها بالتوجيهي السنة الماضية.",
+          "translit": "āh, bass iḥna fakhūrīn fīha ktīr bi-najāḥha bit-tawjīhī is-sane il-māḍye.",
+          "en": "Yeah, but we’re really proud of her for passing the Tawjihi exam last year.",
+          "dialogueLine": 15,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in بس (dialogue بسّ), بالتوجيهي (dialogue بالتّوجيهي) and السنة (dialogue السّنة); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p417-5",
+      "image": "comics/abv-vol1/p417-5.webp",
+      "page": 417,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-17",
+          "speaker": "Walid",
+          "ar": "طيب، شو رأيك بلمة عيلة بعد الامتحانات؟ شوية راحة وتغيير جو.",
+          "translit": "ṭayyib, shū raʾyak bi-lammet ʿēle baʿd il-imtiḥānāt? shwayyet rāḥa w-taghyīr jaww.",
+          "en": "Well, how about a family get-together after the exams? A little rest and a change of scenery.",
+          "dialogueLine": 16,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in طيب (dialogue طيّب), بلمة (dialogue بلمّة), شوية (dialogue شويّة) and جو (dialogue جوّ); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p417-6",
+      "image": "comics/abv-vol1/p417-6.webp",
+      "page": 417,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-18",
+          "speaker": "Yousef",
+          "ar": "بصراحة، فكرة حلوة. كلنا بدنا عطلة.",
+          "translit": "bi-ṣarāḥa, fikra ḥilwe. kullna bidna ʿuṭle.",
+          "en": "Honestly, that’s a nice idea. We all need a vacation.",
+          "dialogueLine": 17,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in كلنا (dialogue كلّنا); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p417-7",
+      "image": "comics/abv-vol1/p417-7.webp",
+      "page": 417,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-19",
+          "speaker": "Walid",
+          "ar": "يا يوسف، الصبر مفتاح الفرج. شويّ شويّ، وكلّ إشي رح يكون تمام.",
+          "translit": "yā Yūsuf, iṣ-ṣabr miftāḥ il-faraj. shwayy shwayy, w-kull ishi raḥ ykūn tamām.",
+          "en": "Yousef, patience is the key to relief. Little by little, everything will be fine.",
+          "dialogueLine": 18,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "bubble-differs",
+              "note": "Bubble omits shadda in الصبر (dialogue الصّبر); dialogue has it"
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p417-8",
+      "image": "comics/abv-vol1/p417-8.webp",
+      "page": 417,
+      "lines": [
+        {
+          "id": "ch5-yousef-walid-20",
+          "speaker": "Yousef",
+          "ar": "والله معك حقّ. وبعد الامتحانات، العشا عليّ!",
+          "translit": "wallāh maʿak ḥaʾʾ. w-baʿd il-imtiḥānāt, il-ʿasha ʿalayy!",
+          "en": "You’re right. And after the exams, dinner’s on me!",
+          "dialogueLine": 19,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    }
+  ]
+}

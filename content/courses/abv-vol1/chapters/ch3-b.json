@@ -11738,6 +11738,21 @@
      }
     },
     {
+     "type": "comic",
+     "id": "comic-ch3-ghaydas-new-place",
+     "comicId": "ch3-ghaydas-new-place",
+     "title": "Ghayda’s New Place",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       262,
+       263,
+       264,
+       265
+      ]
+     }
+    },
+    {
      "type": "image",
      "kind": "comic",
      "description": "Six-panel comic of Scene One (read right-to-left, top to bottom). Walaa — a young woman with long curly light-brown hair in a rust-red blouse — sits on a bed/sofa in a cozy room with a plant and framed picture, talking on her phone. Ghayda — a young woman in a beige hijab and teal top — stands in her furnished living room (sofa, lamp, coffee table, window with city view) on the phone. Bubbles: Walaa “مرحبا يا غيداء، شو في ما في؟”; Ghayda “كلّه تمام. عندي شقّة جديدة قريبة من الجامعة.”; Walaa “عنجد؟ وين بالظّبط؟”; Ghayda (gesturing toward a window with a view of hillside stone buildings) “بحارة هادية، حوالي خمس دقايق مشي من الجامعة.”; Walaa “ممتاز! وكيف الشقّة من جوّا؟”; Ghayda (full-length, gesturing at her living room) “الشقة مفروشة، وكلّ إشي فيها جاهز. تعالي اليوم.”",

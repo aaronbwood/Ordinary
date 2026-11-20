@@ -1,11 +1,12 @@
-import type { Block, Chapter, Course, CourseMeta, Exercise, Lesson, Scene, AudioRecording } from './types';
+import type { Block, Chapter, Comic, Course, CourseMeta, Exercise, Lesson, Scene, AudioRecording } from './types';
 
 const courseFiles = import.meta.glob('../../content/courses/*/course.json', { eager: true, import: 'default' });
 const chapterFiles = import.meta.glob('../../content/courses/*/chapters/*.json', { eager: true, import: 'default' });
 const sceneFiles = import.meta.glob('../../content/courses/*/scenes/*.json', { eager: true, import: 'default' });
+const comicFiles = import.meta.glob('../../content/courses/*/comics/*.json', { eager: true, import: 'default' });
 const audioFiles = import.meta.glob('../../content/courses/*/audio/manifest.json', { eager: true, import: 'default' });
 
-const BLOCK_TYPES = new Set(['text', 'callout', 'examples', 'vocab', 'table', 'dialogue', 'image', 'exercise', 'scene']);
+const BLOCK_TYPES = new Set(['text', 'callout', 'examples', 'vocab', 'table', 'dialogue', 'image', 'exercise', 'scene', 'comic']);
 
 function courseIdOf(path: string) {
   return path.split('/courses/')[1].split('/')[0];
@@ -70,6 +71,16 @@ export function getCourse(id: string): Course | undefined {
 
 export function getScene(courseId: string, sceneId: string): Scene | undefined {
   return sceneFiles[`../../content/courses/${courseId}/scenes/${sceneId}.json`] as Scene | undefined;
+}
+
+export function getComic(courseId: string, comicId: string): Comic | undefined {
+  return comicFiles[`../../content/courses/${courseId}/comics/${comicId}.json`] as Comic | undefined;
+}
+
+export function listComics(courseId: string): Comic[] {
+  return Object.entries(comicFiles)
+    .filter(([p]) => p.includes(`/courses/${courseId}/comics/`))
+    .map(([, c]) => c as Comic);
 }
 
 export function getAudioManifest(courseId: string): AudioRecording[] {

@@ -112,6 +112,7 @@ export type Block =
       src?: string;
       source?: SourceRef;
     }
+  | { type: 'comic'; id: string; comicId: string; title?: string; source?: SourceRef }
   | {
       type: 'scene';
       id: string;
@@ -218,4 +219,32 @@ export interface Scene {
   note?: string;
   source?: SourceRef;
   rooms: SceneRoom[];
+}
+
+// ---------- Comics ----------
+export interface ComicLine extends Phrase {
+  id: string;
+  speaker: string;
+  dialogueId?: string;
+  dialogueLine?: number | null;
+  textFrom?: 'bubble' | 'dialogue';
+  flags?: Flag[];
+}
+export interface ComicPanel {
+  id: string;
+  image: string;
+  page: number;
+  lines: ComicLine[];
+  caption?: string | null;
+  note?: string;
+}
+export interface Comic {
+  id: string;
+  title: Phrase;
+  chapterId: string;
+  lessonId: string;
+  dialogueId?: string;
+  source?: SourceRef;
+  characters: { name: string; nameAr?: string; description?: string }[];
+  panels: ComicPanel[];
 }

@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import type { Block, Exercise } from '../content/types';
 import { SegmentsAr, SegmentsTranslit } from '../components/common';
-import { getScene } from '../content/loader';
+import { getComic, getScene } from '../content/loader';
 import { findLesson, flatLessons, getCourse } from '../content/loader';
 import { progress, useProgress, useSettings } from '../state/progress';
 import { Ar, AidToggles, Flags, PhraseView, SourceLink } from '../components/common';
@@ -52,7 +52,7 @@ export function LessonView({ courseId, lessonId }: { courseId: string; lessonId:
       </div>
       <AidToggles />
 
-      {lesson.blocks.map((b, i) => (
+      {lesson.blocks.filter((b) => !(b.type === 'image' && b.kind === 'comic' && lesson.blocks.some((x) => x.type === 'comic'))).map((b, i) => (
         <section className="lesson-block" key={i}>
           <BlockView block={b} courseId={courseId} lessonId={lesson.id} />
         </section>
@@ -165,6 +165,22 @@ function BlockView({ block: b, courseId, lessonId }: { block: Block; courseId: s
       );
     case 'exercise':
       return <ExerciseCard ex={b} courseId={courseId} lessonId={lessonId} />;
+    case 'comic': {
+      const comic = getComic(courseId, b.comicId);
+      if (!comic) return null;
+      const first = comic.panels[0];
+      return (
+        <a className="card comic-card" href={`#/c/${courseId}/l/${lessonId}/comic/${b.comicId}`}>
+          {first && <img src={`${import.meta.env.BASE_URL}${first.image}`} alt="" />}
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <div className="eyebrow">Comic · {comic.panels.length} panels</div>
+            <h3 style={{ margin: '2px 0' }}>{comic.title.en}</h3>
+            <p className="small muted" style={{ margin: 0 }}>Read it panel by panel, listen to every line, or speak as one of the characters.</p>
+            <span className="btn primary small" style={{ marginTop: 8 }}>Open the comic</span>
+          </div>
+        </a>
+      );
+    }
     case 'scene': {
       const scene = getScene(courseId, b.sceneId);
       if (!scene) return null;

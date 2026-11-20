@@ -1,0 +1,349 @@
+{
+  "id": "ch2-ahmads-house",
+  "title": {
+    "ar": null,
+    "translit": null,
+    "en": "First Time at Ahmad's House"
+  },
+  "chapterId": "ch2",
+  "lessonId": "ch2-putting-it-together",
+  "dialogueId": "ch2-dlg-ahmads-house",
+  "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+      155,
+      156
+    ]
+  },
+  "characters": [
+    {
+      "name": "Ahmad",
+      "nameAr": "أحمد",
+      "description": "host; dark curly hair, short beard, olive-green overshirt over a cream T-shirt, dark trousers, wristwatch"
+    },
+    {
+      "name": "Sami",
+      "nameAr": "سامي",
+      "description": "guest; dark curly hair, round glasses, red hoodie, dark grey backpack"
+    },
+    {
+      "name": "Haru",
+      "nameAr": "هارو",
+      "description": "Ahmad's dog; large German-shepherd-type dog, tan and black coat, brown collar with a gold tag (no lines)"
+    },
+    {
+      "name": "Lulu",
+      "nameAr": "لولو",
+      "description": "Ahmad's wife's cat; grey tabby with green eyes and an orange collar with a bell (no lines)"
+    }
+  ],
+  "panels": [
+    {
+      "id": "p155-1",
+      "image": "comics/abv-vol1/p155-1.webp",
+      "page": 155,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-1",
+          "speaker": "Ahmad",
+          "ar": "أهلا وسهلا يا سامي! تفضل، بيتي بيتك.",
+          "translit": "ahlan w-sahlan yā Sāmi! tfaḍḍal, bētī bētak.",
+          "en": "Welcome, Sami! Come in—my house is your house.",
+          "dialogueLine": 0,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has أهلا وسهلا … تفضل (no tanwīn, no shadda); dialogue has أهلًا وسهلًا … تفضّل."
+            }
+          ]
+        },
+        {
+          "id": "ch2-ahmads-house-2",
+          "speaker": "Sami",
+          "ar": "يسلمو. بيتك كتير حلو.",
+          "translit": "yislamu, bētak ktīr ḥilu.",
+          "en": "Thank you. Your house is really nice.",
+          "dialogueLine": 1,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has يسلمو. (no final alif, full stop); dialogue has يسلموا، (alif, comma)."
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p155-2",
+      "image": "comics/abv-vol1/p155-2.webp",
+      "page": 155,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-3",
+          "speaker": "Ahmad",
+          "ar": "يسلم ذوقك. هاي غرفة القعدة. تفضّل.",
+          "translit": "yislam zōʾak. hāy ghurfet il-ʾaʿde. tfaḍḍal.",
+          "en": "That’s very kind of you. This is the living room. Go ahead.",
+          "dialogueLine": 2,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch2-ahmads-house-4",
+          "speaker": "Sami",
+          "ar": "شكراً.",
+          "translit": "shukran.",
+          "en": "Thanks.",
+          "dialogueLine": null,
+          "flags": [
+            {
+              "kind": "ambiguous",
+              "note": "Extra line in the comic (Sami: شكراً.) not in the printed dialogue; translit and English supplied editorially, not printed."
+            }
+          ]
+        }
+      ],
+      "caption": null,
+      "note": "Dialogue narration \"Sami sits down on the couch and notices a family picture.\" (line 3) is not drawn as a caption."
+    },
+    {
+      "id": "p155-3",
+      "image": "comics/abv-vol1/p155-3.webp",
+      "page": 155,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-5",
+          "speaker": "Sami",
+          "ar": "مين هدول الناس اللي بالصورة؟",
+          "translit": "mīn hadōl in-nās illī biṣ-ṣūra?",
+          "en": "Who are these people in the picture?",
+          "dialogueLine": 4,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has الناس اللي بالصورة (no shaddas); dialogue has النّاس اللّي بالصّورة."
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p155-4",
+      "image": "comics/abv-vol1/p155-4.webp",
+      "page": 155,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-6",
+          "speaker": "Ahmad",
+          "ar": "هاي عيلتي. هاد أبوي، وهاي امي، وهاد أخوي.  بس هم مش هون اليوم.",
+          "translit": "hāy ʿēltī. hād abūy, w-hāy immī, w-hād akhūy. bass humme mish hōn il-yōm.",
+          "en": "This is my family. This is my father, this is my mother, and this is my brother. But they’re not here today.",
+          "dialogueLine": 5,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has امي, بس, هم; dialogue has إمّي, بسّ, همّ. Bubble also has a double space after أخوي. (Canva source)."
+            }
+          ]
+        }
+      ],
+      "caption": null,
+      "note": "Dialogue narration \"After showing Sami the picture, Ahmad gets up from the couch.\" (line 6) is not drawn as a caption."
+    },
+    {
+      "id": "p155-5",
+      "image": "comics/abv-vol1/p155-5.webp",
+      "page": 155,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-7",
+          "speaker": "Ahmad",
+          "ar": "بدّي كم شغلة من غرفتي.",
+          "translit": "biddī kam shaghle min ghurftī.",
+          "en": "I need a few things from my room.",
+          "dialogueLine": 7,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch2-ahmads-house-8",
+          "speaker": "Sami",
+          "ar": "تمام.",
+          "translit": "tamām.",
+          "en": "Okay.",
+          "dialogueLine": 8,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p156-1",
+      "image": "comics/abv-vol1/p156-1.webp",
+      "page": 156,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-9",
+          "speaker": "Ahmad",
+          "ar": "وهادا كلبي هارو، وهديك بسّة مرتي، لولو.",
+          "translit": "w-hāda kalbī Hāru, w-hadīk bisset martī, Lūlu.",
+          "en": "This is my dog, Haru, and that’s my wife’s cat, Lulu.",
+          "dialogueLine": 10,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null,
+      "note": "Haru and Lulu appear. Dialogue narration (line 9: dog licks Sami's hand, cat strolls past) is not drawn as a caption; the licking is not depicted."
+    },
+    {
+      "id": "p156-2",
+      "image": "comics/abv-vol1/p156-2.webp",
+      "page": 156,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-10",
+          "speaker": "Ahmad",
+          "ar": "شكلها غريبة شوي… بس هي كتير لطيفة.",
+          "translit": "shiklha gharībe shwayy… bass hiyye ktīr laṭīfe.",
+          "en": "She looks a little funny… but she’s really sweet.",
+          "dialogueLine": 11,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has شوي and بس; dialogue has شويّ and بسّ."
+            }
+          ]
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p156-3",
+      "image": "comics/abv-vol1/p156-3.webp",
+      "page": 156,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-11",
+          "speaker": "Sami",
+          "ar": "ما شاء الله! كلبك كبير كتير!",
+          "translit": "mā shāʾ Allāh! kalbak kbīr ktīr!",
+          "en": "Wow! Your dog is really big!",
+          "dialogueLine": 12,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p156-4",
+      "image": "comics/abv-vol1/p156-4.webp",
+      "page": 156,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-12",
+          "speaker": "Ahmad",
+          "ar": "آه كبير… بس هادي كتير.",
+          "translit": "āh, kbīr… bass hādi ktīr.",
+          "en": "Yeah, he’s big… but he’s very calm.",
+          "dialogueLine": 13,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has آه كبير… بس (no comma, no shadda); dialogue has آه، كبير… بسّ."
+            }
+          ]
+        }
+      ],
+      "caption": null,
+      "note": "Dialogue narration \"They reach Ahmad's room…\" (line 14) is not drawn as a caption."
+    },
+    {
+      "id": "p156-5",
+      "image": "comics/abv-vol1/p156-5.webp",
+      "page": 156,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-13",
+          "speaker": "Ahmad",
+          "ar": "ثواني بس…",
+          "translit": "sawāni bass.",
+          "en": "Just a few seconds.",
+          "dialogueLine": 15,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has ثواني بس… (no shadda, ellipsis); dialogue has ثواني بسّ. (shadda, full stop)."
+            }
+          ]
+        },
+        {
+          "id": "ch2-ahmads-house-14",
+          "speaker": "Sami",
+          "ar": "شو بدّك؟",
+          "translit": "shū biddak?",
+          "en": "What do you need?",
+          "dialogueLine": 16,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    },
+    {
+      "id": "p156-6",
+      "image": "comics/abv-vol1/p156-6.webp",
+      "page": 156,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-15",
+          "speaker": "Ahmad",
+          "ar": "بدي جوالي ومفاتيحي وشوية مصاري.",
+          "translit": "biddī jawwālī, mafātīḥī, w-shwayyet maṣāri.",
+          "en": "I need my cell phone, my keys, and a little money.",
+          "dialogueLine": 17,
+          "textFrom": "dialogue",
+          "flags": [
+            {
+              "kind": "suspected-error",
+              "note": "Bubble has بدي جوالي ومفاتيحي وشوية مصاري. (no shaddas, no commas, و before مفاتيحي); dialogue has بدّي جوّالي، مفاتيحي، وشويّة مصاري."
+            }
+          ]
+        }
+      ],
+      "caption": null,
+      "note": "Dialogue narration \"Ahmad returns with everything he needs.\" (line 18) is not drawn as a caption; panel shows Ahmad picking up phone, keys and money."
+    },
+    {
+      "id": "p156-7",
+      "image": "comics/abv-vol1/p156-7.webp",
+      "page": 156,
+      "lines": [
+        {
+          "id": "ch2-ahmads-house-16",
+          "speaker": "Ahmad",
+          "ar": "يلّا، جاهز؟",
+          "translit": "yalla, jāhiz?",
+          "en": "All right, ready?",
+          "dialogueLine": 19,
+          "textFrom": "dialogue"
+        },
+        {
+          "id": "ch2-ahmads-house-17",
+          "speaker": "Sami",
+          "ar": "جاهز. يلّا!",
+          "translit": "jāhiz. yalla!",
+          "en": "Ready. Let’s go!",
+          "dialogueLine": 20,
+          "textFrom": "dialogue"
+        }
+      ],
+      "caption": null
+    }
+  ]
+}

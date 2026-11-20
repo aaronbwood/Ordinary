@@ -1,0 +1,18 @@
+{
+ "note": "Voice for each comic/dialogue character (ElevenLabs voice ids). Change a voice here, then regenerate that character's lines. All generated audio is a candidate until the teacher approves it for Palestinian-Jordanian pronunciation.",
+ "model": "eleven_v4",
+ "characters": {
+  "Aaron": { "voiceId": "HAiY6E3VjohedjUlBO1p", "voiceName": "Aaron Main (your clone)" },
+  "Aaron and Walaa": { "voiceId": "HAiY6E3VjohedjUlBO1p", "voiceName": "Aaron Main (your clone)" },
+  "Taha": { "voiceId": "NeokBGcPJaElDOj380Qt", "voiceName": "Bader Eshtaya (Palestinian)" },
+  "Walaa": { "voiceId": "6ZvbKYJmZfL6zVBzLwpV", "voiceName": "Lina (Jordanian, young female)" },
+  "Ahmad": { "voiceId": "yj98XMKoIiQ9r3DGZiml", "voiceName": "Mohammad Zain (Jordanian, young)" },
+  "Sami": { "voiceId": "PLazKXHwzvmGjTjSOCTF", "voiceName": "Mo Jn (Jordanian, calm)" },
+  "Ghayda": { "voiceId": "jAAHNNqlbAX9iWjJPEtE", "voiceName": "Sara (young female)" },
+  "Yezan": { "voiceId": "drMurExmkWVIH5nW8snR", "voiceName": "Khaled Alnajjar (Palestinian)" },
+  "Muhammad": { "voiceId": "8sSDN08XkFeN2zqNwCZk", "voiceName": "Odai (Palestinian)" },
+  "Mom": { "voiceId": "qqoGsCP3aVgNBb1rmA33", "voiceName": "Bebe (Jordanian, middle-aged female)" },
+  "Walid": { "voiceId": "7mLtkQsi2wugYsAucgv1", "voiceName": "Booker (Palestinian, mature)" },
+  "Yousef": { "voiceId": "dtZya8QgrkOnEbmiQOmI", "voiceName": "Samir (Jordanian, Ammani)" }
+ }
+}

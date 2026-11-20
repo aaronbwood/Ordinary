@@ -11,6 +11,7 @@ import { ReviewView } from './pages/ReviewView';
 import { RhythmView } from './pages/RhythmView';
 import { ApartmentView } from './pages/ApartmentView';
 import { DrillsView } from './pages/DrillsView';
+import { ComicView } from './pages/ComicView';
 import { SettingsView } from './pages/SettingsView';
 
 export const DEFAULT_COURSE = 'abv-vol1';
@@ -29,7 +30,8 @@ export function App() {
 
   let page: JSX.Element;
   let m: Record<string, string> | null;
-  if ((m = match('/c/:course/l/:lesson/scene/:scene', path))) page = <ApartmentView courseId={m.course} lessonId={m.lesson} blockId={m.scene} />;
+  if ((m = match('/c/:course/l/:lesson/comic/:comic', path))) page = <ComicView courseId={m.course} lessonId={m.lesson} comicId={m.comic} />;
+  else if ((m = match('/c/:course/l/:lesson/scene/:scene', path))) page = <ApartmentView courseId={m.course} lessonId={m.lesson} blockId={m.scene} />;
   else if ((m = match('/c/:course/l/:lesson/x/:ex', path))) page = <PracticeView courseId={m.course} lessonId={m.lesson} exerciseId={m.ex} />;
   else if ((m = match('/c/:course/l/:lesson', path))) page = <LessonView courseId={m.course} lessonId={m.lesson} />;
   else if ((m = match('/c/:course/review', path))) page = <ReviewView courseId={m.course} />;
