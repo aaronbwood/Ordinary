@@ -30,6 +30,7 @@ from the Canva page exports by `scripts/cut-comic-panels.py` into
           "en": "Peace be upon you!",          // from the printed dialogue
           "dialogueLine": 0,                    // index in the dialogue's lines[], or null
           "textFrom": "bubble",                 // "bubble" or "dialogue" for translit/en origin
+          "direction": "[warmly]",              // optional performance direction for the voice (never shown)
           "flags": [ { "kind": "suspected-error", "note": "Bubble has هاي هي; dialogue has هاي هيّ" } ]
         }
       ],

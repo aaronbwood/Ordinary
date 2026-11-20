@@ -1,4 +1,113 @@
 {
- "note": "Approved model recordings. Add an entry per recording: key = exercise item id, vocab id, dialogue line id (<dialogueId>:<lineIndex>), scene key (scene:<taskId>) or the exact Arabic text. status = teacher | native-reviewed | generated-candidate. Files go in public/audio/abv-vol1/. No recordings have been supplied yet.",
- "recordings": []
+ "note": "Model recordings. key = exercise item id, vocab id, comic line id, dialogue line id (<dialogueId>:<lineIndex>), scene key (scene:<taskId>) or exact Arabic text. status = teacher | native-reviewed | generated-candidate (generated, awaiting teacher dialect review). Files in public/audio/abv-vol1/.",
+ "recordings": [
+  {
+   "key": "ch1-tahas-cafe-1",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-1.mp3",
+   "status": "generated-candidate",
+   "speaker": "Taha",
+   "voice": "Bader Eshtaya (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch1-tahas-cafe-2",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-2.mp3",
+   "status": "generated-candidate",
+   "speaker": "Aaron and Walaa",
+   "voice": "Aaron Main (your clone)",
+   "model": "eleven_v4",
+   "direction": "[cheerfully]"
+  },
+  {
+   "key": "ch1-tahas-cafe-3",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-3.mp3",
+   "status": "generated-candidate",
+   "speaker": "Taha",
+   "voice": "Bader Eshtaya (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[friendly]"
+  },
+  {
+   "key": "ch1-tahas-cafe-4",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-4.mp3",
+   "status": "generated-candidate",
+   "speaker": "Aaron and Walaa",
+   "voice": "Aaron Main (your clone)",
+   "model": "eleven_v4",
+   "direction": "[happily]"
+  },
+  {
+   "key": "ch1-tahas-cafe-5",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-5.mp3",
+   "status": "generated-candidate",
+   "speaker": "Taha",
+   "voice": "Bader Eshtaya (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[curious]"
+  },
+  {
+   "key": "ch1-tahas-cafe-6",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-6.mp3",
+   "status": "generated-candidate",
+   "speaker": "Aaron",
+   "voice": "Aaron Main (your clone)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch1-tahas-cafe-7",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-7.mp3",
+   "status": "generated-candidate",
+   "speaker": "Taha",
+   "voice": "Bader Eshtaya (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[delighted]"
+  },
+  {
+   "key": "ch1-tahas-cafe-8",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-8.mp3",
+   "status": "generated-candidate",
+   "speaker": "Aaron and Walaa",
+   "voice": "Aaron Main (your clone)",
+   "model": "eleven_v4",
+   "direction": "[warmly]"
+  },
+  {
+   "key": "ch1-tahas-cafe-9",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-9.mp3",
+   "status": "generated-candidate",
+   "speaker": "Taha",
+   "voice": "Bader Eshtaya (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[proudly]"
+  },
+  {
+   "key": "ch1-tahas-cafe-10",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-10.mp3",
+   "status": "generated-candidate",
+   "speaker": "Taha",
+   "voice": "Bader Eshtaya (Palestinian)",
+   "model": "eleven_v4",
+   "direction": "[friendly]"
+  },
+  {
+   "key": "ch1-tahas-cafe-11",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-11.mp3",
+   "status": "generated-candidate",
+   "speaker": "Aaron",
+   "voice": "Aaron Main (your clone)",
+   "model": "eleven_v4",
+   "direction": "[casually]"
+  },
+  {
+   "key": "ch1-tahas-cafe-12",
+   "src": "audio/abv-vol1/ch1-tahas-cafe-12.mp3",
+   "status": "generated-candidate",
+   "speaker": "Walaa",
+   "voice": "Lina (Jordanian, young female)",
+   "model": "eleven_v4",
+   "direction": "[playfully]"
+  }
+ ]
 }

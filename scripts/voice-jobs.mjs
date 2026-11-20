@@ -21,9 +21,13 @@ for (const p of comic.panels)
     if (flag === '--missing' && have.has(l.id)) continue;
     const d = dialogues[l.dialogueId ?? comic.dialogueId];
     const dl = d && l.dialogueLine != null ? d.lines[l.dialogueLine] : null;
-    const text = dl?.ar && strip(dl.ar) === strip(l.ar) ? dl.ar : l.ar;
+    const end = (x) => (x.trim().match(/[.!؟?…]+$/) ?? [''])[0];
+    // same words: use the fuller vowel marks of the dialogue, but keep the bubble's own end punctuation
+    const text = dl?.ar && strip(dl.ar) === strip(l.ar) ? dl.ar.trim().replace(/[.!؟?…]+$/, '') + end(l.ar) : l.ar;
     const v = cast.characters[l.speaker];
-    jobs.push({ id: l.id, speaker: l.speaker, voiceId: v?.voiceId ?? null, text, chars: text.length });
+    // performance direction (eleven_v4 audio tag), never shown on screen
+    const prompt = l.direction ? `${l.direction} ${text}` : text;
+    jobs.push({ id: l.id, speaker: l.speaker, voiceId: v?.voiceId ?? null, text: prompt, chars: prompt.length });
   }
 console.log(JSON.stringify(jobs, null, 1));
 console.error(`${jobs.length} lines, ${jobs.reduce((n, j) => n + j.chars, 0)} characters, missing voices: ${jobs.filter((j) => !j.voiceId).map((j) => j.speaker).join(', ') || 'none'}`);

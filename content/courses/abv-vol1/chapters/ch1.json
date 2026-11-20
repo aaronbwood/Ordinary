@@ -10340,6 +10340,19 @@
      }
     },
     {
+     "type": "comic",
+     "id": "comic-ch1-tahas-cafe",
+     "comicId": "ch1-tahas-cafe",
+     "title": "Taha’s Café",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       68,
+       69
+      ]
+     }
+    },
+    {
      "type": "image",
      "kind": "comic",
      "description": "Six-panel comic (read right-to-left, top to bottom) of Taha’s Café, Arabic + transliteration speech bubbles, no English. Aaron (dark hair, moustache, blue jacket, suitcase) and Walaa (long curly blonde hair, beige coat, backpack and suitcase) enter a café run by Taha (dark beard, dark shirt, green apron). Panels: Taha greets them “السلام عليكم! / Is-salām ʿalēkum!” at the café entrance with a sunlit old-city street behind; Aaron replies “وعليكم السلام / W-ʿalēkum is-salām”; Taha asks “كيفكم؟ / Kīfkum?” beside the coffee counter; Aaron, hand on chest, answers “منيحين، الحمد للّٰه. وإنت؟ / Mnīḥīn, il-ḥamdillāh. W-inta?”; Taha replies “منيح، الحمد للّٰه. إنتو من وين؟ / Mnīḥ, il-ḥamdillāh. Intu min wēn?”; Aaron, gesturing to Walaa, says “إحنا أمريكيين، من تكساس. اسمي هارون، وهاي مرتي ولاء.”",

@@ -1,344 +1,356 @@
 {
-  "id": "ch1-tahas-cafe",
-  "title": {
-    "ar": null,
-    "translit": null,
-    "en": "Taha’s Café"
-  },
-  "chapterId": "ch1",
-  "lessonId": "ch1-putting-it-together",
-  "dialogueId": "ch1-dlg-tahas-cafe",
-  "source": {
-    "designId": "DAHaz00vw2w",
-    "pages": [
-      68,
-      69
-    ]
-  },
-  "characters": [
-    {
-      "name": "Taha",
-      "description": "café owner; dark curly hair, full beard, black button-up shirt, dark green apron with brown leather straps"
-    },
-    {
-      "name": "Aaron",
-      "description": "tall man; short dark hair, thick black mustache, navy blue jacket over cream T-shirt, black backpack, navy rolling suitcase"
-    },
-    {
-      "name": "Walaa",
-      "description": "Aaron's wife; long curly golden-blond hair, beige button jacket over cream top, jeans, brown backpack, rolling suitcase"
-    }
-  ],
-  "panels": [
-    {
-      "id": "p68-1",
-      "image": "comics/abv-vol1/p68-1.webp",
-      "page": 68,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-1",
-          "speaker": "Taha",
-          "ar": "السلام عليكم!",
-          "translit": "Is-salām ʿalēkum!",
-          "en": "Peace be upon you!",
-          "dialogueLine": 0,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Arabic: bubble has السلام (no shadda); dialogue has السَّلام."
-            },
-            {
-              "kind": "needs-review",
-              "note": "Transliteration capitalised in bubble (Is-salām); dialogue has is-salām."
-            },
-            {
-              "kind": "suspected-error",
-              "note": "Bubble transliteration is rendered with the '!' at the start (\"!Is-salām ʿalēkum\"), an RTL/bidi layout error in the bubble; stored here with the '!' at the end."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p68-2",
-      "image": "comics/abv-vol1/p68-2.webp",
-      "page": 68,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-2",
-          "speaker": "Aaron and Walaa",
-          "ar": "وعليكم السلام",
-          "translit": "W-ʿalēkum is-salām",
-          "en": "And peace be upon you!",
-          "dialogueLine": 1,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Arabic: bubble has وعليكم السلام with no harakat and no '!'; dialogue has وعَلَيكُم السَّلام!"
-            },
-            {
-              "kind": "needs-review",
-              "note": "Transliteration: bubble has W-ʿalēkum is-salām (capital W, no '!'); dialogue has w-ʿalēkum is-salām!"
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p68-3",
-      "image": "comics/abv-vol1/p68-3.webp",
-      "page": 68,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-3",
-          "speaker": "Taha",
-          "ar": "كيفكم؟",
-          "translit": "Kīfkum?",
-          "en": "How are you all doing?",
-          "dialogueLine": 2,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Arabic: bubble has كيفكم؟ (no damma); dialogue has كيفكُم؟"
-            },
-            {
-              "kind": "needs-review",
-              "note": "Transliteration capitalised in bubble (Kīfkum?); dialogue has kīfkum?"
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p68-4",
-      "image": "comics/abv-vol1/p68-4.webp",
-      "page": 68,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-4",
-          "speaker": "Aaron and Walaa",
-          "ar": "منيحين، الحمد للّٰه. وإنت؟",
-          "translit": "Mnīḥīn, il-ḥamdillāh. W-inta?",
-          "en": "We’re well, thank God. And you?",
-          "dialogueLine": 3,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Arabic: bubble has منيحين / الحمد / وإنت؟ with no harakat; dialogue has مْنيحين / الحَمد / وإنتَ؟ (للّٰه identical)."
-            },
-            {
-              "kind": "needs-review",
-              "note": "Transliteration capitalised in bubble (Mnīḥīn); dialogue has mnīḥīn."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p68-5",
-      "image": "comics/abv-vol1/p68-5.webp",
-      "page": 68,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-5",
-          "speaker": "Taha",
-          "ar": "منيح، الحمد للّٰه. إنتو من وين؟",
-          "translit": "Mnīḥ, il-ḥamdillāh. Intu min wēn?",
-          "en": "I’m well, thank God. Where are you all from?",
-          "dialogueLine": 4,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Arabic: bubble has منيح / الحمد with no harakat; dialogue has مْنيح / الحَمد."
-            },
-            {
-              "kind": "needs-review",
-              "note": "Transliteration capitalised in bubble (Mnīḥ); dialogue has mnīḥ. Bubble breaks the line into 4 printed lines (Arabic/translit per sentence); joined with spaces here."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p68-6",
-      "image": "comics/abv-vol1/p68-6.webp",
-      "page": 68,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-6",
-          "speaker": "Aaron",
-          "ar": "إحنا أمريكيين، من تكساس. اسمي هارون، وهاي مرتي ولاء.",
-          "translit": "iḥna amīrīkiyyīn, min Tiksās. ismī Hārūn, w-hāy martī Walāʾ.",
-          "en": "We’re American. From Texas. My name is Aaron, and this is my wife, Walaa.",
-          "dialogueLine": 5,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Transliteration: bubble has amīrīkiyyīn; dialogue has amrīkiyyīn (extra ī after m in the bubble; one of the two dialogues is likely a typo)."
-            },
-            {
-              "kind": "suspected-error",
-              "note": "Bubble transliteration is rendered with the final '.' at the start (\".iḥna … Walāʾ\"), an RTL/bidi layout error; stored with the '.' at the end."
-            },
-            {
-              "kind": "ambiguous",
-              "note": "Small text: dots from the Arabic line above overlap the transliteration (a mark over the s of Tiksās looks like š, dots over a y). Read as Tiksās / -kiyyīn; verify against the Canva source."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p69-1",
-      "image": "comics/abv-vol1/p69-1.webp",
-      "page": 69,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-7",
-          "speaker": "Taha",
-          "ar": "تشرفنا!",
-          "translit": "tsharrafna!",
-          "en": "Nice to meet you.",
-          "dialogueLine": 6,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Punctuation: bubble ends with '!' (تشرفنا! / tsharrafna!); dialogue ends with '.' (تشرفنا. / tsharrafna.)."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p69-2",
-      "image": "comics/abv-vol1/p69-2.webp",
-      "page": 69,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-8",
-          "speaker": "Aaron and Walaa",
-          "ar": "الشرف إلنا!",
-          "translit": "ish-sharaf ilna!",
-          "en": "The honor is ours.",
-          "dialogueLine": 7,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Arabic: bubble has الشرف (no shadda); dialogue has الشَّرف."
-            },
-            {
-              "kind": "needs-review",
-              "note": "Punctuation: bubble ends with '!' (Arabic and transliteration); dialogue ends with '.'."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p69-3",
-      "image": "comics/abv-vol1/p69-3.webp",
-      "page": 69,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-9",
-          "speaker": "Taha",
-          "ar": "اسمي طه، وأنا صاحب هالقهوة.",
-          "translit": "Ismī Ṭāhā, w-ana ṣāḥib hal-ʾahwe.",
-          "en": "My name is Taha, and I’m the owner of this café.",
-          "dialogueLine": 8,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Arabic: bubble has صاحب هالقهوة with no harakat; dialogue has صاحِب هالقَهْوِة (the kasra on و in the dialogue's هالقَهْوِة looks like a typo there)."
-            },
-            {
-              "kind": "needs-review",
-              "note": "Transliteration capitalised in bubble (Ismī); dialogue has ismī."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p69-4",
-      "image": "comics/abv-vol1/p69-4.webp",
-      "page": 69,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-10",
-          "speaker": "Taha",
-          "ar": "شو بدكم؟",
-          "translit": "Shū biddkum?",
-          "en": "What would you all like?",
-          "dialogueLine": 9,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Transliteration capitalised in bubble (Shū); dialogue has shū."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p69-5",
-      "image": "comics/abv-vol1/p69-5.webp",
-      "page": 69,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-11",
-          "speaker": "Aaron",
-          "ar": "بدنا فنجانين قهوة سادة.",
-          "translit": "bidna finjānēn ʾahwe sāde.",
-          "en": "We want two cups of black coffee.",
-          "dialogueLine": 10,
-          "textFrom": "bubble",
-          "flags": [
-            {
-              "kind": "needs-review",
-              "note": "Arabic: bubble has فنجانين قهوة with no harakat; dialogue has فِنْجانين قَهْوة."
-            }
-          ]
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p69-6",
-      "image": "comics/abv-vol1/p69-6.webp",
-      "page": 69,
-      "lines": [
-        {
-          "id": "ch1-tahas-cafe-12",
-          "speaker": "Walaa",
-          "ar": "وقَويّة كتير، لو سمحت!",
-          "translit": "w-ʾawiyye ktīr, law samaḥt!",
-          "en": "And really strong, please!",
-          "dialogueLine": 11,
-          "textFrom": "bubble"
-        }
-      ],
-      "caption": null
-    }
+ "id": "ch1-tahas-cafe",
+ "title": {
+  "ar": null,
+  "translit": null,
+  "en": "Taha’s Café"
+ },
+ "chapterId": "ch1",
+ "lessonId": "ch1-putting-it-together",
+ "dialogueId": "ch1-dlg-tahas-cafe",
+ "source": {
+  "designId": "DAHaz00vw2w",
+  "pages": [
+   68,
+   69
   ]
+ },
+ "characters": [
+  {
+   "name": "Taha",
+   "description": "café owner; dark curly hair, full beard, black button-up shirt, dark green apron with brown leather straps"
+  },
+  {
+   "name": "Aaron",
+   "description": "tall man; short dark hair, thick black mustache, navy blue jacket over cream T-shirt, black backpack, navy rolling suitcase"
+  },
+  {
+   "name": "Walaa",
+   "description": "Aaron's wife; long curly golden-blond hair, beige button jacket over cream top, jeans, brown backpack, rolling suitcase"
+  }
+ ],
+ "panels": [
+  {
+   "id": "p68-1",
+   "image": "comics/abv-vol1/p68-1.webp",
+   "page": 68,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-1",
+     "speaker": "Taha",
+     "ar": "السلام عليكم!",
+     "translit": "Is-salām ʿalēkum!",
+     "en": "Peace be upon you!",
+     "dialogueLine": 0,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Arabic: bubble has السلام (no shadda); dialogue has السَّلام."
+      },
+      {
+       "kind": "needs-review",
+       "note": "Transliteration capitalised in bubble (Is-salām); dialogue has is-salām."
+      },
+      {
+       "kind": "suspected-error",
+       "note": "Bubble transliteration is rendered with the '!' at the start (\"!Is-salām ʿalēkum\"), an RTL/bidi layout error in the bubble; stored here with the '!' at the end."
+      }
+     ],
+     "direction": "[warmly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p68-2",
+   "image": "comics/abv-vol1/p68-2.webp",
+   "page": 68,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-2",
+     "speaker": "Aaron and Walaa",
+     "ar": "وعليكم السلام",
+     "translit": "W-ʿalēkum is-salām",
+     "en": "And peace be upon you!",
+     "dialogueLine": 1,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Arabic: bubble has وعليكم السلام with no harakat and no '!'; dialogue has وعَلَيكُم السَّلام!"
+      },
+      {
+       "kind": "needs-review",
+       "note": "Transliteration: bubble has W-ʿalēkum is-salām (capital W, no '!'); dialogue has w-ʿalēkum is-salām!"
+      }
+     ],
+     "direction": "[cheerfully]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p68-3",
+   "image": "comics/abv-vol1/p68-3.webp",
+   "page": 68,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-3",
+     "speaker": "Taha",
+     "ar": "كيفكم؟",
+     "translit": "Kīfkum?",
+     "en": "How are you all doing?",
+     "dialogueLine": 2,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Arabic: bubble has كيفكم؟ (no damma); dialogue has كيفكُم؟"
+      },
+      {
+       "kind": "needs-review",
+       "note": "Transliteration capitalised in bubble (Kīfkum?); dialogue has kīfkum?"
+      }
+     ],
+     "direction": "[friendly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p68-4",
+   "image": "comics/abv-vol1/p68-4.webp",
+   "page": 68,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-4",
+     "speaker": "Aaron and Walaa",
+     "ar": "منيحين، الحمد للّٰه. وإنت؟",
+     "translit": "Mnīḥīn, il-ḥamdillāh. W-inta?",
+     "en": "We’re well, thank God. And you?",
+     "dialogueLine": 3,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Arabic: bubble has منيحين / الحمد / وإنت؟ with no harakat; dialogue has مْنيحين / الحَمد / وإنتَ؟ (للّٰه identical)."
+      },
+      {
+       "kind": "needs-review",
+       "note": "Transliteration capitalised in bubble (Mnīḥīn); dialogue has mnīḥīn."
+      }
+     ],
+     "direction": "[happily]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p68-5",
+   "image": "comics/abv-vol1/p68-5.webp",
+   "page": 68,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-5",
+     "speaker": "Taha",
+     "ar": "منيح، الحمد للّٰه. إنتو من وين؟",
+     "translit": "Mnīḥ, il-ḥamdillāh. Intu min wēn?",
+     "en": "I’m well, thank God. Where are you all from?",
+     "dialogueLine": 4,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Arabic: bubble has منيح / الحمد with no harakat; dialogue has مْنيح / الحَمد."
+      },
+      {
+       "kind": "needs-review",
+       "note": "Transliteration capitalised in bubble (Mnīḥ); dialogue has mnīḥ. Bubble breaks the line into 4 printed lines (Arabic/translit per sentence); joined with spaces here."
+      }
+     ],
+     "direction": "[curious]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p68-6",
+   "image": "comics/abv-vol1/p68-6.webp",
+   "page": 68,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-6",
+     "speaker": "Aaron",
+     "ar": "إحنا أمريكيين، من تكساس. اسمي هارون، وهاي مرتي ولاء.",
+     "translit": "iḥna amīrīkiyyīn, min Tiksās. ismī Hārūn, w-hāy martī Walāʾ.",
+     "en": "We’re American. From Texas. My name is Aaron, and this is my wife, Walaa.",
+     "dialogueLine": 5,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Transliteration: bubble has amīrīkiyyīn; dialogue has amrīkiyyīn (extra ī after m in the bubble; one of the two dialogues is likely a typo)."
+      },
+      {
+       "kind": "suspected-error",
+       "note": "Bubble transliteration is rendered with the final '.' at the start (\".iḥna … Walāʾ\"), an RTL/bidi layout error; stored with the '.' at the end."
+      },
+      {
+       "kind": "ambiguous",
+       "note": "Small text: dots from the Arabic line above overlap the transliteration (a mark over the s of Tiksās looks like š, dots over a y). Read as Tiksās / -kiyyīn; verify against the Canva source."
+      }
+     ],
+     "direction": "[warmly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p69-1",
+   "image": "comics/abv-vol1/p69-1.webp",
+   "page": 69,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-7",
+     "speaker": "Taha",
+     "ar": "تشرفنا!",
+     "translit": "tsharrafna!",
+     "en": "Nice to meet you.",
+     "dialogueLine": 6,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Punctuation: bubble ends with '!' (تشرفنا! / tsharrafna!); dialogue ends with '.' (تشرفنا. / tsharrafna.)."
+      }
+     ],
+     "direction": "[delighted]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p69-2",
+   "image": "comics/abv-vol1/p69-2.webp",
+   "page": 69,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-8",
+     "speaker": "Aaron and Walaa",
+     "ar": "الشرف إلنا!",
+     "translit": "ish-sharaf ilna!",
+     "en": "The honor is ours.",
+     "dialogueLine": 7,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Arabic: bubble has الشرف (no shadda); dialogue has الشَّرف."
+      },
+      {
+       "kind": "needs-review",
+       "note": "Punctuation: bubble ends with '!' (Arabic and transliteration); dialogue ends with '.'."
+      }
+     ],
+     "direction": "[warmly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p69-3",
+   "image": "comics/abv-vol1/p69-3.webp",
+   "page": 69,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-9",
+     "speaker": "Taha",
+     "ar": "اسمي طه، وأنا صاحب هالقهوة.",
+     "translit": "Ismī Ṭāhā, w-ana ṣāḥib hal-ʾahwe.",
+     "en": "My name is Taha, and I’m the owner of this café.",
+     "dialogueLine": 8,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Arabic: bubble has صاحب هالقهوة with no harakat; dialogue has صاحِب هالقَهْوِة (the kasra on و in the dialogue's هالقَهْوِة looks like a typo there)."
+      },
+      {
+       "kind": "needs-review",
+       "note": "Transliteration capitalised in bubble (Ismī); dialogue has ismī."
+      }
+     ],
+     "direction": "[proudly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p69-4",
+   "image": "comics/abv-vol1/p69-4.webp",
+   "page": 69,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-10",
+     "speaker": "Taha",
+     "ar": "شو بدكم؟",
+     "translit": "Shū biddkum?",
+     "en": "What would you all like?",
+     "dialogueLine": 9,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Transliteration capitalised in bubble (Shū); dialogue has shū."
+      }
+     ],
+     "direction": "[friendly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p69-5",
+   "image": "comics/abv-vol1/p69-5.webp",
+   "page": 69,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-11",
+     "speaker": "Aaron",
+     "ar": "بدنا فنجانين قهوة سادة.",
+     "translit": "bidna finjānēn ʾahwe sāde.",
+     "en": "We want two cups of black coffee.",
+     "dialogueLine": 10,
+     "textFrom": "bubble",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Arabic: bubble has فنجانين قهوة with no harakat; dialogue has فِنْجانين قَهْوة."
+      }
+     ],
+     "direction": "[casually]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p69-6",
+   "image": "comics/abv-vol1/p69-6.webp",
+   "page": 69,
+   "lines": [
+    {
+     "id": "ch1-tahas-cafe-12",
+     "speaker": "Walaa",
+     "ar": "وقَويّة كتير، لو سمحت!",
+     "translit": "w-ʾawiyye ktīr, law samaḥt!",
+     "en": "And really strong, please!",
+     "dialogueLine": 11,
+     "textFrom": "bubble",
+     "direction": "[playfully]"
+    }
+   ],
+   "caption": null
+  }
+ ]
 }
