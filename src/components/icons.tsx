@@ -11,6 +11,7 @@ const PATHS: Record<string, string> = {
   door: 'M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16M4 21h16M14 12h.01',
   metronome: 'M9 3h6l4 18H5zM12 17l4-10',
   review: 'M12 21a9 9 0 1 1 9-9M21 4v5h-5M12 7v5l3 2',
+  words: 'M5 4h4v16H5zM10 4h4v16h-4zM15.5 4.5l3.5 1-4 15-3.5-1z',
   comic: 'M4 5h16v11H11l-4 3v-3H4zM8 9h8M8 12h5',
   check: 'M5 12l5 5 9-10',
   x: 'M6 6l12 12M18 6 6 18',

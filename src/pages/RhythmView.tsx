@@ -8,6 +8,7 @@ import { stopAudio } from '../audio/audio';
 import { Ar, AudioButton, SourceLink } from '../components/common';
 import { Icon } from '../components/icons';
 import { syllabify } from '../lib/syllables';
+import { findBank, vocabBanks } from '../lib/vocabBanks';
 
 type Mode = 'sr' | 'vocab';
 
@@ -18,7 +19,9 @@ function hashQuery(): URLSearchParams {
 
 interface Bank {
   key: string;
+  memberKeys: string[];
   label: string;
+  heading: string;
   chapter: number;
   lessonIndex: number;
   words: VocabWord[];
@@ -56,24 +59,30 @@ export function RhythmView({ courseId }: { courseId: string }) {
     return out;
   }, [lessons]);
 
-  // Vocabulary banks, in book order
+  // Every vocabulary bank in the book, in book order
   const banks: Bank[] = useMemo(() => {
-    const out: Bank[] = [];
-    for (const r of lessons)
-      r.lesson.blocks.forEach((b, i) => {
-        if (b.type !== 'vocab') return;
-        const words = (b.items as VocabItem[])
-          .filter((v) => v.ar && v.translit)
-          .map((v) => ({ id: v.id, ar: v.ar!, translit: v.translit!, en: v.en, syllables: (v as any).syllables }));
-        if (words.length)
-          out.push({ key: b.id ?? `${r.lesson.id}:${i}`, label: `Ch ${r.chapter.number} · ${b.heading ?? r.lesson.title}`, chapter: r.chapter.number, lessonIndex: r.index, words, source: b.source });
-      });
-    return out;
-  }, [lessons]);
+    if (!course) return [];
+    return vocabBanks(course)
+      .map((b) => ({
+        key: b.key,
+        memberKeys: b.memberKeys,
+        heading: b.heading,
+        label: `Ch ${b.chapter} · ${b.heading}`,
+        chapter: b.chapter,
+        lessonIndex: b.lessonIndex,
+        source: b.source,
+        words: b.items.filter((v) => v.ar && v.translit).map((v) => ({ id: v.id, ar: v.ar!, translit: v.translit!, en: v.en, syllables: (v as any).syllables })),
+      }))
+      .filter((b) => b.words.length);
+  }, [course]);
+  const chapters = useMemo(() => [...new Set(banks.map((b) => b.chapter))], [banks]);
+  // "later" only for chapters after the one the student has reached (at least Chapter 1)
+  const reachedChapter = Math.max(1, lessons.find((r) => r.index === reached)?.chapter.number ?? 1);
 
-  const defaultBank = q.get('bank') ?? [...banks].reverse().find((b) => b.lessonIndex <= reached)?.key ?? banks[0]?.key;
+  const defaultBank = findBank(banks, q.get('bank'))?.key ?? [...banks].reverse().find((b) => b.lessonIndex <= reached)?.key ?? banks[0]?.key;
   const [bankKey, setBankKey] = useState(defaultBank ?? '');
   const bank = banks.find((b) => b.key === bankKey) ?? banks[0];
+  const [chapterSel, setChapterSel] = useState<number>(bank?.chapter ?? 1);
   const [chunk, setChunk] = useState(0);
   const CHUNK = 8;
   useEffect(() => setChunk(0), [bankKey]);
@@ -204,19 +213,32 @@ export function RhythmView({ courseId }: { courseId: string }) {
       {mode === 'vocab' && bank && (
         <div className="card stack">
           <div className="row" style={{ justifyContent: 'space-between' }}>
-            <h2 style={{ margin: 0 }}>Vocabulary bank</h2>
+            <h2 style={{ margin: 0 }}>Vocabulary banks</h2>
             <SourceLink source={{ designId: 'DAHaz00vw2w', pages: [82] }} />
           </div>
           <p className="small muted" style={{ margin: 0 }}>
             Metronome Practice (p.82): set a slow, comfortable tempo (about 60–80 beats per minute), say one syllable on each click, repeat slowly until it feels natural, then say the whole word in one smooth flow.
           </p>
-          <select className="select" value={bank.key} onChange={(e) => setBankKey(e.target.value)} aria-label="Vocabulary bank">
-            {banks.map((b) => (
-              <option key={b.key} value={b.key}>
-                {b.label} ({b.words.length}){b.lessonIndex > reached ? ' · later in the book' : ''}
-              </option>
+          <div className="row" role="tablist" aria-label="Chapter">
+            {chapters.map((n) => (
+              <button key={n} role="tab" aria-selected={chapterSel === n} className={`chip ${chapterSel === n ? 'on' : ''}`} onClick={() => setChapterSel(n)}>
+                Chapter {n}
+              </button>
             ))}
-          </select>
+          </div>
+          <div className="bank-list" aria-label={`Chapter ${chapterSel} vocabulary banks`}>
+            {banks.filter((b) => b.chapter === chapterSel).map((b) => {
+              const chunks = Math.ceil(b.words.length / CHUNK);
+              const done = Array.from({ length: chunks }).filter((_, i) => p.completedActivities[`rhythm:vocab:${b.key}:${i}`]).length;
+              return (
+                <button key={b.key} className={`bank-chip ${b.key === bank.key ? 'on' : ''}`} aria-pressed={b.key === bank.key} onClick={() => setBankKey(b.key)}>
+                  <span>{b.heading}</span>
+                  <span className="small muted">{b.words.length} words{done ? ` · ${done}/${chunks} ✓` : ''}{b.chapter > reachedChapter ? ' · later in the book' : ''}</span>
+                </button>
+              );
+            })}
+          </div>
+          <h3 style={{ margin: '4px 0 0' }}>{bank.label}</h3>
           <div className="row" aria-label="Words">
             {Array.from({ length: Math.ceil(bank.words.length / CHUNK) }).map((_, i) => (
               <button key={i} className={`chip ${chunk === i ? 'on' : ''}`} onClick={() => setChunk(i)}>
