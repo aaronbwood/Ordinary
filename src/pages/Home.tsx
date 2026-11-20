@@ -62,6 +62,11 @@ export function Home() {
           <strong>Drills</strong>
           <small>Every fill-in-the-blank and recall drill, in book order</small>
         </a>
+        <a className="room" href={`#/c/${c}/comics`}>
+          <span className="ar">غُرْفِة الضُّيوف</span>
+          <strong>Comics</strong>
+          <small>Every comic in the book, read, heard and acted out</small>
+        </a>
         <a className="room" href={`#/c/${c}/rhythm`}>
           <span className="ar">الحوش</span>
           <strong>Rhythm</strong>

@@ -432,3 +432,10 @@ details > summary { cursor: pointer; }
 .comic-card { display: flex; gap: 12px; text-decoration: none; color: var(--ink); border-inline-start: 4px solid var(--blue); align-items: flex-start; }
 .comic-card img { width: 110px; border-radius: 8px; border: 2px solid var(--ink); flex: none; }
 @media (max-width: 420px) { .comic-card { flex-direction: column; } .comic-card img { width: 100%; } }
+
+.comic-shelf { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: 12px; }
+.comic-tile { display: flex; flex-direction: column; text-decoration: none; color: var(--ink); background: var(--plaster-2); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: var(--card-shadow); transition: transform 0.15s; }
+.comic-tile:hover { transform: translateY(-2px); }
+.comic-tile img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-bottom: 3px solid var(--ink); display: block; }
+.comic-tile-body { padding: 10px 12px 12px; display: flex; flex-direction: column; gap: 2px; }
+.bottomnav a { font-size: 0.68rem; }
