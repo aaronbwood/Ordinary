@@ -11695,15 +11695,21 @@
       },
       {
        "speaker": "Ghayda",
-       "ar": "آه، كتير. حتّى الجيران الجداد معزومين.",
-       "translit": "āh, ktīr. ḥatta il-jīrān il-jdād maʿzūmīn.",
-       "en": "Yes, a lot. Even the new neighbors are invited.",
+       "ar": "آه، كتير. حتّى الجيران الجداد من الضيوف.",
+       "translit": "āh, ktīr. ḥatta il-jīrān il-jdād min iḍ-ḍyūf.",
+       "en": "Yes, a lot. Even the new neighbors are among the guests.",
        "source": {
         "designId": "DAHaz00vw2w",
         "pages": [
          261
         ]
-       }
+       },
+       "flags": [
+        {
+         "kind": "needs-review",
+         "note": "Author decision: من الضيوف (min iḍ-ḍyūf) to match the p.265 comic; the book dialogue on p.261 still reads معزومين."
+        }
+       ]
       },
       {
        "speaker": "Walaa",
@@ -11791,7 +11797,7 @@
     {
      "type": "image",
      "kind": "comic",
-     "description": "Four-panel comic ending Scene Two. Near the balcony, Walaa asks “رح يكون في ناس كتيرة بالسّهرة اليوم؟”; Ghayda, hand on chest, answers in the living room “آه، كتير. حتّى الجيران الجداد معزومين.” Walaa clasps her hands: “ممتاز! مبروك ع الشقّة الجديدة.” On the balcony, beside a small round table with two chairs, a coffee pot and cups, and a city view, Ghayda says “الله يبارك فيكي. تعالي ع البلكونة، القهوة جاهزة.”",
+     "description": "Four-panel comic ending Scene Two. Near the balcony, Walaa asks “رح يكون في ناس كتيرة بالسّهرة اليوم؟”; Ghayda, hand on chest, answers in the living room “آه، كتير. حتّى الجيران الجداد من الضيوف.” Walaa clasps her hands: “ممتاز! مبروك ع الشقّة الجديدة.” On the balcony, beside a small round table with two chairs, a coffee pot and cups, and a city view, Ghayda says “الله يبارك فيكي. تعالي ع البلكونة، القهوة جاهزة.”",
      "caption": "Scene Two: At the Apartment (3)",
      "source": {
       "designId": "DAHaz00vw2w",
@@ -12387,18 +12393,30 @@
        "id": "ch3-ex-ghayda-translation-20",
        "prompt": {
         "en": null,
-        "ar": "غيداء: آه، كتير. حتّى الجيران الجداد معزومين.",
-        "translit": "Ghaydāʾ: āh, ktīr. ḥatta il-jīrān il-jdād maʿzūmīn."
+        "ar": "غيداء: آه، كتير. حتّى الجيران الجداد من الضيوف.",
+        "translit": "Ghaydāʾ: āh, ktīr. ḥatta il-jīrān il-jdād min iḍ-ḍyūf.",
+        "flags": [
+         {
+          "kind": "needs-review",
+          "note": "Author decision: من الضيوف (min iḍ-ḍyūf) to match the p.265 comic; the book dialogue on p.261 still reads معزومين."
+         }
+        ]
        },
        "answers": [
         {
-         "en": "Yes, a lot. Even the new neighbors are invited."
+         "en": "Yes, a lot. Even the new neighbors are among the guests."
         }
        ],
        "model": {
-        "ar": "آه، كتير. حتّى الجيران الجداد معزومين.",
-        "translit": "āh, ktīr. ḥatta il-jīrān il-jdād maʿzūmīn.",
-        "en": "Yes, a lot. Even the new neighbors are invited."
+        "ar": "آه، كتير. حتّى الجيران الجداد من الضيوف.",
+        "translit": "āh, ktīr. ḥatta il-jīrān il-jdād min iḍ-ḍyūf.",
+        "en": "Yes, a lot. Even the new neighbors are among the guests.",
+        "flags": [
+         {
+          "kind": "needs-review",
+          "note": "Author decision: من الضيوف (min iḍ-ḍyūf) to match the p.265 comic; the book dialogue on p.261 still reads معزومين."
+         }
+        ]
        },
        "tags": [
         "translation",
@@ -12745,9 +12763,10 @@
      "type": "examples",
      "items": [
       {
-       "ar": "حَتّى الجيران الجْداد مَعْزومين.",
-       "translit": "ḥatta il-jīrān il-jdād maʿzūmīn.",
-       "en": "Even the new neighbors are invited."
+       "ar": "حَتّى الجيران الجْداد مِن الضُّيوف.",
+       "note": "Author decision: من الضيوف to match the p.265 comic (book p.270 reads مَعْزومين).",
+       "translit": "ḥatta il-jīrān il-jdād min iḍ-ḍyūf.",
+       "en": "Even the new neighbors are among the guests."
       }
      ],
      "source": {
