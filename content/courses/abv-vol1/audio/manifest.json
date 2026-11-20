@@ -80,7 +80,8 @@
    "speaker": "Taha",
    "voice": "Daoud (Jordanian, warm, deep)",
    "model": "eleven_v4",
-   "direction": "[proudly]"
+   "direction": "[proudly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch1-tahas-cafe-10",
@@ -108,7 +109,8 @@
    "speaker": "Walaa",
    "voice": "Lina (Jordanian, young female)",
    "model": "eleven_v4",
-   "direction": "[playfully]"
+   "direction": "[playfully]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch2-ahmads-house-1",
@@ -135,7 +137,8 @@
    "speaker": "Ahmad",
    "voice": "Mohammad Zain (Jordanian, young)",
    "model": "eleven_v4",
-   "direction": "[warmly]"
+   "direction": "[warmly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch2-ahmads-house-4",
@@ -280,7 +283,8 @@
    "speaker": "Ghayda",
    "voice": "Sara (young female)",
    "model": "eleven_v4",
-   "direction": "[excited]"
+   "direction": "[excited]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-3",
@@ -298,7 +302,8 @@
    "speaker": "Ghayda",
    "voice": "Sara (young female)",
    "model": "eleven_v4",
-   "direction": "[happily]"
+   "direction": "[happily]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-5",
@@ -307,7 +312,8 @@
    "speaker": "Walaa",
    "voice": "Lina (Jordanian, young female)",
    "model": "eleven_v4",
-   "direction": "[excited]"
+   "direction": "[excited]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-6",
@@ -316,7 +322,8 @@
    "speaker": "Ghayda",
    "voice": "Sara (young female)",
    "model": "eleven_v4",
-   "direction": "[warmly]"
+   "direction": "[warmly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-7",
@@ -353,7 +360,8 @@
    "speaker": "Ghayda",
    "voice": "Sara (young female)",
    "model": "eleven_v4",
-   "direction": "[warmly]"
+   "direction": "[warmly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-11",
@@ -362,7 +370,8 @@
    "speaker": "Walaa",
    "voice": "Lina (Jordanian, young female)",
    "model": "eleven_v4",
-   "direction": "[delighted]"
+   "direction": "[delighted]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-12",
@@ -371,7 +380,8 @@
    "speaker": "Ghayda",
    "voice": "Sara (young female)",
    "model": "eleven_v4",
-   "direction": "[proudly]"
+   "direction": "[proudly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-13",
@@ -452,7 +462,8 @@
    "speaker": "Walaa",
    "voice": "Lina (Jordanian, young female)",
    "model": "eleven_v4",
-   "direction": "[warmly]"
+   "direction": "[warmly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch3-ghaydas-new-place-22",
@@ -461,7 +472,8 @@
    "speaker": "Ghayda",
    "voice": "Sara (young female)",
    "model": "eleven_v4",
-   "direction": "[warmly]"
+   "direction": "[warmly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch4-everyone-wants-something-1",
@@ -470,7 +482,8 @@
    "speaker": "Mom",
    "voice": "Bebe (Jordanian, middle-aged female)",
    "model": "eleven_v4",
-   "direction": "[warmly]"
+   "direction": "[warmly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch4-everyone-wants-something-2",
@@ -561,7 +574,8 @@
    "speaker": "Yezan",
    "voice": "Khaled Alnajjar (Palestinian)",
    "model": "eleven_v4",
-   "direction": "[thoughtful]"
+   "direction": "[thoughtful]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch4-everyone-wants-something-12",
@@ -570,7 +584,8 @@
    "speaker": "Muhammad",
    "voice": "Odai (Palestinian)",
    "model": "eleven_v4",
-   "direction": "[cheerfully]"
+   "direction": "[cheerfully]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch4-everyone-wants-something-13",
@@ -714,7 +729,8 @@
    "speaker": "Yousef",
    "voice": "Samir (Jordanian, Ammani)",
    "model": "eleven_v4",
-   "direction": "[frustrated]"
+   "direction": "[frustrated]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch5-yousef-walid-7",
@@ -751,7 +767,8 @@
    "speaker": "Yousef",
    "voice": "Samir (Jordanian, Ammani)",
    "model": "eleven_v4",
-   "direction": "[worried]"
+   "direction": "[worried]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch5-yousef-walid-11",
@@ -787,7 +804,8 @@
    "speaker": "Yousef",
    "voice": "Samir (Jordanian, Ammani)",
    "model": "eleven_v4",
-   "direction": "[concerned]"
+   "direction": "[concerned]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch5-yousef-walid-15",
@@ -814,7 +832,8 @@
    "speaker": "Walid",
    "voice": "Booker (Palestinian, mature)",
    "model": "eleven_v4",
-   "direction": "[warmly]"
+   "direction": "[warmly]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   },
   {
    "key": "ch5-yousef-walid-18",
@@ -841,7 +860,8 @@
    "speaker": "Yousef",
    "voice": "Samir (Jordanian, Ammani)",
    "model": "eleven_v4",
-   "direction": "[laughs softly] [cheerful]"
+   "direction": "[laughs softly] [cheerful]",
+   "pronunciation": "follows transliteration (scripts/pronounce.mjs)"
   }
  ]
 }
