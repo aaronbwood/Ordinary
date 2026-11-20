@@ -50,7 +50,8 @@
           "translit": "yā wlād, shū biddkum min barra? Yezan bi-ṭarīʾo ʿal-balad.",
           "en": "Boys, what do you want from outside? Yezan is on his way downtown.",
           "dialogueLine": 0,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[warmly]"
         }
       ],
       "caption": null
@@ -67,7 +68,8 @@
           "translit": "yā Muḥammad, shū biddha māma min barra?",
           "en": "Hey Muhammad, what does Mom want from outside?",
           "dialogueLine": 1,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[casually]"
         }
       ],
       "caption": null
@@ -84,7 +86,8 @@
           "translit": "biddha khubz w-ḥalīb w-bēḍ min is-sūbarmārkit.",
           "en": "She wants bread, milk, and eggs from the supermarket.",
           "dialogueLine": 2,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[cheerfully]"
         }
       ],
       "caption": null
@@ -101,7 +104,8 @@
           "translit": "bass hēk?",
           "en": "That’s it?",
           "dialogueLine": 3,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[doubtful]"
         }
       ],
       "caption": null
@@ -118,7 +122,8 @@
           "translit": "laʾ, kamān biddha dawa min iṣ-ṣaydaliyye.",
           "en": "No, she also wants medicine from the pharmacy.",
           "dialogueLine": 4,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[cheerfully]"
         },
         {
           "id": "ch4-everyone-wants-something-6",
@@ -133,7 +138,8 @@
               "kind": "suspected-error",
               "note": "Bubble has ماشي. . . (three spaced periods); dialogue has ماشي… (ellipsis character)"
             }
-          ]
+          ],
+          "direction": "[sighs]"
         }
       ],
       "caption": null
@@ -150,7 +156,8 @@
           "translit": "shū nōʿ id-dawa illī biddha iyyāh?",
           "en": "What kind of medicine does she want?",
           "dialogueLine": 6,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[curious]"
         }
       ],
       "caption": null
@@ -167,7 +174,8 @@
           "translit": "biddha dawa liṣ-ṣudāʿ.",
           "en": "She wants headache medicine.",
           "dialogueLine": 7,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[casually]"
         }
       ],
       "caption": null
@@ -184,7 +192,8 @@
           "translit": "ṭayyib, w-bāba shū biddo?",
           "en": "Okay, and what does Dad want?",
           "dialogueLine": 8,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[casually]"
         }
       ],
       "caption": null
@@ -201,7 +210,8 @@
           "translit": "bāba biddo ʾahwe min il-kāfēh il-jdīd.",
           "en": "Dad wants coffee from the new café.",
           "dialogueLine": 9,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[excited]"
         }
       ],
       "caption": null
@@ -218,7 +228,8 @@
           "translit": "shū nōʿ il-ʾahwe illī biddo iyyāha?",
           "en": "What kind of coffee does he want?",
           "dialogueLine": 10,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[thoughtful]"
         }
       ],
       "caption": null
@@ -235,7 +246,8 @@
           "translit": "biddo ʾahwe turkiyye fīha hēl.",
           "en": "He wants Turkish coffee with cardamom.",
           "dialogueLine": 11,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[cheerfully]"
         }
       ],
       "caption": null
@@ -258,7 +270,8 @@
               "kind": "suspected-error",
               "note": "Bubble has لأنّه (with shadda); dialogue has لأنه"
             }
-          ]
+          ],
+          "direction": "[excited]"
         }
       ],
       "caption": null
@@ -275,7 +288,8 @@
           "translit": "tazkara lil-matḥaf kamān?",
           "en": "A museum ticket too?",
           "dialogueLine": 13,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[surprised]"
         },
         {
           "id": "ch4-everyone-wants-something-15",
@@ -284,7 +298,8 @@
           "translit": "āh, lir-riḥle il-madrasiyye.",
           "en": "Yeah, for the school field trip.",
           "dialogueLine": 14,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[casually]"
         }
       ],
       "caption": null
@@ -301,7 +316,8 @@
           "translit": "yaʿni is-sūbarmārkit, wiṣ-ṣaydaliyye, wil-kāfēh, wil-matḥaf?",
           "en": "So, the supermarket, the pharmacy, the café, and the museum?",
           "dialogueLine": 15,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[overwhelmed]"
         },
         {
           "id": "ch4-everyone-wants-something-17",
@@ -310,7 +326,8 @@
           "translit": "āh, bass hēk.",
           "en": "Yeah, that’s it.",
           "dialogueLine": 16,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[cheerfully]"
         }
       ],
       "caption": null
@@ -327,7 +344,8 @@
           "translit": "w-inta shū biddak?",
           "en": "And what do you want?",
           "dialogueLine": 17,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[curious]"
         },
         {
           "id": "ch4-everyone-wants-something-19",
@@ -336,7 +354,8 @@
           "translit": "biddī shāwarma min il-maṭʿam illī janb il-kāfēh.",
           "en": "I want shawarma from the restaurant next to the café.",
           "dialogueLine": 18,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[excited]"
         }
       ],
       "caption": null
@@ -353,7 +372,8 @@
           "translit": "wallāh biddī maṣāri aktar!",
           "en": "I swear, I need more money!",
           "dialogueLine": 19,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[exasperated]"
         },
         {
           "id": "ch4-everyone-wants-something-21",
@@ -362,7 +382,8 @@
           "translit": "maʿak maṣāri!",
           "en": "You have money!",
           "dialogueLine": 20,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[teasing]"
         },
         {
           "id": "ch4-everyone-wants-something-22",
@@ -371,7 +392,8 @@
           "translit": "mish kifāye la-kull hād!",
           "en": "Not enough for all this!",
           "dialogueLine": 21,
-          "textFrom": "dialogue"
+          "textFrom": "dialogue",
+          "direction": "[exasperated]"
         }
       ],
       "caption": null

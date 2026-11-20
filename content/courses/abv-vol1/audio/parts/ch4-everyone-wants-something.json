@@ -1,0 +1,202 @@
+{
+  "recordings": [
+    {
+      "key": "ch4-everyone-wants-something-1",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-1.mp3",
+      "status": "generated-candidate",
+      "speaker": "Mom",
+      "voice": "Bebe (Jordanian, middle-aged female)",
+      "model": "eleven_v4",
+      "direction": "[warmly]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-2",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-2.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-3",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-3.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[cheerfully]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-4",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-4.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[doubtful]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-5",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-5.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[cheerfully]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-6",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-6.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[sighs]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-7",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-7.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[curious]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-8",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-8.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-9",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-9.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-10",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-10.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[excited]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-11",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-11.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[thoughtful]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-12",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-12.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[cheerfully]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-13",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-13.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[excited]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-14",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-14.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[surprised]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-15",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-15.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[casually]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-16",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-16.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[overwhelmed]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-17",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-17.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[cheerfully]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-18",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-18.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[curious]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-19",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-19.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[excited]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-20",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-20.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[exasperated]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-21",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-21.mp3",
+      "status": "generated-candidate",
+      "speaker": "Muhammad",
+      "voice": "Odai (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[teasing]"
+    },
+    {
+      "key": "ch4-everyone-wants-something-22",
+      "src": "audio/abv-vol1/ch4-everyone-wants-something-22.mp3",
+      "status": "generated-candidate",
+      "speaker": "Yezan",
+      "voice": "Khaled Alnajjar (Palestinian)",
+      "model": "eleven_v4",
+      "direction": "[exasperated]"
+    }
+  ]
+}
