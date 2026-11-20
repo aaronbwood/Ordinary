@@ -3,6 +3,7 @@
 // same words with fuller vowel marks, that fuller text is what gets voiced.
 //   node scripts/voice-jobs.mjs <comicId> [--missing]
 import fs from 'node:fs';
+import { pronounce } from './pronounce.mjs';
 const course = 'content/courses/abv-vol1';
 const cast = JSON.parse(fs.readFileSync(`${course}/audio/cast.json`, 'utf8'));
 const manifest = JSON.parse(fs.readFileSync(`${course}/audio/manifest.json`, 'utf8'));
@@ -14,7 +15,7 @@ for (const f of JSON.parse(fs.readFileSync(`${course}/course.json`, 'utf8')).cha
   const ch = JSON.parse(fs.readFileSync(`${course}/chapters/${f}.json`, 'utf8'));
   for (const l of ch.lessons) for (const b of l.blocks) if (b.type === 'dialogue') dialogues[b.id] = b;
 }
-const strip = (s) => (s ?? '').replace(/[ً-ْٰـ‎‏]/g, '').replace(/[.,،!؟?…:"“”'\s]+/g, ' ').trim();
+const strip = (s) => (s ?? '').replace(/[ً-ْٰـ‎‏]/g, '').replace(/[إأآ]/g, 'ا').replace(/[.,،!؟?…:"“”'\s]+/g, ' ').trim();
 const jobs = [];
 for (const p of comic.panels)
   for (const l of p.lines) {
@@ -26,7 +27,8 @@ for (const p of comic.panels)
     const text = dl?.ar && strip(dl.ar) === strip(l.ar) ? dl.ar.trim().replace(/[.!؟?…]+$/, '') + end(l.ar) : l.ar;
     const v = cast.characters[l.speaker];
     // performance direction (eleven_v4 audio tag), never shown on screen
-    const prompt = l.direction ? `${l.direction} ${text}` : text;
+    const spoken = pronounce(text, l.translit ?? dl?.translit);
+    const prompt = l.direction ? `${l.direction} ${spoken}` : spoken;
     jobs.push({ id: l.id, speaker: l.speaker, voiceId: v?.voiceId ?? null, text: prompt, chars: prompt.length });
   }
 console.log(JSON.stringify(jobs, null, 1));

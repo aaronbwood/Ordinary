@@ -19,3 +19,12 @@
    `{ "recordings": [ { "key": "<lineId>", "src": "audio/abv-vol1/<lineId>.mp3",
    "status": "generated-candidate", "speaker": "...", "voice": "<voiceName from cast.json>",
    "model": "eleven_v4", "direction": "[tag]" } ] }`. Do not edit audio/manifest.json.
+
+## Pronunciation follows the transliteration
+
+`scripts/voice-jobs.mjs` passes every line through `scripts/pronounce.mjs` before it is
+voiced. The screen keeps the printed Arabic; only the text sent to the voice changes:
+- ق → أ/ء where the transliteration has ʾ (qahwe is ʾahwe), kept where it has q
+- ذ → ز/د and ث → ت/س where the transliteration has z/d or t/s (ذوقك → زوءك, الثّالث → التّالت)
+- a word-initial bare ا becomes إ/أُ by the transliteration's vowel (امي → إمّي, "immi")
+- where bubble and dialogue have the same words, the dialogue's fuller vowel marks are used
