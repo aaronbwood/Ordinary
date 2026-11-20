@@ -1,0 +1,7501 @@
+{
+  "id": "glossary",
+  "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+      423,
+      437
+    ],
+    "index": {
+      "pages": [
+        423,
+        425
+      ],
+      "note": "Subject index (pp. 423–425) not transcribed."
+    },
+    "conversationalExpressions": {
+      "pages": [
+        426,
+        428
+      ]
+    },
+    "vocabulary": {
+      "pages": [
+        429,
+        437
+      ]
+    }
+  },
+  "flags": [
+    {
+      "kind": "suspected-error",
+      "note": "Vocabulary Glossary pages are out of alphabetical order in the Canva design: p.429 = A–B (to \"brother(s)\"), p.430 = H–L, p.431 = E–G, p.432 = B (cont., \"bus station(s)\") –D, p.433 = L–N … Expected order would be 429, 432, 431, 430, 433. Entries below are kept in Canva page order; the \"letter\" field gives the section letter."
+    }
+  ],
+  "expressions": [
+    {
+      "id": "gl-expr-001",
+      "ar": "يَلَّا",
+      "translit": "yalla",
+      "en": "all right / let's go / come on",
+      "letter": "A",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-002",
+      "ar": "مَع هَيْك",
+      "translit": "maʿ hēk",
+      "en": "all the same / nevertheless",
+      "letter": "A",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-003",
+      "ar": "عَنْجَد؟",
+      "translit": "ʿanjad?",
+      "en": "are you serious? / really?",
+      "letter": "A",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-004",
+      "ar": "تَبَعِي / تَبَعَك / تَبَعِك / تَبَعُه / تَبَعْهَا",
+      "translit": "tabaʿī / tabaʿak / tabaʿik / tabaʿo / tabaʿha",
+      "en": "belongs to me / you / him / her (ownership)",
+      "letter": "B",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-005",
+      "ar": "إِلِي / إِلَك / إِلِك / إِلُه / إِلْهَا / إِلْنَا / إِلْكُم / إِلْهُم",
+      "translit": "ilī / ilak / ilik / ilo / ilha / ilna / ilkum / ilhum",
+      "en": "belongs to (me / you m. / you f. / him / her / us / you pl. / them)",
+      "letter": "B",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-006",
+      "ar": "طَبْعًا",
+      "translit": "ṭabʿan",
+      "en": "certainly / of course",
+      "letter": "C",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-007",
+      "ar": "تْفَضَّل / تْفَضَّلِي / تْفَضَّلُوا",
+      "translit": "tfaḍḍal / tfaḍḍalī / tfaḍḍalū",
+      "en": "come in / go ahead (m. / f. / pl.)",
+      "letter": "C",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-008",
+      "ar": "مَبْرُوك",
+      "translit": "mabrūk",
+      "en": "congratulations",
+      "letter": "C",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-009",
+      "ar": "الله يْبَارِك فِيك / فِيكِي / فِيكُم",
+      "translit": "Allāh ybārik fīk / fīki / fīkum",
+      "en": "congratulations (response; m. / f. / pl.)",
+      "letter": "C",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-010",
+      "ar": "أَلْف مَبْرُوك",
+      "translit": "alf mabrūk",
+      "en": "congratulations (strong emphasis)",
+      "letter": "C",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-011",
+      "ar": "صَحَّتَين",
+      "translit": "ṣaḥtēn",
+      "en": "enjoy your meal / bon appétit",
+      "letter": "E",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-012",
+      "ar": "عَلَى قَلْبَك / قَلْبِك / قَلْبْكُم",
+      "translit": "ʿala ʾalbak / ʾalbik / ʾalbkum",
+      "en": "enjoy your meal (response; m. / f. / pl.)",
+      "letter": "E",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-013",
+      "ar": "حَتَّى لَو",
+      "translit": "ḥatta law",
+      "en": "even if",
+      "letter": "E",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-014",
+      "ar": "إِنْ شَاءَ الله",
+      "translit": "in shāʾ Allāh",
+      "en": "God willing / hopefully",
+      "letter": "G",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-015",
+      "ar": "مَسَا الخَيْر",
+      "translit": "masa il-khēr",
+      "en": "good evening",
+      "letter": "G",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-016",
+      "ar": "مَسَا النُّور",
+      "translit": "masa in-nūr",
+      "en": "good evening (response)",
+      "letter": "G",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-017",
+      "ar": "صَبَاح الخَيْر",
+      "translit": "ṣabāḥ il-khēr",
+      "en": "good morning",
+      "letter": "G",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-018",
+      "ar": "صَبَاح النُّور",
+      "translit": "ṣabāḥ in-nūr",
+      "en": "good morning (response)",
+      "letter": "G",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-019",
+      "ar": "تِصْبَح عَلَى خَيْر / تِصْبَحِي عَلَى خَيْر / تِصْبَحُوا عَلَى خَيْر",
+      "translit": "tiṣbaḥ ʿala khēr / tiṣbaḥī ʿala khēr / tiṣbaḥū ʿala khēr",
+      "en": "good night (m. / f. / pl.)",
+      "letter": "G",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-020",
+      "ar": "الله يْسَلِّمَك / يْسَلِّمِك / يْسَلِّمْكُم",
+      "translit": "Allāh ysallmak / ysallmik / ysallmkum",
+      "en": "goodbye response (m. / f. / pl.)",
+      "letter": "G",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-021",
+      "ar": "مَع السَّلَامِة",
+      "translit": "maʿ is-salāme",
+      "en": "goodbye / take care",
+      "letter": "G",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-022",
+      "ar": "عِنْدِي / عِنْدَك / عِنْدِك / عِنْدُه / عِنْدْهَا / عِنْدْنَا / عِنْدْكُم / عِنْدْهُم",
+      "translit": "ʿindī / ʿindak / ʿindik / ʿindo / ʿindha / ʿindna / ʿindkum / ʿindhum",
+      "en": "have (I / you m. / you f. / he / she / we / you pl. / they)",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-023",
+      "ar": "مَعِي / مَعَك / مَعِك / مَعُه / مَعْهَا / مَعْنَا / مَعْكُم / مَعْهُم",
+      "translit": "maʿī / maʿak / maʿik / maʿo / maʿha / maʿna / maʿkum / maʿhum",
+      "en": "have with / carry (I / you m. / you f. / he / she / we / you pl. / they)",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-024",
+      "ar": "شِكْلُه / شِكْلْهَا / شِكْلْهُم",
+      "translit": "shiklo / shiklha / shiklhum",
+      "en": "he looks / she looks / they look",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-025",
+      "ar": "مَرْحَبَا",
+      "translit": "marḥaba",
+      "en": "hello / hi",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-026",
+      "ar": "مَرْحَبْتَين",
+      "translit": "marḥabtēn",
+      "en": "hello / hi (response)",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-027",
+      "ar": "بِصَرَاحَة، أَنَا تَعْبَان",
+      "translit": "bi-ṣarāḥa, ana taʿbān",
+      "en": "honestly, I'm tired",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-028",
+      "ar": "بِصَرَاحَة",
+      "translit": "bi-ṣarāḥa",
+      "en": "honestly / to be honest",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-029",
+      "ar": "سَلَامْتَك / سَلَامْتِك",
+      "translit": "salāmtak / salāmtik",
+      "en": "hope you're okay / get well soon (m. / f.)",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-030",
+      "ar": "كِيف الحَال؟",
+      "translit": "kīf il-ḥāl?",
+      "en": "how are things?",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-031",
+      "ar": "كِيفَك؟ / كِيفِك؟ / كِيفْكُم؟",
+      "translit": "kīfak? / kīfik? / kīfkum?",
+      "en": "how are you? (m. / f. / pl.)",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-032",
+      "ar": "شُو أَخْبَارَك؟ / شُو أَخْبَارِك؟ / شُو أَخْبَارْكُم؟",
+      "translit": "shū akhbārak? / shū akhbārik? / shū akhbārkum?",
+      "en": "how have you been? (m. / f. / pl.)",
+      "letter": "H",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-033",
+      "ar": "مَا عِنْدِي",
+      "translit": "mā ʿindī",
+      "en": "I don't have",
+      "letter": "I",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-034",
+      "ar": "مَا بِدِّي",
+      "translit": "mā biddī",
+      "en": "I don't want",
+      "letter": "I",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-035",
+      "ar": "أَنَا مْنِيح / أَنَا مْنِيحَة",
+      "translit": "ana mnīḥ / ana mnīḥa",
+      "en": "I'm fine (m. / f.)",
+      "letter": "I",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-036",
+      "ar": "أَنَا آسِف / أَنَا آسْفِة",
+      "translit": "ana āsif / ana āsfe",
+      "en": "I'm sorry (m. / f.)",
+      "letter": "I",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-037",
+      "ar": "مَا فِي مُشْكِلِة",
+      "translit": "mā fī mushkile",
+      "en": "it's no problem",
+      "letter": "I",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-038",
+      "ar": "مِش مُشْكِلِة",
+      "translit": "mish mushkile",
+      "en": "it's not a problem",
+      "letter": "I",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-039",
+      "ar": "بَسِيطَة",
+      "translit": "basīṭa",
+      "en": "it's okay / no big deal",
+      "letter": "I",
+      "page": 426,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          426
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-040",
+      "ar": "ثَوَانِي بَسّ",
+      "translit": "sawāni bass",
+      "en": "just a second",
+      "letter": "J",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-041",
+      "ar": "شْوَيّ شْوَيّ",
+      "translit": "shwayy shwayy",
+      "en": "little by little",
+      "letter": "L",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-042",
+      "ar": "بَيْتِي بَيْتَك",
+      "translit": "bētī bētak",
+      "en": "make yourself at home (to m.)",
+      "letter": "M",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-043",
+      "ar": "تْشَرَّفْنَا",
+      "translit": "tsharrafna",
+      "en": "nice to meet you",
+      "letter": "N",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-044",
+      "ar": "الشَّرَف إِلْنَا",
+      "translit": "ish-sharaf ilna",
+      "en": "nice to meet you (response)",
+      "letter": "N",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-045",
+      "ar": "مَاشِي",
+      "translit": "māshi",
+      "en": "okay / agreed",
+      "letter": "O",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-046",
+      "ar": "تَمَام",
+      "translit": "tamām",
+      "en": "okay / all good",
+      "letter": "O",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-047",
+      "ar": "الصَّبْر مِفْتَاح الفَرَج",
+      "translit": "iṣ-ṣabr miftāḥ il-faraj",
+      "en": "patience is the key to relief",
+      "letter": "P",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-048",
+      "ar": "السَّلَام عَلَيْكُم",
+      "translit": "is-salām ʿalēkum",
+      "en": "peace be upon you",
+      "letter": "P",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-049",
+      "ar": "وَعَلَيْكُم السَّلَام",
+      "translit": "w-ʿalēkum is-salām",
+      "en": "peace be upon you (response)",
+      "letter": "P",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-050",
+      "ar": "لَو سَمَحْت / سَمَحْتِي / سَمَحْتُوا",
+      "translit": "law samaḥt / samaḥtī / samaḥtū",
+      "en": "please / excuse me (m. / f. / pl.)",
+      "letter": "P",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-051",
+      "ar": "وَالله",
+      "translit": "wallāh",
+      "en": "really / I swear to God",
+      "letter": "R",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-052",
+      "ar": "صَحّ",
+      "translit": "ṣaḥḥ",
+      "en": "right / correct",
+      "letter": "R",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-053",
+      "ar": "الحَمْد لِلَّه",
+      "translit": "il-ḥamdillāh",
+      "en": "thank God / praise be to God",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-054",
+      "ar": "شُكْرًا",
+      "translit": "shukran",
+      "en": "thank you",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-055",
+      "ar": "يَعْطِيك العَافْيِة",
+      "translit": "yaʿṭīk il-ʿāfye",
+      "en": "thanks for your effort / may God give you well-being",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-056",
+      "ar": "الله يْعَافِيك / يْعَافِيكِي / يْعَافِيكُم",
+      "translit": "Allāh yʿāfīk / yʿāfīki / yʿāfīkum",
+      "en": "may God keep you well (response; m. / f. / pl.)",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-057",
+      "ar": "خَلَص",
+      "translit": "khalaṣ",
+      "en": "that's it / enough / done",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-058",
+      "ar": "يِسْلَم ذَوْقِك",
+      "translit": "yislam zōʾik",
+      "en": "that's kind of you (f.)",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-059",
+      "ar": "يِسْلَم ذَوْقَك",
+      "translit": "yislam zōʾak",
+      "en": "that's kind of you / thank you for compliment",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-060",
+      "ar": "فِي / مَا فِي",
+      "translit": "fī / mā fī",
+      "en": "there is / there isn't",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-061",
+      "ar": "كَان فِي",
+      "translit": "kān fī",
+      "en": "there was / there were",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-062",
+      "ar": "مَا كَان فِي",
+      "translit": "mā kān fī",
+      "en": "there wasn't / there weren't",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-063",
+      "ar": "رَح يْكُون فِي",
+      "translit": "raḥ ykūn fī",
+      "en": "there will be",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-064",
+      "ar": "مَا رَح يْكُون فِي",
+      "translit": "mā raḥ ykūn fī",
+      "en": "there won't be",
+      "letter": "T",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-065",
+      "ar": "بِدِّي / بِدَّك / بِدِّك / بِدُّه / بِدّْهَا / بِدّْنَا / بِدّْكُم / بِدّْهُم",
+      "translit": "biddī / biddak / biddik / biddo / biddha / bidna / biddkum / biddhum",
+      "en": "want (I / you m. / you f. / he / she / we / you pl. / they)",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      },
+      "flags": [
+        {
+          "kind": "suspected-error",
+          "note": "Arabic بِدّْنَا has shadda (dd) but transliteration gives \"bidna\" (single d), unlike biddī / biddha / biddkum etc. in the same entry."
+        }
+      ]
+    },
+    {
+      "id": "gl-expr-066",
+      "ar": "أَهْلًا وَسَهْلًا",
+      "translit": "ahlan w-sahlan",
+      "en": "welcome",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-067",
+      "ar": "أَهْلًا فِيك / فِيكِي / فِيكُم",
+      "translit": "ahlan fīk / fīki / fīkum",
+      "en": "welcome (response; m. / f. / pl.)",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-068",
+      "ar": "شُو بِدَّك؟ / شُو بِدِّك؟ / شُو بِدّكُم؟",
+      "translit": "shū biddak? / shū biddik? / shū biddkum?",
+      "en": "what do you want? (m. / f. / pl.)",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-069",
+      "ar": "شُو نَوْع...؟",
+      "translit": "shū nōʿ...?",
+      "en": "what kind / type of ...?",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-070",
+      "ar": "شُو فِي مَا فِي؟",
+      "translit": "shū fī mā fī?",
+      "en": "what's new? / what's going on?",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-071",
+      "ar": "شُو مَالَك؟ / شُو مَالِك؟",
+      "translit": "shū mālak? / shū mālik?",
+      "en": "what's wrong? / what's the matter? (m. / f.)",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-072",
+      "ar": "شُو فِيك؟ / شُو فِيكِي؟",
+      "translit": "shū fīk? / shū fīki?",
+      "en": "what's wrong with you? (m. / f.)",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-073",
+      "ar": "شُو اِسْمَك؟ / شُو اِسْمِك؟ / شُو اِسْمْكُم؟",
+      "translit": "shū ismak? / shū ismik? / shū ismkum?",
+      "en": "what's your name? (m. / f. / pl.)",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-074",
+      "ar": "مَا شَاءَ الله",
+      "translit": "mā shāʾ Allāh",
+      "en": "wow / how wonderful (admiration)",
+      "letter": "W",
+      "page": 427,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          427
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-075",
+      "ar": "مَعَك حَقّ",
+      "translit": "maʿak ḥaʾʾ",
+      "en": "you're right",
+      "letter": "Y",
+      "page": 428,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          428
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-076",
+      "ar": "وَلَو",
+      "translit": "walaw",
+      "en": "you're welcome / don't mention it",
+      "letter": "Y",
+      "page": 428,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          428
+        ]
+      }
+    },
+    {
+      "id": "gl-expr-077",
+      "ar": "عَفْوًا",
+      "translit": "ʿafwan",
+      "en": "you're welcome / excuse me",
+      "letter": "Y",
+      "page": 428,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          428
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "gl-vocab-001",
+      "ar": "شْوَيّ",
+      "translit": "shwayy",
+      "en": "a bit / a little",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-002",
+      "ar": "كَم",
+      "translit": "kam",
+      "en": "a few / some",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-003",
+      "ar": "شْوَيِّة",
+      "translit": "shwayye",
+      "en": "a small amount / a little",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-004",
+      "ar": "عَنْ",
+      "translit": "ʿan",
+      "en": "about / from",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-005",
+      "ar": "فَوْق",
+      "translit": "fōʾ",
+      "en": "above / over / upstairs",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-006",
+      "ar": "قْبال",
+      "translit": "ʾbāl",
+      "en": "across from / opposite",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-007",
+      "ar": "بَعْد",
+      "translit": "baʿd",
+      "en": "after",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-008",
+      "ar": "مَطَار / مَطَارَات",
+      "translit": "maṭār / maṭārāt",
+      "en": "airport(s)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-009",
+      "ar": "جَزَائِرِي / جَزَائِرِيِّة / جَزَائِرِيِّين",
+      "translit": "jazāʾiri / jazāʾiriyye / jazāʾiriyyīn",
+      "en": "Algerian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-010",
+      "ar": "لَحَالُه",
+      "translit": "laḥālo",
+      "en": "alone / by himself",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-011",
+      "ar": "أَمْرِيكِي / أَمْرِيكِيِّة / أَمْرِيكِيِّين",
+      "translit": "amrīki / amrīkiyye / amrīkiyyīn",
+      "en": "American (m. / f. / pl.)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-012",
+      "ar": "وْ",
+      "translit": "w-",
+      "en": "and",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-013",
+      "ar": "مْعَصِّب / مْعَصّْبة / مْعَصّْبين (مِن)",
+      "translit": "mʿaṣṣib / mʿaṣṣbe / mʿaṣṣbīn (min)",
+      "en": "angry (with) (m. / f. / pl.)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-014",
+      "ar": "مِتْضَايِق / مِتْضَايْقِة / مِتْضَايْقِين",
+      "translit": "mitḍāyiʾ / mitḍāyʾa / mitḍāyʾīn",
+      "en": "annoyed / bothered (m. / f. / pl.)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-015",
+      "ar": "شَقَّة / شُقَق",
+      "translit": "shaʾʾa / shuʾaʾ",
+      "en": "apartment(s)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-016",
+      "ar": "مَوْعِد / مَوَاعِيد",
+      "translit": "mawʿid / mawāʿīd",
+      "en": "appointment(s)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-017",
+      "ar": "عَرَبِي / عَرَبِيِّة / عَرَب",
+      "translit": "ʿarabi / ʿarabiyye / ʿarab",
+      "en": "Arab / Arabic (m. / f. / pl.)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-018",
+      "ar": "حَوَالَيْن",
+      "translit": "ḥawālēn",
+      "en": "around",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-019",
+      "ar": "سُؤَال / أَسْئِلِة",
+      "translit": "suʾāl / asʾile",
+      "en": "asking / question(s)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-020",
+      "ar": "عِنْد",
+      "translit": "ʿind",
+      "en": "at / at someone's place",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-021",
+      "ar": "صَرَّاف آلِي / صَرَّافَات آلِيَّة",
+      "translit": "ṣarrāf āli / ṣarrāfāt āliyye",
+      "en": "ATM(s)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-022",
+      "ar": "أُسْتْرَالِي / أُسْتْرَالِيِّة / أُسْتْرَالِيِّين",
+      "translit": "ustrāli / ustrāliyye / ustrāliyyīn",
+      "en": "Australian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-023",
+      "ar": "مَوْجُود / مَوْجُودِة / مَوْجُودِين",
+      "translit": "mawjūd / mawjūde / mawjūdīn",
+      "en": "available / present (m. / f. / pl.)",
+      "gender": null,
+      "letter": "A",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-024",
+      "ar": "مَخْبَز / مَخَابِز",
+      "translit": "makhbaz / makhābiz",
+      "en": "bakery / bakeries",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-025",
+      "ar": "بَلْكُونِة / بَلْكُونَات",
+      "translit": "balkōne / balkōnāt",
+      "en": "balcony(-ies)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-026",
+      "ar": "طَابَة / طَابَات",
+      "translit": "ṭābe / ṭābāt",
+      "en": "ball(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-027",
+      "ar": "بَنْك / بُنُوك",
+      "translit": "bank / bunūk",
+      "en": "bank(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-028",
+      "ar": "حَمَّام / حَمَّامَات",
+      "translit": "ḥammām / ḥammāmāt",
+      "en": "bathroom(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-029",
+      "ar": "حِلْو / حِلْوِة / حِلْوِين",
+      "translit": "ḥilu / ḥilwe / ḥilwīn",
+      "en": "beautiful / nice / pretty (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-030",
+      "ar": "لَأَنُّه",
+      "translit": "laʾanno",
+      "en": "because",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-031",
+      "ar": "مِنْشَان / عَشَان",
+      "translit": "minshān / ʿashān",
+      "en": "because / because of",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-032",
+      "ar": "تَخِت / تُخُوت",
+      "translit": "takhit / tukhūt",
+      "en": "bed(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-033",
+      "ar": "غُرْفِة النَّوْم / غُرَف النَّوْم",
+      "translit": "ghurfet in-nōm / ghuraf in-nōm",
+      "en": "bedroom(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-034",
+      "ar": "كُومْدِينِة / كُومْدِينَات",
+      "translit": "kōmdīne / kōmdīnāt",
+      "en": "bedside table(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-035",
+      "ar": "قَبِل / قَبْل",
+      "translit": "ʾabil / ʾabl (before a noun)",
+      "en": "before",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-036",
+      "ar": "وَرَا",
+      "translit": "wara",
+      "en": "behind",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-037",
+      "ar": "تَحْت",
+      "translit": "taḥt",
+      "en": "below / under / downstairs",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-038",
+      "ar": "جَنْب",
+      "translit": "janb",
+      "en": "beside / next to",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-039",
+      "ar": "بَيْن",
+      "translit": "bēn",
+      "en": "between",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-040",
+      "ar": "كْبِير / كْبِيرِة / كْبَار",
+      "translit": "kbīr / kbīre / kbār",
+      "en": "big / large (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-041",
+      "ar": "حْرَام / حْرَامَات",
+      "translit": "ḥrām / ḥrāmāt",
+      "en": "blanket(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-042",
+      "ar": "كْتَاب / كُتُب",
+      "translit": "ktāb / kutub",
+      "en": "book(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-043",
+      "ar": "مَكْتَبِة / مَكْتَبَات",
+      "translit": "maktabe / maktabāt",
+      "en": "bookstore(s) / library / libraries",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-044",
+      "ar": "زَهْقَان / زَهْقَانِة / زَهْقَانِين",
+      "translit": "zahʾān / zahʾāne / zahʾānīn",
+      "en": "bored / fed up (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-045",
+      "ar": "مُمِلّ / مُمِلَّة",
+      "translit": "mumill / mumille",
+      "en": "boring (m. / f.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-046",
+      "ar": "قَنِّينِة / قَنَانِي",
+      "translit": "ʾannīne / ʾanāni",
+      "en": "bottle(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-047",
+      "ar": "وَلَد / وْلَاد",
+      "translit": "walad / wlād",
+      "en": "boy(s) / child(ren) / son(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-048",
+      "ar": "بْرَازِيلِي / بْرَازِيلِيِّة / بْرَازِيلِيِّين",
+      "translit": "barāzīli / barāzīliyye / barāzīliyyīn",
+      "en": "Brazilian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      },
+      "flags": [
+        {
+          "kind": "suspected-error",
+          "note": "Arabic بْرَازِيلِي marks sukun on ب (brāzīli) but transliteration is \"barāzīli\"."
+        }
+      ]
+    },
+    {
+      "id": "gl-vocab-049",
+      "ar": "فْطُور",
+      "translit": "fṭūr",
+      "en": "breakfast",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-050",
+      "ar": "مَضْوِي / مَضْوِيِّة / مَضْوِيِّين",
+      "translit": "maḍwi / maḍwiyye / maḍwiyyīn",
+      "en": "bright / well-lit (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-051",
+      "ar": "خَرْبَان / خَرْبَانِة / خَرْبَانِين",
+      "translit": "kharbān / kharbāne / kharbānīn",
+      "en": "broken / not working (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-052",
+      "ar": "مَكْسُور / مَكْسُورِة / مَكْسُورِين",
+      "translit": "maksūr / maksūre / maksūrīn",
+      "en": "broken (physically) (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-053",
+      "ar": "عَطْلَان / عَطْلَانِة / عَطْلَانِين",
+      "translit": "ʿaṭlān / ʿaṭlāne / ʿaṭlānīn",
+      "en": "broken / not functioning (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-054",
+      "ar": "أَخ / إِخْوِة / إِخْوَان",
+      "translit": "akh / ikhwe / ikhwān",
+      "en": "brother(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 429,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          429
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-055",
+      "ar": "مَبْسُوط / مَبْسُوطِة / مَبْسُوطِين",
+      "translit": "mabsūṭ / mabsūṭa / mabsūṭīn",
+      "en": "happy / pleased (m. / f. / pl.)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-056",
+      "ar": "هُوِّ",
+      "translit": "huwwe",
+      "en": "he / it (m.)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-057",
+      "ar": "تْقِيل / تْقِيلِة / تْقَال",
+      "translit": "tʾīl / tʾīle / tʾāl",
+      "en": "heavy (m. / f. / pl.)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-058",
+      "ar": "هُون",
+      "translit": "hōn",
+      "en": "here",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-059",
+      "ar": "عَالِي / عَالْيِة / عَالْيِين",
+      "translit": "ʿāli / ʿālye / ʿālyīn",
+      "en": "high / tall (m. / f. / pl.)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-060",
+      "ar": "مُسْتَشْفَى / مُسْتَشْفَيَات",
+      "translit": "mustashfa / mustashfayāt",
+      "en": "hospital(s)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      },
+      "flags": [
+        {
+          "kind": "ambiguous",
+          "note": "Transliteration \"mustashfa\" (short a); the pronunciation page (p. 24) gives \"mustashfā\" for the same word."
+        }
+      ]
+    },
+    {
+      "id": "gl-vocab-061",
+      "ar": "حَامِي / حَامْيِة / حَامْيِين",
+      "translit": "ḥāmi / ḥāmye / ḥāmyīn",
+      "en": "hot (things; m. / f. / pl.)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-062",
+      "ar": "فُنْدُق / فَنَادِق",
+      "translit": "funduʾ / fanādiʾ",
+      "en": "hotel(s)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-063",
+      "ar": "بَيْت / بُيُوت",
+      "translit": "bēt / buyūt (also byūt)",
+      "en": "house(s) / home(s)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-064",
+      "ar": "كِيف",
+      "translit": "kīf",
+      "en": "how",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-065",
+      "ar": "قَدِّيش",
+      "translit": "ʾaddēsh",
+      "en": "how much / how many",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-066",
+      "ar": "جَوْز",
+      "translit": "jōz",
+      "en": "husband (colloquial alternative)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-067",
+      "ar": "زَوْج / أَزْوَاج",
+      "translit": "zōj / azwāj",
+      "en": "husband(s)",
+      "gender": null,
+      "letter": "H",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-068",
+      "ar": "أَنَا",
+      "translit": "ana",
+      "en": "I",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-069",
+      "ar": "بِطَاقِة هُوِيِّة / بِطَاقَات هُوِيِّة",
+      "translit": "biṭāʾet huwiyye / biṭāʾāt huwiyye",
+      "en": "ID card(s)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-070",
+      "ar": "مُهِمّ / مُهِمِّة / مُهِمِّين",
+      "translit": "muhimm / muhimme / muhimmīn",
+      "en": "important (m. / f. / pl.)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-071",
+      "ar": "بَعْد شْوَيِّة",
+      "translit": "baʿd shwayye",
+      "en": "in a little while",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-072",
+      "ar": "بِـ",
+      "translit": "bi-",
+      "en": "in / at / with",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-073",
+      "ar": "نَسِيب / نَسَايِب",
+      "translit": "nasīb / nasāyib",
+      "en": "in-law / relatives by marriage",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-074",
+      "ar": "بِالْمُسْتَقْبَل",
+      "translit": "bil-mustaʾbal",
+      "en": "in the future",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-075",
+      "ar": "بِالنُّصّ",
+      "translit": "bin-nuṣṣ",
+      "en": "in the middle",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-076",
+      "ar": "بِالْمَاضِي",
+      "translit": "bil-māḍi",
+      "en": "in the past",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-077",
+      "ar": "فِي",
+      "translit": "fī",
+      "en": "in",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-078",
+      "ar": "هِنْدِي / هِنْدِيِّة / هُنُود",
+      "translit": "hindi / hindiyye / hunūd",
+      "en": "Indian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-079",
+      "ar": "إِنْدُونِيسِي / إِنْدُونِيسِيِّة / إِنْدُونِيسِيِّين",
+      "translit": "indūnīsi / indūnīsiyye / indūnīsiyyīn",
+      "en": "Indonesian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-080",
+      "ar": "جُوَّا / جُوَّات",
+      "translit": "juwwa / juwwāt",
+      "en": "inside / inside of",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-081",
+      "ar": "مُدَرِّس / مُدَرِّسِة / مُدَرِّسِين",
+      "translit": "mudarris / mudarrise / mudarrisīn",
+      "en": "instructor / teacher(s)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-082",
+      "ar": "مِهْتَمّ / مِهْتَمِّة / مِهْتَمِّين",
+      "translit": "mihtamm / mihtamme / mihtammīn",
+      "en": "interested (m. / f. / pl.)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-083",
+      "ar": "إِيرَانِي / إِيرَانِيِّة / إِيرَانِيِّين",
+      "translit": "īrāni / īrāniyye / īrāniyyīn",
+      "en": "Iranian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-084",
+      "ar": "عِرَاقِي / عِرَاقِيِّة / عِرَاقِيِّين",
+      "translit": "ʿirāqi / ʿirāqiyye / ʿirāqiyyīn",
+      "en": "Iraqi (m. / f. / pl.)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-085",
+      "ar": "إِيرْلَنْدِي / إِيرْلَنْدِيِّة / إِيرْلَنْدِيِّين",
+      "translit": "īrlandi / īrlandiyye / īrlandiyyīn",
+      "en": "Irish (m. / f. / pl.)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-086",
+      "ar": "إِيطَالِي / إِيطَالِيِّة / إِيطَالِيِّين",
+      "translit": "iṭāli / iṭāliyye / iṭāliyyīn",
+      "en": "Italian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "I",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-087",
+      "ar": "يَابَانِي / يَابَانِيِّة / يَابَانِيِّين",
+      "translit": "yābāni / yābāniyye / yābāniyyīn",
+      "en": "Japanese (m. / f. / pl.)",
+      "gender": null,
+      "letter": "J",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-088",
+      "ar": "أُرْدُنِّي / أُرْدُنِّيِّة / أُرْدُنِّيِّين",
+      "translit": "urdunni / urdunniyye / urdunniyyīn",
+      "en": "Jordanian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "J",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-089",
+      "ar": "مِفْتَاح / مَفَاتِيح",
+      "translit": "miftāḥ / mafātīḥ",
+      "en": "key(s)",
+      "gender": null,
+      "letter": "K",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-090",
+      "ar": "لَطِيف / لَطِيفِة / لُطَاف",
+      "translit": "laṭīf / laṭīfe / luṭāf",
+      "en": "kind / nice / pleasant (m. / f. / pl.)",
+      "gender": null,
+      "letter": "K",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-091",
+      "ar": "نَوْع / أَنْوَاع",
+      "translit": "nōʿ / anwāʿ",
+      "en": "kind(s) / type(s)",
+      "gender": null,
+      "letter": "K",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-092",
+      "ar": "مَطْبَخ / مَطَابِخ",
+      "translit": "maṭbakh / maṭābikh",
+      "en": "kitchen(s)",
+      "gender": null,
+      "letter": "K",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-093",
+      "ar": "كُورِي / كُورِيِّة / كُورِيِّين",
+      "translit": "kūri / kūriyye / kūriyyīn",
+      "en": "Korean (m. / f. / pl.)",
+      "gender": null,
+      "letter": "K",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-094",
+      "ar": "كُوَيْتِي / كُوَيْتِيِّة / كُوَيْتِيِّين",
+      "translit": "kuwēti / kuwētiyye / kuwētiyyīn",
+      "en": "Kuwaiti (m. / f. / pl.)",
+      "gender": null,
+      "letter": "K",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-095",
+      "ar": "فَحْص / فُحُوصَات",
+      "translit": "faḥṣ / fuḥūṣāt",
+      "en": "lab test(s)",
+      "gender": null,
+      "letter": "L",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-096",
+      "ar": "لَمْبِة / لَمْبَات",
+      "translit": "lambe / lambāt",
+      "en": "lamp(s) / light bulb(s)",
+      "gender": null,
+      "letter": "L",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-097",
+      "ar": "مِتْأَخِّر / مِتْأَخْرِة / مِتْأَخْرِين",
+      "translit": "mitʾakhkhir / mitʾakhkhra / mitʾakhkhrīn",
+      "en": "late (m. / f. / pl.)",
+      "gender": null,
+      "letter": "L",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      },
+      "flags": [
+        {
+          "kind": "suspected-error",
+          "note": "Arabic feminine/plural مِتْأَخْرِة / مِتْأَخْرِين lack the shadda on خ that the transliteration shows (mitʾakhkhra / mitʾakhkhrīn) and that the masculine مِتْأَخِّر has."
+        }
+      ]
+    },
+    {
+      "id": "gl-vocab-098",
+      "ar": "بَعْدِين",
+      "translit": "baʿdēn",
+      "en": "later / afterward",
+      "gender": null,
+      "letter": "L",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-099",
+      "ar": "غُرْفِة الغَسِيل / غُرَف الغَسِيل",
+      "translit": "ghurfet il-ghasīl / ghuraf il-ghasīl",
+      "en": "laundry room(s)",
+      "gender": null,
+      "letter": "L",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-100",
+      "ar": "لُبْنَانِي / لُبْنَانِيِّة / لُبْنَانِيِّين",
+      "translit": "lubnāni / lubnāniyye / lubnāniyyīn",
+      "en": "Lebanese (m. / f. / pl.)",
+      "gender": null,
+      "letter": "L",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-101",
+      "ar": "مُحَاضَرَة / مُحَاضَرَات",
+      "translit": "muḥāḍara / muḥāḍarāt",
+      "en": "lecture(s)",
+      "gender": null,
+      "letter": "L",
+      "page": 430,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          430
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-102",
+      "ar": "سَهِل / سَهْلِة",
+      "translit": "sahil / sahle",
+      "en": "easy (m. / f.)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-103",
+      "ar": "مِصْرِي / مِصْرِيِّة / مِصْرِيِّين",
+      "translit": "miṣri / miṣriyye / miṣriyyīn",
+      "en": "Egyptian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-104",
+      "ar": "أَصَنْصِير / أَصَنْصِيرَات",
+      "translit": "aṣanṣīr / aṣanṣīrāt",
+      "en": "elevator(s)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-105",
+      "ar": "إِمَارَاتِي / إِمَارَاتِيِّة / إِمَارَاتِيِّين",
+      "translit": "imārāti / imārātiyye / imārātiyyīn",
+      "en": "Emirati (m. / f. / pl.)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-106",
+      "ar": "فَاضِي / فَاضْيِة / فَاضْيِين",
+      "translit": "fāḍi / fāḍye / fāḍyīn",
+      "en": "empty / vacant (m. / f. / pl.)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-107",
+      "ar": "إِنْجْلِيزِي / إِنْجْلِيزِيِّة / إِنْجْلِيز",
+      "translit": "inglīzi / inglīziyye / inglīz",
+      "en": "English (m. / f. / pl.)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-108",
+      "ar": "مَدْخَل / مَدَاخِل",
+      "translit": "madkhal / madākhil",
+      "en": "entrance(s)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-109",
+      "ar": "حَتَّى",
+      "translit": "ḥatta",
+      "en": "even / until",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-110",
+      "ar": "حَتَّى لَو",
+      "translit": "ḥatta law",
+      "en": "even if",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-111",
+      "ar": "مُنَاسَبِة / مُنَاسَبَات",
+      "translit": "munāsabe / munāsabāt",
+      "en": "event(s) / occasion(s)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-112",
+      "ar": "اِمْتِحَان / اِمْتِحَانَات",
+      "translit": "imtiḥān / imtiḥānāt",
+      "en": "exam(s) / test(s)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-113",
+      "ar": "مِتْحَمِّس / مِتْحَمِّسِة / مِتْحَمِّسِين",
+      "translit": "mitḥammis / mitḥammse / mitḥammsīn",
+      "en": "excited / enthusiastic (m. / f. / pl.)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-114",
+      "ar": "التَّمْرِين",
+      "translit": "it-tamrīn",
+      "en": "exercise / training",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-115",
+      "ar": "مَعْرَض / مَعَارِض",
+      "translit": "maʿraḍ / maʿāriḍ",
+      "en": "exhibition(s) / fair(s)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-116",
+      "ar": "غَالِي / غَالْيِة / غَالْيِين",
+      "translit": "ghāli / ghālye / ghālyīn",
+      "en": "expensive (m. / f. / pl.)",
+      "gender": null,
+      "letter": "E",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-117",
+      "ar": "عِيلِة / عِيَل",
+      "translit": "ʿēle / ʿiyal",
+      "en": "family / families",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-118",
+      "ar": "أَهْل / أَهَالِي",
+      "translit": "ahl / ahālī",
+      "en": "family / relatives",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-119",
+      "ar": "بْعِيد عَنْ",
+      "translit": "bʿīd ʿan",
+      "en": "far from",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-120",
+      "ar": "سَرِيع / سَرِيعَة / سَرِيعِين",
+      "translit": "sarīʿ / sarīʿa / sarīʿīn",
+      "en": "fast / quick (m. / f. / pl.)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-121",
+      "ar": "حَمَا",
+      "translit": "ḥamā",
+      "en": "father-in-law",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-122",
+      "ar": "أَب / آبَاء",
+      "translit": "ab / ābāʾ",
+      "en": "father(s)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-123",
+      "ar": "بِنْت عَمّ",
+      "translit": "bint ʿamm",
+      "en": "female cousin (father's brother's daughter)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-124",
+      "ar": "بِنْت عَمِّة",
+      "translit": "bint ʿamme",
+      "en": "female cousin (father's sister's daughter)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-125",
+      "ar": "بِنْت خَال",
+      "translit": "bint khāl",
+      "en": "female cousin (mother's brother's daughter)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-126",
+      "ar": "بِنْت خَالِة",
+      "translit": "bint khāle",
+      "en": "female cousin (mother's sister's daughter)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-127",
+      "ar": "سُور / أَسْوَار",
+      "translit": "sūr / aswār",
+      "en": "fence(s)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-128",
+      "ar": "طَابِق / طَوَابِق",
+      "translit": "ṭābiʾ / ṭawābiʾ",
+      "en": "floor(s) / story / stories",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-129",
+      "ar": "أَكِل",
+      "translit": "akil",
+      "en": "food",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-130",
+      "ar": "لِـ",
+      "translit": "la-",
+      "en": "for / to",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      },
+      "flags": [
+        {
+          "kind": "ambiguous",
+          "note": "Arabic لِـ is vowelled with kasra (li-) but transliterated \"la-\"."
+        }
+      ]
+    },
+    {
+      "id": "gl-vocab-131",
+      "ar": "فَرَنْسِي / فَرَنْسِيِّة / فَرَنْسِيِّين",
+      "translit": "faransi / faransiyye / faransiyyīn",
+      "en": "French (m. / f. / pl.)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-132",
+      "ar": "طَازَة",
+      "translit": "ṭāza",
+      "en": "fresh (food)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-133",
+      "ar": "صَاحِب / صَاحْبِة / أَصْحَاب",
+      "translit": "ṣāḥib / ṣāḥbe / aṣḥāb",
+      "en": "friend(s) / owner(s)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-134",
+      "ar": "مِن",
+      "translit": "min",
+      "en": "from",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-135",
+      "ar": "مَلْيَان / مَلْيَانِة / مَلْيَانِين",
+      "translit": "malyān / malyāne / malyānīn",
+      "en": "full (m. / f. / pl.)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-136",
+      "ar": "مَفْرُوش / مَفْرُوشِة / مَفْرُوشِين",
+      "translit": "mafrūsh / mafrūshe / mafrūshīn",
+      "en": "furnished (m. / f. / pl.)",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-137",
+      "ar": "عَفِش",
+      "translit": "ʿafish",
+      "en": "furniture",
+      "gender": null,
+      "letter": "F",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-138",
+      "ar": "كَراج / كَراجَات",
+      "translit": "karāj / karājāt",
+      "en": "garage(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-139",
+      "ar": "جَنِينِة / جَنَايِن",
+      "translit": "janīne / janāyin",
+      "en": "garden(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-140",
+      "ar": "كَازِيِّة / كَازِيَّات",
+      "translit": "kāziyye / kāziyyāt",
+      "en": "gas station(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-141",
+      "ar": "بَنْزِين",
+      "translit": "banzīn",
+      "en": "gasoline",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-142",
+      "ar": "أَلْمَانِي / أَلْمَانِيِّة / أَلْمَان",
+      "translit": "almāni / almāniyye / almān",
+      "en": "German (m. / f. / pl.)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-143",
+      "ar": "حَفِيدِة / حَفِيدَات",
+      "translit": "ḥafīde / ḥafīdāt",
+      "en": "granddaughter(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-144",
+      "ar": "سِيد / سْيَاد",
+      "translit": "sīd / syād",
+      "en": "grandfather(s), Palestinian family usage",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-145",
+      "ar": "سِتّ / سِتَّات",
+      "translit": "sitt / sittāt",
+      "en": "grandmother(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-146",
+      "ar": "حَفِيد / أَحْفَاد",
+      "translit": "ḥafīd / aḥfād",
+      "en": "grandson(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-147",
+      "ar": "يُونَانِي / يُونَانِيِّة / يُونَانِيِّين",
+      "translit": "yūnāni / yūnāniyye / yūnāniyyīn",
+      "en": "Greek (m. / f. / pl.)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-148",
+      "ar": "أَغْرَاض",
+      "translit": "aghrāḍ",
+      "en": "groceries / things / belongings",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-149",
+      "ar": "دُكَّانِة / دَكَاكِين",
+      "translit": "dukkāne / dakākīn",
+      "en": "grocery store(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-150",
+      "ar": "غُرْفِة الضُّيُوف / غُرَف الضُّيُوف",
+      "translit": "ghurfet iḍ-ḍyūf / ghuraf iḍ-ḍyūf",
+      "en": "guest room(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-151",
+      "ar": "جِيم / جِيمَات",
+      "translit": "jīm / jīmāt",
+      "en": "gym(s)",
+      "gender": null,
+      "letter": "G",
+      "page": 431,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          431
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-152",
+      "ar": "مَحَطَّة بَاصَات / مَحَطَّات بَاصَات",
+      "translit": "maḥaṭṭet bāṣāt / maḥaṭṭāt bāṣāt",
+      "en": "bus station(s)",
+      "gender": null,
+      "letter": "B",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-153",
+      "ar": "زَحْمِة",
+      "translit": "zaḥme",
+      "en": "busy / crowded",
+      "gender": null,
+      "letter": "B",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-154",
+      "ar": "مَشْغُول / مَشْغُولِة / مَشْغُولِين",
+      "translit": "mashghūl / mashghūle / mashghūlīn",
+      "en": "busy / occupied (m. / f. / pl.)",
+      "gender": null,
+      "letter": "B",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-155",
+      "ar": "بَاص / بَاصَات",
+      "translit": "bāṣ / bāṣāt",
+      "en": "bus(es)",
+      "gender": null,
+      "letter": "B",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-156",
+      "ar": "بَسّ",
+      "translit": "bass",
+      "en": "but / just / only",
+      "gender": null,
+      "letter": "B",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-157",
+      "ar": "خِزَانِة / خَزَايِن",
+      "translit": "khizāne / khazāyin",
+      "en": "cabinet(s) / closet(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-158",
+      "ar": "كَافِيه / كَافِيهَات",
+      "translit": "kāfēh / kāfēhāt",
+      "en": "café(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-159",
+      "ar": "كَنَدِي / كَنَدِيِّة / كَنَدِيِّين",
+      "translit": "kanadi / kanadiyye / kanadiyyīn",
+      "en": "Canadian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-160",
+      "ar": "سَيَّارَة / سَيَّارَات",
+      "translit": "sayyāra / sayyārāt",
+      "en": "car(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-161",
+      "ar": "بِطَاقَة / بِطَاقَات",
+      "translit": "biṭāʾa / biṭāʾāt",
+      "en": "card(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-162",
+      "ar": "بِسِّة / بْساس",
+      "translit": "bisse / bsās",
+      "en": "cat(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-163",
+      "ar": "اِحْتِفَال",
+      "translit": "iḥtifāl",
+      "en": "celebration",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-164",
+      "ar": "جَوَّال / جَوَّالَات",
+      "translit": "jawwāl / jawwālāt",
+      "en": "cell phone(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-165",
+      "ar": "كُرْسِي / كَرَاسِي",
+      "translit": "kursi / karāsi",
+      "en": "chair(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-166",
+      "ar": "رْخِيص / رْخِيصَة / رْخَاص",
+      "translit": "rkhīṣ / rkhīṣa / rkhāṣ",
+      "en": "cheap / inexpensive (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-167",
+      "ar": "طِفِل / أَطْفَال",
+      "translit": "ṭifil / aṭfāl",
+      "en": "child / children",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-168",
+      "ar": "صِينِي / صِينِيِّة / صِينِيِّين",
+      "translit": "ṣīni / ṣīniyye / ṣīniyyīn",
+      "en": "Chinese (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-169",
+      "ar": "كَنِيسِة / كَنَايِس",
+      "translit": "kanīse / kanāyis",
+      "en": "church(es)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-170",
+      "ar": "مَدِينِة / مُدُن",
+      "translit": "madīne / mudun",
+      "en": "city / cities",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-171",
+      "ar": "نْضيف / نْضيفة / نْضاف",
+      "translit": "nḍīf / nḍīfe / nḍāf",
+      "en": "clean (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-172",
+      "ar": "التَّنْضِيف",
+      "translit": "it-tanḍīf",
+      "en": "cleaning",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-173",
+      "ar": "عِيَادِة / عِيَادَات",
+      "translit": "ʿiyāde / ʿiyādāt",
+      "en": "clinic(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-174",
+      "ar": "قَرِيب / قَرِيبِة / قَرِيبِين",
+      "translit": "ʾarīb / ʾarībe / ʾarībīn",
+      "en": "close / near (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-175",
+      "ar": "قَرِيب مِن",
+      "translit": "ʾarīb min",
+      "en": "close to / near",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-176",
+      "ar": "مْسَكَّر / مْسَكَّرِة / مْسَكَّرِين",
+      "translit": "msakkar / msakkare / msakkarīn",
+      "en": "closed / shut (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-177",
+      "ar": "أَوَاعِي / تْيَاب",
+      "translit": "awāʿi / tyāb",
+      "en": "clothes",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-178",
+      "ar": "قَهْوِة",
+      "translit": "ʾahwe",
+      "en": "coffee",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-179",
+      "ar": "طَاوْلِة وَسَط / طَاوْلَات وَسَط",
+      "translit": "ṭāwlet wsaṭ / ṭāwlāt wsaṭ",
+      "en": "coffee table(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-180",
+      "ar": "بَرْدَان / بَرْدَانِة / بَرْدَانِين",
+      "translit": "bardān / bardāne / bardānīn",
+      "en": "cold / feeling cold (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-181",
+      "ar": "بَارِد / بَارْدِة / بَارْدِين",
+      "translit": "bārid / bārde / bārdīn",
+      "en": "cold (things; m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-182",
+      "ar": "مُرِيح / مُرِيحِة / مُرِيحِين",
+      "translit": "murīḥ / murīḥa / murīḥīn",
+      "en": "comfortable (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-183",
+      "ar": "مِرْتَاح / مِرْتَاحِة / مِرْتَاحِين",
+      "translit": "mirtāḥ / mirtāḥa / mirtāḥīn",
+      "en": "comfortable / relaxed / relieved (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-184",
+      "ar": "كَمْبْيُوتَر / كَمْبْيُوتَرَات",
+      "translit": "kambyūtar / kambyūtarāt",
+      "en": "computer(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-185",
+      "ar": "مْخَرْبَط / مْخَرْبَطِة / مْخَرْبَطِين",
+      "translit": "mkharbaṭ / mkharbaṭa / mkharbaṭīn",
+      "en": "confused (m. / f. / pl.)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-186",
+      "ar": "الطَّبْخ",
+      "translit": "iṭ-ṭabkh",
+      "en": "cooking",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-187",
+      "ar": "زَاوْيِة / زَوَايَا",
+      "translit": "zāwye / zawāyā",
+      "en": "corner(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-188",
+      "ar": "كَاسِة / كَاسَات",
+      "translit": "kāse / kāsāt",
+      "en": "cup(s)",
+      "gender": null,
+      "letter": "C",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-189",
+      "ar": "الرَّقْص",
+      "translit": "ir-raʾṣ",
+      "en": "dancing",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-190",
+      "ar": "نَازِل / نَازْلِة / نَازْلِين",
+      "translit": "nāzil / nāzle / nāzlīn",
+      "en": "dangling / hanging down (m. / f. / pl.)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-191",
+      "ar": "دِنْمَارْكِي / دِنْمَارْكِيِّة / دِنْمَارْكِيِّين",
+      "translit": "dinmārki / dinmārkiyye / dinmārkiyyīn",
+      "en": "Danish (m. / f. / pl.)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-192",
+      "ar": "مْعَتِّم / مْعَتِّمِة / مْعَتِّمِين",
+      "translit": "mʿattim / mʿattime / mʿattimīn",
+      "en": "dark / dim (m. / f. / pl.)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-193",
+      "ar": "كِنِّة / كَنَايِن",
+      "translit": "kinne / kanāyin",
+      "en": "daughter-in-law / daughters-in-law",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-194",
+      "ar": "بِنْت / بَنَات",
+      "translit": "bint / banāt",
+      "en": "daughter(s) / girl(s)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-195",
+      "ar": "التَّأْخِير",
+      "translit": "it-taʾkhīr",
+      "en": "delay / lateness",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-196",
+      "ar": "مَكْتَب / مَكَاتِب",
+      "translit": "maktab / makātib",
+      "en": "desk(s) / office(s)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-197",
+      "ar": "صَعِب / صَعْبِة",
+      "translit": "ṣaʿib / ṣaʿbe",
+      "en": "difficult / hard (m. / f.)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-198",
+      "ar": "غُرْفِة السُّفْرَة / غُرَف السُّفْرَة",
+      "translit": "ghurfet is-sufra / ghuraf is-sufra",
+      "en": "dining room(s)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-199",
+      "ar": "طَاوْلِة سُفْرَة / طَاوْلَات سُفْرَة",
+      "translit": "ṭāwlet sufra / ṭāwlāt sufra",
+      "en": "dining table(s)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-200",
+      "ar": "عَشَا",
+      "translit": "ʿasha",
+      "en": "dinner",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-201",
+      "ar": "وِسِخ / وِسْخِة / وِسْخِين",
+      "translit": "wisikh / wiskha / wiskhīn",
+      "en": "dirty / filthy (m. / f. / pl.)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-202",
+      "ar": "دُكْتُور / دَكَاتْرَة",
+      "translit": "duktōr / dakātra",
+      "en": "doctor(s)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-203",
+      "ar": "كَلْب / كْلَاب",
+      "translit": "kalb / klāb",
+      "en": "dog(s)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-204",
+      "ar": "باب / أبْوَاب",
+      "translit": "bāb / abwāb",
+      "en": "door(s)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-205",
+      "ar": "جَرَّار / جَوَارِير",
+      "translit": "jarrār / jawārīr",
+      "en": "drawer(s)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-206",
+      "ar": "السَّوَاقَة",
+      "translit": "is-sawāʾa",
+      "en": "driving",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-207",
+      "ar": "نَاشِف / نَاشْفِة / نَاشْفِين",
+      "translit": "nāshif / nāshfe / nāshfīn",
+      "en": "dry (m. / f. / pl.)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-208",
+      "ar": "هُولَنْدِي / هُولَنْدِيِّة / هُولَنْدِيِّين",
+      "translit": "hōlandi / hōlandiyye / hōlandiyyīn",
+      "en": "Dutch (m. / f. / pl.)",
+      "gender": null,
+      "letter": "D",
+      "page": 432,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          432
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-209",
+      "ar": "شْمَال",
+      "translit": "shimāl",
+      "en": "left",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-210",
+      "ar": "دَرْس / دُرُوس",
+      "translit": "dars / durūs",
+      "en": "lesson(s) / class(es)",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-211",
+      "ar": "رِسَالِة / رَسَايِل",
+      "translit": "risāle / rasāyil",
+      "en": "letter(s) / message(s)",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-212",
+      "ar": "خَفِيف / خَفِيفِة / خْفَاف",
+      "translit": "khafīf / khafīfe / khfāf",
+      "en": "light / lightweight (m. / f. / pl.)",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-213",
+      "ar": "قَلِيل",
+      "translit": "ʾalīl",
+      "en": "little / not much",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-214",
+      "ar": "غُرْفِة القَعْدِة",
+      "translit": "ghurfet il-ʾaʿde",
+      "en": "living room / family room",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-215",
+      "ar": "صَالُون / صَالُونَات",
+      "translit": "ṣālōn / ṣālōnāt",
+      "en": "living room(s) / reception room(s)",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-216",
+      "ar": "مَقْفُول / مَقْفُولِة / مَقْفُولِين",
+      "translit": "maʾfūl / maʾfūle / maʾfūlīn",
+      "en": "locked (m. / f. / pl.)",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-217",
+      "ar": "طَوِيل / طَوِيلِة / طْوَال",
+      "translit": "ṭawīl / ṭawīle / ṭwāl",
+      "en": "long / tall (m. / f. / pl.)",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-218",
+      "ar": "ضَايِع / ضَايْعِة / ضَايْعِين",
+      "translit": "ḍāyiʿ / ḍāyʿa / ḍāyʿīn",
+      "en": "lost / missing (m. / f. / pl.)",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-219",
+      "ar": "وَاطِي / وَاطْيِة / وَاطْيِين",
+      "translit": "wāṭi / wāṭye / wāṭyīn",
+      "en": "low (m. / f. / pl.)",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-220",
+      "ar": "غَدَا",
+      "translit": "ghada",
+      "en": "lunch",
+      "gender": null,
+      "letter": "L",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-221",
+      "ar": "اِبْن عَمّ",
+      "translit": "ibin ʿamm",
+      "en": "male cousin (father's brother's son)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-222",
+      "ar": "اِبْن عَمِّة",
+      "translit": "ibin ʿamme",
+      "en": "male cousin (father's sister's son)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-223",
+      "ar": "اِبْن خَال",
+      "translit": "ibin khāl",
+      "en": "male cousin (mother's brother's son)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-224",
+      "ar": "اِبْن خَالِة",
+      "translit": "ibin khāle",
+      "en": "male cousin (mother's sister's son)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-225",
+      "ar": "مُول / مُولَات",
+      "translit": "mōl / mōlāt",
+      "en": "mall(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-226",
+      "ar": "زَلَمِة / زْلَام",
+      "translit": "zalame / zlām",
+      "en": "man / men",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-227",
+      "ar": "سُوق / أَسْوَاق",
+      "translit": "sūʾ / aswāʾ",
+      "en": "market(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-228",
+      "ar": "خَالِة / خَالَات",
+      "translit": "khāle / khālāt",
+      "en": "maternal aunt(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-229",
+      "ar": "خَال / أَخْوَال",
+      "translit": "khāl / akhwāl",
+      "en": "maternal uncle(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-230",
+      "ar": "وَجْبِة / وَجْبَات",
+      "translit": "wajbe / wajbāt",
+      "en": "meal(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-231",
+      "ar": "لَئِيم / لَئِيمِة / لُؤَمَا",
+      "translit": "laʾīm / laʾīme / luʾama",
+      "en": "mean / nasty / spiteful (m. / f. / pl.)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-232",
+      "ar": "دَوَا / أَدْوِيِة",
+      "translit": "dawa / adwiye",
+      "en": "medicine(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-233",
+      "ar": "اِجْتِمَاع / اِجْتِمَاعَات",
+      "translit": "ijtimāʿ / ijtimāʿāt",
+      "en": "meeting(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-234",
+      "ar": "اِشْتِرَاك / اِشْتِرَاكَات",
+      "translit": "ishtirāk / ishtirākāt",
+      "en": "membership(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-235",
+      "ar": "مْكَرْكَب / مْكَرْكَبِة / مْكَرْكَبِين",
+      "translit": "mkarkab / mkarkabe / mkarkabīn",
+      "en": "messy / untidy (m. / f. / pl.)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-236",
+      "ar": "مَكْسِيكِي / مَكْسِيكِيِّة / مَكْسِيكِيِّين",
+      "translit": "maksīki / maksīkiyye / maksīkiyyīn",
+      "en": "Mexican (m. / f. / pl.)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-237",
+      "ar": "مِرَايِة / مَرَايَا",
+      "translit": "mirāye / marāya",
+      "en": "mirror(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-238",
+      "ar": "مَصَارِي",
+      "translit": "maṣāri",
+      "en": "money",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-239",
+      "ar": "مَغْرِبِي / مَغْرِبِيِّة / مَغْرِبِيِّين",
+      "translit": "maghribi / maghribiyye / maghribiyyīn",
+      "en": "Moroccan (m. / f. / pl.)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-240",
+      "ar": "مَسْجِد / مَسَاجِد",
+      "translit": "masjid / masājid",
+      "en": "mosque(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-241",
+      "ar": "حَمَاة / حَمَوَات",
+      "translit": "ḥamāt / ḥamawāt",
+      "en": "mother-in-law / mothers-in-law",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-242",
+      "ar": "إِمّ / إِمَّهَات",
+      "translit": "imm / immahāt",
+      "en": "mother(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-243",
+      "ar": "سِينَمَا / سِينَمَات",
+      "translit": "sīnama / sīnamāt",
+      "en": "movie theater(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-244",
+      "ar": "مَتْحَف / مَتَاحِف",
+      "translit": "matḥaf / matāḥif",
+      "en": "museum(s)",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-245",
+      "ar": "أَخُوي",
+      "translit": "akhūy",
+      "en": "my brother",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-246",
+      "ar": "أَهْلِي",
+      "translit": "ahlī",
+      "en": "my family / my parents",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-247",
+      "ar": "أَبُوي",
+      "translit": "abūy",
+      "en": "my father / dad",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-248",
+      "ar": "إِمِّي",
+      "translit": "immī",
+      "en": "my mother / mom",
+      "gender": null,
+      "letter": "M",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-249",
+      "ar": "ضَيِّق / ضَيِّقِة / ضَيِّقِين",
+      "translit": "ḍayyiʾ / ḍayyiʾa / ḍayyiʾīn",
+      "en": "narrow / cramped (m. / f. / pl.)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-250",
+      "ar": "مْرَتَّب / مْرَتَّبِة / مْرَتَّبِين",
+      "translit": "mrattab / mrattabe / mrattabīn",
+      "en": "neat / organized / tidy (m. / f. / pl.)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-251",
+      "ar": "ضَرُورِي / ضَرُورِيِّة / ضَرُورِيِّين",
+      "translit": "ḍarūri / ḍarūriyye / ḍarūriyyīn",
+      "en": "necessary / essential (m. / f. / pl.)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-252",
+      "ar": "جَار / جِيرَان",
+      "translit": "jār / jīrān",
+      "en": "neighbor(s)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-253",
+      "ar": "مَع هَيْك",
+      "translit": "maʿ hēk",
+      "en": "nevertheless / even so",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-254",
+      "ar": "جْدِيد / جْدِيدِة / جْدَاد",
+      "translit": "jdīd / jdīde / jdād",
+      "en": "new (m. / f. / pl.)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-255",
+      "ar": "لَأ",
+      "translit": "laʾ",
+      "en": "no",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-256",
+      "ar": "وَلَا",
+      "translit": "wala",
+      "en": "nor",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-257",
+      "ar": "نَرْوِيجِي / نَرْوِيجِيِّة / نَرْوِيجِيِّين",
+      "translit": "nirwīji / nirwījiyye / nirwījiyyīn",
+      "en": "Norwegian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-258",
+      "ar": "مَا",
+      "translit": "mā",
+      "en": "not (negation particle)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-259",
+      "ar": "مِش",
+      "translit": "mish",
+      "en": "not (nominal negation)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-260",
+      "ar": "دَفْتَر / دَفَاتِر",
+      "translit": "daftar / dafātir",
+      "en": "notebook(s)",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-261",
+      "ar": "هَلَّأ",
+      "translit": "hallaʾ",
+      "en": "now / right now",
+      "gender": null,
+      "letter": "N",
+      "page": 433,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          433
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-262",
+      "ar": "قَدِيم / قَدِيمِة / قْدَام",
+      "translit": "ʾadīm / ʾadīme / ʾdām",
+      "en": "old / old-fashioned (m. / f. / pl.)",
+      "gender": null,
+      "letter": "O",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-263",
+      "ar": "عَ / عَلَى",
+      "translit": "ʿa / ʿala",
+      "en": "on / to",
+      "gender": null,
+      "letter": "O",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-264",
+      "ar": "مَفْتُوح / مَفْتُوحِة / مَفْتُوحِين",
+      "translit": "maftūḥ / maftūḥa / maftūḥīn",
+      "en": "open / unlocked (m. / f. / pl.)",
+      "gender": null,
+      "letter": "O",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-265",
+      "ar": "وَلَّا / أَوْ",
+      "translit": "walla / aw",
+      "en": "or / alternatively",
+      "gender": null,
+      "letter": "O",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-266",
+      "ar": "بَرَّا / بَرَّات",
+      "translit": "barra / barrāt",
+      "en": "outside / outside of",
+      "gender": null,
+      "letter": "O",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-267",
+      "ar": "بَاكِسْتَانِي / بَاكِسْتَانِيِّة / بَاكِسْتَانِيِّين",
+      "translit": "bākistāni / bākistāniyye / bākistāniyyīn",
+      "en": "Pakistani (m. / f. / pl.)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-268",
+      "ar": "فِلَسْطِينِي / فِلَسْطِينِيِّة / فِلَسْطِينِيِّين",
+      "translit": "filasṭīni / filasṭīniyye / filasṭīniyyīn",
+      "en": "Palestinian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-269",
+      "ar": "وَالِدَيْن",
+      "translit": "wālidēn",
+      "en": "parents",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-270",
+      "ar": "حَدِيقِة / حَدَايِق",
+      "translit": "ḥadīʾa / ḥadāyiʾ",
+      "en": "park(s) / garden(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-271",
+      "ar": "مَوْقِف / مَوَاقِف",
+      "translit": "mawʾif / mawāʾif",
+      "en": "parking spot(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-272",
+      "ar": "حَفْلِة / حَفْلَات",
+      "translit": "ḥafle / ḥaflāt",
+      "en": "party / parties",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-273",
+      "ar": "عَمِّة / عَمَّات",
+      "translit": "ʿamme / ʿammāt",
+      "en": "paternal aunt(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-274",
+      "ar": "عَمّ / أَعْمَام",
+      "translit": "ʿamm / aʿmām",
+      "en": "paternal uncle(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-275",
+      "ar": "قَلَم / أَقْلَام",
+      "translit": "ʾalam / aʾlām",
+      "en": "pen(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-276",
+      "ar": "نَاس",
+      "translit": "nās",
+      "en": "people",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-277",
+      "ar": "شَخْص / أَشْخَاص",
+      "translit": "shakhṣ / ashkhāṣ",
+      "en": "person / people",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-278",
+      "ar": "صَيْدَلِيِّة / صَيْدَلِيَّات",
+      "translit": "ṣaydaliyye / ṣaydaliyyāt",
+      "en": "pharmacy / pharmacies",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-279",
+      "ar": "تِلِفُون / تِلِفُونَات",
+      "translit": "tilifōn / tilifōnāt",
+      "en": "phone(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-280",
+      "ar": "مَحَلّ تِلِفُونَات / مَحَلَّات تِلِفُونَات",
+      "translit": "maḥall tilifōnāt / maḥallāt tilifōnāt",
+      "en": "phone store(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-281",
+      "ar": "صُورَة / صُوَر",
+      "translit": "ṣūra / ṣuwar",
+      "en": "picture(s) / photograph(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-282",
+      "ar": "مْخَدِّة / مْخَدَّات",
+      "translit": "mkhadde / mkhaddāt",
+      "en": "pillow(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-283",
+      "ar": "شُرْطِي / شُرْطِيِّة / شُرْطِيِّين",
+      "translit": "shurṭi / shurṭiyye / shurṭiyyīn",
+      "en": "police officer(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-284",
+      "ar": "مَرْكَز شُرْطَة / مَرَاكِز شُرْطَة",
+      "translit": "markaz shurṭa / marākiz shurṭa",
+      "en": "police station(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-285",
+      "ar": "بُولَنْدِي / بُولَنْدِيِّة / بُولَنْدِيِّين",
+      "translit": "būlandi / būlandiyye / būlandiyyīn",
+      "en": "Polish (m. / f. / pl.)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-286",
+      "ar": "مَسْبَح / مَسَابِح",
+      "translit": "masbaḥ / masābiḥ",
+      "en": "pool(s) / swimming pool(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-287",
+      "ar": "مَكْتَب بَرِيد / مَكَاتِب بَرِيد",
+      "translit": "maktab barīd / makātib barīd",
+      "en": "post office(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-288",
+      "ar": "مُشْكِلِة / مَشَاكِل",
+      "translit": "mushkile / mashākil",
+      "en": "problem(s)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-289",
+      "ar": "فَخُور / فَخُورِة / فَخُورِين",
+      "translit": "fakhūr / fakhūra / fakhūrīn",
+      "en": "proud (m. / f. / pl.)",
+      "gender": null,
+      "letter": "P",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-290",
+      "ar": "قَطَرِي / قَطَرِيِّة / قَطَرِيِّين",
+      "translit": "qaṭari / qaṭariyye / qaṭariyyīn",
+      "en": "Qatari (m. / f. / pl.)",
+      "gender": null,
+      "letter": "Q",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-291",
+      "ar": "هَادِي / هَادْيِة / هَادْيِين",
+      "translit": "hādi / hādye / hādyīn",
+      "en": "quiet / calm (m. / f. / pl.)",
+      "gender": null,
+      "letter": "Q",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-292",
+      "ar": "القِرَايِة",
+      "translit": "il-ʾirāye",
+      "en": "reading",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-293",
+      "ar": "جَاهِز / جَاهْزِة / جَاهْزِين",
+      "translit": "jāhiz / jāhze / jāhzīn",
+      "en": "ready / prepared (m. / f. / pl.)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-294",
+      "ar": "بَرَّاد / بَرَّادَات",
+      "translit": "barrād / barrādāt",
+      "en": "refrigerator(s)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-295",
+      "ar": "قَرِيب / قَرَايِب",
+      "translit": "ʾarīb / ʾarāyib",
+      "en": "relative(s)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-296",
+      "ar": "رَاحَة",
+      "translit": "rāḥa",
+      "en": "rest / comfort",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-297",
+      "ar": "مَطْعَم / مَطَاعِم",
+      "translit": "maṭʿam / maṭāʿim",
+      "en": "restaurant(s)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-298",
+      "ar": "يَمِين",
+      "translit": "yamīn",
+      "en": "right",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-299",
+      "ar": "سَقْف / سُقُوف",
+      "translit": "saʾf / suʾūf",
+      "en": "roof(s) / ceiling(s)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-300",
+      "ar": "غُرْفِة بَيْت",
+      "translit": "ghurfet bēt",
+      "en": "room in a house",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-301",
+      "ar": "غُرْفِة / غُرَف",
+      "translit": "ghurfe / ghuraf",
+      "en": "room(s)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-302",
+      "ar": "خَشِن / خَشْنِة / خَشْنِين",
+      "translit": "khashin / khashne / khashnīn",
+      "en": "rough (m. / f. / pl.)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-303",
+      "ar": "سَجَّادِة / سَجَّادَات",
+      "translit": "sajjāde / sajjādāt",
+      "en": "rug(s) / carpet(s)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-304",
+      "ar": "الرَّكَض",
+      "translit": "ir-rakiḍ",
+      "en": "running",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      },
+      "flags": [
+        {
+          "kind": "ambiguous",
+          "note": "Arabic الرَّكَض is vowelled with fatha on ك (rakaḍ) but transliterated \"ir-rakiḍ\"."
+        }
+      ]
+    },
+    {
+      "id": "gl-vocab-305",
+      "ar": "رُوسِي / رُوسِيِّة / رُوسِيِّين",
+      "translit": "rūsi / rūsiyye / rūsiyyīn",
+      "en": "Russian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "R",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-306",
+      "ar": "زَعْلَان / زَعْلَانِة / زَعْلَانِين",
+      "translit": "zaʿlān / zaʿlāne / zaʿlānīn",
+      "en": "sad / upset (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-307",
+      "ar": "سَعُودِي / سَعُودِيِّة / سَعُودِيِّين",
+      "translit": "saʿūdi / saʿūdiyye / saʿūdiyyīn",
+      "en": "Saudi (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-308",
+      "ar": "خَايِف / خَايْفِة / خَايْفِين",
+      "translit": "khāyif / khāyfe / khāyfīn",
+      "en": "scared / afraid (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-309",
+      "ar": "مَدْرَسِة / مَدَارِس",
+      "translit": "madrase / madāris",
+      "en": "school(s)",
+      "gender": null,
+      "letter": "S",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-310",
+      "ar": "هِيِّ",
+      "translit": "hiyye",
+      "en": "she / it (f.)",
+      "gender": null,
+      "letter": "S",
+      "page": 434,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          434
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-311",
+      "ar": "رَفّ / رْفُوف",
+      "translit": "raff / rfūf",
+      "en": "shelf / shelves",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-312",
+      "ar": "لَامِع / لَامْعَة / لَامْعِين",
+      "translit": "lāmiʿ / lāmʿa / lāmʿīn",
+      "en": "shiny / polished (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-313",
+      "ar": "كُنْدَرَة / كَنَادِر",
+      "translit": "kundara / kanādir",
+      "en": "shoes (pair / pairs)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-314",
+      "ar": "مَحَلّ كَنَادِر / مَحَلَّات كَنَادِر",
+      "translit": "maḥall kanādir / maḥallāt kanādir",
+      "en": "shoe store(s)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-315",
+      "ar": "تَسَوُّق",
+      "translit": "tasawwuʾ",
+      "en": "shopping",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-316",
+      "ar": "قَصِير / قَصِيرِة / قُصَار",
+      "translit": "ʾaṣīr / ʾaṣīre / ʾuṣār",
+      "en": "short (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-317",
+      "ar": "خَجُول / خَجُولِة / خَجُولِين",
+      "translit": "khajūl / khajūle / khajūlīn",
+      "en": "shy / bashful (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-318",
+      "ar": "مَرِيض / مَرِيضِة / مَرِيضِين",
+      "translit": "marīḍ / marīḍa / marīḍīn",
+      "en": "sick / ill (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-319",
+      "ar": "مَغْسَلِة / مَغَاسِل",
+      "translit": "maghsale / maghāsil",
+      "en": "sink(s), bathroom",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-320",
+      "ar": "مَجْلَى / مَجَالِي",
+      "translit": "majla / majāli",
+      "en": "sink(s), kitchen",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-321",
+      "ar": "أُخْت / خَوَات / أَخَوَات",
+      "translit": "ukht / khawāt / akhawāt",
+      "en": "sister(s)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-322",
+      "ar": "قَعْدِة",
+      "translit": "ʾaʿde",
+      "en": "sitting / gathering",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-323",
+      "ar": "النَّوْم",
+      "translit": "in-nōm",
+      "en": "sleeping / sleep",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-324",
+      "ar": "نَعْسَان / نَعْسَانِة / نَعْسَانِين",
+      "translit": "naʿsān / naʿsāne / naʿsānīn",
+      "en": "sleepy (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-325",
+      "ar": "بَطِيء / بَطِيئِة / بَطِيئِين",
+      "translit": "baṭīʾ / baṭīʾa / baṭīʾīn",
+      "en": "slow (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-326",
+      "ar": "صْغِير / صْغِيرِة / صْغَار",
+      "translit": "ẓghīr / ẓghīre / ẓghār",
+      "en": "small / young (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      },
+      "flags": [
+        {
+          "kind": "ambiguous",
+          "note": "Arabic is written with ص (ṣ) but transliterated with ẓ (\"ẓghīr\"); may reflect colloquial voicing or be a typo."
+        }
+      ]
+    },
+    {
+      "id": "gl-vocab-327",
+      "ar": "فَـ",
+      "translit": "fa-",
+      "en": "so / then",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-328",
+      "ar": "صَابُون",
+      "translit": "ṣābūn",
+      "en": "soap",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-329",
+      "ar": "كَنَبَايِة / كَنَبَايَات",
+      "translit": "kanabāye / kanabāyāt",
+      "en": "sofa(s)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-330",
+      "ar": "نَاعِم / نَاعْمِة / نَاعْمِين",
+      "translit": "nāʿim / nāʿme / nāʿmīn",
+      "en": "soft / smooth (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-331",
+      "ar": "الحَلّ",
+      "translit": "il-ḥall",
+      "en": "solving / solution",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-332",
+      "ar": "وَاسِع / وَاسْعَة / وَاسْعِين",
+      "translit": "wāsiʿ / wāsʿa / wāsʿīn",
+      "en": "spacious / roomy (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-333",
+      "ar": "إِسْبَانِي / إِسْبَانِيِّة / إِسْبَانِيِّين",
+      "translit": "isbāni / isbāniyye / isbāniyyīn",
+      "en": "Spanish (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-334",
+      "ar": "لِسَّاتِي",
+      "translit": "lissātī",
+      "en": "still (I am)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-335",
+      "ar": "مَخْزَن / مَخَازِن",
+      "translit": "makhzan / makhāzin",
+      "en": "storage room(s) / shed(s)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-336",
+      "ar": "دُغْرِي",
+      "translit": "dughri",
+      "en": "straight / directly",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-337",
+      "ar": "مَضْغُوط / مَضْغُوطِة / مَضْغُوطِين",
+      "translit": "maḍghūṭ / maḍghūṭa / maḍghūṭīn",
+      "en": "stressed / pressured (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-338",
+      "ar": "طَالِب / طَالْبِة / طُلَّاب / طَالِبَات",
+      "translit": "ṭālib / ṭālbe / ṭullāb / ṭālibāt",
+      "en": "student(s)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-339",
+      "ar": "الدِّرَاسِة",
+      "translit": "id-dirāse",
+      "en": "studying / study",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-340",
+      "ar": "مَتِين / مَتِينِة / مَتِينِين",
+      "translit": "matīn / matīne / matīnīn",
+      "en": "sturdy / strong (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-341",
+      "ar": "نَجَاح",
+      "translit": "najāḥ",
+      "en": "success / passing",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-342",
+      "ar": "سُودَانِي / سُودَانِيِّة / سُودَانِيِّين",
+      "translit": "sūdāni / sūdāniyye / sūdāniyyīn",
+      "en": "Sudanese (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-343",
+      "ar": "مُنَاسِب / مُنَاسْبِة / مُنَاسْبِين",
+      "translit": "munāsib / munāsbe / munāsbīn",
+      "en": "suitable / appropriate (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-344",
+      "ar": "سُوبَرْمَارْكِت / سُوبَرْمَارْكِتَات",
+      "translit": "sūbarmārkit / sūbarmārkitāt",
+      "en": "supermarket(s)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-345",
+      "ar": "سَطْح / سْطُوح",
+      "translit": "saṭḥ / sṭūḥ",
+      "en": "surface(s)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-346",
+      "ar": "سُوِيدِي / سُوِيدِيِّة / سُوِيدِيِّين",
+      "translit": "swīdi / swīdiyye / swīdiyyīn",
+      "en": "Swedish (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-347",
+      "ar": "السِّبَاحِة",
+      "translit": "is-sibāḥa",
+      "en": "swimming",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-348",
+      "ar": "سُورِي / سُورِيِّة / سُورِيِّين",
+      "translit": "sūri / sūriyye / sūriyyīn",
+      "en": "Syrian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "S",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-349",
+      "ar": "طَاوْلِة / طَاوْلَات",
+      "translit": "ṭāwle / ṭāwlāt",
+      "en": "table(s)",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-350",
+      "ar": "حَكِي",
+      "translit": "ḥaki",
+      "en": "talking / conversation",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-351",
+      "ar": "تَوْجِيهِي",
+      "translit": "tawjīhī",
+      "en": "Tawjihi / high-school exit exam",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-352",
+      "ar": "شَاي",
+      "translit": "shāy",
+      "en": "tea",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-353",
+      "ar": "أُسْتَاذ / أُسْتَاذِة / أَسَاتْذِة",
+      "translit": "ustāz / ustāze / asātze",
+      "en": "teacher(s)",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-354",
+      "ar": "تِلِفِزْيُون / تِلِفِزْيُونَات",
+      "translit": "tilfizyōn / tilfizyōnāt",
+      "en": "television(s)",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-355",
+      "ar": "هَدِيك",
+      "translit": "hadīk",
+      "en": "that (f.)",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-356",
+      "ar": "هَدَاك",
+      "translit": "hadāk",
+      "en": "that (m.)",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-357",
+      "ar": "عَشَان هَيْك / مِنْشَان هَيْك",
+      "translit": "ʿashān hēk / minshān hēk",
+      "en": "that's why / for that reason",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-358",
+      "ar": "الـ",
+      "translit": "il",
+      "en": "the (definite article)",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-359",
+      "ar": "هْناك",
+      "translit": "hnāk",
+      "en": "there / over there",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-360",
+      "ar": "فِي",
+      "translit": "fī",
+      "en": "there is / there are",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-361",
+      "ar": "مَا فِي",
+      "translit": "mā fī",
+      "en": "there isn't / there aren't",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-362",
+      "ar": "كَان فِي",
+      "translit": "kān fī",
+      "en": "there was / there were",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-363",
+      "ar": "مَا كَان فِي",
+      "translit": "mā kān fī",
+      "en": "there wasn't / there weren't",
+      "gender": null,
+      "letter": "T",
+      "page": 435,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          435
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-364",
+      "ar": "رَح يْكُون فِي",
+      "translit": "raḥ ykūn fī",
+      "en": "there will be",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-365",
+      "ar": "مَا رَح يْكُون فِي",
+      "translit": "mā raḥ ykūn fī",
+      "en": "there won't be",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-366",
+      "ar": "هَدُول",
+      "translit": "hadōl",
+      "en": "these",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-367",
+      "ar": "هُمِّ",
+      "translit": "humme",
+      "en": "they",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-368",
+      "ar": "عَطْشَان / عَطْشَانِة / عَطْشَانِين",
+      "translit": "ʿaṭshān / ʿaṭshāne / ʿaṭshānīn",
+      "en": "thirsty (m. / f. / pl.)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-369",
+      "ar": "هَاي",
+      "translit": "hāy",
+      "en": "this (f.)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-370",
+      "ar": "هَادَا",
+      "translit": "hāda",
+      "en": "this (m.)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-371",
+      "ar": "هَدُولَاك",
+      "translit": "hadōlāk",
+      "en": "those",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-372",
+      "ar": "تَذْكَرَة / تَذَاكِر",
+      "translit": "tazkara / tazākir",
+      "en": "ticket(s)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-373",
+      "ar": "تَعْبَان / تَعْبَانِة / تَعْبَانِين",
+      "translit": "taʿbān / taʿbāne / taʿbānīn",
+      "en": "tired (m. / f. / pl.)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-374",
+      "ar": "مُتْعِب / مُتْعِبِة",
+      "translit": "mutʿib / mutʿibe",
+      "en": "tiring / exhausting (m. / f.)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-375",
+      "ar": "اليَوْم",
+      "translit": "il-yōm",
+      "en": "today",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-376",
+      "ar": "تْوَالِيت / تْوَالِيتَات",
+      "translit": "twālet / twāletāt",
+      "en": "toilet(s)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-377",
+      "ar": "بُكْرَا",
+      "translit": "bukra",
+      "en": "tomorrow",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-378",
+      "ar": "عِدِّة / عِدَد",
+      "translit": "ʿidde / ʿidad",
+      "en": "tools / equipment; sets of tools",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-379",
+      "ar": "بِاتِّجَاه",
+      "translit": "bittijāh",
+      "en": "toward / in the direction of",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-380",
+      "ar": "بَشْكِير / بَشَاكِير",
+      "translit": "bashkīr / bashākīr",
+      "en": "towel(s)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-381",
+      "ar": "لُعْبِة / أَلْعَاب",
+      "translit": "luʿbe / alʿāb",
+      "en": "toy(s) / game(s)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-382",
+      "ar": "السَّفَر",
+      "translit": "is-safar",
+      "en": "travel / traveling",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-383",
+      "ar": "رِحْلِة / رِحْلَات",
+      "translit": "riḥle / riḥlāt",
+      "en": "trip(s)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-384",
+      "ar": "تُونْسِي / تُونْسِيِّة / تُونْسِيِّين",
+      "translit": "tūnisi / tūnisiyye / tūnisiyyīn",
+      "en": "Tunisian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-385",
+      "ar": "تُرْكِي / تُرْكِيِّة / تُرْكِيِّين",
+      "translit": "turki / turkiyye / turkiyyīn",
+      "en": "Turkish (m. / f. / pl.)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-386",
+      "ar": "مَطْفِي / مَطْفِيِّة / مَطْفِيِّين",
+      "translit": "maṭfi / maṭfiyye / maṭfiyyīn",
+      "en": "turned off / extinguished (m. / f. / pl.)",
+      "gender": null,
+      "letter": "T",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-387",
+      "ar": "أُوكْرَانِي / أُوكْرَانِيِّة / أُوكْرَانِيِّين",
+      "translit": "ukrāni / ukrāniyye / ukrāniyyīn",
+      "en": "Ukrainian (m. / f. / pl.)",
+      "gender": null,
+      "letter": "U",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-388",
+      "ar": "مِش مُرِيح / مِش مُرِيحِة / مِش مُرِيحِين",
+      "translit": "mish murīḥ / mish murīḥa / mish murīḥīn",
+      "en": "uncomfortable (m. / f. / pl.)",
+      "gender": null,
+      "letter": "U",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-389",
+      "ar": "جَامِعِة / جَامِعَات",
+      "translit": "jāmʿa / jāmiʿāt",
+      "en": "university / universities",
+      "gender": null,
+      "letter": "U",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      },
+      "flags": [
+        {
+          "kind": "suspected-error",
+          "note": "Arabic جَامِعِة is vowelled with kasra on م (jāmiʿe) but transliteration is \"jāmʿa\"; the -a ending also differs from the -e/-ِة pattern used elsewhere."
+        }
+      ]
+    },
+    {
+      "id": "gl-vocab-390",
+      "ar": "لَحَدّ",
+      "translit": "laḥadd",
+      "en": "until / up to",
+      "gender": null,
+      "letter": "U",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-391",
+      "ar": "خُضْرَة",
+      "translit": "khuḍra",
+      "en": "vegetables / produce",
+      "gender": null,
+      "letter": "V",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-392",
+      "ar": "كْتِير",
+      "translit": "ktīr",
+      "en": "very / a lot",
+      "gender": null,
+      "letter": "V",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-393",
+      "ar": "إِطْلَالِة / إِطْلَالَات",
+      "translit": "iṭlāle / iṭlālāt",
+      "en": "view(s)",
+      "gender": null,
+      "letter": "V",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-394",
+      "ar": "اِنْتِظَار",
+      "translit": "intiẓār",
+      "en": "waiting",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-395",
+      "ar": "حَيْط / حَيْطَان",
+      "translit": "ḥēṭ / ḥēṭān",
+      "en": "wall(s)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-396",
+      "ar": "مَيّ",
+      "translit": "mayy",
+      "en": "water",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-397",
+      "ar": "قَنِّينِة مَيّ / قَنَانِي مَيّ",
+      "translit": "ʾannīnet mayy / ʾanāni mayy",
+      "en": "water bottle(s)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-398",
+      "ar": "إِحْنَا",
+      "translit": "iḥna",
+      "en": "we",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-399",
+      "ar": "ضَعِيف / ضَعِيفِة / ضْعَاف",
+      "translit": "ḍaʿīf / ḍaʿīfe / ḍʿāf",
+      "en": "weak (m. / f. / pl.)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-400",
+      "ar": "عُرْس / أَعْرَاس",
+      "translit": "ʿurs / aʿrās",
+      "en": "wedding(s)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-401",
+      "ar": "وَزْن / أَوْزَان",
+      "translit": "wazn / awzān",
+      "en": "weight(s)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-402",
+      "ar": "شُو / إِيش",
+      "translit": "shū / ēsh",
+      "en": "what",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-403",
+      "ar": "إِمْتَى",
+      "translit": "ēmta",
+      "en": "when",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      },
+      "flags": [
+        {
+          "kind": "ambiguous",
+          "note": "Arabic إِمْتَى is vowelled with kasra (imta) but transliterated \"ēmta\"."
+        }
+      ]
+    },
+    {
+      "id": "gl-vocab-404",
+      "ar": "وِين",
+      "translit": "wēn",
+      "en": "where",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-405",
+      "ar": "أَيّ",
+      "translit": "ayy",
+      "en": "which",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-406",
+      "ar": "مِين",
+      "translit": "mīn",
+      "en": "who",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-407",
+      "ar": "اللِّي",
+      "translit": "illī",
+      "en": "who / that / which (relative)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-408",
+      "ar": "لِيش",
+      "translit": "lēsh",
+      "en": "why",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-409",
+      "ar": "شُبَّاك / شَبَابِيك",
+      "translit": "shubbāk / shabābīk",
+      "en": "window(s)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-410",
+      "ar": "مَع",
+      "translit": "maʿ",
+      "en": "with",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-411",
+      "ar": "بَلَا / بِدُون",
+      "translit": "balā / bidūn",
+      "en": "without",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-412",
+      "ar": "مَرَة / نِسْوَان",
+      "translit": "mara / niswān",
+      "en": "woman / women; wife / wives",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-413",
+      "ar": "الشُّغْل",
+      "translit": "ish-shughl",
+      "en": "work / working",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-414",
+      "ar": "شَغَّال / شَغَّالِة / شَغَّالِين",
+      "translit": "shaghghāl / shaghghāle / shaghghālīn",
+      "en": "working / functioning (m. / f. / pl.)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-415",
+      "ar": "قَلْقَان / قَلْقَانِة / قَلْقَانِين",
+      "translit": "ʾalʾān / ʾalʾāne / ʾalʾānīn",
+      "en": "worried / anxious (m. / f. / pl.)",
+      "gender": null,
+      "letter": "W",
+      "page": 436,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          436
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-416",
+      "ar": "حُوش / أَحْوَاش",
+      "translit": "ḥōsh / aḥwāsh",
+      "en": "yard(s) / courtyard(s)",
+      "gender": null,
+      "letter": "Y",
+      "page": 437,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          437
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-417",
+      "ar": "يَمَنِي / يَمَنِيِّة / يَمَنِيِّين",
+      "translit": "yamani / yamaniyye / yamaniyyīn",
+      "en": "Yemeni (m. / f. / pl.)",
+      "gender": null,
+      "letter": "Y",
+      "page": 437,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          437
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-418",
+      "ar": "آه",
+      "translit": "āh",
+      "en": "yes",
+      "gender": null,
+      "letter": "Y",
+      "page": 437,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          437
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-419",
+      "ar": "اِمْبَارِح",
+      "translit": "mbāriḥ",
+      "en": "yesterday",
+      "gender": null,
+      "letter": "Y",
+      "page": 437,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          437
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-420",
+      "ar": "إِنْتِي",
+      "translit": "intī",
+      "en": "you (f.)",
+      "gender": null,
+      "letter": "Y",
+      "page": 437,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          437
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-421",
+      "ar": "إِنْتَ",
+      "translit": "inta",
+      "en": "you (m.)",
+      "gender": null,
+      "letter": "Y",
+      "page": 437,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          437
+        ]
+      }
+    },
+    {
+      "id": "gl-vocab-422",
+      "ar": "إِنْتُو",
+      "translit": "intu",
+      "en": "you (pl.)",
+      "gender": null,
+      "letter": "Y",
+      "page": 437,
+      "source": {
+        "designId": "DAHaz00vw2w",
+        "pages": [
+          437
+        ]
+      }
+    }
+  ]
+}

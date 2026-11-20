@@ -1,0 +1,23 @@
+{
+ "id": "abv-vol1",
+ "title": "Arabic Before Verbs — Volume One",
+ "subtitle": "A Comprehensive Foundation in Southern Levantine Arabic · Jordanian & Palestinian Dialects",
+ "author": "Aaron Wood",
+ "dialect": "Southern Levantine (Palestinian-Jordanian) Arabic",
+ "status": "available",
+ "canonicalSource": {
+  "designId": "DAHaz00vw2w",
+  "title": "Volume 1 - Meal Ticket",
+  "note": "Most recent fully merged copy (437 pp.). Canva page number = printed page number. Two other designs share the title (DAHbYmlu150, DAHbRlv27-0); DAHaz00vw2w is the most recently edited."
+ },
+ "relatedSources": [
+  { "designId": "DAHOQyuq2wo", "title": "Chapter 1 & Intro", "role": "individual chapter (folder '2 – Original Chapters (1–5)')" },
+  { "designId": "DAHOQ0itobM", "title": "Chapter 2 Final", "role": "individual chapter" },
+  { "designId": "DAHZ-mWwCYs", "title": "Chapter 3", "role": "individual chapter (53 pp.)" },
+  { "designId": "DAHOQ_y4_uA", "title": "Chapter 3", "role": "individual chapter (107 pp.)" },
+  { "designId": "DAHOQzFxvhw", "title": "Chapter 4", "role": "individual chapter" },
+  { "designId": "DAHOQ8ZOS60", "title": "Chapter 5", "role": "individual chapter" },
+  { "designId": "DAHZziMnrWA", "title": "FINAL – Arabic Before Verbs Vol. 1", "role": "'1 – Full Book' folder (430 pp.), superseded by Meal Ticket" }
+ ],
+ "chapters": ["front", "ch1", "ch2", "ch3-a", "ch3-b", "ch4", "ch5"]
+}

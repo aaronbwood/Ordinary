@@ -1,0 +1,853 @@
+{
+ "id": "front",
+ "number": 0,
+ "titleEn": "Before We Begin",
+ "source": {
+  "designId": "DAHaz00vw2w",
+  "pages": [
+   1,
+   27
+  ]
+ },
+ "sourceNotes": {
+  "skipped": [
+   {
+    "pages": [
+     1
+    ],
+    "what": "Title page: \"Arabic Before Verbs — A Comprehensive Foundation in Southern Levantine Arabic — Jordanian & Palestinian Dialects — Aaron Wood — The Ordinary Day Project\""
+   },
+   {
+    "pages": [
+     2
+    ],
+    "what": "Copyright page"
+   },
+   {
+    "pages": [
+     5,
+     11
+    ],
+    "what": "Table of contents"
+   },
+   {
+    "pages": [
+     21
+    ],
+    "what": "Blank page"
+   }
+  ]
+ },
+ "lessons": [
+  {
+   "id": "front-preface",
+   "code": null,
+   "title": "Preface",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     3
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "This book was written for the serious adult learner who wants a clear, structured path into Levantine Arabic. It is not a phrase book. It is not a grammar reference. It is a foundation.",
+      "Before you conjugate a single verb, you need to understand how Arabic works at its core—how sounds connect, how words are built, and how meaning is carried in patterns you can see, feel, and predict.",
+      "Arabic Before Verbs gives you that foundation. Every chapter builds on the last. Every exercise reinforces what came before. By the time you reach the verb system, you will be ready for it.",
+      "This book focuses on the Jordanian and Palestinian dialects of Levantine Arabic. These are living, breathing forms of Arabic spoken by millions of people every day. You deserve materials that treat them with the depth and respect they require.",
+      "Welcome to the foundation.",
+      "— Aaron Wood"
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       3
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "front-acknowledgments",
+   "code": null,
+   "title": "Acknowledgments",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     4
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "I would like to thank my students and friends, Saskia and Morgan Witthoft, and Talia Hershewe, whose presence in my life helped carry this project forward.",
+      "To Morgan and Saskia, my longest-standing students: I am incredibly proud of you both. Watching your Arabic grow over the years has been one of the great honors of my teaching life. Your constant encouragement, patience, curiosity, and enthusiasm have meant more to me than you may know. You are amazing students and amazing friends, and I truly could not ask for more in either.",
+      "To Talia, an exceptional author, thoughtful student, amazing mother, and great friend: thank you for your insight, your questions, and your curiosity. The way you think has helped me see my own teaching more clearly, and your writing continues to inspire me. Your strength, conviction, and talent remind me what it means to stand firmly for what you believe in while continuing to grow.",
+      "This book is better because of all three of you. Last but certainly not least, I want to thank my amazing wife, Walaa, whose unwavering love, support, encouragement, and countless acts of kindness made this project possible. Through every challenge, she reminded me why this work mattered. Her faith in me, her patience, and her constant encouragement inspire me every day and make me strive to be a better husband, a better teacher, and a better man. I also want to thank my son, Vincent, and my dog, Haru, whose love, presence, and companionship gave me comfort, joy, and motivation throughout this process. I could not have done this without my family.",
+      "I truly feel like the luckiest man alive to have so much love, encouragement, and great energy in my life. With that kind of support around me, I feel like I can only succeed."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       4
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "front-what-this-book-is",
+   "code": null,
+   "title": "What This Book Is",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     12
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "Welcome to Arabic Before Verbs.",
+      "I wrote this book as a trail guide—a clear map for your journey into Levantine Arabic. After years of teaching, I settled on a progression that first builds rock-solid fundamentals and only then moves into full verb conjugation. That sequence is the reason for the title.",
+      "Arabic lets you form complete, natural sentences without any verb at all. Unlike English, it regularly does without words meaning “is,” “are,” or “am.” These nominal sentences are not a beginner workaround; they are central to how the language actually works. Anyone who wants to speak Arabic with real ease needs to handle them fluently. In these pages you will learn to describe people, identify things, express possession, talk about location, ask everyday questions, and manage many ordinary situations well before you face the full verb system.",
+      "There are verbs in this book—useful fixed expressions and high-frequency forms appear along the way—but I do not rush them. My goal has never been to shield students from verbs. It is to prepare them properly. Arabic constantly requires you to mark who is speaking, who is being addressed, and who or what is under discussion. You will therefore master masculine, feminine, singular, and plural patterns through possession (“my book,” “your book,” “her book,” “their book”) and through everyday expressions such as “I want,” “I have,” “with me,” and “for me.” These structures train the same habits of agreement that later appear in conjugation. By the time you reach verbs in depth, the underlying architecture is already familiar. Students who follow this path typically find conjugation far less daunting because the system is already in their bones."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       12
+      ]
+     }
+    }
+   ],
+   "part": "Before We Begin"
+  },
+  {
+   "id": "front-training-for-recall",
+   "code": null,
+   "title": "Training for Recall",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     13
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "I place heavy emphasis on drilling. My years in martial arts taught me that repeating a movement on the pads until it becomes automatic is what allows the right response to appear under pressure. Language works the same way. The drills in this book are built for that kind of fast, reliable recall—so useful patterns surface when you need them, without long hesitation or mental searching.",
+      "Many of the exercises also draw on my training in translation and interpretation. At the start of learning any language we function as novice translators: an idea forms in our own tongue and we look for a way to express it in the new one. That stage is natural and useful. You will therefore practice moving familiar thoughts from English into Arabic. Over time the need for conscious translation decreases. Arabic patterns begin to arise more directly, and you move closer to thinking in the language itself. Translation here is a deliberate bridge, not a permanent dependency."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       13
+      ]
+     }
+    }
+   ],
+   "part": "Before We Begin"
+  },
+  {
+   "id": "front-ordinary-day-arabic",
+   "code": null,
+   "title": "Ordinary Day Arabic",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     14
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "The language you will learn is practical and rooted in ordinary life. I call this approach Ordinary Day Arabic—the name of my company and the philosophy behind everything I teach. The words and structures that describe your home, your family, your plans, your needs, and the small events of your day are the ones that stick because they are relevant to your life. As you work through the material, connect Arabic to the world around you. Name the objects in your space. Notice where things are, who they belong to, what you want, and what you need. In this way you create a quiet form of immersion wherever you happen to be.",
+      "I travel regularly to the Levant and carry a deep affection for the region, its people, and its language. This book is the product of that ongoing relationship, of years spent refining how I teach, and of a long process of writing with care. I hope it gives you both useful tools and a strong, enjoyable beginning.",
+      "Let’s get started."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       14
+      ]
+     }
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "ar": "يَلّا!",
+       "translit": "yalla!",
+       "en": "Let’s go!",
+       "note": "Displayed as \"yalla! | !يَلّا\"; Canva text extraction gives \"يَلّا! | !yalla\" (bidi ordering of the \"!\")."
+      }
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       14
+      ]
+     }
+    },
+    {
+     "type": "image",
+     "kind": "illustration",
+     "description": "Watercolor-style illustration of an old stone building with tall arched doorways and a hanging lantern, beside a curving pastel cobblestone path.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       14
+      ]
+     }
+    }
+   ],
+   "part": "Before We Begin"
+  },
+  {
+   "id": "intro-welcome",
+   "code": null,
+   "title": "Welcome to Southern Levantine Arabic",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     15,
+     16
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "heading": "Welcome to Southern Levantine Arabic",
+     "paragraphs": [
+      "The Arabic you are about to learn in this book is Southern Levantine Arabic—the everyday spoken Arabic of Jordan and Palestine.",
+      "I started my own Arabic journey with Lebanese Arabic. But as I lived and traveled around the Arab world, I kept meeting Palestinians and people of Palestinian heritage everywhere I went. Over time, I began to see just how widely Palestinian Arabic is spoken—not only in Palestine, but in Jordan, Lebanon, the Gulf, the United States, Latin America, Europe, and many other places around the world.",
+      "A big reason for this is the Nakba. Nakba is an Arabic word that means “catastrophe.” It refers to the mass displacement and dispossession of Palestinians during the events surrounding the creation of Israel in 1948. Many estimates suggest that people of Palestinian origin make up a substantial share—possibly more than half—of Jordan’s population, although Jordan does not publish a single definitive official ethnic breakdown.",
+      "Over time, I fell deeply in love with Southern Levantine Arabic. There is something about it that really stayed with me: the warmth, the rhythm, the expressiveness, and the way it feels so alive in everyday conversation. It now holds a very special place in my heart.",
+      "Jordanian and Palestinian Arabic overlap so much that it can sometimes be hard to know where one ends and the other begins. They share a huge amount of everyday vocabulary, grammar, pronunciation, expressions, and conversational rhythm. Generations of family ties, migration, and daily contact have only strengthened that overlap, especially in urban areas.",
+      "This closeness is not only linguistic. Jordan and Palestine have deep family, cultural, historical, and social ties. In Amman especially, Jordanian and Palestinian families, neighborhoods, food, music, stories, and ways of speaking have been closely intertwined for generations."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       15
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "paragraphs": [
+      "That does not mean everyone speaks exactly the same way. There are real local differences between Amman, Irbid, Salt, Jerusalem, Ramallah, Nablus, Hebron, Gaza, and many other places. There are also urban, rural, and Bedouin varieties. Bedouin culture has had an important influence on life and speech in Jordan and across parts of Palestine, and some Jordanian varieties—especially those connected to tribal or Bedouin communities—may have pronunciations and words that sound different from urban Palestinian speech. Jordanian Arabic is itself highly diverse, and urban speech in Amman shares many features with Palestinian varieties.",
+      "On a personal note, I want to make my support for a free Palestine clear. I believe Palestinians deserve the same freedom, dignity, peace, and right to self-determination as everyone else. Although this is a language textbook, I hope it can contribute, even in a small way, to the Palestinian cause. Language is more than a means of communication. It carries a people's history, identity, culture, and stories. My hope is that by learning Palestinian Arabic, more people will come to appreciate the richness of Palestinian culture, build meaningful relationships with Palestinian people, and gain a deeper understanding of their lives and experiences. I also hope this book can play a small role in helping preserve and celebrate the language and cultural identity of a people whose voices and stories deserve to be heard. If it helps even a few people make those connections, I will consider that a meaningful contribution.",
+      "But here is the good news for you as a learner: you do not need to master every local difference before you can start communicating. The Arabic you learn in this book will be understood and used in both Jordan and Palestine. The patterns, vocabulary, and everyday expressions you practice here will give you a strong foundation for speaking with people from both places.",
+      "As you keep learning and meet speakers from different cities, regions, and backgrounds, you will naturally begin to notice local accents, words, and expressions. You will also discover that learning a language is about much more than understanding words. It is about connecting with people, sharing experiences, and seeing the world through perspectives other than your own.",
+      "For now, start with the shared foundation. It will take you very far."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       16
+      ]
+     }
+    },
+    {
+     "type": "callout",
+     "text": "In this book, I focus on natural, everyday Southern Levantine Arabic—the kind of Arabic people use with family, friends, neighbors, shopkeepers, and coworkers. It is practical, expressive, and made for real conversation.\nWelcome to the journey. I am really glad you are here.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       16
+      ]
+     }
+    }
+   ],
+   "part": "Introduction"
+  },
+  {
+   "id": "intro-how-to-use",
+   "code": null,
+   "title": "How to Use This Book",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     17
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "This book is written with care to help you build real confidence in colloquial Arabic, one steady step at a time."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       17
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "A quick note on prerequisites:",
+     "paragraphs": [
+      "This book assumes you already know the Arabic alphabet and have a basic grasp of Arabic pronunciation. If you can read Arabic letters and sound out familiar words, you are ready to begin building sentences in colloquial Arabic.",
+      "If you are still working on the alphabet and pronunciation, Arabic Before Words is the companion book designed for that stage. It focuses on reading and pronunciation through clear explanations and targeted drills. Once you feel comfortable with those basics, you will be in a great place to get the most out of this book.",
+      "If you have already worked through Arabic Before Words, your pronunciation will continue to improve as you practice the examples, drills, and dialogues throughout these chapters."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       17
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "A Note About Transliteration",
+     "paragraphs": [
+      "Most examples in this book include transliteration as a support tool. It is there to help you when you need it, especially as you are getting started—but try not to rely on it too heavily.",
+      "Whenever you can, look at the Arabic first. Your long-term goal is to read the Arabic script comfortably without needing transliteration at all. If you make a habit of checking the Arabic before looking at the transliteration, you will build that skill much faster.",
+      "Use the transliteration as a backup, not as your main way of reading. The more often you see the Arabic, read it out loud, and connect the letters to the sounds, the more natural reading Arabic will become."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       17
+      ]
+     }
+    },
+    {
+     "type": "callout",
+     "text": "Arabic first. Transliteration second.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       17
+      ]
+     }
+    }
+   ],
+   "part": "Introduction"
+  },
+  {
+   "id": "intro-what-this-book-gives-you",
+   "code": null,
+   "title": "What This Book Gives You",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     18
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "Arabic takes practice—more repetition than any one book can possibly provide.",
+      "What this book gives you is a framework. It teaches you the patterns, structures, and building blocks you need to begin forming real sentences in colloquial Arabic. The drills are designed to help you understand those patterns, practice them deliberately, and begin making them automatic.",
+      "You will also encounter a lot of vocabulary. You are not expected to memorize every word the first time you see it. Think of the vocabulary banks as resources you can keep returning to. The more words you know, the more combinations you can build with the grammar you are learning.",
+      "The goal is not to memorize a handful of sentences. The goal is to understand the patterns underneath them.",
+      "Once you understand a structure, you can use it with new nouns, adjectives, people, places, and eventually verbs. A pattern that begins with five examples can ultimately give you hundreds of sentences.",
+      "That is where the real value of this book lies. You are not simply learning what to say in a few situations. You are learning how the language fits together so that you can begin creating your own Arabic."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       18
+      ]
+     }
+    },
+    {
+     "type": "callout",
+     "text": "Remember: Learn the pattern. Practice it until it feels familiar. Then keep using it with new vocabulary.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       18
+      ]
+     }
+    }
+   ],
+   "part": "Introduction"
+  },
+  {
+   "id": "intro-making-the-most",
+   "code": null,
+   "title": "Making the Most of This Book",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     19
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "Arabic Before Verbs is designed to be worked through in order. Each chapter builds on what came before it, so if this is your main learning resource, I recommend following the chapters in sequence.",
+      "You can absolutely use this book independently. The explanations, examples, vocabulary banks, drills, and answer keys are designed to give you a clear framework you can continue practicing on your own.",
+      "However, if you have the opportunity to work with a tutor, teacher, language partner, or native speaker, you will get even more out of the material.",
+      "An instructor can hear things a book cannot. They can correct your pronunciation, help you notice sounds you may not yet hear clearly, answer questions, and push you to use the patterns spontaneously in conversation.",
+      "The drills in this book are a starting point—not the end of your practice. Arabic takes repetition. Once you understand a pattern, keep using it. Change the vocabulary. Make new sentences. Say them out loud. Use them to talk about your own life and the world around you.",
+      "As you progress, you can also return to individual sections whenever you need a refresher. The book is designed to work both as a step-by-step course and as a reference you can come back to later.",
+      "Use the book to learn the framework. Use repetition to make it automatic. Use real conversation to make it yours."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       19
+      ]
+     }
+    },
+    {
+     "type": "callout",
+     "text": "Use this book in order when you are building your foundation. Use it as a reference whenever you need a refresher.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       19
+      ]
+     }
+    }
+   ],
+   "part": "Introduction"
+  },
+  {
+   "id": "intro-study-routine",
+   "code": null,
+   "title": "Your Chapter-by-Chapter Study Routine",
+   "kind": "intro",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     20
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "paragraphs": [
+      "Each chapter follows a simple cycle. Trust the process, repeat it, and give yourself time."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "1. Keep the vocabulary close.",
+     "paragraphs": [
+      "Keep the chapter vocabulary bank open or nearby as a reference while you work through the drills."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "2. Learn the new concept.",
+     "paragraphs": [
+      "Read the grammar explanation carefully. Take your time and make sure you understand the main pattern before beginning the drills."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "3. Practice the pattern.",
+     "paragraphs": [
+      "Work through the drills slowly. Write out your answers, then check them against the answer key. For the greatest benefit, write the full sentence—not only the missing word."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "4. Say everything out loud.",
+     "paragraphs": [
+      "Read every example and every answer aloud. Repeat difficult sentences until they begin to feel more natural."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "5. Apply and personalize.",
+     "paragraphs": [
+      "Use words from the vocabulary bank with the new patterns and structures. Follow the examples closely at first, then begin changing them to make sentences about your own life, interests, and experiences."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "6. Move forward—and come back when needed.",
+     "paragraphs": [
+      "When the pattern starts to feel clearer, move on to the next section. If something still feels difficult, review it again later. There is no prize for rushing."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "paragraphs": [
+      "Work at your own pace. Go back and review whenever you need to. The goal is not perfection on the first try; it is steady, confident progress over time."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    },
+    {
+     "type": "callout",
+     "text": "Do not rush. Depth beats speed. A strong foundation now makes everything later easier.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       20
+      ]
+     }
+    }
+   ],
+   "part": "Introduction"
+  },
+  {
+   "id": "pron-levantine-sound-system",
+   "code": null,
+   "title": "The Levantine Sound System",
+   "kind": "reference",
+   "source": {
+    "designId": "DAHaz00vw2w",
+    "pages": [
+     22,
+     24
+    ]
+   },
+   "blocks": [
+    {
+     "type": "text",
+     "heading": "The Levantine Sound System",
+     "paragraphs": [
+      "This book focuses on Jordanian and Palestinian Arabic. Jordanian and Palestinian Arabic are very close and belong to the same Southern Levantine dialect group. As a result, speakers from Jordan and Palestine generally understand one another with little to no difficulty.",
+      "The two dialects share deep historical, cultural, and linguistic ties. Jordan and Palestine developed within the same broader Levantine region, and generations of movement, family connections, and daily contact between the two areas have contributed to the strong overlap between their varieties of Arabic.",
+      "Most core vocabulary, grammar patterns, and pronunciation features are shared. Differences tend to involve certain sounds—especially ق, and in some varieties ك—as well as vocabulary preferences and subtle differences in accent and intonation. There is also significant variation within Jordan and Palestine themselves, including urban, rural, and Bedouin varieties.",
+      "Because the dialects overlap so much, learning one gives you excellent access to the other. The forms taught in this book are natural and widely understood in both Jordan and Palestine. When a difference is important enough to matter for you as a learner, I will point it out.",
+      "The transliteration in this book is designed to show you how the Arabic is being pronounced in the variety presented. It is a pronunciation guide—not a replacement for the Arabic script. Because the pronunciation of some Arabic letters changes from one region or community to another, the same Arabic letter may occasionally be represented differently depending on how it is actually pronounced.",
+      "The pronunciation guide on the next page introduces the sounds that are most likely to be unfamiliar to an English speaker and shows how they are represented throughout this book."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       22
+      ]
+     }
+    },
+    {
+     "type": "text",
+     "heading": "Sounds Different Than English",
+     "paragraphs": [
+      "As I mentioned, this book uses a single transliteration system for Levantine Arabic. Each symbol always refers to the same underlying Arabic sound, even when everyday pronunciation varies from place to place.",
+      "Some consonants are written with plain letters (b, t, k, etc.) when they are close to their English equivalents. Others are written with special symbols to show that they are “heavy,” deeper in the throat, or otherwise different for English speakers:"
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       23
+      ]
+     },
+     "flags": [
+      {
+       "kind": "ambiguous",
+       "note": "Page 23 is a flattened image (no selectable text); transcribed from a 1700px PNG export. The symbol column uses typographic apostrophes (’ for hamza, ‘ for ʿayn) rather than the ʾ / ʿ used throughout the book text."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "heading": "Sounds Different Than English",
+     "columns": [
+      "Letter",
+      "Name — Transliteration",
+      "Description"
+     ],
+     "rows": [
+      [
+       "ء",
+       "Glottal Stop — ’",
+       "A brief closure in the throat, like the small break between the two parts of “uh-oh.”"
+      ],
+      [
+       "ع",
+       "‘Ayn — ‘",
+       "A voiced sound produced deep in the throat, with no exact English equivalent. Keep your voice on and gently narrow the throat without squeezing or forcing the sound. Focus first on learning to hear it; your pronunciation will become more natural with practice."
+      ],
+      [
+       "ح",
+       "Deep H — ḥ",
+       "A strong, breathy h produced deep in the throat. It is farther back than the English h and is pronounced with a steady stream of air, as though you were sighing softly from the throat."
+      ],
+      [
+       "خ",
+       "Rough KH — kh",
+       "Raise the back of your tongue toward the soft part of the roof of your mouth and allow air to pass through the narrow space. It is similar to the sound in the Scottish word loch or the German name Bach. Keep it steady rather than turning it into a harsh throat-clearing sound."
+      ],
+      [
+       "ص",
+       "Heavy S — ṣ",
+       "Similar to the English s, but with a darker, fuller quality. As you pronounce it, draw the back of your tongue slightly backward. This gives the consonant—and often the vowels around it—a heavier sound."
+      ],
+      [
+       "ض",
+       "Heavy D — ḍ",
+       "Similar to the English d, but with a darker, fuller quality. Draw the back of your tongue slightly backward as you pronounce it."
+      ],
+      [
+       "ط",
+       "Heavy T — ṭ",
+       "Similar to the English t, but with a darker, fuller quality. Draw the back of your tongue slightly backward as you pronounce it."
+      ],
+      [
+       "ظ",
+       "Heavy Z or DTH — ẓ",
+       "The pronunciation of ظ varies across Southern Levantine Arabic. Many speakers pronounce it like a heavy z, while others pronounce it more like the th in “this,” but with a darker quality. Both pronunciations are common."
+      ],
+      [
+       "ق",
+       "Qāf — q, g, or ’",
+       "In formal Arabic, ق is pronounced at the very back of the mouth as a deep q sound. In everyday Southern Levantine Arabic, however, its pronunciation varies by region, community, word, and speaker.\nMany Jordanian speakers pronounce it as a hard g, while many urban Palestinian and Jordanian speakers pronounce it as a glottal stop—the same brief break heard in “uh-oh.” In some rural Palestinian varieties, it may be pronounced closer to k."
+      ],
+      [
+       "ث",
+       "Thā’ — t (often)",
+       "In Southern Levantine Arabic, ث is most commonly pronounced like a t sound, as in tlaata “three” or telj “snow.” In some words or by some speakers, it can sound closer to an s, but the t pronunciation is more common."
+      ]
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       23
+      ]
+     },
+     "flags": [
+      {
+       "kind": "ambiguous",
+       "note": "Page 23 is a flattened image (no selectable text); transcribed from a 1700px PNG export. The symbol column uses typographic apostrophes (’ for hamza, ‘ for ʿayn) rather than the ʾ / ʿ used throughout the book text."
+      },
+      {
+       "kind": "ambiguous",
+       "note": "Example words \"tlaata\" and \"telj\" are written in plain spelling (no macron, no Arabic script), not in the book’s transliteration system (cf. ā elsewhere)."
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "heading": "Transliteration for Vowels",
+     "paragraphs": [
+      "Arabic has three letters used to represent long vowels: ا (alef), و (waw), and ي (ya).",
+      "Two of these letters — و and ي — can also function as consonants.",
+      "For now, the important thing is learning to recognize these three letters and the long vowel sounds they represent."
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       24
+      ]
+     },
+     "flags": [
+      {
+       "kind": "ambiguous",
+       "note": "Page 24 is a flattened image (no selectable text); transcribed from a 1700px PNG export."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "heading": "Transliteration for Vowels",
+     "columns": [
+      "Letter",
+      "Transliteration",
+      "How It Sounds",
+      "Examples (English — Transliteration — Arabic)"
+     ],
+     "rows": [
+      [
+       "ا\nalef",
+       "ā\n(a with a line over it)",
+       "Long A\nCan sound like the a in apple or the a in father, depending on the word and its pronunciation.",
+       "book — kitāb — كتاب\ndoor — bāb — باب\nkey — miftāḥ — مفتاح"
+      ],
+      [
+       "و\nwaw",
+       "ū / w\n(u with a line over it / w as a consonant)",
+       "Long U\nAs a vowel, it can represent a long “oo” sound, like the oo in boot.\nو can also function as a consonant and sound like the w in water.",
+       "and — wa / ū — و\nbeans — fūl — فول\nmarket — sūq — سوق\nmiddle — wasaṭ — وسط\ndirty — wisikh — وسخ"
+      ],
+      [
+       "ي\nya",
+       "ī / ē / y\n(ī with a line over it / ē with a line over it / y as a consonant)",
+       "Long I / Long E\nAs a vowel, it typically represents a long “ee” sound, like the ee in see.\nي can also function as a consonant and sound like the y in yes.",
+       "house — bayt — بيت\nin — fī — في\nname — Yasser — ياسر\nyes — na‘am — نعم\ncome on / let’s go — yalla — يلّا"
+      ]
+     ],
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       24
+      ]
+     },
+     "flags": [
+      {
+       "kind": "ambiguous",
+       "note": "Page 24 is a flattened image (no selectable text); transcribed from a 1700px PNG export."
+      },
+      {
+       "kind": "suspected-error",
+       "note": "Example transliterations on this page do not follow the book’s own system: \"bayt\" (book uses bēt elsewhere, e.g. glossary p.430), \"kitāb\" (glossary: ktāb), \"sūq\" (glossary: sūʾ), \"Yasser\" (no macron), \"na‘am\" with an apostrophe-like mark instead of ʿ. The \"yes\" example نعم is MSA; the glossary gives آه / āh."
+      },
+      {
+       "kind": "ambiguous",
+       "note": "The diacritic on يلّا in the image is small and hard to read at export resolution; transcribed as shadda."
+      }
+     ]
+    },
+    {
+     "type": "callout",
+     "heading": "Special Letters",
+     "text": "Not additional long vowels, but you will see them often.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       24
+      ]
+     },
+     "flags": [
+      {
+       "kind": "ambiguous",
+       "note": "Page 24 is a flattened image (no selectable text); transcribed from a 1700px PNG export."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "heading": "Tā’ Marbūṭa (ة)",
+     "columns": [
+      "English",
+      "Transliteration",
+      "Arabic"
+     ],
+     "rows": [
+      [
+       "car (-ah)",
+       "sayyāra",
+       "سيارة"
+      ],
+      [
+       "room (-eh)",
+       "ghurfe",
+       "غرفة"
+      ]
+     ],
+     "note": "At the end of a word, ة is typically pronounced as either an “a” (ah) sound or an “e” (eh) sound in Levantine Arabic, depending on the word and dialect.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       24
+      ]
+     },
+     "flags": [
+      {
+       "kind": "ambiguous",
+       "note": "Page 24 is a flattened image (no selectable text); transcribed from a 1700px PNG export."
+      },
+      {
+       "kind": "ambiguous",
+       "note": "Heading in image reads \"TĀ’ MARBŪṬA (ة)\" with a typographic apostrophe, and the parenthetical letter is rendered as ة."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "heading": "Alef Maqsūra (ى)",
+     "columns": [
+      "English",
+      "Transliteration",
+      "Arabic"
+     ],
+     "rows": [
+      [
+       "hospital",
+       "mustashfā",
+       "مستشفى"
+      ],
+      [
+       "meaning",
+       "ma‘nā",
+       "معنى"
+      ]
+     ],
+     "note": "Looks like ي without the dots, but it represents a final long ā sound.",
+     "source": {
+      "designId": "DAHaz00vw2w",
+      "pages": [
+       24
+      ]
+     },
+     "flags": [
+      {
+       "kind": "ambiguous",
+       "note": "Page 24 is a flattened image (no selectable text); transcribed from a 1700px PNG export."
+      },
+      {
+       "kind": "suspected-error",
+       "note": "\"ma‘nā\" uses an apostrophe-like mark rather than ʿ; \"mustashfā\" conflicts with the glossary’s \"mustashfa\" (p.430)."
+      }
+     ]
+    }
+   ],
+   "part": "Pronunciation"
+  }
+ ]
+}

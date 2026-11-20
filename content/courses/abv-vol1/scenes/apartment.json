@@ -1,0 +1,113 @@
+{
+ "id": "apartment",
+ "title": { "ar": "الشَّقّة", "translit": "ish-shaʾʾa", "en": "The Apartment" },
+ "note": "Layout follows the book's apartment diagram (p.192): entrance → living room → balcony. All object names come from Chapter 3's vocabulary banks (pp.165–176). Sentences marked needs-review were composed from book vocabulary and taught patterns for this walkthrough and are not printed in the book; they need teacher approval before being treated as authoritative.",
+ "source": { "designId": "DAHaz00vw2w", "pages": [165, 176, 192] },
+ "unlocks": {
+  "explore": "ch3-vocab-dwellings",
+  "identify": "ch3-vocab-dwellings",
+  "find": "ch3-3-2",
+  "describe": "ch3-3-2",
+  "place": "ch3-3-1"
+ },
+ "rooms": [
+  {
+   "id": "entrance",
+   "ar": "المَدْخَل", "translit": "il-madkhal", "en": "the entrance",
+   "background": "entrance",
+   "panels": [
+    { "id": "p1", "focus": "bab", "caption": { "ar": "هادا المَدْخَل.", "translit": "hāda il-madkhal.", "en": "This is the entrance." } },
+    { "id": "p2", "focus": "miraye", "caption": { "ar": "في مِراية فوق الخِزانة.", "translit": "fī mirāye fōʾ il-khizāne.", "en": "There's a mirror above the cabinet." } },
+    { "id": "p3", "focus": "door-salon", "caption": { "ar": "الصّالون هون.", "translit": "iṣ-ṣālōn hōn.", "en": "The living room is here." } }
+   ],
+   "objects": [
+    { "id": "bab", "vocabRef": "v-ch3-bab", "ar": "باب", "translit": "bāb", "en": "door", "art": "frontDoor", "hit": { "x": 420, "y": 110, "w": 160, "h": 370 } },
+    { "id": "miraye", "vocabRef": "v-ch3-miraye", "ar": "مِراية", "translit": "mirāye", "en": "mirror", "art": "mirror", "hit": { "x": 185, "y": 130, "w": 120, "h": 170 } },
+    { "id": "khizane", "vocabRef": "v-ch3-khizane-2", "ar": "خِزانة", "translit": "khizāne", "en": "cabinet", "art": "entryCabinet", "hit": { "x": 160, "y": 330, "w": 170, "h": 130 } },
+    { "id": "lambe", "vocabRef": "v-ch3-lambe", "ar": "لَمْبِة", "translit": "lambe", "en": "light bulb", "art": "bulb", "hit": { "x": 465, "y": 0, "w": 70, "h": 95 } },
+    { "id": "sajjade", "vocabRef": "v-ch3-sajjade", "ar": "سَجّادِة", "translit": "sajjāde", "en": "rug", "art": "doormat", "hit": { "x": 370, "y": 500, "w": 260, "h": 70 } }
+   ],
+   "doors": [
+    { "to": "salon", "label": { "ar": "الصّالون", "translit": "iṣ-ṣālōn", "en": "living room" }, "hit": { "x": 760, "y": 140, "w": 150, "h": 340 } }
+   ],
+   "tasks": [
+    { "id": "e-id-bab", "kind": "identify", "targetId": "bab", "prompt": { "ar": "وين الباب؟", "translit": "wēn il-bāb?", "en": "Where is the door?" }, "model": { "ar": "هادا الباب.", "translit": "hāda il-bāb.", "en": "This is the door." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "e-id-miraye", "kind": "identify", "targetId": "miraye", "prompt": { "ar": "وين المِراية؟", "translit": "wēn il-mirāye?", "en": "Where is the mirror?" }, "model": { "ar": "هاي المِراية.", "translit": "hāy il-mirāye.", "en": "This is the mirror." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "e-id-lambe", "kind": "identify", "targetId": "lambe", "prompt": { "ar": "وين اللَّمْبِة؟", "translit": "wēn il-lambe?", "en": "Where is the light bulb?" }, "model": { "ar": "هاي اللَّمْبِة.", "translit": "hāy il-lambe.", "en": "This is the light bulb." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "e-find-khizane", "kind": "find", "targetId": "khizane", "prompt": { "ar": "شو في تَحْت المِراية؟", "translit": "shū fī taḥt il-mirāye?", "en": "What is under the mirror?" }, "model": { "ar": "في خِزانة تَحْت المِراية.", "translit": "fī khizāne taḥt il-mirāye.", "en": "There's a cabinet under the mirror." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "e-find-sajjade", "kind": "find", "targetId": "sajjade", "prompt": { "ar": "شو في قُدّام الباب؟", "translit": "shū fī ʾuddām il-bāb?", "en": "What is in front of the door?" }, "model": { "ar": "في سَجّادِة قُدّام الباب.", "translit": "fī sajjāde ʾuddām il-bāb.", "en": "There's a rug in front of the door." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "e-desc-miraye", "kind": "describe", "targetId": "miraye", "prompt": { "en": "Say where the mirror is." }, "model": { "ar": "في مِراية فوق الخِزانة.", "translit": "fī mirāye fōʾ il-khizāne.", "en": "There's a mirror above the cabinet." }, "answers": [{ "ar": "في مِراية فوق الخِزانة.", "translit": "fī mirāye fōʾ il-khizāne." }, { "ar": "المِراية فوق الخِزانة.", "translit": "il-mirāye fōʾ il-khizāne." }], "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "e-desc-sajjade", "kind": "describe", "targetId": "sajjade", "prompt": { "en": "Say where the rug is." }, "model": { "ar": "في سَجّادِة قُدّام الباب.", "translit": "fī sajjāde ʾuddām il-bāb.", "en": "There's a rug in front of the door." }, "answers": [{ "ar": "في سَجّادِة قُدّام الباب.", "translit": "fī sajjāde ʾuddām il-bāb." }, { "ar": "السَّجّادِة قُدّام الباب.", "translit": "is-sajjāde ʾuddām il-bāb." }], "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] }
+   ]
+  },
+  {
+   "id": "salon",
+   "ar": "الصّالون", "translit": "iṣ-ṣālōn", "en": "the living room",
+   "background": "salon",
+   "panels": [
+    { "id": "p1", "focus": "kanabaye", "caption": { "ar": "هادا الصّالون.", "translit": "hāda iṣ-ṣālōn.", "en": "This is the living room." } },
+    { "id": "p2", "focus": "tawle", "caption": { "ar": "في طاولة قدّام الكنباية بالصالون.", "translit": "fī ṭāwle ʾuddām il-kanabāye biṣ-ṣālōn.", "en": "There's a table in front of the couch in the living room." }, "source": { "designId": "DAHaz00vw2w", "pages": [192] } },
+    { "id": "p3", "focus": "shubbak", "caption": { "ar": "في شُبّاك فوق الكَنَبايِة.", "translit": "fī shubbāk fōʾ il-kanabāye.", "en": "There's a window above the sofa." } },
+    { "id": "p4", "focus": "door-balkone", "caption": { "ar": "البَلْكونِة بَرّا.", "translit": "il-balkōne barra.", "en": "The balcony is outside." } }
+   ],
+   "objects": [
+    { "id": "kanabaye", "vocabRef": "v-ch3-kanabaye", "ar": "كَنَبايِة", "translit": "kanabāye", "en": "sofa", "art": "sofa", "hit": { "x": 110, "y": 285, "w": 360, "h": 150 } },
+    { "id": "mkhadde", "vocabRef": "v-ch3-mkhadde", "ar": "مْخَدِّة", "translit": "mkhadde", "en": "pillow", "art": "pillow", "hit": { "x": 150, "y": 300, "w": 90, "h": 60 }, "draggable": true },
+    { "id": "tawle", "vocabRef": "v-ch3-tawle", "ar": "طاوْلِة", "translit": "ṭāwle", "en": "table", "art": "coffeeTable", "hit": { "x": 190, "y": 465, "w": 220, "h": 70 } },
+    { "id": "sajjade", "vocabRef": "v-ch3-sajjade", "ar": "سَجّادِة", "translit": "sajjāde", "en": "rug", "art": "rug", "hit": { "x": 100, "y": 540, "w": 400, "h": 80 } },
+    { "id": "shubbak", "vocabRef": "v-ch3-shubbak", "ar": "شُبّاك", "translit": "shubbāk", "en": "window", "art": "archWindow", "hit": { "x": 200, "y": 50, "w": 190, "h": 215 } },
+    { "id": "kursi", "vocabRef": "v-ch3-kursi", "ar": "كُرْسي", "translit": "kursi", "en": "chair", "art": "chair", "hit": { "x": 505, "y": 320, "w": 105, "h": 160 }, "draggable": true },
+    { "id": "khizane", "vocabRef": "v-ch3-khizane-2", "ar": "خِزانة", "translit": "khizāne", "en": "cabinet", "art": "tvCabinet", "hit": { "x": 650, "y": 360, "w": 220, "h": 100 } },
+    { "id": "tilfizyon", "vocabRef": "v-ch3-tilfizyon", "ar": "تِلْفِزْيون", "translit": "tilfizyōn", "en": "television", "art": "tv", "hit": { "x": 680, "y": 235, "w": 160, "h": 120 } },
+    { "id": "raff", "vocabRef": "v-ch3-raff", "ar": "رَفّ", "translit": "raff", "en": "shelf", "art": "shelf", "hit": { "x": 660, "y": 110, "w": 200, "h": 60 } }
+   ],
+   "zones": [
+    { "id": "z-janb-kanabaye", "label": { "ar": "جَنْب الكَنَبايِة", "translit": "janb il-kanabāye", "en": "next to the sofa" }, "hit": { "x": 490, "y": 320, "w": 130, "h": 170 } },
+    { "id": "z-uddam-tilfizyon", "label": { "ar": "قُدّام التِّلْفِزْيون", "translit": "ʾuddām it-tilfizyōn", "en": "in front of the television" }, "hit": { "x": 680, "y": 480, "w": 180, "h": 140 } },
+    { "id": "z-ala-kanabaye", "label": { "ar": "عَلى الكَنَبايِة", "translit": "ʿala il-kanabāye", "en": "on the sofa" }, "hit": { "x": 130, "y": 290, "w": 330, "h": 80 } },
+    { "id": "z-ala-kursi", "label": { "ar": "عَلى الكُرْسي", "translit": "ʿala il-kursi", "en": "on the chair" }, "hit": { "x": 505, "y": 330, "w": 105, "h": 80 } }
+   ],
+   "doors": [
+    { "to": "entrance", "label": { "ar": "المَدْخَل", "translit": "il-madkhal", "en": "entrance" }, "hit": { "x": 0, "y": 150, "w": 80, "h": 330 } },
+    { "to": "balkone", "label": { "ar": "البَلْكونِة", "translit": "il-balkōne", "en": "balcony" }, "hit": { "x": 900, "y": 130, "w": 100, "h": 360 } }
+   ],
+   "tasks": [
+    { "id": "s-id-kanabaye", "kind": "identify", "targetId": "kanabaye", "prompt": { "ar": "وين الكَنَبايِة؟", "translit": "wēn il-kanabāye?", "en": "Where is the sofa?" }, "model": { "ar": "هاي الكَنَبايِة.", "translit": "hāy il-kanabāye.", "en": "This is the sofa." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-id-tilfizyon", "kind": "identify", "targetId": "tilfizyon", "prompt": { "ar": "وين التِّلْفِزْيون؟", "translit": "wēn it-tilfizyōn?", "en": "Where is the television?" }, "model": { "ar": "هادا التِّلْفِزْيون.", "translit": "hāda it-tilfizyōn.", "en": "This is the television." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-id-shubbak", "kind": "identify", "targetId": "shubbak", "prompt": { "ar": "وين الشُّبّاك؟", "translit": "wēn ish-shubbāk?", "en": "Where is the window?" }, "model": { "ar": "هادا الشُّبّاك.", "translit": "hāda ish-shubbāk.", "en": "This is the window." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-id-raff", "kind": "identify", "targetId": "raff", "prompt": { "ar": "وين الرَّفّ؟", "translit": "wēn ir-raff?", "en": "Where is the shelf?" }, "model": { "ar": "هادا الرَّفّ.", "translit": "hāda ir-raff.", "en": "This is the shelf." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-id-mkhadde", "kind": "identify", "targetId": "mkhadde", "prompt": { "ar": "وين المْخَدِّة؟", "translit": "wēn il-mkhadde?", "en": "Where is the pillow?" }, "model": { "ar": "هاي المْخَدِّة.", "translit": "hāy il-mkhadde.", "en": "This is the pillow." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-find-tawle", "kind": "find", "targetId": "tawle", "prompt": { "ar": "شو في قُدّام الكَنَبايِة؟", "translit": "shū fī ʾuddām il-kanabāye?", "en": "What is in front of the sofa?" }, "model": { "ar": "في طاولة قدّام الكنباية بالصالون.", "translit": "fī ṭāwle ʾuddām il-kanabāye biṣ-ṣālōn.", "en": "There's a table in front of the couch in the living room." }, "source": { "designId": "DAHaz00vw2w", "pages": [192] } },
+    { "id": "s-find-sajjade", "kind": "find", "targetId": "sajjade", "prompt": { "ar": "شو في تَحْت الطّاوْلِة؟", "translit": "shū fī taḥt iṭ-ṭāwle?", "en": "What is under the table?" }, "model": { "ar": "في سَجّادِة تَحْت الطّاوْلِة.", "translit": "fī sajjāde taḥt iṭ-ṭāwle.", "en": "There's a rug under the table." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-find-tilfizyon", "kind": "find", "targetId": "tilfizyon", "prompt": { "ar": "شو في فوق الخِزانة؟", "translit": "shū fī fōʾ il-khizāne?", "en": "What is on top of the cabinet?" }, "model": { "ar": "في تِلْفِزْيون فوق الخِزانة.", "translit": "fī tilfizyōn fōʾ il-khizāne.", "en": "There's a television on top of the cabinet." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-find-kursi", "kind": "find", "targetId": "kursi", "prompt": { "ar": "شو في بَيْن الكَنَبايِة والخِزانة؟", "translit": "shū fī bēn il-kanabāye wil-khizāne?", "en": "What is between the sofa and the cabinet?" }, "model": { "ar": "في كُرْسي بَيْن الكَنَبايِة والخِزانة.", "translit": "fī kursi bēn il-kanabāye wil-khizāne.", "en": "There's a chair between the sofa and the cabinet." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-desc-tawle", "kind": "describe", "targetId": "tawle", "prompt": { "en": "Say what is in front of the sofa." }, "model": { "ar": "في طاولة قدّام الكنباية بالصالون.", "translit": "fī ṭāwle ʾuddām il-kanabāye biṣ-ṣālōn.", "en": "There's a table in front of the couch in the living room." }, "answers": [{ "ar": "في طاولة قدّام الكنباية بالصالون.", "translit": "fī ṭāwle ʾuddām il-kanabāye biṣ-ṣālōn." }, { "ar": "في طاولة قدّام الكنباية.", "translit": "fī ṭāwle ʾuddām il-kanabāye." }], "source": { "designId": "DAHaz00vw2w", "pages": [192] }, "flags": [{ "kind": "needs-review", "note": "Second (shortened) answer is composed; the first is the book's example" }] },
+    { "id": "s-desc-shubbak", "kind": "describe", "targetId": "shubbak", "prompt": { "en": "Say where the window is." }, "model": { "ar": "في شُبّاك فوق الكَنَبايِة.", "translit": "fī shubbāk fōʾ il-kanabāye.", "en": "There's a window above the sofa." }, "answers": [{ "ar": "في شُبّاك فوق الكَنَبايِة.", "translit": "fī shubbāk fōʾ il-kanabāye." }, { "ar": "الشُّبّاك فوق الكَنَبايِة.", "translit": "ish-shubbāk fōʾ il-kanabāye." }], "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-desc-raff", "kind": "describe", "targetId": "raff", "prompt": { "en": "Say where the shelf is." }, "model": { "ar": "في رَفّ فوق التِّلْفِزْيون.", "translit": "fī raff fōʾ it-tilfizyōn.", "en": "There's a shelf above the television." }, "answers": [{ "ar": "في رَفّ فوق التِّلْفِزْيون.", "translit": "fī raff fōʾ it-tilfizyōn." }, { "ar": "الرَّفّ فوق التِّلْفِزْيون.", "translit": "ir-raff fōʾ it-tilfizyōn." }], "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-desc-mkhadde", "kind": "describe", "targetId": "mkhadde", "prompt": { "en": "Say where the pillow is." }, "model": { "ar": "في مْخَدِّة عَلى الكَنَبايِة.", "translit": "fī mkhadde ʿala il-kanabāye.", "en": "There's a pillow on the sofa." }, "answers": [{ "ar": "في مْخَدِّة عَلى الكَنَبايِة.", "translit": "fī mkhadde ʿala il-kanabāye." }, { "ar": "في مْخَدِّة عَ الكَنَبايِة.", "translit": "fī mkhadde ʿal-kanabāye." }, { "ar": "المْخَدِّة عَلى الكَنَبايِة.", "translit": "il-mkhadde ʿala il-kanabāye." }], "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-place-kursi", "kind": "place", "objectId": "kursi", "zoneId": "z-uddam-tilfizyon", "prompt": { "ar": "الكُرْسي قُدّام التِّلْفِزْيون.", "translit": "il-kursi ʾuddām it-tilfizyōn.", "en": "Make this true: the chair is in front of the television." }, "model": { "ar": "الكُرْسي قُدّام التِّلْفِزْيون.", "translit": "il-kursi ʾuddām it-tilfizyōn.", "en": "The chair is in front of the television." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "s-place-mkhadde", "kind": "place", "objectId": "mkhadde", "zoneId": "z-ala-kursi", "prompt": { "ar": "المْخَدِّة عَلى الكُرْسي.", "translit": "il-mkhadde ʿala il-kursi.", "en": "Make this true: the pillow is on the chair." }, "model": { "ar": "المْخَدِّة عَلى الكُرْسي.", "translit": "il-mkhadde ʿala il-kursi.", "en": "The pillow is on the chair." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] }
+   ]
+  },
+  {
+   "id": "balkone",
+   "ar": "البَلْكونِة", "translit": "il-balkōne", "en": "the balcony",
+   "background": "balcony",
+   "panels": [
+    { "id": "p1", "focus": "tawle", "caption": { "ar": "هاي البَلْكونِة.", "translit": "hāy il-balkōne.", "en": "This is the balcony." } }
+   ],
+   "objects": [
+    { "id": "tawle", "vocabRef": "v-ch3-tawle", "ar": "طاوْلِة", "translit": "ṭāwle", "en": "table", "art": "cafeTable", "hit": { "x": 420, "y": 380, "w": 160, "h": 120 } },
+    { "id": "kursi", "vocabRef": "v-ch3-kursi", "ar": "كُرْسي", "translit": "kursi", "en": "chair", "art": "balconyChair", "hit": { "x": 280, "y": 340, "w": 110, "h": 170 } },
+    { "id": "sur", "vocabRef": "v-ch3-sur", "ar": "سور", "translit": "sūr", "en": "fence / railing", "art": "railing", "hit": { "x": 0, "y": 300, "w": 1000, "h": 40 } }
+   ],
+   "doors": [
+    { "to": "salon", "label": { "ar": "الصّالون", "translit": "iṣ-ṣālōn", "en": "living room" }, "hit": { "x": 0, "y": 360, "w": 120, "h": 260 } }
+   ],
+   "tasks": [
+    { "id": "b-id-kursi", "kind": "identify", "targetId": "kursi", "prompt": { "ar": "وين الكُرْسي؟", "translit": "wēn il-kursi?", "en": "Where is the chair?" }, "model": { "ar": "هادا الكُرْسي.", "translit": "hāda il-kursi.", "en": "This is the chair." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] },
+    { "id": "b-find-kursi", "kind": "find", "targetId": "kursi", "prompt": { "ar": "شو في جَنْب الطّاوْلِة؟", "translit": "shū fī janb iṭ-ṭāwle?", "en": "What is next to the table?" }, "model": { "ar": "في كُرْسي جَنْب الطّاوْلِة.", "translit": "fī kursi janb iṭ-ṭāwle.", "en": "There's a chair next to the table." }, "flags": [{ "kind": "needs-review", "note": "Composed for the walkthrough" }] }
+   ]
+  }
+ ]
+}

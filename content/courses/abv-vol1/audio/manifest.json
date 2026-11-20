@@ -1,0 +1,4 @@
+{
+ "note": "Approved model recordings. Add an entry per recording: key = exercise item id, vocab id, dialogue line id (<dialogueId>:<lineIndex>), scene key (scene:<taskId>) or the exact Arabic text. status = teacher | native-reviewed | generated-candidate. Files go in public/audio/abv-vol1/. No recordings have been supplied yet.",
+ "recordings": []
+}
