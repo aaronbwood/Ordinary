@@ -423,17 +423,17 @@
     {
      "id": "ch3-ghaydas-new-place-20",
      "speaker": "Ghayda",
-     "ar": "آه، كتير. حتّى الجيران الجداد معزومين.",
-     "translit": "āh, ktīr. ḥatta il-jīrān il-jdād maʿzūmīn.",
-     "en": "Yes, a lot. Even the new neighbors are invited.",
+     "ar": "آه، كتير. حتّى الجيران الجداد من الضيوف.",
+     "translit": "āh, ktīr. ḥatta il-jīrān il-jdād min iḍ-ḍyūf.",
+     "en": "Yes, a lot. Even the new neighbors are among the guests.",
      "dialogueId": "ch3-dlg-ghayda-scene-2",
      "dialogueLine": 12,
-     "textFrom": "dialogue",
+     "textFrom": "bubble",
      "direction": "[happily]",
      "flags": [
       {
        "kind": "needs-review",
-       "note": "Author decision: use the printed dialogue wording (معزومين, p.261). The original book bubble on p.265 says من الضيوف; the app panel comes from a working copy with the bubble changed to معزومين."
+       "note": "Author decision: keep the comic bubble wording من الضيوف (p.265). The printed dialogue transcription (p.261) has معزومين. Transliteration and English written for the bubble wording (book spelling ḍyūf)."
       }
      ]
     }
