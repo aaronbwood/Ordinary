@@ -1,476 +1,482 @@
 {
-  "id": "ch3-ghaydas-new-place",
-  "title": {
-    "ar": "شقة غيداء الجديدة",
-    "translit": "shaʾʾit Ghaydāʾ il-jdīde",
-    "en": "Ghayda’s New Place"
-  },
-  "chapterId": "ch3",
-  "lessonId": "ch3-putting-it-all-together",
-  "dialogueId": "ch3-dlg-ghayda-scene-2",
-  "dialogueIds": [
-    "ch3-dlg-ghayda-scene-1",
-    "ch3-dlg-ghayda-scene-2"
-  ],
-  "source": {
-    "designId": "DAHaz00vw2w",
-    "pages": [
-      262,
-      263,
-      264,
-      265
-    ]
-  },
-  "characters": [
-    {
-      "name": "Walaa",
-      "nameAr": "ولاء",
-      "description": "young woman; long curly light-brown hair, rust-red blouse, jeans; brown shoulder bag in Scene Two"
-    },
-    {
-      "name": "Ghayda",
-      "nameAr": "غيداء",
-      "description": "young woman; beige hijab, teal top, cream trousers"
-    }
-  ],
-  "panels": [
-    {
-      "id": "p262-1",
-      "image": "comics/abv-vol1/p262-1.webp",
-      "page": 262,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-1",
-          "speaker": "Walaa",
-          "ar": "مرحبا يا غيداء، شو في ما في؟",
-          "translit": "marḥaba yā Ghaydāʾ, shū fī mā fī?",
-          "en": "Hey Ghayda, what’s up?",
-          "dialogueId": "ch3-dlg-ghayda-scene-1",
-          "dialogueLine": 0,
-          "textFrom": "dialogue",
-          "direction": "[warmly]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p262-2",
-      "image": "comics/abv-vol1/p262-2.webp",
-      "page": 262,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-2",
-          "speaker": "Ghayda",
-          "ar": "كلّه تمام. عندي شقّة جديدة قريبة من الجامعة.",
-          "translit": "kullo tamām. ʿindī shaʾʾa jdīde ʾarībe min il-jāmʿa.",
-          "en": "Everything’s good. I have a new apartment near the university.",
-          "dialogueId": "ch3-dlg-ghayda-scene-1",
-          "dialogueLine": 1,
-          "textFrom": "dialogue",
-          "direction": "[excited]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p262-3",
-      "image": "comics/abv-vol1/p262-3.webp",
-      "page": 262,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-3",
-          "speaker": "Walaa",
-          "ar": "عنجد؟ وين بالظّبط؟",
-          "translit": "ʿanjad? wēn biẓ-ẓabṭ?",
-          "en": "Really? Where exactly?",
-          "dialogueId": "ch3-dlg-ghayda-scene-1",
-          "dialogueLine": 2,
-          "textFrom": "dialogue",
-          "direction": "[surprised]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p262-4",
-      "image": "comics/abv-vol1/p262-4.webp",
-      "page": 262,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-4",
-          "speaker": "Ghayda",
-          "ar": "بحارة هادية، حوالي خمس دقايق مشي من الجامعة.",
-          "translit": "bi-ḥāra hādye, ḥawāli khams daʾāyiʾ mashi min il-jāmʿa.",
-          "en": "In a quiet neighborhood, about a five-minute walk from the university.",
-          "dialogueId": "ch3-dlg-ghayda-scene-1",
-          "dialogueLine": 3,
-          "textFrom": "dialogue",
-          "direction": "[happily]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p262-5",
-      "image": "comics/abv-vol1/p262-5.webp",
-      "page": 262,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-5",
-          "speaker": "Walaa",
-          "ar": "ممتاز! وكيف الشقّة من جوّا؟",
-          "translit": "mumtāz! w-kīf ish-shaʾʾa min juwwa?",
-          "en": "Excellent! What’s the apartment like inside?",
-          "dialogueId": "ch3-dlg-ghayda-scene-1",
-          "dialogueLine": 4,
-          "textFrom": "dialogue",
-          "direction": "[excited]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p262-6",
-      "image": "comics/abv-vol1/p262-6.webp",
-      "page": 262,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-6",
-          "speaker": "Ghayda",
-          "ar": "الشقة مفروشة، وكلّ إشي فيها جاهز. تعالي اليوم.",
-          "translit": "ish-shaʾʾa mafrūshe, w-kull ishi fīha jāhiz. taʿāli il-yōm.",
-          "en": "The apartment is furnished, and everything in it is ready. Come over today.",
-          "dialogueId": "ch3-dlg-ghayda-scene-1",
-          "dialogueLine": 5,
-          "textFrom": "dialogue",
-          "flags": [
-            {
-              "kind": "suspected-error",
-              "note": "Bubble has الشقة (no shadda); dialogue has الشقّة."
-            }
-          ],
-          "direction": "[warmly]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p263-1",
-      "image": "comics/abv-vol1/p263-1.webp",
-      "page": 263,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-7",
-          "speaker": "Walaa",
-          "ar": "أكيد!",
-          "translit": "akīd!",
-          "en": "Definitely!",
-          "dialogueId": "ch3-dlg-ghayda-scene-1",
-          "dialogueLine": 6,
-          "textFrom": "dialogue",
-          "direction": "[excited]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p263-2",
-      "image": "comics/abv-vol1/p263-2.webp",
-      "page": 263,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-8",
-          "speaker": "Walaa",
-          "ar": "هاي العمارة الجديدة؟",
-          "translit": "hāy il-ʿimāra il-jdīde?",
-          "en": "Is this the new building?",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 0,
-          "textFrom": "dialogue",
-          "direction": "[curious]"
-        }
-      ],
-      "caption": null,
-      "note": "Scene Two begins (outside the apartment building); no narration box in the art."
-    },
-    {
-      "id": "p263-3",
-      "image": "comics/abv-vol1/p263-3.webp",
-      "page": 263,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-9",
-          "speaker": "Ghayda",
-          "ar": "آه، هاي هي. شقّتي فوق بالطّابق الثّالث.",
-          "translit": "āh, hāy hiyye. shaʾʾtī fōʾ biṭ-ṭābiʾ it-tālit.",
-          "en": "Yes, this is it. My apartment is upstairs on the third floor.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 1,
-          "textFrom": "dialogue",
-          "flags": [
-            {
-              "kind": "suspected-error",
-              "note": "Bubble has هاي هي (no shadda); dialogue has هاي هيّ."
-            }
-          ],
-          "direction": "[proudly]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p263-4",
-      "image": "comics/abv-vol1/p263-4.webp",
-      "page": 263,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-10",
-          "speaker": "Ghayda",
-          "ar": "تفضّلي، هاي شقّتي",
-          "translit": "tfaḍḍalī, hāy shaʾʾtī.",
-          "en": "Go ahead—this is my apartment.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 2,
-          "textFrom": "dialogue",
-          "flags": [
-            {
-              "kind": "suspected-error",
-              "note": "Bubble has no final full stop (تفضّلي، هاي شقّتي); dialogue has تفضّلي، هاي شقّتي."
-            }
-          ],
-          "direction": "[warmly]"
-        }
-      ],
-      "caption": null,
-      "note": "The dialogue’s stage direction (they take the elevator to the third floor) is not drawn or captioned; this panel cuts straight to the apartment door."
-    },
-    {
-      "id": "p263-5",
-      "image": "comics/abv-vol1/p263-5.webp",
-      "page": 263,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-11",
-          "speaker": "Walaa",
-          "ar": "يا سلام! الشقّة كتير حلوة. أوّل شقّة إلك لحالك؟",
-          "translit": "yā salām! ish-shaʾʾa ktīr ḥilwe. awwal shaʾʾa ilik laḥālik?",
-          "en": "Wow! The apartment is really nice. Is this your first apartment of your own?",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 3,
-          "textFrom": "dialogue",
-          "direction": "[delighted]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p263-6",
-      "image": "comics/abv-vol1/p263-6.webp",
-      "page": 263,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-12",
-          "speaker": "Ghayda",
-          "ar": "آه. قبل كنت عند أهلي، هلّأ هاي الشقّة إلي.",
-          "translit": "āh. ʾabil kint ʿind ahlī, hallaʾ hāy ish-shaʾʾa ilī.",
-          "en": "Yes. Before, I was at my parents’ house; now this apartment is mine.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 4,
-          "textFrom": "dialogue",
-          "direction": "[proudly]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p264-1",
-      "image": "comics/abv-vol1/p264-1.webp",
-      "page": 264,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-13",
-          "speaker": "Walaa",
-          "ar": "كم غرفة فيها؟",
-          "translit": "kam ghurfe fīha?",
-          "en": "How many rooms does the apartment have?",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 5,
-          "textFrom": "dialogue",
-          "direction": "[curious]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p264-2",
-      "image": "comics/abv-vol1/p264-2.webp",
-      "page": 264,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-14",
-          "speaker": "Ghayda",
-          "ar": "فيها غرفتين نوم، وصالون واسع، ومطبخ كبير، وحمّام نضيف.",
-          "translit": "fīha ghurfitēn nōm, w-ṣālōn wāsiʿ, w-maṭbakh kbīr, w-ḥammām nḍīf.",
-          "en": "It has two bedrooms, a spacious living room, a large kitchen, and a clean bathroom.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 6,
-          "textFrom": "dialogue",
-          "direction": "[proudly]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p264-3",
-      "image": "comics/abv-vol1/p264-3.webp",
-      "page": 264,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-15",
-          "speaker": "Walaa",
-          "ar": "شكل العفش كتير حلو.",
-          "translit": "shikl il-ʿafish ktīr ḥilu.",
-          "en": "The furniture looks really nice.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 7,
-          "textFrom": "dialogue",
-          "direction": "[impressed]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p264-4",
-      "image": "comics/abv-vol1/p264-4.webp",
-      "page": 264,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-16",
-          "speaker": "Ghayda",
-          "ar": "بغرفتي عندي تخت كبير تحت الشبّاك، وخزانة كمان كبيرة.",
-          "translit": "bi-ghurftī ʿindī takhit kbīr taḥt ish-shubbāk, w-khizāne kamān kbīre.",
-          "en": "In my room, I have a large bed under the window and a large wardrobe.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 8,
-          "textFrom": "dialogue",
-          "direction": "[casually]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p264-5",
-      "image": "comics/abv-vol1/p264-5.webp",
-      "page": 264,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-17",
-          "speaker": "Walaa",
-          "ar": "والبلكونة؟",
-          "translit": "wil-balkōne?",
-          "en": "And the balcony?",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 9,
-          "textFrom": "dialogue",
-          "direction": "[curious]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p264-6",
-      "image": "comics/abv-vol1/p264-6.webp",
-      "page": 264,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-18",
-          "speaker": "Ghayda",
-          "ar": "إلها إطلالة كتير حلوة ع المدينة.",
-          "translit": "ilha iṭlāle ktīr ḥilwe ʿal-madīne.",
-          "en": "It has a really beautiful view of the city.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 10,
-          "textFrom": "dialogue",
-          "direction": "[proudly]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p265-1",
-      "image": "comics/abv-vol1/p265-1.webp",
-      "page": 265,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-19",
-          "speaker": "Walaa",
-          "ar": "رح يكون في ناس كتيرة بالسّهرة اليوم؟",
-          "translit": "raḥ ykūn fī nās ktīre bis-sahre il-yōm?",
-          "en": "Will there be a lot of people at the get-together today?",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 11,
-          "textFrom": "dialogue",
-          "direction": "[curious]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p265-2",
-      "image": "comics/abv-vol1/p265-2.webp",
-      "page": 265,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-20",
-          "speaker": "Ghayda",
-          "ar": "آه، كتير. حتّى الجيران الجداد معزومين.",
-          "translit": "āh, ktīr. ḥatta il-jīrān il-jdād maʿzūmīn.",
-          "en": "Yes, a lot. Even the new neighbors are invited.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 12,
-          "textFrom": "dialogue",
-          "direction": "[happily]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p265-3",
-      "image": "comics/abv-vol1/p265-3.webp",
-      "page": 265,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-21",
-          "speaker": "Walaa",
-          "ar": "ممتاز! مبروك ع الشقّة الجديدة.",
-          "translit": "mumtāz! mabrūk ʿash-shaʾʾa il-jdīde.",
-          "en": "Excellent! Congratulations on the new apartment.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 13,
-          "textFrom": "dialogue",
-          "direction": "[warmly]"
-        }
-      ],
-      "caption": null
-    },
-    {
-      "id": "p265-4",
-      "image": "comics/abv-vol1/p265-4.webp",
-      "page": 265,
-      "lines": [
-        {
-          "id": "ch3-ghaydas-new-place-22",
-          "speaker": "Ghayda",
-          "ar": "الله يبارك فيكي. تعالي ع البلكونة، القهوة جاهزة.",
-          "translit": "Allāh ybārik fīki. taʿāli ʿal-balkōne, il-ʾahwe jāhze.",
-          "en": "God bless you. Come out to the balcony, the coffee is ready.",
-          "dialogueId": "ch3-dlg-ghayda-scene-2",
-          "dialogueLine": 14,
-          "textFrom": "dialogue",
-          "direction": "[warmly]"
-        }
-      ],
-      "caption": null
-    }
+ "id": "ch3-ghaydas-new-place",
+ "title": {
+  "ar": "شقة غيداء الجديدة",
+  "translit": "shaʾʾit Ghaydāʾ il-jdīde",
+  "en": "Ghayda’s New Place"
+ },
+ "chapterId": "ch3",
+ "lessonId": "ch3-putting-it-all-together",
+ "dialogueId": "ch3-dlg-ghayda-scene-2",
+ "dialogueIds": [
+  "ch3-dlg-ghayda-scene-1",
+  "ch3-dlg-ghayda-scene-2"
+ ],
+ "source": {
+  "designId": "DAHaz00vw2w",
+  "pages": [
+   262,
+   263,
+   264,
+   265
   ]
+ },
+ "characters": [
+  {
+   "name": "Walaa",
+   "nameAr": "ولاء",
+   "description": "young woman; long curly light-brown hair, rust-red blouse, jeans; brown shoulder bag in Scene Two"
+  },
+  {
+   "name": "Ghayda",
+   "nameAr": "غيداء",
+   "description": "young woman; beige hijab, teal top, cream trousers"
+  }
+ ],
+ "panels": [
+  {
+   "id": "p262-1",
+   "image": "comics/abv-vol1/p262-1.webp",
+   "page": 262,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-1",
+     "speaker": "Walaa",
+     "ar": "مرحبا يا غيداء، شو في ما في؟",
+     "translit": "marḥaba yā Ghaydāʾ, shū fī mā fī?",
+     "en": "Hey Ghayda, what’s up?",
+     "dialogueId": "ch3-dlg-ghayda-scene-1",
+     "dialogueLine": 0,
+     "textFrom": "dialogue",
+     "direction": "[warmly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p262-2",
+   "image": "comics/abv-vol1/p262-2.webp",
+   "page": 262,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-2",
+     "speaker": "Ghayda",
+     "ar": "كلّه تمام. عندي شقّة جديدة قريبة من الجامعة.",
+     "translit": "kullo tamām. ʿindī shaʾʾa jdīde ʾarībe min il-jāmʿa.",
+     "en": "Everything’s good. I have a new apartment near the university.",
+     "dialogueId": "ch3-dlg-ghayda-scene-1",
+     "dialogueLine": 1,
+     "textFrom": "dialogue",
+     "direction": "[excited]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p262-3",
+   "image": "comics/abv-vol1/p262-3.webp",
+   "page": 262,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-3",
+     "speaker": "Walaa",
+     "ar": "عنجد؟ وين بالظّبط؟",
+     "translit": "ʿanjad? wēn biẓ-ẓabṭ?",
+     "en": "Really? Where exactly?",
+     "dialogueId": "ch3-dlg-ghayda-scene-1",
+     "dialogueLine": 2,
+     "textFrom": "dialogue",
+     "direction": "[surprised]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p262-4",
+   "image": "comics/abv-vol1/p262-4.webp",
+   "page": 262,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-4",
+     "speaker": "Ghayda",
+     "ar": "بحارة هادية، حوالي خمس دقايق مشي من الجامعة.",
+     "translit": "bi-ḥāra hādye, ḥawāli khams daʾāyiʾ mashi min il-jāmʿa.",
+     "en": "In a quiet neighborhood, about a five-minute walk from the university.",
+     "dialogueId": "ch3-dlg-ghayda-scene-1",
+     "dialogueLine": 3,
+     "textFrom": "dialogue",
+     "direction": "[happily]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p262-5",
+   "image": "comics/abv-vol1/p262-5.webp",
+   "page": 262,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-5",
+     "speaker": "Walaa",
+     "ar": "ممتاز! وكيف الشقّة من جوّا؟",
+     "translit": "mumtāz! w-kīf ish-shaʾʾa min juwwa?",
+     "en": "Excellent! What’s the apartment like inside?",
+     "dialogueId": "ch3-dlg-ghayda-scene-1",
+     "dialogueLine": 4,
+     "textFrom": "dialogue",
+     "direction": "[excited]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p262-6",
+   "image": "comics/abv-vol1/p262-6.webp",
+   "page": 262,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-6",
+     "speaker": "Ghayda",
+     "ar": "الشقة مفروشة، وكلّ إشي فيها جاهز. تعالي اليوم.",
+     "translit": "ish-shaʾʾa mafrūshe, w-kull ishi fīha jāhiz. taʿāli il-yōm.",
+     "en": "The apartment is furnished, and everything in it is ready. Come over today.",
+     "dialogueId": "ch3-dlg-ghayda-scene-1",
+     "dialogueLine": 5,
+     "textFrom": "dialogue",
+     "flags": [
+      {
+       "kind": "suspected-error",
+       "note": "Bubble has الشقة (no shadda); dialogue has الشقّة."
+      }
+     ],
+     "direction": "[warmly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p263-1",
+   "image": "comics/abv-vol1/p263-1.webp",
+   "page": 263,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-7",
+     "speaker": "Walaa",
+     "ar": "أكيد!",
+     "translit": "akīd!",
+     "en": "Definitely!",
+     "dialogueId": "ch3-dlg-ghayda-scene-1",
+     "dialogueLine": 6,
+     "textFrom": "dialogue",
+     "direction": "[excited]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p263-2",
+   "image": "comics/abv-vol1/p263-2.webp",
+   "page": 263,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-8",
+     "speaker": "Walaa",
+     "ar": "هاي العمارة الجديدة؟",
+     "translit": "hāy il-ʿimāra il-jdīde?",
+     "en": "Is this the new building?",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 0,
+     "textFrom": "dialogue",
+     "direction": "[curious]"
+    }
+   ],
+   "caption": null,
+   "note": "Scene Two begins (outside the apartment building); no narration box in the art."
+  },
+  {
+   "id": "p263-3",
+   "image": "comics/abv-vol1/p263-3.webp",
+   "page": 263,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-9",
+     "speaker": "Ghayda",
+     "ar": "آه، هاي هي. شقّتي فوق بالطّابق الثّالث.",
+     "translit": "āh, hāy hiyye. shaʾʾtī fōʾ biṭ-ṭābiʾ it-tālit.",
+     "en": "Yes, this is it. My apartment is upstairs on the third floor.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 1,
+     "textFrom": "dialogue",
+     "flags": [
+      {
+       "kind": "suspected-error",
+       "note": "Bubble has هاي هي (no shadda); dialogue has هاي هيّ."
+      }
+     ],
+     "direction": "[proudly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p263-4",
+   "image": "comics/abv-vol1/p263-4.webp",
+   "page": 263,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-10",
+     "speaker": "Ghayda",
+     "ar": "تفضّلي، هاي شقّتي",
+     "translit": "tfaḍḍalī, hāy shaʾʾtī.",
+     "en": "Go ahead—this is my apartment.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 2,
+     "textFrom": "dialogue",
+     "flags": [
+      {
+       "kind": "suspected-error",
+       "note": "Bubble has no final full stop (تفضّلي، هاي شقّتي); dialogue has تفضّلي، هاي شقّتي."
+      }
+     ],
+     "direction": "[warmly]"
+    }
+   ],
+   "caption": null,
+   "note": "The dialogue’s stage direction (they take the elevator to the third floor) is not drawn or captioned; this panel cuts straight to the apartment door."
+  },
+  {
+   "id": "p263-5",
+   "image": "comics/abv-vol1/p263-5.webp",
+   "page": 263,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-11",
+     "speaker": "Walaa",
+     "ar": "يا سلام! الشقّة كتير حلوة. أوّل شقّة إلك لحالك؟",
+     "translit": "yā salām! ish-shaʾʾa ktīr ḥilwe. awwal shaʾʾa ilik laḥālik?",
+     "en": "Wow! The apartment is really nice. Is this your first apartment of your own?",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 3,
+     "textFrom": "dialogue",
+     "direction": "[delighted]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p263-6",
+   "image": "comics/abv-vol1/p263-6.webp",
+   "page": 263,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-12",
+     "speaker": "Ghayda",
+     "ar": "آه. قبل كنت عند أهلي، هلّأ هاي الشقّة إلي.",
+     "translit": "āh. ʾabil kint ʿind ahlī, hallaʾ hāy ish-shaʾʾa ilī.",
+     "en": "Yes. Before, I was at my parents’ house; now this apartment is mine.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 4,
+     "textFrom": "dialogue",
+     "direction": "[proudly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p264-1",
+   "image": "comics/abv-vol1/p264-1.webp",
+   "page": 264,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-13",
+     "speaker": "Walaa",
+     "ar": "كم غرفة فيها؟",
+     "translit": "kam ghurfe fīha?",
+     "en": "How many rooms does the apartment have?",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 5,
+     "textFrom": "dialogue",
+     "direction": "[curious]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p264-2",
+   "image": "comics/abv-vol1/p264-2.webp",
+   "page": 264,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-14",
+     "speaker": "Ghayda",
+     "ar": "فيها غرفتين نوم، وصالون واسع، ومطبخ كبير، وحمّام نضيف.",
+     "translit": "fīha ghurfitēn nōm, w-ṣālōn wāsiʿ, w-maṭbakh kbīr, w-ḥammām nḍīf.",
+     "en": "It has two bedrooms, a spacious living room, a large kitchen, and a clean bathroom.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 6,
+     "textFrom": "dialogue",
+     "direction": "[proudly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p264-3",
+   "image": "comics/abv-vol1/p264-3.webp",
+   "page": 264,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-15",
+     "speaker": "Walaa",
+     "ar": "شكل العفش كتير حلو.",
+     "translit": "shikl il-ʿafish ktīr ḥilu.",
+     "en": "The furniture looks really nice.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 7,
+     "textFrom": "dialogue",
+     "direction": "[impressed]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p264-4",
+   "image": "comics/abv-vol1/p264-4.webp",
+   "page": 264,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-16",
+     "speaker": "Ghayda",
+     "ar": "بغرفتي عندي تخت كبير تحت الشبّاك، وخزانة كمان كبيرة.",
+     "translit": "bi-ghurftī ʿindī takhit kbīr taḥt ish-shubbāk, w-khizāne kamān kbīre.",
+     "en": "In my room, I have a large bed under the window and a large wardrobe.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 8,
+     "textFrom": "dialogue",
+     "direction": "[casually]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p264-5",
+   "image": "comics/abv-vol1/p264-5.webp",
+   "page": 264,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-17",
+     "speaker": "Walaa",
+     "ar": "والبلكونة؟",
+     "translit": "wil-balkōne?",
+     "en": "And the balcony?",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 9,
+     "textFrom": "dialogue",
+     "direction": "[curious]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p264-6",
+   "image": "comics/abv-vol1/p264-6.webp",
+   "page": 264,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-18",
+     "speaker": "Ghayda",
+     "ar": "إلها إطلالة كتير حلوة ع المدينة.",
+     "translit": "ilha iṭlāle ktīr ḥilwe ʿal-madīne.",
+     "en": "It has a really beautiful view of the city.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 10,
+     "textFrom": "dialogue",
+     "direction": "[proudly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p265-1",
+   "image": "comics/abv-vol1/p265-1.webp",
+   "page": 265,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-19",
+     "speaker": "Walaa",
+     "ar": "رح يكون في ناس كتيرة بالسّهرة اليوم؟",
+     "translit": "raḥ ykūn fī nās ktīre bis-sahre il-yōm?",
+     "en": "Will there be a lot of people at the get-together today?",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 11,
+     "textFrom": "dialogue",
+     "direction": "[curious]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p265-2",
+   "image": "comics/abv-vol1/p265-2.webp",
+   "page": 265,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-20",
+     "speaker": "Ghayda",
+     "ar": "آه، كتير. حتّى الجيران الجداد من الضيوف.",
+     "translit": "āh, ktīr. ḥatta il-jīrān il-jdād min iḍ-ḍyūf.",
+     "en": "Yes, a lot. Even the new neighbors are among the guests.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 12,
+     "textFrom": "bubble",
+     "direction": "[happily]",
+     "flags": [
+      {
+       "kind": "needs-review",
+       "note": "Bubble (p.265) has من الضيوف; printed dialogue (p.261) has معزومين. Transliteration and English here were written for the bubble wording, using the book spelling ḍyūf."
+      }
+     ]
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p265-3",
+   "image": "comics/abv-vol1/p265-3.webp",
+   "page": 265,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-21",
+     "speaker": "Walaa",
+     "ar": "ممتاز! مبروك ع الشقّة الجديدة.",
+     "translit": "mumtāz! mabrūk ʿash-shaʾʾa il-jdīde.",
+     "en": "Excellent! Congratulations on the new apartment.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 13,
+     "textFrom": "dialogue",
+     "direction": "[warmly]"
+    }
+   ],
+   "caption": null
+  },
+  {
+   "id": "p265-4",
+   "image": "comics/abv-vol1/p265-4.webp",
+   "page": 265,
+   "lines": [
+    {
+     "id": "ch3-ghaydas-new-place-22",
+     "speaker": "Ghayda",
+     "ar": "الله يبارك فيكي. تعالي ع البلكونة، القهوة جاهزة.",
+     "translit": "Allāh ybārik fīki. taʿāli ʿal-balkōne, il-ʾahwe jāhze.",
+     "en": "God bless you. Come out to the balcony, the coffee is ready.",
+     "dialogueId": "ch3-dlg-ghayda-scene-2",
+     "dialogueLine": 14,
+     "textFrom": "dialogue",
+     "direction": "[warmly]"
+    }
+   ],
+   "caption": null
+  }
+ ]
 }
