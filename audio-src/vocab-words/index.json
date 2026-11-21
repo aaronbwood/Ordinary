@@ -7,7 +7,7 @@
   ],
   "ar": "مَرحَبا",
   "translit": "marḥaba",
-  "voice": "مَرحَبا",
+  "voice": "مَرْحَبَا",
   "masculineOnly": false
  },
  {
@@ -17,7 +17,7 @@
   ],
   "ar": "مَرحَبتَين",
   "translit": "marḥabtēn",
-  "voice": "مَرحَبتَين",
+  "voice": "مَرْحَبْتين",
   "masculineOnly": false
  },
  {
@@ -27,7 +27,7 @@
   ],
   "ar": "صَباح الخَيْر",
   "translit": "ṣabāḥ il-khēr",
-  "voice": "صَباح الخَيْر",
+  "voice": "صَبَاح اِلْخير",
   "masculineOnly": false
  },
  {
@@ -37,7 +37,7 @@
   ],
   "ar": "صَباح النّور",
   "translit": "ṣabāḥ in-nūr",
-  "voice": "صَباح النّور",
+  "voice": "صَبَاح اِلنُّور",
   "masculineOnly": false
  },
  {
@@ -47,7 +47,7 @@
   ],
   "ar": "مَسا الخَيْر",
   "translit": "masa il-khēr",
-  "voice": "مَسا الخَيْر",
+  "voice": "مَسَا اِلْخير",
   "masculineOnly": false
  },
  {
@@ -57,7 +57,7 @@
   ],
   "ar": "مَسا النّور",
   "translit": "masa in-nūr",
-  "voice": "مَسا النّور",
+  "voice": "مَسَا اِلنُّور",
   "masculineOnly": false
  },
  {
@@ -67,7 +67,7 @@
   ],
   "ar": "تِصبَح عَلى خَيْر",
   "translit": "tiṣbaḥ ʿala khēr",
-  "voice": "تِصبَح عَلى خَيْر",
+  "voice": "تِصْبَح عَلَى خير",
   "masculineOnly": false
  },
  {
@@ -77,7 +77,7 @@
   ],
   "ar": "تِصبَحِي عَلى خَيْر",
   "translit": "tiṣbaḥī ʿala khēr",
-  "voice": "تِصبَحِي عَلى خَيْر",
+  "voice": "تِصْبَحِي عَلَى خير",
   "masculineOnly": false
  },
  {
@@ -87,7 +87,7 @@
   ],
   "ar": "تِصبَحوا عَلى خَيْر",
   "translit": "tiṣbaḥū ʿala khēr",
-  "voice": "تِصبَحوا عَلى خَيْر",
+  "voice": "تِصْبَحُوا عَلَى خير",
   "masculineOnly": false
  },
  {
@@ -97,7 +97,7 @@
   ],
   "ar": "واِنتَ مِن أَهلُه",
   "translit": "w-inta min ahlo",
-  "voice": "واِنتَ مِن أَهلُه",
+  "voice": "وِانْتَ مِن أَهْلُه",
   "masculineOnly": false
  },
  {
@@ -107,7 +107,7 @@
   ],
   "ar": "واِنتي مِن أَهلُه",
   "translit": "w-intī min ahlo",
-  "voice": "واِنتي مِن أَهلُه",
+  "voice": "وِانْتِي مِن أَهْلُه",
   "masculineOnly": false
  },
  {
@@ -117,7 +117,7 @@
   ],
   "ar": "واِنتو مِن أَهلُه",
   "translit": "w-intu min ahlo",
-  "voice": "واِنتو مِن أَهلُه",
+  "voice": "وِانْتُو مِن أَهْلُه",
   "masculineOnly": false
  },
  {
@@ -127,7 +127,7 @@
   ],
   "ar": "شو في ما في؟",
   "translit": "shū fī mā fī?",
-  "voice": "شو في ما في؟",
+  "voice": "شُو فِي مَا فِي؟",
   "masculineOnly": false
  },
  {
@@ -137,7 +137,7 @@
   ],
   "ar": "كُلّه تَمام",
   "translit": "kullo tamām",
-  "voice": "كُلّه تَمام",
+  "voice": "كُلُّه تَمَام",
   "masculineOnly": false
  },
  {
@@ -147,7 +147,7 @@
   ],
   "ar": "صافْيِة وافْيِة",
   "translit": "ṣāfye wāfye",
-  "voice": "صافْيِة وافْيِة",
+  "voice": "صَافْيِة وَافْيِة",
   "masculineOnly": false
  },
  {
@@ -157,7 +157,7 @@
   ],
   "ar": "شو اِسمَك؟",
   "translit": "shū ismak?",
-  "voice": "شو اِسمَك؟",
+  "voice": "شُو اِسْمَك؟",
   "masculineOnly": false
  },
  {
@@ -167,7 +167,7 @@
   ],
   "ar": "شو اِسمِك؟",
   "translit": "shū ismik?",
-  "voice": "شو اِسمِك؟",
+  "voice": "شُو اِسْمِك؟",
   "masculineOnly": false
  },
  {
@@ -177,7 +177,7 @@
   ],
   "ar": "شو اِسمْكُم؟",
   "translit": "shū ismkum?",
-  "voice": "شو اِسمْكُم؟",
+  "voice": "شُو اِسْمْكُم؟",
   "masculineOnly": false
  },
  {
@@ -187,7 +187,7 @@
   ],
   "ar": "اِسمِي…",
   "translit": "ismī …",
-  "voice": "اِسمِي",
+  "voice": "اِسْمِي",
   "masculineOnly": false
  },
  {
@@ -197,7 +197,7 @@
   ],
   "ar": "مَعَ السَّلامِة",
   "translit": "maʿ is-salāme",
-  "voice": "مَعَ السَّلامِة",
+  "voice": "مَع اِلسَّلَامِة",
   "masculineOnly": false
  },
  {
@@ -207,7 +207,7 @@
   ],
   "ar": "الله يْسَلِّمَك",
   "translit": "Allāh ysallmak",
-  "voice": "الله يْسَلِّمَك",
+  "voice": "الله يْسَلّمَك",
   "masculineOnly": false
  },
  {
@@ -217,7 +217,7 @@
   ],
   "ar": "الله يْسَلِّمِك",
   "translit": "Allāh ysallmik",
-  "voice": "الله يْسَلِّمِك",
+  "voice": "الله يْسَلّمِك",
   "masculineOnly": false
  },
  {
@@ -227,7 +227,7 @@
   ],
   "ar": "الله يْسَلِّمكُم",
   "translit": "Allāh ysallmkum",
-  "voice": "الله يْسَلِّمكُم",
+  "voice": "الله يْسَلّمْكُم",
   "masculineOnly": false
  },
  {
@@ -247,7 +247,7 @@
   ],
   "ar": "أَهلًا فِيك",
   "translit": "ahlan fīk",
-  "voice": "أَهلًا فِيك",
+  "voice": "أَهْلًا فِيك",
   "masculineOnly": false
  },
  {
@@ -257,7 +257,7 @@
   ],
   "ar": "أَهلًا فِيكي",
   "translit": "ahlan fīki",
-  "voice": "أَهلًا فِيكي",
+  "voice": "أَهْلًا فِيكِي",
   "masculineOnly": false
  },
  {
@@ -267,7 +267,7 @@
   ],
   "ar": "أَهلًا فِيكُم",
   "translit": "ahlan fīkum",
-  "voice": "أَهلًا فِيكُم",
+  "voice": "أَهْلًا فِيكُم",
   "masculineOnly": false
  },
  {
@@ -297,7 +297,7 @@
   ],
   "ar": "كِيفكُم؟",
   "translit": "kīfkum?",
-  "voice": "كِيفكُم؟",
+  "voice": "كِيفْكُم؟",
   "masculineOnly": false
  },
  {
@@ -327,7 +327,7 @@
   ],
   "ar": "مْنيحين / مْناح",
   "translit": "mnīḥīn / mnāḥ",
-  "voice": "مْنيحين، مْناح",
+  "voice": "مْنِيحِين، مْنَاح",
   "masculineOnly": false
  },
  {
@@ -337,7 +337,7 @@
   ],
   "ar": "الحَمْد لله",
   "translit": "il-ḥamdillāh",
-  "voice": "الحَمْد لله",
+  "voice": "اِلْحَمْدِ لَّله",
   "masculineOnly": false
  },
  {
@@ -347,7 +347,7 @@
   ],
   "ar": "كِيف الحال؟",
   "translit": "kīf il-ḥāl?",
-  "voice": "كِيف الحال؟",
+  "voice": "كِيف اِلْحَال؟",
   "masculineOnly": false
  },
  {
@@ -357,7 +357,7 @@
   ],
   "ar": "كُلّه تَمَام",
   "translit": "kullo tamām",
-  "voice": "كُلّه تَمَام",
+  "voice": "كُلُّه تَمَام",
   "masculineOnly": false
  },
  {
@@ -367,7 +367,7 @@
   ],
   "ar": "شو أَخبارَك؟",
   "translit": "shū akhbārak?",
-  "voice": "شو أَخبارَك؟",
+  "voice": "شُو أَخْبَارَك؟",
   "masculineOnly": false
  },
  {
@@ -377,7 +377,7 @@
   ],
   "ar": "شو أَخبارِك؟",
   "translit": "shū akhbārik?",
-  "voice": "شو أَخبارِك؟",
+  "voice": "شُو أَخْبَارِك؟",
   "masculineOnly": false
  },
  {
@@ -387,7 +387,7 @@
   ],
   "ar": "شو أَخباركُم؟",
   "translit": "shū akhbārkum?",
-  "voice": "شو أَخباركُم؟",
+  "voice": "شُو أَخْبَارْكُم؟",
   "masculineOnly": false
  },
  {
@@ -397,7 +397,7 @@
   ],
   "ar": "تَمام",
   "translit": "tamām",
-  "voice": "تَمام",
+  "voice": "تَمَام",
   "masculineOnly": false
  },
  {
@@ -407,7 +407,7 @@
   ],
   "ar": "تْشَرَّفنا",
   "translit": "tsharrafna",
-  "voice": "تْشَرَّفنا",
+  "voice": "تْشَرَّفْنَا",
   "masculineOnly": false
  },
  {
@@ -417,7 +417,7 @@
   ],
   "ar": "الشَّرَف إِلنا",
   "translit": "ish-sharaf ilna",
-  "voice": "الشَّرَف إِلنا",
+  "voice": "اِلشَّرَف إِلْنَا",
   "masculineOnly": false
  },
  {
@@ -427,7 +427,7 @@
   ],
   "ar": "شُكرًا",
   "translit": "shukran",
-  "voice": "شُكرًا",
+  "voice": "شُكْرًا",
   "masculineOnly": false
  },
  {
@@ -437,7 +437,7 @@
   ],
   "ar": "عَفوًا",
   "translit": "ʿafwan",
-  "voice": "عَفوًا",
+  "voice": "عَفْوًا",
   "masculineOnly": false
  },
  {
@@ -457,7 +457,7 @@
   ],
   "ar": "لو سَمَحت",
   "translit": "law samaḥt",
-  "voice": "لو سَمَحت",
+  "voice": "لَو سَمَحْت",
   "masculineOnly": false
  },
  {
@@ -467,7 +467,7 @@
   ],
   "ar": "لو سَمَحتِي",
   "translit": "law samaḥtī",
-  "voice": "لو سَمَحتِي",
+  "voice": "لَو سَمَحْتِي",
   "masculineOnly": false
  },
  {
@@ -477,7 +477,7 @@
   ],
   "ar": "لو سَمَحتوا",
   "translit": "law samaḥtū",
-  "voice": "لو سَمَحتوا",
+  "voice": "لَو سَمَحْتُوا",
   "masculineOnly": false
  },
  {
@@ -487,7 +487,7 @@
   ],
   "ar": "أَنا آسِف",
   "translit": "ana āsif",
-  "voice": "أَنا آسِف",
+  "voice": "أَنَا آسِف",
   "masculineOnly": false
  },
  {
@@ -497,7 +497,7 @@
   ],
   "ar": "أَنا آسْفِة",
   "translit": "ana āsfe",
-  "voice": "أَنا آسْفِة",
+  "voice": "أَنَا آسْفِة",
   "masculineOnly": false
  },
  {
@@ -507,7 +507,7 @@
   ],
   "ar": "مَبروك",
   "translit": "mabrūk",
-  "voice": "مَبروك",
+  "voice": "مَبْرُوك",
   "masculineOnly": false
  },
  {
@@ -517,7 +517,7 @@
   ],
   "ar": "الله يْبارِك فِيك",
   "translit": "Allāh ybārik fīk",
-  "voice": "الله يْبارِك فِيك",
+  "voice": "الله يْبَارِك فِيك",
   "masculineOnly": false
  },
  {
@@ -527,7 +527,7 @@
   ],
   "ar": "الله يْبارِك فيكي",
   "translit": "Allāh ybārik fīki",
-  "voice": "الله يْبارِك فيكي",
+  "voice": "الله يْبَارِك فِيكِي",
   "masculineOnly": false
  },
  {
@@ -537,7 +537,7 @@
   ],
   "ar": "الله يْبارِك فِيكُم",
   "translit": "Allāh ybārik fīkum",
-  "voice": "الله يْبارِك فِيكُم",
+  "voice": "الله يْبَارِك فِيكُم",
   "masculineOnly": false
  },
  {
@@ -547,7 +547,7 @@
   ],
   "ar": "صَحْتَين",
   "translit": "ṣaḥtēn",
-  "voice": "صَحْتَين",
+  "voice": "صَحْتين",
   "masculineOnly": false
  },
  {
@@ -557,7 +557,7 @@
   ],
   "ar": "عَلى قَلْبَك",
   "translit": "ʿala ʾalbak",
-  "voice": "عَلى أَلْبَك",
+  "voice": "عَلَى أَلْبَك",
   "masculineOnly": false
  },
  {
@@ -567,7 +567,7 @@
   ],
   "ar": "عَلى قَلْبِك",
   "translit": "ʿala ʾalbik",
-  "voice": "عَلى أَلْبِك",
+  "voice": "عَلَى أَلْبِك",
   "masculineOnly": false
  },
  {
@@ -577,7 +577,7 @@
   ],
   "ar": "عَلى قَلْبْكُم",
   "translit": "ʿala ʾalbkum",
-  "voice": "عَلى أَلْبْكُم",
+  "voice": "عَلَى أَلْبْكُم",
   "masculineOnly": false
  },
  {
@@ -587,7 +587,7 @@
   ],
   "ar": "يَعطيك العافْيِة",
   "translit": "yaʿṭīk il-ʿāfye",
-  "voice": "يَعطيك العافْيِة",
+  "voice": "يَعْطِيك اِلْعَافْيِة",
   "masculineOnly": false
  },
  {
@@ -597,7 +597,7 @@
   ],
   "ar": "يَعطيكي العافْيِة",
   "translit": "yaʿṭīki il-ʿāfye",
-  "voice": "يَعطيكي العافْيِة",
+  "voice": "يَعْطِيكِي اِلْعَافْيِة",
   "masculineOnly": false
  },
  {
@@ -607,7 +607,7 @@
   ],
   "ar": "يَعطيكُم العافْيِة",
   "translit": "yaʿṭīkum il-ʿāfye",
-  "voice": "يَعطيكُم العافْيِة",
+  "voice": "يَعْطِيكُم اِلْعَافْيِة",
   "masculineOnly": false
  },
  {
@@ -617,7 +617,7 @@
   ],
   "ar": "الله يْعافِيك",
   "translit": "Allāh yʿāfīk",
-  "voice": "الله يْعافِيك",
+  "voice": "الله يْعَافِيك",
   "masculineOnly": false
  },
  {
@@ -627,7 +627,7 @@
   ],
   "ar": "الله يْعافِيكي",
   "translit": "Allāh yʿāfīki",
-  "voice": "الله يْعافِيكي",
+  "voice": "الله يْعَافِيكِي",
   "masculineOnly": false
  },
  {
@@ -637,7 +637,7 @@
   ],
   "ar": "الله يْعافِيكُم",
   "translit": "Allāh yʿāfīkum",
-  "voice": "الله يْعافِيكُم",
+  "voice": "الله يْعَافِيكُم",
   "masculineOnly": false
  },
  {
@@ -647,7 +647,7 @@
   ],
   "ar": "يَلّا",
   "translit": "yalla",
-  "voice": "يَلّا",
+  "voice": "يَلَّا",
   "masculineOnly": false
  },
  {
@@ -687,7 +687,7 @@
   ],
   "ar": "طَبعًا",
   "translit": "ṭabʿan",
-  "voice": "طَبعًا",
+  "voice": "طَبْعًا",
   "masculineOnly": false
  },
  {
@@ -697,7 +697,7 @@
   ],
   "ar": "ما فِي مُشكِلِة",
   "translit": "mā fī mushkile",
-  "voice": "ما فِي مُشكِلِة",
+  "voice": "مَا فِي مُشْكِلِة",
   "masculineOnly": false
  },
  {
@@ -717,7 +717,7 @@
   ],
   "ar": "إِن شاء الله",
   "translit": "in shāʾ Allāh",
-  "voice": "إِن شاء الله",
+  "voice": "إِن شَاء الله",
   "masculineOnly": false
  },
  {
@@ -737,7 +737,7 @@
   ],
   "ar": "لأ",
   "translit": "laʾ",
-  "voice": "لأ",
+  "voice": "لَأ",
   "masculineOnly": false
  },
  {
@@ -747,7 +747,7 @@
   ],
   "ar": "وِين الحَمّام؟",
   "translit": "wēn il-ḥammām?",
-  "voice": "وِين الحَمّام؟",
+  "voice": "وين اِلْحَمَّام؟",
   "masculineOnly": false
  },
  {
@@ -757,7 +757,7 @@
   ],
   "ar": "هُون",
   "translit": "hōn",
-  "voice": "هُون",
+  "voice": "هون",
   "masculineOnly": false
  },
  {
@@ -768,7 +768,7 @@
   ],
   "ar": "هْناك",
   "translit": "hnāk",
-  "voice": "هْناك",
+  "voice": "هْنَاك",
   "masculineOnly": false
  },
  {
@@ -778,7 +778,7 @@
   ],
   "ar": "مين",
   "translit": "mīn",
-  "voice": "مين",
+  "voice": "مِين",
   "masculineOnly": false
  },
  {
@@ -788,7 +788,7 @@
   ],
   "ar": "شو",
   "translit": "shū",
-  "voice": "شو",
+  "voice": "شُو",
   "masculineOnly": false
  },
  {
@@ -818,7 +818,7 @@
   ],
   "ar": "إمتى",
   "translit": "ēmta",
-  "voice": "إمتى",
+  "voice": "إمْتَى",
   "masculineOnly": false
  },
  {
@@ -838,7 +838,7 @@
   ],
   "ar": "كيف",
   "translit": "kīf",
-  "voice": "كيف",
+  "voice": "كِيف",
   "masculineOnly": false
  },
  {
@@ -848,7 +848,7 @@
   ],
   "ar": "قدّيش",
   "translit": "ʾaddēsh / qaddēsh",
-  "voice": "أدّيش، قدّيش",
+  "voice": "أَدّيش، قَدّيش",
   "masculineOnly": false
  },
  {
@@ -858,7 +858,7 @@
   ],
   "ar": "أيّ",
   "translit": "ayy",
-  "voice": "أيّ",
+  "voice": "أَيّ",
   "masculineOnly": false
  },
  {
@@ -868,7 +868,7 @@
   ],
   "ar": "أنا",
   "translit": "ana",
-  "voice": "أنا",
+  "voice": "أَنَا",
   "masculineOnly": false
  },
  {
@@ -878,7 +878,7 @@
   ],
   "ar": "إحْنا",
   "translit": "iḥna",
-  "voice": "إحْنا",
+  "voice": "إِحْنَا",
   "masculineOnly": false
  },
  {
@@ -888,7 +888,7 @@
   ],
   "ar": "إنْتَ",
   "translit": "inta",
-  "voice": "إنْتَ",
+  "voice": "إِنْتَ",
   "masculineOnly": false
  },
  {
@@ -898,7 +898,7 @@
   ],
   "ar": "إنْتي",
   "translit": "intī",
-  "voice": "إنْتي",
+  "voice": "إِنْتِي",
   "masculineOnly": false
  },
  {
@@ -908,7 +908,7 @@
   ],
   "ar": "إنْتو",
   "translit": "intu",
-  "voice": "إنْتو",
+  "voice": "إِنْتُو",
   "masculineOnly": false
  },
  {
@@ -918,7 +918,7 @@
   ],
   "ar": "هُوِّ",
   "translit": "huwwe",
-  "voice": "هُوِّ",
+  "voice": "هُوِّ",
   "masculineOnly": false
  },
  {
@@ -928,7 +928,7 @@
   ],
   "ar": "هِيِّ",
   "translit": "hiyye",
-  "voice": "هِيِّ",
+  "voice": "هِيِّ",
   "masculineOnly": false
  },
  {
@@ -938,7 +938,7 @@
   ],
   "ar": "هُمِّ",
   "translit": "humme",
-  "voice": "هُمِّ",
+  "voice": "هُمِّ",
   "masculineOnly": false
  },
  {
@@ -968,7 +968,7 @@
   ],
   "ar": "عَلِيّ",
   "translit": "ʿAlī",
-  "voice": "عَلِيّ",
+  "voice": "عَلِي",
   "masculineOnly": false
  },
  {
@@ -1008,7 +1008,7 @@
   ],
   "ar": "مُحَمَّد",
   "translit": "Muḥammad",
-  "voice": "مُحَمَّد",
+  "voice": "مُحَمَّد",
   "masculineOnly": false
  },
  {
@@ -1219,7 +1219,7 @@
   ],
   "ar": "طِفْل (ـة)",
   "translit": "ṭifil(e)",
-  "voice": "طِفْل",
+  "voice": "طِفِل",
   "masculineOnly": true
  },
  {
@@ -1251,7 +1251,7 @@
   ],
   "ar": "صاحِب (ـة)",
   "translit": "ṣāḥib(e)",
-  "voice": "صاحِب",
+  "voice": "صَاحِب",
   "masculineOnly": true
  },
  {
@@ -1261,7 +1261,7 @@
   ],
   "ar": "زَلَمة",
   "translit": "zalame",
-  "voice": "زَلَمة",
+  "voice": "زَلَمِة",
   "masculineOnly": false
  },
  {
@@ -1282,7 +1282,7 @@
   ],
   "ar": "جار",
   "translit": "jār",
-  "voice": "جار",
+  "voice": "جَار",
   "masculineOnly": false
  },
  {
@@ -1292,7 +1292,7 @@
   ],
   "ar": "ناس",
   "translit": "nās",
-  "voice": "ناس",
+  "voice": "نَاس",
   "masculineOnly": false
  },
  {
@@ -1323,7 +1323,7 @@
   ],
   "ar": "طالِب (ـة)",
   "translit": "ṭālib",
-  "voice": "طالِب",
+  "voice": "طَالِب",
   "masculineOnly": true
  },
  {
@@ -1333,7 +1333,7 @@
   ],
   "ar": "أُسْتاذ (ـة)",
   "translit": "ustāz(e)",
-  "voice": "أُسْتاز",
+  "voice": "أُسْتَاز",
   "masculineOnly": true
  },
  {
@@ -1354,7 +1354,7 @@
   ],
   "ar": "شَنطَة",
   "translit": "shanṭa",
-  "voice": "شَنطَة",
+  "voice": "شَنْطَة",
   "masculineOnly": false
  },
  {
@@ -1375,7 +1375,7 @@
   ],
   "ar": "كتاب",
   "translit": "ktāb",
-  "voice": "كتاب",
+  "voice": "كْتَاب",
   "masculineOnly": false
  },
  {
@@ -1385,7 +1385,7 @@
   ],
   "ar": "قَنّينِة",
   "translit": "ʾannīne",
-  "voice": "أَنّينِة",
+  "voice": "أَنِّينِة",
   "masculineOnly": false
  },
  {
@@ -1395,7 +1395,7 @@
   ],
   "ar": "سَيّارة",
   "translit": "sayyāra",
-  "voice": "سَيّارة",
+  "voice": "سَيَّارَة",
   "masculineOnly": false
  },
  {
@@ -1405,7 +1405,7 @@
   ],
   "ar": "بِسِّة",
   "translit": "bisse",
-  "voice": "بِسِّة",
+  "voice": "بِسِّة",
   "masculineOnly": false
  },
  {
@@ -1416,7 +1416,7 @@
   ],
   "ar": "جَوّال",
   "translit": "jawwāl",
-  "voice": "جَوّال",
+  "voice": "جَوَّال",
   "masculineOnly": false
  },
  {
@@ -1426,7 +1426,7 @@
   ],
   "ar": "مَدينة",
   "translit": "madīne",
-  "voice": "مَدينة",
+  "voice": "مَدِينِة",
   "masculineOnly": false
  },
  {
@@ -1436,7 +1436,7 @@
   ],
   "ar": "كاسِة",
   "translit": "kāse",
-  "voice": "كاسِة",
+  "voice": "كَاسِة",
   "masculineOnly": false
  },
  {
@@ -1448,7 +1448,7 @@
   ],
   "ar": "قَهْوة",
   "translit": "ʾahwe",
-  "voice": "أَهْوة",
+  "voice": "أَهْوِة",
   "masculineOnly": false
  },
  {
@@ -1480,7 +1480,7 @@
   ],
   "ar": "بَيت",
   "translit": "bēt",
-  "voice": "بَيت",
+  "voice": "بيت",
   "masculineOnly": false
  },
  {
@@ -1491,7 +1491,7 @@
   ],
   "ar": "مِفْتاح",
   "translit": "miftāḥ",
-  "voice": "مِفْتاح",
+  "voice": "مِفْتَاح",
   "masculineOnly": false
  },
  {
@@ -1502,7 +1502,7 @@
   ],
   "ar": "دَوا",
   "translit": "dawa",
-  "voice": "دَوا",
+  "voice": "دَوَا",
   "masculineOnly": false
  },
  {
@@ -1513,7 +1513,7 @@
   ],
   "ar": "مِراية",
   "translit": "mirāye",
-  "voice": "مِراية",
+  "voice": "مِرَايِة",
   "masculineOnly": false
  },
  {
@@ -1524,7 +1524,7 @@
   ],
   "ar": "مَصاري",
   "translit": "maṣāri",
-  "voice": "مَصاري",
+  "voice": "مَصَارِي",
   "masculineOnly": false
  },
  {
@@ -1545,7 +1545,7 @@
   ],
   "ar": "صورة",
   "translit": "ṣūra",
-  "voice": "صورة",
+  "voice": "صُورَة",
   "masculineOnly": false
  },
  {
@@ -1578,7 +1578,7 @@
   ],
   "ar": "مَدْرَسة",
   "translit": "madrase",
-  "voice": "مَدْرَسة",
+  "voice": "مَدْرَسِة",
   "masculineOnly": false
  },
  {
@@ -1588,7 +1588,7 @@
   ],
   "ar": "تلفزيون",
   "translit": "tilfizyōn",
-  "voice": "تلفزيون",
+  "voice": "تِلْفِزْيون",
   "masculineOnly": false
  },
  {
@@ -1598,7 +1598,7 @@
   ],
   "ar": "لُعْبة",
   "translit": "luʿbe",
-  "voice": "لُعْبة",
+  "voice": "لُعْبِة",
   "masculineOnly": false
  },
  {
@@ -1609,7 +1609,7 @@
   ],
   "ar": "شاي",
   "translit": "shāy",
-  "voice": "شاي",
+  "voice": "شَاي",
   "masculineOnly": false
  },
  {
@@ -1619,7 +1619,7 @@
   ],
   "ar": "سُؤال",
   "translit": "suʾāl",
-  "voice": "سُؤال",
+  "voice": "سُؤَال",
   "masculineOnly": false
  },
  {
@@ -1639,7 +1639,7 @@
   ],
   "ar": "مدرسة",
   "translit": "madrase",
-  "voice": "مدرسة",
+  "voice": "مَدْرَسِة",
   "masculineOnly": false
  },
  {
@@ -1649,7 +1649,7 @@
   ],
   "ar": "مطار",
   "translit": "matār",
-  "voice": "مطار",
+  "voice": "مَطَار",
   "masculineOnly": false
  },
  {
@@ -1659,7 +1659,7 @@
   ],
   "ar": "دفتر",
   "translit": "daftar",
-  "voice": "دفتر",
+  "voice": "دَفْتَر",
   "masculineOnly": false
  },
  {
@@ -1669,7 +1669,7 @@
   ],
   "ar": "مفتاح",
   "translit": "miftāḥ",
-  "voice": "مفتاح",
+  "voice": "مِفْتَاح",
   "masculineOnly": false
  },
  {
@@ -1679,7 +1679,7 @@
   ],
   "ar": "كْبير (ـة)",
   "translit": "kbīr(e)",
-  "voice": "كْبير",
+  "voice": "كْبِير",
   "masculineOnly": true
  },
  {
@@ -1699,7 +1699,7 @@
   ],
   "ar": "رْخيص (ـة)",
   "translit": "rkhīṣ(a)",
-  "voice": "رْخيص",
+  "voice": "رْخِيص",
   "masculineOnly": true
  },
  {
@@ -1709,7 +1709,7 @@
   ],
   "ar": "نْضيف (ـة)",
   "translit": "nḍīf(e)",
-  "voice": "نْضيف",
+  "voice": "نْضِيف",
   "masculineOnly": true
  },
  {
@@ -1719,7 +1719,7 @@
   ],
   "ar": "بارِد",
   "translit": "bārid",
-  "voice": "بارِد",
+  "voice": "بَارِد",
   "masculineOnly": false
  },
  {
@@ -1745,7 +1745,7 @@
   ],
   "ar": "غالي",
   "translit": "ghāli",
-  "voice": "غالي",
+  "voice": "غَالِي",
   "masculineOnly": false
  },
  {
@@ -1755,7 +1755,7 @@
   ],
   "ar": "مَشْهور (ـة)",
   "translit": "mashhūr(e)",
-  "voice": "مَشْهور",
+  "voice": "مَشْهُور",
   "masculineOnly": true
  },
  {
@@ -1765,7 +1765,7 @@
   ],
   "ar": "سَريع (ـة)",
   "translit": "sarīʿ(a)",
-  "voice": "سَريع",
+  "voice": "سَرِيع",
   "masculineOnly": true
  },
  {
@@ -1775,7 +1775,7 @@
   ],
   "ar": "طازَة",
   "translit": "ṭāza",
-  "voice": "طازَة",
+  "voice": "طَازَة",
   "masculineOnly": false
  },
  {
@@ -1785,7 +1785,7 @@
   ],
   "ar": "حامي",
   "translit": "ḥāmi",
-  "voice": "حامي",
+  "voice": "حَامِي",
   "masculineOnly": false
  },
  {
@@ -1795,7 +1795,7 @@
   ],
   "ar": "حِلو (ـة)",
   "translit": "ḥilu",
-  "voice": "حِلو",
+  "voice": "حِلُو",
   "masculineOnly": true
  },
  {
@@ -1805,7 +1805,7 @@
   ],
   "ar": "لَطيف (ـة)",
   "translit": "laṭīf(e)",
-  "voice": "لَطيف",
+  "voice": "لَطِيف",
   "masculineOnly": true
  },
  {
@@ -1815,7 +1815,7 @@
   ],
   "ar": "طَويل (ـة)",
   "translit": "ṭawīl(e)",
-  "voice": "طَويل",
+  "voice": "طَوِيل",
   "masculineOnly": true
  },
  {
@@ -1825,7 +1825,7 @@
   ],
   "ar": "لَئيم (ـة)",
   "translit": "laʾīm(e)",
-  "voice": "لَئيم",
+  "voice": "لَئِيم",
   "masculineOnly": true
  },
  {
@@ -1835,7 +1835,7 @@
   ],
   "ar": "جْديد (ـة)",
   "translit": "jdīd(e)",
-  "voice": "جْديد",
+  "voice": "جْدِيد",
   "masculineOnly": true
  },
  {
@@ -1845,7 +1845,7 @@
   ],
   "ar": "قَديم (ـة)",
   "translit": "ʾadīm(e)",
-  "voice": "أَديم",
+  "voice": "أَدِيم",
   "masculineOnly": true
  },
  {
@@ -1855,7 +1855,7 @@
   ],
   "ar": "قَصير (ـة)",
   "translit": "ʾaṣīr(e)",
-  "voice": "أَصير",
+  "voice": "أَصِير",
   "masculineOnly": true
  },
  {
@@ -1865,7 +1865,7 @@
   ],
   "ar": "بَطيء (ـة)",
   "translit": "baṭīʾ(a)",
-  "voice": "بَطيء",
+  "voice": "بَطِيء",
   "masculineOnly": true
  },
  {
@@ -1875,7 +1875,7 @@
   ],
   "ar": "صْغير (ـة)",
   "translit": "ẓghīr(e)",
-  "voice": "زْغير",
+  "voice": "زْغِير",
   "masculineOnly": true
  },
  {
@@ -1885,7 +1885,7 @@
   ],
   "ar": "مُناسِب (ـة)",
   "translit": "munāsib(e)",
-  "voice": "مُناسِب",
+  "voice": "مُنَاسِب",
   "masculineOnly": true
  },
  {
@@ -1895,7 +1895,7 @@
   ],
   "ar": "جَزائري",
   "translit": "jazāʾiri",
-  "voice": "جَزائري",
+  "voice": "جَزَائِرِي",
   "masculineOnly": false
  },
  {
@@ -1905,7 +1905,7 @@
   ],
   "ar": "أمريكي",
   "translit": "amrīki",
-  "voice": "أمريكي",
+  "voice": "أَمْرِيكِي",
   "masculineOnly": false
  },
  {
@@ -1915,7 +1915,7 @@
   ],
   "ar": "عَرَبي",
   "translit": "ʿarabi",
-  "voice": "عَرَبي",
+  "voice": "عَرَبِي",
   "masculineOnly": false
  },
  {
@@ -1925,7 +1925,7 @@
   ],
   "ar": "أسترالي",
   "translit": "ustrāli",
-  "voice": "أسترالي",
+  "voice": "أُسْتْرَالِي",
   "masculineOnly": false
  },
  {
@@ -1935,7 +1935,7 @@
   ],
   "ar": "برازيلي",
   "translit": "barāzīli",
-  "voice": "برازيلي",
+  "voice": "بَرَازِيلِي",
   "masculineOnly": false
  },
  {
@@ -1945,7 +1945,7 @@
   ],
   "ar": "بريطاني",
   "translit": "briṭāni",
-  "voice": "بريطاني",
+  "voice": "بْرِيطَانِي",
   "masculineOnly": false
  },
  {
@@ -1955,7 +1955,7 @@
   ],
   "ar": "كندي",
   "translit": "kanadi",
-  "voice": "كندي",
+  "voice": "كَنَدِي",
   "masculineOnly": false
  },
  {
@@ -1965,7 +1965,7 @@
   ],
   "ar": "صيني",
   "translit": "ṣīni",
-  "voice": "صيني",
+  "voice": "صِينِي",
   "masculineOnly": false
  },
  {
@@ -1975,7 +1975,7 @@
   ],
   "ar": "دنماركي",
   "translit": "dinmārki",
-  "voice": "دنماركي",
+  "voice": "دِنْمَارْكِي",
   "masculineOnly": false
  },
  {
@@ -1985,7 +1985,7 @@
   ],
   "ar": "مِصري",
   "translit": "miṣri",
-  "voice": "مِصري",
+  "voice": "مِصْرِي",
   "masculineOnly": false
  },
  {
@@ -1995,7 +1995,7 @@
   ],
   "ar": "إنْجليزي",
   "translit": "inglīzi",
-  "voice": "إنْجليزي",
+  "voice": "إِنْجْلِيزِي",
   "masculineOnly": false
  },
  {
@@ -2005,7 +2005,7 @@
   ],
   "ar": "إماراتي",
   "translit": "imārāti",
-  "voice": "إماراتي",
+  "voice": "إِمَارَاتِي",
   "masculineOnly": false
  },
  {
@@ -2015,7 +2015,7 @@
   ],
   "ar": "فَرَنْسي",
   "translit": "faransi",
-  "voice": "فَرَنْسي",
+  "voice": "فَرَنْسِي",
   "masculineOnly": false
  },
  {
@@ -2025,7 +2025,7 @@
   ],
   "ar": "ألماني",
   "translit": "almāni",
-  "voice": "ألماني",
+  "voice": "أَلْمَانِي",
   "masculineOnly": false
  },
  {
@@ -2035,7 +2035,7 @@
   ],
   "ar": "يوناني",
   "translit": "yūnāni",
-  "voice": "يوناني",
+  "voice": "يُونَانِي",
   "masculineOnly": false
  },
  {
@@ -2045,7 +2045,7 @@
   ],
   "ar": "هِنْدي",
   "translit": "hindi",
-  "voice": "هِنْدي",
+  "voice": "هِنْدِي",
   "masculineOnly": false
  },
  {
@@ -2055,7 +2055,7 @@
   ],
   "ar": "إندونيسي",
   "translit": "indūnīsi",
-  "voice": "إندونيسي",
+  "voice": "إِنْدُونِيسِي",
   "masculineOnly": false
  },
  {
@@ -2065,7 +2065,7 @@
   ],
   "ar": "إيراني",
   "translit": "īrāni",
-  "voice": "إيراني",
+  "voice": "إيرَانِي",
   "masculineOnly": false
  },
  {
@@ -2075,7 +2075,7 @@
   ],
   "ar": "عِراقي",
   "translit": "ʿirāqi",
-  "voice": "عِراقي",
+  "voice": "عِرَاقِي",
   "masculineOnly": false
  },
  {
@@ -2085,7 +2085,7 @@
   ],
   "ar": "إيرلندي",
   "translit": "īrlandi",
-  "voice": "إيرلندي",
+  "voice": "إيرْلَنْدِي",
   "masculineOnly": false
  },
  {
@@ -2095,7 +2095,7 @@
   ],
   "ar": "إيطالي",
   "translit": "iṭāli",
-  "voice": "إيطالي",
+  "voice": "إِيطَالِي",
   "masculineOnly": false
  },
  {
@@ -2105,7 +2105,7 @@
   ],
   "ar": "ياباني",
   "translit": "yābāni",
-  "voice": "ياباني",
+  "voice": "يَابَانِي",
   "masculineOnly": false
  },
  {
@@ -2115,7 +2115,7 @@
   ],
   "ar": "أُرْدُني",
   "translit": "urdunni",
-  "voice": "أُرْدُني",
+  "voice": "أُرْدُنِّي",
   "masculineOnly": false
  },
  {
@@ -2125,7 +2125,7 @@
   ],
   "ar": "كوري",
   "translit": "kūri",
-  "voice": "كوري",
+  "voice": "كُورِي",
   "masculineOnly": false
  },
  {
@@ -2135,7 +2135,7 @@
   ],
   "ar": "كويتي",
   "translit": "kuwēti",
-  "voice": "كويتي",
+  "voice": "كُويتِي",
   "masculineOnly": false
  },
  {
@@ -2145,7 +2145,7 @@
   ],
   "ar": "لُبْناني",
   "translit": "lubnāni",
-  "voice": "لُبْناني",
+  "voice": "لُبْنَانِي",
   "masculineOnly": false
  },
  {
@@ -2155,7 +2155,7 @@
   ],
   "ar": "مكسيكي",
   "translit": "maksīki",
-  "voice": "مكسيكي",
+  "voice": "مَكْسِيكِي",
   "masculineOnly": false
  },
  {
@@ -2165,7 +2165,7 @@
   ],
   "ar": "مغربي",
   "translit": "maghribi",
-  "voice": "مغربي",
+  "voice": "مَغْرِبِي",
   "masculineOnly": false
  },
  {
@@ -2175,7 +2175,7 @@
   ],
   "ar": "هولندي",
   "translit": "hōlandi",
-  "voice": "هولندي",
+  "voice": "هولَنْدِي",
   "masculineOnly": false
  },
  {
@@ -2185,7 +2185,7 @@
   ],
   "ar": "نرويجي",
   "translit": "nirwīji",
-  "voice": "نرويجي",
+  "voice": "نِرْوِيجِي",
   "masculineOnly": false
  },
  {
@@ -2195,7 +2195,7 @@
   ],
   "ar": "فلسطيني",
   "translit": "filasṭīni",
-  "voice": "فلسطيني",
+  "voice": "فِلَسْطِينِي",
   "masculineOnly": false
  },
  {
@@ -2205,7 +2205,7 @@
   ],
   "ar": "باكستاني",
   "translit": "bākistāni",
-  "voice": "باكستاني",
+  "voice": "بَاكِسْتَانِي",
   "masculineOnly": false
  },
  {
@@ -2215,7 +2215,7 @@
   ],
   "ar": "بولندي",
   "translit": "būlandi",
-  "voice": "بولندي",
+  "voice": "بُولَنْدِي",
   "masculineOnly": false
  },
  {
@@ -2225,7 +2225,7 @@
   ],
   "ar": "قَطَري",
   "translit": "qaṭari",
-  "voice": "قَطَري",
+  "voice": "قَطَرِي",
   "masculineOnly": false
  },
  {
@@ -2235,7 +2235,7 @@
   ],
   "ar": "روسي",
   "translit": "rūsi",
-  "voice": "روسي",
+  "voice": "رُوسِي",
   "masculineOnly": false
  },
  {
@@ -2245,7 +2245,7 @@
   ],
   "ar": "سعودي",
   "translit": "saʿūdi",
-  "voice": "سعودي",
+  "voice": "سَعُودِي",
   "masculineOnly": false
  },
  {
@@ -2255,7 +2255,7 @@
   ],
   "ar": "إسباني",
   "translit": "isbāni",
-  "voice": "إسباني",
+  "voice": "إِسْبَانِي",
   "masculineOnly": false
  },
  {
@@ -2265,7 +2265,7 @@
   ],
   "ar": "سوداني",
   "translit": "sūdāni",
-  "voice": "سوداني",
+  "voice": "سُودَانِي",
   "masculineOnly": false
  },
  {
@@ -2275,7 +2275,7 @@
   ],
   "ar": "سويدي",
   "translit": "swīdi",
-  "voice": "سويدي",
+  "voice": "سْوِيدِي",
   "masculineOnly": false
  },
  {
@@ -2285,7 +2285,7 @@
   ],
   "ar": "سوري",
   "translit": "sūri",
-  "voice": "سوري",
+  "voice": "سُورِي",
   "masculineOnly": false
  },
  {
@@ -2295,7 +2295,7 @@
   ],
   "ar": "تونسي",
   "translit": "tūnisi",
-  "voice": "تونسي",
+  "voice": "تُونِسِي",
   "masculineOnly": false
  },
  {
@@ -2305,7 +2305,7 @@
   ],
   "ar": "تُركي",
   "translit": "turki",
-  "voice": "تُركي",
+  "voice": "تُرْكِي",
   "masculineOnly": false
  },
  {
@@ -2315,7 +2315,7 @@
   ],
   "ar": "أوكراني",
   "translit": "ukrāni",
-  "voice": "أوكراني",
+  "voice": "أُوكْرَانِي",
   "masculineOnly": false
  },
  {
@@ -2325,7 +2325,7 @@
   ],
   "ar": "يَمَني",
   "translit": "yamani",
-  "voice": "يَمَني",
+  "voice": "يَمَنِي",
   "masculineOnly": false
  },
  {
@@ -2335,7 +2335,7 @@
   ],
   "ar": "شَقّة",
   "translit": "shaʾʾa",
-  "voice": "شَءّة",
+  "voice": "شَءَّة",
   "masculineOnly": false
  },
  {
@@ -2345,7 +2345,7 @@
   ],
   "ar": "عِمارة",
   "translit": "ʿimāra",
-  "voice": "عِمارة",
+  "voice": "عِمَارَة",
   "masculineOnly": false
  },
  {
@@ -2355,7 +2355,7 @@
   ],
   "ar": "أَصَنْصير",
   "translit": "aṣanṣīr",
-  "voice": "أَصَنْصير",
+  "voice": "أَصَنْصِير",
   "masculineOnly": false
  },
  {
@@ -2375,7 +2375,7 @@
   ],
   "ar": "طابِق",
   "translit": "ṭābiʾ",
-  "voice": "طابِء",
+  "voice": "طَابِء",
   "masculineOnly": false
  },
  {
@@ -2385,7 +2385,7 @@
   ],
   "ar": "كَراج",
   "translit": "karāj",
-  "voice": "كَراج",
+  "voice": "كَرَاج",
   "masculineOnly": false
  },
  {
@@ -2395,7 +2395,7 @@
   ],
   "ar": "جَنينة",
   "translit": "janīne",
-  "voice": "جَنينة",
+  "voice": "جَنِينِة",
   "masculineOnly": false
  },
  {
@@ -2405,7 +2405,7 @@
   ],
   "ar": "بَيْت",
   "translit": "bēt",
-  "voice": "بَيْت",
+  "voice": "بيت",
   "masculineOnly": false
  },
  {
@@ -2445,7 +2445,7 @@
   ],
   "ar": "حَمّام",
   "translit": "ḥammām",
-  "voice": "حَمّام",
+  "voice": "حَمَّام",
   "masculineOnly": false
  },
  {
@@ -2455,7 +2455,7 @@
   ],
   "ar": "غُرْفِة النَّوم",
   "translit": "ghurfet in-nōm",
-  "voice": "غُرْفِة النَّوم",
+  "voice": "غُرْفِة اِلنّوم",
   "masculineOnly": false
  },
  {
@@ -2466,7 +2466,7 @@
   ],
   "ar": "خِزانة",
   "translit": "khizāne",
-  "voice": "خِزانة",
+  "voice": "خِزَانِة",
   "masculineOnly": false
  },
  {
@@ -2476,7 +2476,7 @@
   ],
   "ar": "غُرْفِة السُّفْرة",
   "translit": "ghurfet is-sufra",
-  "voice": "غُرْفِة السُّفْرة",
+  "voice": "غُرْفِة اِلسُّفْرَة",
   "masculineOnly": false
  },
  {
@@ -2486,7 +2486,7 @@
   ],
   "ar": "غُرْفِة الضُّيوف",
   "translit": "ghurfet iḍ-ḍyūf",
-  "voice": "غُرْفِة الضُّيوف",
+  "voice": "غُرْفِة اِلضّيُوف",
   "masculineOnly": false
  },
  {
@@ -2506,7 +2506,7 @@
   ],
   "ar": "غُرْفِة الغَسيل",
   "translit": "ghurfet il-ghasīl",
-  "voice": "غُرْفِة الغَسيل",
+  "voice": "غُرْفِة اِلْغَسِيل",
   "masculineOnly": false
  },
  {
@@ -2516,7 +2516,7 @@
   ],
   "ar": "صالون",
   "translit": "ṣālōn",
-  "voice": "صالون",
+  "voice": "صَالون",
   "masculineOnly": false
  },
  {
@@ -2548,7 +2548,7 @@
   ],
   "ar": "غُرْفَة",
   "translit": "ghurfe",
-  "voice": "غُرْفَة",
+  "voice": "غُرْفِة",
   "masculineOnly": false
  },
  {
@@ -2568,7 +2568,7 @@
   ],
   "ar": "كُرْسي",
   "translit": "kursi",
-  "voice": "كُرْسي",
+  "voice": "كُرْسِي",
   "masculineOnly": false
  },
  {
@@ -2578,7 +2578,7 @@
   ],
   "ar": "طاوْلِة وَسَط",
   "translit": "ṭāwlet wsaṭ",
-  "voice": "طاوْلِة وَسَط",
+  "voice": "طَاوْلِة وْسَط",
   "masculineOnly": false
  },
  {
@@ -2588,7 +2588,7 @@
   ],
   "ar": "طاوْلِة سُفْرَة",
   "translit": "ṭāwlet sufra",
-  "voice": "طاوْلِة سُفْرَة",
+  "voice": "طَاوْلِة سُفْرَة",
   "masculineOnly": false
  },
  {
@@ -2598,7 +2598,7 @@
   ],
   "ar": "جَرّار",
   "translit": "jarrār",
-  "voice": "جَرّار",
+  "voice": "جَرَّار",
   "masculineOnly": false
  },
  {
@@ -2628,7 +2628,7 @@
   ],
   "ar": "كَنَبايِة",
   "translit": "kanabāye",
-  "voice": "كَنَبايِة",
+  "voice": "كَنَبَايِة",
   "masculineOnly": false
  },
  {
@@ -2638,7 +2638,7 @@
   ],
   "ar": "طاوْلِة",
   "translit": "ṭāwle",
-  "voice": "طاوْلِة",
+  "voice": "طَاوْلِة",
   "masculineOnly": false
  },
  {
@@ -2648,7 +2648,7 @@
   ],
   "ar": "حْرام",
   "translit": "ḥrām",
-  "voice": "حْرام",
+  "voice": "حْرَام",
   "masculineOnly": false
  },
  {
@@ -2658,7 +2658,7 @@
   ],
   "ar": "زاويِة",
   "translit": "zāwye",
-  "voice": "زاويِة",
+  "voice": "زَاوْيِة",
   "masculineOnly": false
  },
  {
@@ -2668,7 +2668,7 @@
   ],
   "ar": "باب",
   "translit": "bāb",
-  "voice": "باب",
+  "voice": "بَاب",
   "masculineOnly": false
  },
  {
@@ -2678,7 +2678,7 @@
   ],
   "ar": "سور",
   "translit": "sūr",
-  "voice": "سور",
+  "voice": "سُور",
   "masculineOnly": false
  },
  {
@@ -2708,7 +2708,7 @@
   ],
   "ar": "مْخَدِّة",
   "translit": "mkhadde",
-  "voice": "مْخَدِّة",
+  "voice": "مْخَدِّة",
   "masculineOnly": false
  },
  {
@@ -2728,7 +2728,7 @@
   ],
   "ar": "بَرّاد",
   "translit": "barrād",
-  "voice": "بَرّاد",
+  "voice": "بَرَّاد",
   "masculineOnly": false
  },
  {
@@ -2738,7 +2738,7 @@
   ],
   "ar": "سَجّادِة",
   "translit": "sajjāde",
-  "voice": "سَجّادِة",
+  "voice": "سَجَّادِة",
   "masculineOnly": false
  },
  {
@@ -2768,7 +2768,7 @@
   ],
   "ar": "صابون",
   "translit": "ṣābūn",
-  "voice": "صابون",
+  "voice": "صَابُون",
   "masculineOnly": false
  },
  {
@@ -2778,7 +2778,7 @@
   ],
   "ar": "حَدا",
   "translit": "ḥada",
-  "voice": "حَدا",
+  "voice": "حَدَا",
   "masculineOnly": false
  },
  {
@@ -2818,7 +2818,7 @@
   ],
   "ar": "بَشْكير",
   "translit": "bashkīr",
-  "voice": "بَشْكير",
+  "voice": "بَشْكِير",
   "masculineOnly": false
  },
  {
@@ -2828,7 +2828,7 @@
   ],
   "ar": "إِطْلالِة",
   "translit": "iṭlāle",
-  "voice": "إِطْلالِة",
+  "voice": "إِطْلَالِة",
   "masculineOnly": false
  },
  {
@@ -2838,7 +2838,7 @@
   ],
   "ar": "حَيْط",
   "translit": "ḥēṭ",
-  "voice": "حَيْط",
+  "voice": "حيط",
   "masculineOnly": false
  },
  {
@@ -2848,7 +2848,7 @@
   ],
   "ar": "غَسّالة",
   "translit": "ghassāle",
-  "voice": "غَسّالة",
+  "voice": "غَسَّالِة",
   "masculineOnly": false
  },
  {
@@ -2858,7 +2858,7 @@
   ],
   "ar": "شُبّاك",
   "translit": "shubbāk",
-  "voice": "شُبّاك",
+  "voice": "شُبَّاك",
   "masculineOnly": false
  },
  {
@@ -2870,7 +2870,7 @@
   ],
   "ar": "كْبير",
   "translit": "kbīr",
-  "voice": "كْبير",
+  "voice": "كْبِير",
   "masculineOnly": false
  },
  {
@@ -2880,7 +2880,7 @@
   ],
   "ar": "مَضْوي",
   "translit": "maḍwi",
-  "voice": "مَضْوي",
+  "voice": "مَضْوِي",
   "masculineOnly": false
  },
  {
@@ -2892,7 +2892,7 @@
   ],
   "ar": "نْضيف",
   "translit": "nḍīf",
-  "voice": "نْضيف",
+  "voice": "نْضِيف",
   "masculineOnly": false
  },
  {
@@ -2903,7 +2903,7 @@
   ],
   "ar": "مْسَكَّر",
   "translit": "msakkar",
-  "voice": "مْسَكَّر",
+  "voice": "مْسَكَّر",
   "masculineOnly": false
  },
  {
@@ -2913,7 +2913,7 @@
   ],
   "ar": "مُريح",
   "translit": "murīḥ",
-  "voice": "مُريح",
+  "voice": "مُرِيح",
   "masculineOnly": false
  },
  {
@@ -2923,7 +2923,7 @@
   ],
   "ar": "مْعَتِّم",
   "translit": "mʿattim",
-  "voice": "مْعَتِّم",
+  "voice": "مْعَتِّم",
   "masculineOnly": false
  },
  {
@@ -2934,7 +2934,7 @@
   ],
   "ar": "فاضي",
   "translit": "fāḍi",
-  "voice": "فاضي",
+  "voice": "فَاضِي",
   "masculineOnly": false
  },
  {
@@ -2944,7 +2944,7 @@
   ],
   "ar": "مَفْروش",
   "translit": "mafrūsh",
-  "voice": "مَفْروش",
+  "voice": "مَفْرُوش",
   "masculineOnly": false
  },
  {
@@ -2954,7 +2954,7 @@
   ],
   "ar": "مَقْفول",
   "translit": "maʾfūl",
-  "voice": "مَءْفول",
+  "voice": "مَءْفُول",
   "masculineOnly": false
  },
  {
@@ -2974,7 +2974,7 @@
   ],
   "ar": "ضَيِّق",
   "translit": "ḍayyiʾ",
-  "voice": "ضَيِّء",
+  "voice": "ضَيِّء",
   "masculineOnly": false
  },
  {
@@ -2984,7 +2984,7 @@
   ],
   "ar": "مْرَتَّب",
   "translit": "mrattab",
-  "voice": "مْرَتَّب",
+  "voice": "مْرَتَّب",
   "masculineOnly": false
  },
  {
@@ -2996,7 +2996,7 @@
   ],
   "ar": "جْديد",
   "translit": "jdīd",
-  "voice": "جْديد",
+  "voice": "جْدِيد",
   "masculineOnly": false
  },
  {
@@ -3008,7 +3008,7 @@
   ],
   "ar": "قَديم",
   "translit": "ʾadīm",
-  "voice": "أَديم",
+  "voice": "أَدِيم",
   "masculineOnly": false
  },
  {
@@ -3019,7 +3019,7 @@
   ],
   "ar": "مَفْتوح",
   "translit": "maftūḥ",
-  "voice": "مَفْتوح",
+  "voice": "مَفْتُوح",
   "masculineOnly": false
  },
  {
@@ -3031,7 +3031,7 @@
   ],
   "ar": "صْغير",
   "translit": "ẓghīr",
-  "voice": "زْغير",
+  "voice": "زْغِير",
   "masculineOnly": false
  },
  {
@@ -3041,7 +3041,7 @@
   ],
   "ar": "واسِع",
   "translit": "wāsiʿ",
-  "voice": "واسِع",
+  "voice": "وَاسِع",
   "masculineOnly": false
  },
  {
@@ -3051,7 +3051,7 @@
   ],
   "ar": "شيك",
   "translit": "shīk",
-  "voice": "شيك",
+  "voice": "شِيك",
   "masculineOnly": false
  },
  {
@@ -3061,7 +3061,7 @@
   ],
   "ar": "مِش مُريح",
   "translit": "mish murīḥ",
-  "voice": "مِش مُريح",
+  "voice": "مِش مُرِيح",
   "masculineOnly": false
  },
  {
@@ -3071,7 +3071,7 @@
   ],
   "ar": "خَرْبان",
   "translit": "kharbān",
-  "voice": "خَرْبان",
+  "voice": "خَرْبَان",
   "masculineOnly": false
  },
  {
@@ -3081,7 +3081,7 @@
   ],
   "ar": "عَطْلان",
   "translit": "ʿaṭlān",
-  "voice": "عَطْلان",
+  "voice": "عَطْلَان",
   "masculineOnly": false
  },
  {
@@ -3091,7 +3091,7 @@
   ],
   "ar": "مْبَلَّل",
   "translit": "mballal",
-  "voice": "مْبَلَّل",
+  "voice": "مْبَلَّل",
   "masculineOnly": false
  },
  {
@@ -3101,7 +3101,7 @@
   ],
   "ar": "ناشِف",
   "translit": "nāshif",
-  "voice": "ناشِف",
+  "voice": "نَاشِف",
   "masculineOnly": false
  },
  {
@@ -3111,7 +3111,7 @@
   ],
   "ar": "نازِل",
   "translit": "nāzil",
-  "voice": "نازِل",
+  "voice": "نَازِل",
   "masculineOnly": false
  },
  {
@@ -3121,7 +3121,7 @@
   ],
   "ar": "عالي",
   "translit": "ʿāli",
-  "voice": "عالي",
+  "voice": "عَالِي",
   "masculineOnly": false
  },
  {
@@ -3131,7 +3131,7 @@
   ],
   "ar": "واطي",
   "translit": "wāṭi",
-  "voice": "واطي",
+  "voice": "وَاطِي",
   "masculineOnly": false
  },
  {
@@ -3141,7 +3141,7 @@
   ],
   "ar": "لامِع",
   "translit": "lāmiʿ",
-  "voice": "لامِع",
+  "voice": "لَامِع",
   "masculineOnly": false
  },
  {
@@ -3161,7 +3161,7 @@
   ],
   "ar": "ناعِم",
   "translit": "nāʿim",
-  "voice": "ناعِم",
+  "voice": "نَاعِم",
   "masculineOnly": false
  },
  {
@@ -3171,7 +3171,7 @@
   ],
   "ar": "مَتين",
   "translit": "matīn",
-  "voice": "مَتين",
+  "voice": "مَتِين",
   "masculineOnly": false
  },
  {
@@ -3181,7 +3181,7 @@
   ],
   "ar": "مَطْفي",
   "translit": "maṭfi",
-  "voice": "مَطْفي",
+  "voice": "مَطْفِي",
   "masculineOnly": false
  },
  {
@@ -3191,7 +3191,7 @@
   ],
   "ar": "ضَعيف",
   "translit": "ḍaʿīf",
-  "voice": "ضَعيف",
+  "voice": "ضَعِيف",
   "masculineOnly": false
  },
  {
@@ -3201,7 +3201,7 @@
   ],
   "ar": "شَغّال",
   "translit": "shaghghāl",
-  "voice": "شَغّال",
+  "voice": "شَغَّال",
   "masculineOnly": false
  },
  {
@@ -3211,7 +3211,7 @@
   ],
   "ar": "عَنْ",
   "translit": "ʿan",
-  "voice": "عَنْ",
+  "voice": "عَن",
   "masculineOnly": false
  },
  {
@@ -3221,7 +3221,7 @@
   ],
   "ar": "لَحالُه",
   "translit": "laḥālo",
-  "voice": "لَحالُه",
+  "voice": "لَحَالُه",
   "masculineOnly": false
  },
  {
@@ -3231,7 +3231,7 @@
   ],
   "ar": "حَتّى",
   "translit": "ḥatta",
-  "voice": "حَتّى",
+  "voice": "حَتَّى",
   "masculineOnly": false
  },
  {
@@ -3241,7 +3241,7 @@
   ],
   "ar": "حَتّى لَو",
   "translit": "ḥatta law",
-  "voice": "حَتّى لَو",
+  "voice": "حَتَّى لَو",
   "masculineOnly": false
  },
  {
@@ -3261,7 +3261,7 @@
   ],
   "ar": "بِـ",
   "translit": "bi-",
-  "voice": "بِـ",
+  "voice": "بِ",
   "masculineOnly": false
  },
  {
@@ -3291,7 +3291,7 @@
   ],
   "ar": "لِـ",
   "translit": "la",
-  "voice": "لِـ",
+  "voice": "لَ",
   "masculineOnly": false
  },
  {
@@ -3301,7 +3301,7 @@
   ],
   "ar": "بِاتِّجاه",
   "translit": "bittijāh",
-  "voice": "بِاتِّجاه",
+  "voice": "بِاتِّجَاه",
   "masculineOnly": false
  },
  {
@@ -3331,7 +3331,7 @@
   ],
   "ar": "بَلا",
   "translit": "balā",
-  "voice": "بَلا",
+  "voice": "بَلَا",
   "masculineOnly": false
  },
  {
@@ -3341,7 +3341,7 @@
   ],
   "ar": "فَوْق",
   "translit": "fōʾ",
-  "voice": "فَوْء",
+  "voice": "فوء",
   "masculineOnly": false
  },
  {
@@ -3351,7 +3351,7 @@
   ],
   "ar": "قْبال",
   "translit": "ʾbāl",
-  "voice": "أْبال",
+  "voice": "أْبَال",
   "masculineOnly": false
  },
  {
@@ -3371,7 +3371,7 @@
   ],
   "ar": "حَوالين",
   "translit": "ḥawālēn",
-  "voice": "حَوالين",
+  "voice": "حَوَالين",
   "masculineOnly": false
  },
  {
@@ -3401,7 +3401,7 @@
   ],
   "ar": "وَرا",
   "translit": "wara",
-  "voice": "وَرا",
+  "voice": "وَرَا",
   "masculineOnly": false
  },
  {
@@ -3421,7 +3421,7 @@
   ],
   "ar": "بَيْن",
   "translit": "bēn",
-  "voice": "بَيْن",
+  "voice": "بين",
   "masculineOnly": false
  },
  {
@@ -3431,7 +3431,7 @@
   ],
   "ar": "قَريب مِن",
   "translit": "ʾarīb min",
-  "voice": "أَريب مِن",
+  "voice": "أَرِيب مِن",
   "masculineOnly": false
  },
  {
@@ -3441,7 +3441,7 @@
   ],
   "ar": "بْعيد عَنْ",
   "translit": "bʿīd ʿan",
-  "voice": "بْعيد عَنْ",
+  "voice": "بْعِيد عَن",
   "masculineOnly": false
  },
  {
@@ -3461,7 +3461,7 @@
   ],
   "ar": "قُدّام",
   "translit": "ʾuddām",
-  "voice": "أُدّام",
+  "voice": "أُدَّام",
   "masculineOnly": false
  },
  {
@@ -3471,7 +3471,7 @@
   ],
   "ar": "بِالزاوية",
   "translit": "biz-zāwye",
-  "voice": "بِالزاوية",
+  "voice": "بِالزَّاوْيِة",
   "masculineOnly": false
  },
  {
@@ -3481,7 +3481,7 @@
   ],
   "ar": "بِنُصّ",
   "translit": "b-nuṣṣ",
-  "voice": "بِنُصّ",
+  "voice": "بْنُصّ",
   "masculineOnly": false
  },
  {
@@ -3491,7 +3491,7 @@
   ],
   "ar": "جُوّا",
   "translit": "juwwa",
-  "voice": "جُوّا",
+  "voice": "جُوَّا",
   "masculineOnly": false
  },
  {
@@ -3501,7 +3501,7 @@
   ],
   "ar": "شَمال",
   "translit": "shimāl",
-  "voice": "شَمال",
+  "voice": "شِمَال",
   "masculineOnly": false
  },
  {
@@ -3521,7 +3521,7 @@
   ],
   "ar": "بَرّا",
   "translit": "barra",
-  "voice": "بَرّا",
+  "voice": "بَرَّا",
   "masculineOnly": false
  },
  {
@@ -3531,7 +3531,7 @@
   ],
   "ar": "يَمين",
   "translit": "yamīn",
-  "voice": "يَمين",
+  "voice": "يَمِين",
   "masculineOnly": false
  },
  {
@@ -3541,7 +3541,7 @@
   ],
   "ar": "دُغري",
   "translit": "dughri",
-  "voice": "دُغري",
+  "voice": "دُغْرِي",
   "masculineOnly": false
  },
  {
@@ -3551,7 +3551,7 @@
   ],
   "ar": "عَلى طول",
   "translit": "ʿala ṭūl",
-  "voice": "عَلى طول",
+  "voice": "عَلَى طُول",
   "masculineOnly": false
  },
  {
@@ -3561,7 +3561,7 @@
   ],
   "ar": "امْبارِح",
   "translit": "mbāriḥ",
-  "voice": "امْبارِح",
+  "voice": "امْبَارِح",
   "masculineOnly": false
  },
  {
@@ -3581,7 +3581,7 @@
   ],
   "ar": "مِن فَتْرِة",
   "translit": "min fatra",
-  "voice": "مِن فَتْرِة",
+  "voice": "مِن فَتْرَة",
   "masculineOnly": false
  },
  {
@@ -3591,7 +3591,7 @@
   ],
   "ar": "بِالماضي",
   "translit": "bil-māḍi",
-  "voice": "بِالماضي",
+  "voice": "بِالْمَاضِي",
   "masculineOnly": false
  },
  {
@@ -3601,7 +3601,7 @@
   ],
   "ar": "اليَوْم",
   "translit": "il-yōm",
-  "voice": "اليَوْم",
+  "voice": "اِلْيوم",
   "masculineOnly": false
  },
  {
@@ -3611,7 +3611,7 @@
   ],
   "ar": "هَلَّأ",
   "translit": "hallaʾ",
-  "voice": "هَلَّأ",
+  "voice": "هَلَّأ",
   "masculineOnly": false
  },
  {
@@ -3621,7 +3621,7 @@
   ],
   "ar": "بُكْرا",
   "translit": "bukra",
-  "voice": "بُكْرا",
+  "voice": "بُكْرَا",
   "masculineOnly": false
  },
  {
@@ -3641,7 +3641,7 @@
   ],
   "ar": "بَعْد شْوَيِّة",
   "translit": "baʿd shwayye",
-  "voice": "بَعْد شْوَيِّة",
+  "voice": "بَعْد شْوَيِّة",
   "masculineOnly": false
  },
  {
@@ -3651,7 +3651,7 @@
   ],
   "ar": "بِالمُسْتَقْبَل",
   "translit": "bil-mustaʾbal",
-  "voice": "بِالمُسْتَءْبَل",
+  "voice": "بِالْمُسْتَءْبَل",
   "masculineOnly": false
  },
  {
@@ -3661,7 +3661,7 @@
   ],
   "ar": "مَطار",
   "translit": "maṭār",
-  "voice": "مَطار",
+  "voice": "مَطَار",
   "masculineOnly": false
  },
  {
@@ -3671,7 +3671,7 @@
   ],
   "ar": "صَرّاف آلي",
   "translit": "ṣarrāf āli",
-  "voice": "صَرّاف آلي",
+  "voice": "صَرَّاف آلِي",
   "masculineOnly": false
  },
  {
@@ -3701,7 +3701,7 @@
   ],
   "ar": "مَحَطّة باصات",
   "translit": "maḥaṭṭet bāṣāt",
-  "voice": "مَحَطّة باصات",
+  "voice": "مَحَطِّة بَاصَات",
   "masculineOnly": false
  },
  {
@@ -3711,7 +3711,7 @@
   ],
   "ar": "كافيه",
   "translit": "kāfēh",
-  "voice": "كافيه",
+  "voice": "كَافيه",
   "masculineOnly": false
  },
  {
@@ -3721,7 +3721,7 @@
   ],
   "ar": "كَنيسة",
   "translit": "kanīse",
-  "voice": "كَنيسة",
+  "voice": "كَنِيسِة",
   "masculineOnly": false
  },
  {
@@ -3731,7 +3731,7 @@
   ],
   "ar": "عِيادة",
   "translit": "ʿiyāde",
-  "voice": "عِيادة",
+  "voice": "عِيَادِة",
   "masculineOnly": false
  },
  {
@@ -3741,7 +3741,7 @@
   ],
   "ar": "كازِيّة",
   "translit": "kāziyye",
-  "voice": "كازِيّة",
+  "voice": "كَازِيِّة",
   "masculineOnly": false
  },
  {
@@ -3751,7 +3751,7 @@
   ],
   "ar": "دُكّانة",
   "translit": "dukkāne",
-  "voice": "دُكّانة",
+  "voice": "دُكَّانِة",
   "masculineOnly": false
  },
  {
@@ -3761,7 +3761,7 @@
   ],
   "ar": "جيم",
   "translit": "jīm",
-  "voice": "جيم",
+  "voice": "جِيم",
   "masculineOnly": false
  },
  {
@@ -3771,7 +3771,7 @@
   ],
   "ar": "مُسْتَشْفى",
   "translit": "mustashfa",
-  "voice": "مُسْتَشْفى",
+  "voice": "مُسْتَشْفَى",
   "masculineOnly": false
  },
  {
@@ -3791,7 +3791,7 @@
   ],
   "ar": "مَكْتَبة",
   "translit": "maktabe",
-  "voice": "مَكْتَبة",
+  "voice": "مَكْتَبِة",
   "masculineOnly": false
  },
  {
@@ -3811,7 +3811,7 @@
   ],
   "ar": "سوق",
   "translit": "sūʾ",
-  "voice": "سوء",
+  "voice": "سُوء",
   "masculineOnly": false
  },
  {
@@ -3831,7 +3831,7 @@
   ],
   "ar": "سينَما",
   "translit": "sīnama",
-  "voice": "سينَما",
+  "voice": "سِينَمَا",
   "masculineOnly": false
  },
  {
@@ -3851,7 +3851,7 @@
   ],
   "ar": "حَديقة",
   "translit": "ḥadīʾa",
-  "voice": "حَديءة",
+  "voice": "حَدِيءَة",
   "masculineOnly": false
  },
  {
@@ -3861,7 +3861,7 @@
   ],
   "ar": "صَيْدَلِيّة",
   "translit": "ṣaydaliyye",
-  "voice": "صَيْدَلِيّة",
+  "voice": "صَيْدَلِيِّة",
   "masculineOnly": false
  },
  {
@@ -3871,7 +3871,7 @@
   ],
   "ar": "مَحَلّ تِلِفونات",
   "translit": "maḥall tilifōnāt",
-  "voice": "مَحَلّ تِلِفونات",
+  "voice": "مَحَلّ تِلِفونَات",
   "masculineOnly": false
  },
  {
@@ -3881,7 +3881,7 @@
   ],
   "ar": "مَرْكَز شُرْطة",
   "translit": "markaz shurṭa",
-  "voice": "مَرْكَز شُرْطة",
+  "voice": "مَرْكَز شُرْطَة",
   "masculineOnly": false
  },
  {
@@ -3891,7 +3891,7 @@
   ],
   "ar": "مَكْتَب بَريد",
   "translit": "maktab barīd",
-  "voice": "مَكْتَب بَريد",
+  "voice": "مَكْتَب بَرِيد",
   "masculineOnly": false
  },
  {
@@ -3901,7 +3901,7 @@
   ],
   "ar": "مَحَلّ كَنادِر",
   "translit": "maḥall kanādir",
-  "voice": "مَحَلّ كَنادِر",
+  "voice": "مَحَلّ كَنَادِر",
   "masculineOnly": false
  },
  {
@@ -3911,7 +3911,7 @@
   ],
   "ar": "سوبرماركت",
   "translit": "sūbarmārkit",
-  "voice": "سوبرماركت",
+  "voice": "سُوبَرْمَارْكِت",
   "masculineOnly": false
  },
  {
@@ -3921,7 +3921,7 @@
   ],
   "ar": "جامِعة",
   "translit": "jāmʿa",
-  "voice": "جامِعة",
+  "voice": "جَامْعَة",
   "masculineOnly": false
  },
  {
@@ -3942,7 +3942,7 @@
   ],
   "ar": "شَنْطة",
   "translit": "shanṭa",
-  "voice": "شَنْطة",
+  "voice": "شَنْطَة",
   "masculineOnly": false
  },
  {
@@ -3952,7 +3952,7 @@
   ],
   "ar": "طابة",
   "translit": "ṭābe",
-  "voice": "طابة",
+  "voice": "طَابِة",
   "masculineOnly": false
  },
  {
@@ -3962,7 +3962,7 @@
   ],
   "ar": "كْتاب",
   "translit": "ktāb",
-  "voice": "كْتاب",
+  "voice": "كْتَاب",
   "masculineOnly": false
  },
  {
@@ -3972,7 +3972,7 @@
   ],
   "ar": "قَنّينة",
   "translit": "ʾannīne",
-  "voice": "أَنّينة",
+  "voice": "أَنِّينِة",
   "masculineOnly": false
  },
  {
@@ -3982,7 +3982,7 @@
   ],
   "ar": "باص",
   "translit": "bāṣ",
-  "voice": "باص",
+  "voice": "بَاص",
   "masculineOnly": false
  },
  {
@@ -3992,7 +3992,7 @@
   ],
   "ar": "بِطاقة",
   "translit": "biṭāʾa",
-  "voice": "بِطاءة",
+  "voice": "بِطَاءَة",
   "masculineOnly": false
  },
  {
@@ -4002,7 +4002,7 @@
   ],
   "ar": "أَواعي",
   "translit": "awāʿi",
-  "voice": "أَواعي",
+  "voice": "أَوَاعِي",
   "masculineOnly": false
  },
  {
@@ -4012,7 +4012,7 @@
   ],
   "ar": "كَمْبيوتر",
   "translit": "kambyūtar",
-  "voice": "كَمْبيوتر",
+  "voice": "كَمْبْيُوتَر",
   "masculineOnly": false
  },
  {
@@ -4032,7 +4032,7 @@
   ],
   "ar": "بَنْزين",
   "translit": "banzīn",
-  "voice": "بَنْزين",
+  "voice": "بَنْزِين",
   "masculineOnly": false
  },
  {
@@ -4042,7 +4042,7 @@
   ],
   "ar": "أَغْراض",
   "translit": "aghrāḍ",
-  "voice": "أَغْراض",
+  "voice": "أَغْرَاض",
   "masculineOnly": false
  },
  {
@@ -4052,7 +4052,7 @@
   ],
   "ar": "بِطاقة هُوِيّة",
   "translit": "biṭāʾet huwiyye",
-  "voice": "بِطاءة هُوِيّة",
+  "voice": "بِطَاءِة هُوِيِّة",
   "masculineOnly": false
  },
  {
@@ -4062,7 +4062,7 @@
   ],
   "ar": "رِسالة",
   "translit": "risāle",
-  "voice": "رِسالة",
+  "voice": "رِسَالِة",
   "masculineOnly": false
  },
  {
@@ -4072,7 +4072,7 @@
   ],
   "ar": "حَليب",
   "translit": "ḥalīb",
-  "voice": "حَليب",
+  "voice": "حَلِيب",
   "masculineOnly": false
  },
  {
@@ -4092,7 +4092,7 @@
   ],
   "ar": "رَغيف خُبْز",
   "translit": "raghīf khubz",
-  "voice": "رَغيف خُبْز",
+  "voice": "رَغِيف خُبْز",
   "masculineOnly": false
  },
  {
@@ -4102,7 +4102,7 @@
   ],
   "ar": "اِشْتِراك",
   "translit": "ishtirāk",
-  "voice": "اِشْتِراك",
+  "voice": "اِشْتِرَاك",
   "masculineOnly": false
  },
  {
@@ -4142,7 +4142,7 @@
   ],
   "ar": "شُرْطي",
   "translit": "shurṭi",
-  "voice": "شُرْطي",
+  "voice": "شُرْطِي",
   "masculineOnly": false
  },
  {
@@ -4152,7 +4152,7 @@
   ],
   "ar": "غُرْفة",
   "translit": "ghurfe",
-  "voice": "غُرْفة",
+  "voice": "غُرْفِة",
   "masculineOnly": false
  },
  {
@@ -4162,7 +4162,7 @@
   ],
   "ar": "كُنْدَرة",
   "translit": "kundara",
-  "voice": "كُنْدَرة",
+  "voice": "كُنْدَرَة",
   "masculineOnly": false
  },
  {
@@ -4172,7 +4172,7 @@
   ],
   "ar": "تَذْكَرة",
   "translit": "tazkara",
-  "voice": "تَزْكَرة",
+  "voice": "تَزْكَرَة",
   "masculineOnly": false
  },
  {
@@ -4182,7 +4182,7 @@
   ],
   "ar": "عِدّة",
   "translit": "ʿidde",
-  "voice": "عِدّة",
+  "voice": "عِدِّة",
   "masculineOnly": false
  },
  {
@@ -4192,7 +4192,7 @@
   ],
   "ar": "خُضْرة",
   "translit": "khuḍra",
-  "voice": "خُضْرة",
+  "voice": "خُضْرَة",
   "masculineOnly": false
  },
  {
@@ -4213,7 +4213,7 @@
   ],
   "ar": "قَنّينة مَيّ",
   "translit": "ʾannīnet mayy",
-  "voice": "أَنّينة مَيّ",
+  "voice": "أَنِّينِة مَيّ",
   "masculineOnly": false
  },
  {
@@ -4233,7 +4233,7 @@
   ],
   "ar": "فيه زَحْمة",
   "translit": "fīh zaḥme",
-  "voice": "فيه زَحْمة",
+  "voice": "فِيه زَحْمِة",
   "masculineOnly": false
  },
  {
@@ -4244,7 +4244,7 @@
   ],
   "ar": "رْخيص",
   "translit": "rkhīṣ",
-  "voice": "رْخيص",
+  "voice": "رْخِيص",
   "masculineOnly": false
  },
  {
@@ -4255,7 +4255,7 @@
   ],
   "ar": "قَريب",
   "translit": "ʾarīb",
-  "voice": "أَريب",
+  "voice": "أَرِيب",
   "masculineOnly": false
  },
  {
@@ -4265,7 +4265,7 @@
   ],
   "ar": "مَشْهور",
   "translit": "mashhūr",
-  "voice": "مَشْهور",
+  "voice": "مَشْهُور",
   "masculineOnly": false
  },
  {
@@ -4275,7 +4275,7 @@
   ],
   "ar": "بْعيد",
   "translit": "bʿīd",
-  "voice": "بْعيد",
+  "voice": "بْعِيد",
   "masculineOnly": false
  },
  {
@@ -4285,7 +4285,7 @@
   ],
   "ar": "هادي",
   "translit": "hādi",
-  "voice": "هادي",
+  "voice": "هَادِي",
   "masculineOnly": false
  },
  {
@@ -4295,7 +4295,7 @@
   ],
   "ar": "مَوْجود",
   "translit": "mawjūd",
-  "voice": "مَوْجود",
+  "voice": "مَوْجُود",
   "masculineOnly": false
  },
  {
@@ -4305,7 +4305,7 @@
   ],
   "ar": "مَكْسور",
   "translit": "maksūr",
-  "voice": "مَكْسور",
+  "voice": "مَكْسُور",
   "masculineOnly": false
  },
  {
@@ -4315,7 +4315,7 @@
   ],
   "ar": "مَشْحون",
   "translit": "mashḥūn",
-  "voice": "مَشْحون",
+  "voice": "مَشْحُون",
   "masculineOnly": false
  },
  {
@@ -4325,7 +4325,7 @@
   ],
   "ar": "مَلْيان",
   "translit": "malyān",
-  "voice": "مَلْيان",
+  "voice": "مَلْيَان",
   "masculineOnly": false
  },
  {
@@ -4335,7 +4335,7 @@
   ],
   "ar": "تْقيل",
   "translit": "tʾīl",
-  "voice": "تْءيل",
+  "voice": "تْءِيل",
   "masculineOnly": false
  },
  {
@@ -4356,7 +4356,7 @@
   ],
   "ar": "خَفيف",
   "translit": "khafīf",
-  "voice": "خَفيف",
+  "voice": "خَفِيف",
   "masculineOnly": false
  },
  {
@@ -4366,7 +4366,7 @@
   ],
   "ar": "ضايِع",
   "translit": "ḍāyiʿ",
-  "voice": "ضايِع",
+  "voice": "ضَايِع",
   "masculineOnly": false
  },
  {
@@ -4376,7 +4376,7 @@
   ],
   "ar": "ضَروري",
   "translit": "ḍarūri",
-  "voice": "ضَروري",
+  "voice": "ضَرُورِي",
   "masculineOnly": false
  },
  {
@@ -4386,7 +4386,7 @@
   ],
   "ar": "عِيلة",
   "translit": "ʿēle",
-  "voice": "عِيلة",
+  "voice": "عيلِة",
   "masculineOnly": false
  },
  {
@@ -4406,7 +4406,7 @@
   ],
   "ar": "زَوْج",
   "translit": "zōj",
-  "voice": "زَوْج",
+  "voice": "زوج",
   "masculineOnly": false
  },
  {
@@ -4436,7 +4436,7 @@
   ],
   "ar": "حَفيد",
   "translit": "ḥafīd",
-  "voice": "حَفيد",
+  "voice": "حَفِيد",
   "masculineOnly": false
  },
  {
@@ -4446,7 +4446,7 @@
   ],
   "ar": "حَفيدة",
   "translit": "ḥafīde",
-  "voice": "حَفيدة",
+  "voice": "حَفِيدِة",
   "masculineOnly": false
  },
  {
@@ -4456,7 +4456,7 @@
   ],
   "ar": "والِدَيْن",
   "translit": "wālidēn",
-  "voice": "والِدَيْن",
+  "voice": "وَالِدين",
   "masculineOnly": false
  },
  {
@@ -4466,7 +4466,7 @@
   ],
   "ar": "أهِل",
   "translit": "ahl",
-  "voice": "أهِل",
+  "voice": "أَهْل",
   "masculineOnly": false
  },
  {
@@ -4486,7 +4486,7 @@
   ],
   "ar": "عَمّة",
   "translit": "ʿamme",
-  "voice": "عَمّة",
+  "voice": "عَمِّة",
   "masculineOnly": false
  },
  {
@@ -4496,7 +4496,7 @@
   ],
   "ar": "خال",
   "translit": "khāl",
-  "voice": "خال",
+  "voice": "خَال",
   "masculineOnly": false
  },
  {
@@ -4506,7 +4506,7 @@
   ],
   "ar": "خالة",
   "translit": "khāle",
-  "voice": "خالة",
+  "voice": "خَالِة",
   "masculineOnly": false
  },
  {
@@ -4516,7 +4516,7 @@
   ],
   "ar": "اِبْن عَمّ",
   "translit": "ibin ʿamm",
-  "voice": "اِبْن عَمّ",
+  "voice": "اِبِن عَمّ",
   "masculineOnly": false
  },
  {
@@ -4536,7 +4536,7 @@
   ],
   "ar": "اِبْن عَمّة",
   "translit": "ibin ʿamme",
-  "voice": "اِبْن عَمّة",
+  "voice": "اِبِن عَمِّة",
   "masculineOnly": false
  },
  {
@@ -4546,7 +4546,7 @@
   ],
   "ar": "بِنْت عَمّة",
   "translit": "bint ʿamme",
-  "voice": "بِنْت عَمّة",
+  "voice": "بِنْت عَمِّة",
   "masculineOnly": false
  },
  {
@@ -4556,7 +4556,7 @@
   ],
   "ar": "اِبْن خال",
   "translit": "ibin khāl",
-  "voice": "اِبْن خال",
+  "voice": "اِبِن خَال",
   "masculineOnly": false
  },
  {
@@ -4566,7 +4566,7 @@
   ],
   "ar": "بِنْت خال",
   "translit": "bint khāl",
-  "voice": "بِنْت خال",
+  "voice": "بِنْت خَال",
   "masculineOnly": false
  },
  {
@@ -4576,7 +4576,7 @@
   ],
   "ar": "اِبْن خالة",
   "translit": "ibin khāle",
-  "voice": "اِبْن خالة",
+  "voice": "اِبِن خَالِة",
   "masculineOnly": false
  },
  {
@@ -4586,7 +4586,7 @@
   ],
   "ar": "بِنْت خالة",
   "translit": "bint khāle",
-  "voice": "بِنْت خالة",
+  "voice": "بِنْت خَالِة",
   "masculineOnly": false
  },
  {
@@ -4596,7 +4596,7 @@
   ],
   "ar": "اِبْن عَمّي",
   "translit": "ibin ʿammī",
-  "voice": "اِبْن عَمّي",
+  "voice": "اِبِن عَمِّي",
   "masculineOnly": false
  },
  {
@@ -4606,7 +4606,7 @@
   ],
   "ar": "بِنْت عَمّي",
   "translit": "bint ʿammī",
-  "voice": "بِنْت عَمّي",
+  "voice": "بِنْت عَمِّي",
   "masculineOnly": false
  },
  {
@@ -4616,7 +4616,7 @@
   ],
   "ar": "اِبْن عَمّتي",
   "translit": "ibin ʿammtī",
-  "voice": "اِبْن عَمّتي",
+  "voice": "اِبِن عَمّتِي",
   "masculineOnly": false
  },
  {
@@ -4626,7 +4626,7 @@
   ],
   "ar": "بِنْت عَمّتي",
   "translit": "bint ʿammtī",
-  "voice": "بِنْت عَمّتي",
+  "voice": "بِنْت عَمّتِي",
   "masculineOnly": false
  },
  {
@@ -4636,7 +4636,7 @@
   ],
   "ar": "اِبْن خالي",
   "translit": "ibin khālī",
-  "voice": "اِبْن خالي",
+  "voice": "اِبِن خَالِي",
   "masculineOnly": false
  },
  {
@@ -4646,7 +4646,7 @@
   ],
   "ar": "بِنْت خالي",
   "translit": "bint khālī",
-  "voice": "بِنْت خالي",
+  "voice": "بِنْت خَالِي",
   "masculineOnly": false
  },
  {
@@ -4656,7 +4656,7 @@
   ],
   "ar": "اِبْن خالتي",
   "translit": "ibin khāltī",
-  "voice": "اِبْن خالتي",
+  "voice": "اِبِن خَالْتِي",
   "masculineOnly": false
  },
  {
@@ -4666,7 +4666,7 @@
   ],
   "ar": "بِنْت خالتي",
   "translit": "bint khāltī",
-  "voice": "بِنْت خالتي",
+  "voice": "بِنْت خَالْتِي",
   "masculineOnly": false
  },
  {
@@ -4676,7 +4676,7 @@
   ],
   "ar": "كِنّة",
   "translit": "kinne",
-  "voice": "كِنّة",
+  "voice": "كِنِّة",
   "masculineOnly": false
  },
  {
@@ -4686,7 +4686,7 @@
   ],
   "ar": "حَما",
   "translit": "ḥamā",
-  "voice": "حَما",
+  "voice": "حَمَا",
   "masculineOnly": false
  },
  {
@@ -4696,7 +4696,7 @@
   ],
   "ar": "نَسيب",
   "translit": "nasīb",
-  "voice": "نَسيب",
+  "voice": "نَسِيب",
   "masculineOnly": false
  },
  {
@@ -4706,7 +4706,7 @@
   ],
   "ar": "حَماة",
   "translit": "ḥamāt",
-  "voice": "حَماة",
+  "voice": "حَمَاة",
   "masculineOnly": false
  },
  {
@@ -4716,7 +4716,7 @@
   ],
   "ar": "مْعَصِّب",
   "translit": "mʿaṣṣib",
-  "voice": "مْعَصِّب",
+  "voice": "مْعَصِّب",
   "masculineOnly": false
  },
  {
@@ -4726,7 +4726,7 @@
   ],
   "ar": "مِتْضايِق",
   "translit": "mitḍāyiʾ",
-  "voice": "مِتْضايِء",
+  "voice": "مِتْضَايِء",
   "masculineOnly": false
  },
  {
@@ -4736,7 +4736,7 @@
   ],
   "ar": "زَهْقان",
   "translit": "zahʾān",
-  "voice": "زَهْءان",
+  "voice": "زَهْءَان",
   "masculineOnly": false
  },
  {
@@ -4756,7 +4756,7 @@
   ],
   "ar": "مِتْحَمِّس",
   "translit": "mitḥammis",
-  "voice": "مِتْحَمِّس",
+  "voice": "مِتْحَمِّس",
   "masculineOnly": false
  },
  {
@@ -4766,7 +4766,7 @@
   ],
   "ar": "مَبْسوط",
   "translit": "mabsūṭ",
-  "voice": "مَبْسوط",
+  "voice": "مَبْسُوط",
   "masculineOnly": false
  },
  {
@@ -4786,7 +4786,7 @@
   ],
   "ar": "فَخور",
   "translit": "fakhūr",
-  "voice": "فَخور",
+  "voice": "فَخُور",
   "masculineOnly": false
  },
  {
@@ -4796,7 +4796,7 @@
   ],
   "ar": "خايِف",
   "translit": "khāyif",
-  "voice": "خايِف",
+  "voice": "خَايِف",
   "masculineOnly": false
  },
  {
@@ -4806,7 +4806,7 @@
   ],
   "ar": "مَضْغوط",
   "translit": "maḍghūṭ",
-  "voice": "مَضْغوط",
+  "voice": "مَضْغُوط",
   "masculineOnly": false
  },
  {
@@ -4816,7 +4816,7 @@
   ],
   "ar": "زَعْلان",
   "translit": "zaʿlān",
-  "voice": "زَعْلان",
+  "voice": "زَعْلَان",
   "masculineOnly": false
  },
  {
@@ -4826,7 +4826,7 @@
   ],
   "ar": "مَشْغول",
   "translit": "mashghūl",
-  "voice": "مَشْغول",
+  "voice": "مَشْغُول",
   "masculineOnly": false
  },
  {
@@ -4836,7 +4836,7 @@
   ],
   "ar": "بَرْدان",
   "translit": "bardān",
-  "voice": "بَرْدان",
+  "voice": "بَرْدَان",
   "masculineOnly": false
  },
  {
@@ -4846,7 +4846,7 @@
   ],
   "ar": "مِرْتاح",
   "translit": "mirtāḥ",
-  "voice": "مِرْتاح",
+  "voice": "مِرْتَاح",
   "masculineOnly": false
  },
  {
@@ -4856,7 +4856,7 @@
   ],
   "ar": "خَجْلان",
   "translit": "khajlān",
-  "voice": "خَجْلان",
+  "voice": "خَجْلَان",
   "masculineOnly": false
  },
  {
@@ -4866,7 +4866,7 @@
   ],
   "ar": "جوعان",
   "translit": "jūʿān",
-  "voice": "جوعان",
+  "voice": "جُوعَان",
   "masculineOnly": false
  },
  {
@@ -4886,7 +4886,7 @@
   ],
   "ar": "مِتْأَخِّر",
   "translit": "mitʾakhkhir",
-  "voice": "مِتْأَخِّر",
+  "voice": "مِتْأَخِّر",
   "masculineOnly": false
  },
  {
@@ -4896,7 +4896,7 @@
   ],
   "ar": "جاهِز",
   "translit": "jāhiz",
-  "voice": "جاهِز",
+  "voice": "جَاهِز",
   "masculineOnly": false
  },
  {
@@ -4906,7 +4906,7 @@
   ],
   "ar": "مَريض",
   "translit": "marīḍ",
-  "voice": "مَريض",
+  "voice": "مَرِيض",
   "masculineOnly": false
  },
  {
@@ -4916,7 +4916,7 @@
   ],
   "ar": "نَعْسان",
   "translit": "naʿsān",
-  "voice": "نَعْسان",
+  "voice": "نَعْسَان",
   "masculineOnly": false
  },
  {
@@ -4926,7 +4926,7 @@
   ],
   "ar": "عَطْشان",
   "translit": "ʿaṭshān",
-  "voice": "عَطْشان",
+  "voice": "عَطْشَان",
   "masculineOnly": false
  },
  {
@@ -4936,7 +4936,7 @@
   ],
   "ar": "تَعْبان",
   "translit": "taʿbān",
-  "voice": "تَعْبان",
+  "voice": "تَعْبَان",
   "masculineOnly": false
  },
  {
@@ -4946,7 +4946,7 @@
   ],
   "ar": "قَلْقان",
   "translit": "ʾalʾān",
-  "voice": "أَلْءان",
+  "voice": "أَلْءَان",
   "masculineOnly": false
  },
  {
@@ -4996,7 +4996,7 @@
   ],
   "ar": "لَطيف",
   "translit": "laṭīf",
-  "voice": "لَطيف",
+  "voice": "لَطِيف",
   "masculineOnly": false
  },
  {
@@ -5016,7 +5016,7 @@
   ],
   "ar": "السُؤال",
   "translit": "is-suʾāl",
-  "voice": "السُؤال",
+  "voice": "اِلسُّؤَال",
   "masculineOnly": false
  },
  {
@@ -5026,7 +5026,7 @@
   ],
   "ar": "الاِحْتِفال",
   "translit": "il-iḥtifāl",
-  "voice": "الاِحْتِفال",
+  "voice": "اِلِاحْتِفَال",
   "masculineOnly": false
  },
  {
@@ -5036,7 +5036,7 @@
   ],
   "ar": "التَنْضيف",
   "translit": "it-tanḍīf",
-  "voice": "التَنْضيف",
+  "voice": "اِلتَّنْضِيف",
   "masculineOnly": false
  },
  {
@@ -5046,7 +5046,7 @@
   ],
   "ar": "الطَّبْخ",
   "translit": "iṭ-ṭabkh",
-  "voice": "الطَّبْخ",
+  "voice": "اِلطَّبْخ",
   "masculineOnly": false
  },
  {
@@ -5056,7 +5056,7 @@
   ],
   "ar": "الرَّقْص",
   "translit": "ir-raʾṣ",
-  "voice": "الرَّءْص",
+  "voice": "اِلرَّءْص",
   "masculineOnly": false
  },
  {
@@ -5066,7 +5066,7 @@
   ],
   "ar": "التَأْخير",
   "translit": "it-taʾkhīr",
-  "voice": "التَأْخير",
+  "voice": "اِلتَّأْخِير",
   "masculineOnly": false
  },
  {
@@ -5076,7 +5076,7 @@
   ],
   "ar": "السَّواقة",
   "translit": "is-sawāʾa",
-  "voice": "السَّواءة",
+  "voice": "اِلسَّوَاءَة",
   "masculineOnly": false
  },
  {
@@ -5086,7 +5086,7 @@
   ],
   "ar": "التَّمْرين",
   "translit": "it-tamrīn",
-  "voice": "التَّمْرين",
+  "voice": "اِلتَّمْرِين",
   "masculineOnly": false
  },
  {
@@ -5096,7 +5096,7 @@
   ],
   "ar": "القِراية",
   "translit": "il-ʾirāye",
-  "voice": "الإراية",
+  "voice": "اِلْإرَايِة",
   "masculineOnly": false
  },
  {
@@ -5106,7 +5106,7 @@
   ],
   "ar": "الرَكَض",
   "translit": "ir-rakiḍ",
-  "voice": "الرَكَض",
+  "voice": "اِلرَّكِض",
   "masculineOnly": false
  },
  {
@@ -5116,7 +5116,7 @@
   ],
   "ar": "التَسَوُّق",
   "translit": "it-tasawwuʾ",
-  "voice": "التَسَوُّء",
+  "voice": "اِلتَّسَوُّء",
   "masculineOnly": false
  },
  {
@@ -5126,7 +5126,7 @@
   ],
   "ar": "النَّوْم",
   "translit": "in-nōm",
-  "voice": "النَّوْم",
+  "voice": "اِلنّوم",
   "masculineOnly": false
  },
  {
@@ -5136,7 +5136,7 @@
   ],
   "ar": "الدِراسة",
   "translit": "id-dirāse",
-  "voice": "الدِراسة",
+  "voice": "اِلدِّرَاسِة",
   "masculineOnly": false
  },
  {
@@ -5146,7 +5146,7 @@
   ],
   "ar": "النَجاح",
   "translit": "in-najāḥ",
-  "voice": "النَجاح",
+  "voice": "اِلنَّجَاح",
   "masculineOnly": false
  },
  {
@@ -5156,7 +5156,7 @@
   ],
   "ar": "السِباحة",
   "translit": "is-sibāḥa",
-  "voice": "السِباحة",
+  "voice": "اِلسِّبَاحَة",
   "masculineOnly": false
  },
  {
@@ -5166,7 +5166,7 @@
   ],
   "ar": "الحَكي",
   "translit": "il-ḥaki",
-  "voice": "الحَكي",
+  "voice": "اِلْحَكِي",
   "masculineOnly": false
  },
  {
@@ -5176,7 +5176,7 @@
   ],
   "ar": "السَفَر",
   "translit": "is-safar",
-  "voice": "السَفَر",
+  "voice": "اِلسَّفَر",
   "masculineOnly": false
  },
  {
@@ -5186,7 +5186,7 @@
   ],
   "ar": "الاِنْتِظار",
   "translit": "il-intiẓār",
-  "voice": "الاِنْتِظار",
+  "voice": "اِلِانْتِظَار",
   "masculineOnly": false
  },
  {
@@ -5196,7 +5196,7 @@
   ],
   "ar": "المَشِي",
   "translit": "il-mashi",
-  "voice": "المَشِي",
+  "voice": "اِلْمَشِي",
   "masculineOnly": false
  },
  {
@@ -5206,7 +5206,7 @@
   ],
   "ar": "الشُغْل",
   "translit": "ish-shughl",
-  "voice": "الشُغْل",
+  "voice": "اِلشُّغْل",
   "masculineOnly": false
  },
  {
@@ -5216,7 +5216,7 @@
   ],
   "ar": "القَعْدَة",
   "translit": "il-ʾaʿde",
-  "voice": "الأَعْدَة",
+  "voice": "اِلْأَعْدِة",
   "masculineOnly": false
  },
  {
@@ -5226,7 +5226,7 @@
   ],
   "ar": "الحَلّ",
   "translit": "il-ḥall",
-  "voice": "الحَلّ",
+  "voice": "اِلْحَلّ",
   "masculineOnly": false
  },
  {
@@ -5236,7 +5236,7 @@
   ],
   "ar": "مُناسَبة",
   "translit": "munāsabe",
-  "voice": "مُناسَبة",
+  "voice": "مُنَاسَبِة",
   "masculineOnly": false
  },
  {
@@ -5256,7 +5256,7 @@
   ],
   "ar": "مُحاضَرة",
   "translit": "muḥāḍara",
-  "voice": "مُحاضَرة",
+  "voice": "مُحَاضَرَة",
   "masculineOnly": false
  },
  {
@@ -5276,7 +5276,7 @@
   ],
   "ar": "اِجْتِماع",
   "translit": "ijtimāʿ",
-  "voice": "اِجْتِماع",
+  "voice": "اِجْتِمَاع",
   "masculineOnly": false
  },
  {
@@ -5286,7 +5286,7 @@
   ],
   "ar": "حَفْلة",
   "translit": "ḥafle",
-  "voice": "حَفْلة",
+  "voice": "حَفْلِة",
   "masculineOnly": false
  },
  {
@@ -5296,7 +5296,7 @@
   ],
   "ar": "اِمْتِحان",
   "translit": "imtiḥān",
-  "voice": "اِمْتِحان",
+  "voice": "اِمْتِحَان",
   "masculineOnly": false
  },
  {
@@ -5306,7 +5306,7 @@
   ],
   "ar": "رِحْلة",
   "translit": "riḥle",
-  "voice": "رِحْلة",
+  "voice": "رِحْلِة",
   "masculineOnly": false
  },
  {
@@ -5326,7 +5326,7 @@
   ],
   "ar": "التَّوْجِيهي",
   "translit": "it-tawjīhī",
-  "voice": "التَّوْجِيهي",
+  "voice": "اِلتَّوْجِيهِي",
   "masculineOnly": false
  },
  {
@@ -5336,7 +5336,7 @@
   ],
   "ar": "فْطور",
   "translit": "fṭūr",
-  "voice": "فْطور",
+  "voice": "فْطُور",
   "masculineOnly": false
  },
  {
@@ -5346,7 +5346,7 @@
   ],
   "ar": "عَشا",
   "translit": "ʿasha",
-  "voice": "عَشا",
+  "voice": "عَشَا",
   "masculineOnly": false
  },
  {
@@ -5356,7 +5356,7 @@
   ],
   "ar": "غَدا",
   "translit": "ghada",
-  "voice": "غَدا",
+  "voice": "غَدَا",
   "masculineOnly": false
  },
  {
@@ -5366,7 +5366,7 @@
   ],
   "ar": "وَجْبة",
   "translit": "wajbe",
-  "voice": "وَجْبة",
+  "voice": "وَجْبِة",
   "masculineOnly": false
  },
  {
@@ -5376,7 +5376,7 @@
   ],
   "ar": "راحة",
   "translit": "rāḥa",
-  "voice": "راحة",
+  "voice": "رَاحَة",
   "masculineOnly": false
  }
 ]

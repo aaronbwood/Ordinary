@@ -8,7 +8,7 @@
    "title": "Vocabulary Bank: Basics & Greetings",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch1-vocab-basics-greetings-normal.mp3",
-    "duration": 648.4,
+    "duration": 650.1,
     "sections": [
      {
       "title": "Introduction",
@@ -16,29 +16,29 @@
      },
      {
       "title": "Greetings",
-      "start": 6.25
+      "start": 6.67
      },
      {
       "title": "Getting Acquainted",
-      "start": 236.0
+      "start": 236.91
      },
      {
       "title": "Politeness",
-      "start": 355.44
+      "start": 357.23
      },
      {
       "title": "Everyday Expressions",
-      "start": 537.32
+      "start": 539.62
      },
      {
       "title": "End",
-      "start": 644.85
+      "start": 646.58
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch1-vocab-basics-greetings-slow.mp3",
-    "duration": 1143.4,
+    "duration": 1146.2,
     "sections": [
      {
       "title": "Introduction",
@@ -46,23 +46,23 @@
      },
      {
       "title": "Greetings",
-      "start": 6.25
+      "start": 6.67
      },
      {
       "title": "Getting Acquainted",
-      "start": 415.12
+      "start": 417.06
      },
      {
       "title": "Politeness",
-      "start": 628.62
+      "start": 631.17
      },
      {
       "title": "Everyday Expressions",
-      "start": 952.76
+      "start": 956.24
      },
      {
       "title": "End",
-      "start": 1139.81
+      "start": 1142.66
      }
     ]
    }
@@ -74,7 +74,7 @@
    "title": "Interrogatives: Question Words",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch1-1-2-normal.mp3",
-    "duration": 81.7,
+    "duration": 83.3,
     "sections": [
      {
       "title": "Introduction",
@@ -86,13 +86,13 @@
      },
      {
       "title": "End",
-      "start": 78.12
+      "start": 79.76
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch1-1-2-slow.mp3",
-    "duration": 137.5,
+    "duration": 139.3,
     "sections": [
      {
       "title": "Introduction",
@@ -104,7 +104,7 @@
      },
      {
       "title": "End",
-      "start": 133.96
+      "start": 135.77
      }
     ]
    }
@@ -116,7 +116,7 @@
    "title": "Pronouns & Names",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch1-1-3-normal.mp3",
-    "duration": 74.2,
+    "duration": 76.9,
     "sections": [
      {
       "title": "Introduction",
@@ -124,17 +124,17 @@
      },
      {
       "title": "Subject Pronouns",
-      "start": 4.71
+      "start": 4.72
      },
      {
       "title": "End",
-      "start": 70.63
+      "start": 73.38
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch1-1-3-slow.mp3",
-    "duration": 122.0,
+    "duration": 124.8,
     "sections": [
      {
       "title": "Introduction",
@@ -142,11 +142,11 @@
      },
      {
       "title": "Subject Pronouns",
-      "start": 4.71
+      "start": 4.72
      },
      {
       "title": "End",
-      "start": 118.46
+      "start": 121.29
      }
     ]
    }
@@ -158,7 +158,7 @@
    "title": "Common Names",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch1-1-4-normal.mp3",
-    "duration": 205.7,
+    "duration": 202.8,
     "sections": [
      {
       "title": "Introduction",
@@ -166,21 +166,21 @@
      },
      {
       "title": "Masculine Names",
-      "start": 4.61
+      "start": 4.47
      },
      {
       "title": "Feminine Names",
-      "start": 112.29
+      "start": 108.74
      },
      {
       "title": "End",
-      "start": 202.15
+      "start": 199.27
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch1-1-4-slow.mp3",
-    "duration": 359.5,
+    "duration": 357.5,
     "sections": [
      {
       "title": "Introduction",
@@ -188,15 +188,15 @@
      },
      {
       "title": "Masculine Names",
-      "start": 4.61
+      "start": 4.47
      },
      {
       "title": "Feminine Names",
-      "start": 192.09
+      "start": 188.95
      },
      {
       "title": "End",
-      "start": 355.91
+      "start": 353.91
      }
     ]
    }
@@ -208,7 +208,7 @@
    "title": "Putting It All Together",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch1-putting-it-together-normal.mp3",
-    "duration": 159.0,
+    "duration": 151.6,
     "sections": [
      {
       "title": "Introduction",
@@ -216,25 +216,25 @@
      },
      {
       "title": "Taha's Café: the whole scene",
-      "start": 4.58
+      "start": 4.6
      },
      {
       "title": "Taha's Café: repeat each line",
-      "start": 40.77
+      "start": 38.82
      },
      {
       "title": "Taha's Café: you are Taha",
-      "start": 110.2
+      "start": 104.48
      },
      {
       "title": "End",
-      "start": 155.47
+      "start": 148.07
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch1-putting-it-together-slow.mp3",
-    "duration": 202.9,
+    "duration": 194.3,
     "sections": [
      {
       "title": "Introduction",
@@ -242,19 +242,19 @@
      },
      {
       "title": "Taha's Café: the whole scene",
-      "start": 4.58
+      "start": 4.6
      },
      {
       "title": "Taha's Café: repeat each line",
-      "start": 44.37
+      "start": 42.42
      },
      {
       "title": "Taha's Café: you are Taha",
-      "start": 140.58
+      "start": 134.03
      },
      {
       "title": "End",
-      "start": 199.38
+      "start": 190.75
      }
     ]
    }
@@ -266,7 +266,7 @@
    "title": "Vocabulary Bank: Nouns",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch2-vocab-nouns-normal.mp3",
-    "duration": 321.9,
+    "duration": 326.0,
     "sections": [
      {
       "title": "Introduction",
@@ -274,21 +274,21 @@
      },
      {
       "title": "Nouns: People",
-      "start": 5.46
+      "start": 5.36
      },
      {
       "title": "Nouns: Things and Places",
-      "start": 123.81
+      "start": 128.04
      },
      {
       "title": "End",
-      "start": 318.32
+      "start": 322.4
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch2-vocab-nouns-slow.mp3",
-    "duration": 573.6,
+    "duration": 578.7,
     "sections": [
      {
       "title": "Introduction",
@@ -296,15 +296,15 @@
      },
      {
       "title": "Nouns: People",
-      "start": 5.46
+      "start": 5.36
      },
      {
       "title": "Nouns: Things and Places",
-      "start": 215.3
+      "start": 220.52
      },
      {
       "title": "End",
-      "start": 570.05
+      "start": 575.13
      }
     ]
    }
@@ -316,7 +316,7 @@
    "title": "Vocabulary as a Meditation",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch2-vocab-meditation-normal.mp3",
-    "duration": 51.9,
+    "duration": 54.3,
     "sections": [
      {
       "title": "Introduction",
@@ -328,13 +328,13 @@
      },
      {
       "title": "End",
-      "start": 48.37
+      "start": 50.77
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch2-vocab-meditation-slow.mp3",
-    "duration": 83.0,
+    "duration": 85.7,
     "sections": [
      {
       "title": "Introduction",
@@ -346,7 +346,7 @@
      },
      {
       "title": "End",
-      "start": 79.43
+      "start": 82.13
      }
     ]
    }
@@ -358,7 +358,7 @@
    "title": "Vocabulary Bank: Adjectives",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch2-vocab-adjectives-normal.mp3",
-    "duration": 181.6,
+    "duration": 183.7,
     "sections": [
      {
       "title": "Introduction",
@@ -366,17 +366,17 @@
      },
      {
       "title": "Adjectives",
-      "start": 5.43
+      "start": 5.44
      },
      {
       "title": "End",
-      "start": 178.0
+      "start": 180.18
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch2-vocab-adjectives-slow.mp3",
-    "duration": 312.3,
+    "duration": 314.6,
     "sections": [
      {
       "title": "Introduction",
@@ -384,11 +384,11 @@
      },
      {
       "title": "Adjectives",
-      "start": 5.43
+      "start": 5.44
      },
      {
       "title": "End",
-      "start": 308.73
+      "start": 311.05
      }
     ]
    }
@@ -400,7 +400,7 @@
    "title": "Vocabulary Bank: Countries & Nationality Nisba Adjectives",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch2-vocab-countries-normal.mp3",
-    "duration": 345.5,
+    "duration": 348.4,
     "sections": [
      {
       "title": "Introduction",
@@ -412,13 +412,13 @@
      },
      {
       "title": "End",
-      "start": 341.97
+      "start": 344.8
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch2-vocab-countries-slow.mp3",
-    "duration": 617.4,
+    "duration": 621.3,
     "sections": [
      {
       "title": "Introduction",
@@ -430,7 +430,7 @@
      },
      {
       "title": "End",
-      "start": 613.86
+      "start": 617.73
      }
     ]
    }
@@ -442,7 +442,7 @@
    "title": "Putting It All Together",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch2-putting-it-together-normal.mp3",
-    "duration": 243.6,
+    "duration": 224.9,
     "sections": [
      {
       "title": "Introduction",
@@ -454,21 +454,21 @@
      },
      {
       "title": "First Time at Ahmad's House: repeat each line",
-      "start": 61.48
+      "start": 56.2
      },
      {
       "title": "First Time at Ahmad's House: you are Ahmad",
-      "start": 170.37
+      "start": 156.89
      },
      {
       "title": "End",
-      "start": 240.02
+      "start": 221.35
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch2-putting-it-together-slow.mp3",
-    "duration": 312.1,
+    "duration": 290.9,
     "sections": [
      {
       "title": "Introduction",
@@ -480,15 +480,15 @@
      },
      {
       "title": "First Time at Ahmad's House: repeat each line",
-      "start": 66.58
+      "start": 61.3
      },
      {
       "title": "First Time at Ahmad's House: you are Ahmad",
-      "start": 216.04
+      "start": 200.92
      },
      {
       "title": "End",
-      "start": 308.57
+      "start": 287.38
      }
     ]
    }
@@ -500,7 +500,7 @@
    "title": "Vocabulary Bank: Dwellings, Rooms & Furniture",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch3-vocab-dwellings-normal.mp3",
-    "duration": 750.6,
+    "duration": 761.9,
     "sections": [
      {
       "title": "Introduction",
@@ -508,37 +508,37 @@
      },
      {
       "title": "Nouns: Dwellings and Rooms",
-      "start": 7.07
+      "start": 7.08
      },
      {
       "title": "Nouns: Dwellings and Rooms",
-      "start": 90.1
+      "start": 95.59
      },
      {
       "title": "Nouns: Furniture and Miscellaneous",
-      "start": 195.81
+      "start": 201.02
      },
      {
       "title": "Nouns: Furniture and Miscellaneous",
-      "start": 290.21
+      "start": 295.12
      },
      {
       "title": "Adjectives: Dwellings and Rooms",
-      "start": 462.94
+      "start": 468.47
      },
      {
       "title": "Adjectives: Furniture and Household Items",
-      "start": 622.8
+      "start": 632.9
      },
      {
       "title": "End",
-      "start": 747.04
+      "start": 758.36
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch3-vocab-dwellings-slow.mp3",
-    "duration": 1326.1,
+    "duration": 1337.6,
     "sections": [
      {
       "title": "Introduction",
@@ -546,31 +546,31 @@
      },
      {
       "title": "Nouns: Dwellings and Rooms",
-      "start": 7.07
+      "start": 7.08
      },
      {
       "title": "Nouns: Dwellings and Rooms",
-      "start": 152.02
+      "start": 157.39
      },
      {
       "title": "Nouns: Furniture and Miscellaneous",
-      "start": 341.33
+      "start": 345.65
      },
      {
       "title": "Nouns: Furniture and Miscellaneous",
-      "start": 510.82
+      "start": 514.75
      },
      {
       "title": "Adjectives: Dwellings and Rooms",
-      "start": 820.71
+      "start": 826.03
      },
      {
       "title": "Adjectives: Furniture and Household Items",
-      "start": 1105.32
+      "start": 1114.84
      },
      {
       "title": "End",
-      "start": 1322.54
+      "start": 1334.06
      }
     ]
    }
@@ -582,7 +582,7 @@
    "title": "Vocabulary Bank: Prepositions & Locatives",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch3-vocab-prepositions-normal.mp3",
-    "duration": 301.9,
+    "duration": 303.3,
     "sections": [
      {
       "title": "Introduction",
@@ -594,17 +594,17 @@
      },
      {
       "title": "Locatives",
-      "start": 117.39
+      "start": 118.46
      },
      {
       "title": "End",
-      "start": 298.34
+      "start": 299.73
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch3-vocab-prepositions-slow.mp3",
-    "duration": 523.5,
+    "duration": 525.4,
     "sections": [
      {
       "title": "Introduction",
@@ -616,11 +616,11 @@
      },
      {
       "title": "Locatives",
-      "start": 196.63
+      "start": 197.65
      },
      {
       "title": "End",
-      "start": 519.97
+      "start": 521.87
      }
     ]
    }
@@ -632,7 +632,7 @@
    "title": "Expressing Existence with fī",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch3-3-2-normal.mp3",
-    "duration": 93.3,
+    "duration": 96.1,
     "sections": [
      {
       "title": "Introduction",
@@ -644,13 +644,13 @@
      },
      {
       "title": "End",
-      "start": 89.78
+      "start": 92.58
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch3-3-2-slow.mp3",
-    "duration": 155.1,
+    "duration": 158.6,
     "sections": [
      {
       "title": "Introduction",
@@ -662,7 +662,7 @@
      },
      {
       "title": "End",
-      "start": 151.51
+      "start": 155.07
      }
     ]
    }
@@ -674,7 +674,7 @@
    "title": "Putting It All Together",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch3-putting-it-all-together-normal.mp3",
-    "duration": 335.8,
+    "duration": 314.3,
     "sections": [
      {
       "title": "Introduction",
@@ -686,21 +686,21 @@
      },
      {
       "title": "Ghayda's New Place: repeat each line",
-      "start": 85.13
+      "start": 79.74
      },
      {
       "title": "Ghayda's New Place: you are Walaa",
-      "start": 238.61
+      "start": 222.83
      },
      {
       "title": "End",
-      "start": 332.23
+      "start": 310.74
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch3-putting-it-all-together-slow.mp3",
-    "duration": 421.5,
+    "duration": 397.6,
     "sections": [
      {
       "title": "Introduction",
@@ -712,15 +712,15 @@
      },
      {
       "title": "Ghayda's New Place: repeat each line",
-      "start": 91.73
+      "start": 86.34
      },
      {
       "title": "Ghayda's New Place: you are Walaa",
-      "start": 300.12
+      "start": 281.95
      },
      {
       "title": "End",
-      "start": 418.0
+      "start": 394.08
      }
     ]
    }
@@ -732,7 +732,7 @@
    "title": "Vocabulary Bank: Places & Associated Things",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch4-vocab-normal.mp3",
-    "duration": 802.4,
+    "duration": 808.4,
     "sections": [
      {
       "title": "Introduction",
@@ -744,33 +744,33 @@
      },
      {
       "title": "Nouns: Places Continued",
-      "start": 127.06
+      "start": 133.15
      },
      {
       "title": "Nouns: Associated Things",
-      "start": 254.71
+      "start": 260.24
      },
      {
       "title": "Nouns: Associated Things Continued",
-      "start": 409.36
+      "start": 414.64
      },
      {
       "title": "Adjectives: Places in the City",
-      "start": 541.78
+      "start": 547.27
      },
      {
       "title": "Adjectives: Associated Things",
-      "start": 659.86
+      "start": 665.76
      },
      {
       "title": "End",
-      "start": 798.87
+      "start": 804.82
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch4-vocab-slow.mp3",
-    "duration": 1433.5,
+    "duration": 1441.5,
     "sections": [
      {
       "title": "Introduction",
@@ -782,27 +782,27 @@
      },
      {
       "title": "Nouns: Places Continued",
-      "start": 220.69
+      "start": 228.44
      },
      {
       "title": "Nouns: Associated Things",
-      "start": 450.18
+      "start": 456.93
      },
      {
       "title": "Nouns: Associated Things Continued",
-      "start": 729.06
+      "start": 735.53
      },
      {
       "title": "Adjectives: Places in the City",
-      "start": 966.55
+      "start": 973.66
      },
      {
       "title": "Adjectives: Associated Things",
-      "start": 1178.42
+      "start": 1185.88
      },
      {
       "title": "End",
-      "start": 1429.93
+      "start": 1437.99
      }
     ]
    }
@@ -814,7 +814,7 @@
    "title": "Putting It All Together: Everyone Wants Something",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch4-putting-it-all-together-normal.mp3",
-    "duration": 282.2,
+    "duration": 273.4,
     "sections": [
      {
       "title": "Introduction",
@@ -826,21 +826,21 @@
      },
      {
       "title": "Everyone Wants Something: repeat each line",
-      "start": 72.95
+      "start": 69.18
      },
      {
       "title": "Everyone Wants Something: you are Yezan",
-      "start": 200.06
+      "start": 192.6
      },
      {
       "title": "End",
-      "start": 278.61
+      "start": 269.82
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch4-putting-it-all-together-slow.mp3",
-    "duration": 361.4,
+    "duration": 353.1,
     "sections": [
      {
       "title": "Introduction",
@@ -852,15 +852,15 @@
      },
      {
       "title": "Everyone Wants Something: repeat each line",
-      "start": 79.55
+      "start": 75.78
      },
      {
       "title": "Everyone Wants Something: you are Yezan",
-      "start": 255.12
+      "start": 247.52
      },
      {
       "title": "End",
-      "start": 357.85
+      "start": 349.5
      }
     ]
    }
@@ -872,7 +872,7 @@
    "title": "Vocabulary Bank: Family Members",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch5-vocab-family-normal.mp3",
-    "duration": 356.5,
+    "duration": 359.6,
     "sections": [
      {
       "title": "Introduction",
@@ -884,25 +884,25 @@
      },
      {
       "title": "Nouns: Family Members",
-      "start": 124.74
+      "start": 127.04
      },
      {
       "title": "Nouns: Family Members",
-      "start": 167.81
+      "start": 170.59
      },
      {
       "title": "Nouns: Family Members",
-      "start": 317.31
+      "start": 320.39
      },
      {
       "title": "End",
-      "start": 352.97
+      "start": 356.01
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch5-vocab-family-slow.mp3",
-    "duration": 607.9,
+    "duration": 611.5,
     "sections": [
      {
       "title": "Introduction",
@@ -914,19 +914,19 @@
      },
      {
       "title": "Nouns: Family Members",
-      "start": 217.88
+      "start": 220.29
      },
      {
       "title": "Nouns: Family Members",
-      "start": 291.46
+      "start": 295.01
      },
      {
       "title": "Nouns: Family Members",
-      "start": 543.89
+      "start": 547.64
      },
      {
       "title": "End",
-      "start": 604.34
+      "start": 607.97
      }
     ]
    }
@@ -938,7 +938,7 @@
    "title": "Vocabulary Bank: Feelings & Symptoms",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch5-vocab-feelings-normal.mp3",
-    "duration": 270.9,
+    "duration": 275.9,
     "sections": [
      {
       "title": "Introduction",
@@ -950,21 +950,21 @@
      },
      {
       "title": "Adjectives: Feelings and Symptoms",
-      "start": 103.82
+      "start": 106.36
      },
      {
       "title": "Adjectives: Feelings and Symptoms",
-      "start": 209.45
+      "start": 213.99
      },
      {
       "title": "End",
-      "start": 267.37
+      "start": 272.33
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch5-vocab-feelings-slow.mp3",
-    "duration": 465.1,
+    "duration": 471.7,
     "sections": [
      {
       "title": "Introduction",
@@ -976,15 +976,15 @@
      },
      {
       "title": "Adjectives: Feelings and Symptoms",
-      "start": 173.72
+      "start": 176.7
      },
      {
       "title": "Adjectives: Feelings and Symptoms",
-      "start": 360.25
+      "start": 366.03
      },
      {
       "title": "End",
-      "start": 461.56
+      "start": 468.13
      }
     ]
    }
@@ -996,7 +996,7 @@
    "title": "Vocabulary Bank: Activities & Events",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch5-vocab-activities-normal.mp3",
-    "duration": 354.0,
+    "duration": 356.9,
     "sections": [
      {
       "title": "Introduction",
@@ -1008,21 +1008,21 @@
      },
      {
       "title": "Nouns: Activities and Events",
-      "start": 188.2
+      "start": 191.96
      },
      {
       "title": "Nouns: Activities and Events",
-      "start": 279.17
+      "start": 283.16
      },
      {
       "title": "End",
-      "start": 350.45
+      "start": 353.39
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch5-vocab-activities-slow.mp3",
-    "duration": 616.9,
+    "duration": 619.6,
     "sections": [
      {
       "title": "Introduction",
@@ -1034,15 +1034,15 @@
      },
      {
       "title": "Nouns: Activities and Events",
-      "start": 326.73
+      "start": 331.48
      },
      {
       "title": "Nouns: Activities and Events",
-      "start": 486.18
+      "start": 491.25
      },
      {
       "title": "End",
-      "start": 613.36
+      "start": 616.09
      }
     ]
    }
@@ -1054,7 +1054,7 @@
    "title": "Final Conversation: Yousef and Walid",
    "normal": {
     "src": "audio/abv-vol1/episodes/ep-ch5-final-conversation-normal.mp3",
-    "duration": 366.6,
+    "duration": 341.5,
     "sections": [
      {
       "title": "Introduction",
@@ -1066,21 +1066,21 @@
      },
      {
       "title": "Yousef and Walid: repeat each line",
-      "start": 94.33
+      "start": 88.29
      },
      {
       "title": "Yousef and Walid: you are Walid",
-      "start": 261.4
+      "start": 243.05
      },
      {
       "title": "End",
-      "start": 363.04
+      "start": 337.93
      }
     ]
    },
    "slow": {
     "src": "audio/abv-vol1/episodes/ep-ch5-final-conversation-slow.mp3",
-    "duration": 452.4,
+    "duration": 423.5,
     "sections": [
      {
       "title": "Introduction",
@@ -1092,15 +1092,15 @@
      },
      {
       "title": "Yousef and Walid: repeat each line",
-      "start": 100.33
+      "start": 94.29
      },
      {
       "title": "Yousef and Walid: you are Walid",
-      "start": 323.59
+      "start": 302.16
      },
      {
       "title": "End",
-      "start": 448.89
+      "start": 420.0
      }
     ]
    }
