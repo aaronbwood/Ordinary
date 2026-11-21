@@ -14,6 +14,7 @@ import { DrillsView } from './pages/DrillsView';
 import { ComicView } from './pages/ComicView';
 import { ComicsView } from './pages/ComicsView';
 import { VocabView } from './pages/VocabView';
+import { ListenView } from './pages/ListenView';
 import { SettingsView } from './pages/SettingsView';
 
 export const DEFAULT_COURSE = 'abv-vol1';
@@ -40,12 +41,13 @@ export function App() {
   else if ((m = match('/c/:course/rhythm', path))) page = <RhythmView key={window.location.hash} courseId={m.course} />;
   else if ((m = match('/c/:course/comics', path))) page = <ComicsView courseId={m.course} />;
   else if ((m = match('/c/:course/words', path))) page = <VocabView courseId={m.course} />;
+  else if ((m = match('/c/:course/listen', path))) page = <ListenView courseId={m.course} />;
   else if ((m = match('/c/:course/drills', path))) page = <DrillsView courseId={m.course} />;
   else if ((m = match('/c/:course', path))) page = <CourseMap courseId={m.course} />;
   else if (path === '/settings') page = <SettingsView />;
   else page = <Home />;
 
-  const tab = path === '/' ? 'home' : path.includes('/review') ? 'review' : path.includes('/rhythm') ? 'rhythm' : path.includes('/comic') ? 'comics' : path.includes('/words') ? 'words' : path.includes('/drills') || path.includes('/x/') ? 'drills' : path === '/settings' ? 'settings' : 'study';
+  const tab = path === '/' || path.includes('/listen') ? 'home' : path.includes('/review') ? 'review' : path.includes('/rhythm') ? 'rhythm' : path.includes('/comic') ? 'comics' : path.includes('/words') ? 'words' : path.includes('/drills') || path.includes('/x/') ? 'drills' : path === '/settings' ? 'settings' : 'study';
   const c = courseParam;
   const nav = [
     { id: 'home', href: '#/', label: 'Home', icon: 'home' },

@@ -3,6 +3,7 @@ import { useProgress } from '../state/progress';
 import { dueCards } from '../lib/review';
 import { HouseArt } from '../components/HouseArt';
 import { ProgressBar } from '../components/common';
+import { Icon } from '../components/icons';
 import { DEFAULT_COURSE } from '../App';
 
 export function Home() {
@@ -50,6 +51,14 @@ export function Home() {
           <p>No lessons yet.</p>
         )}
       </div>
+
+      <a className="card car-cta" href={`#/c/${c}/listen`}>
+        <Icon name="car" size={28} />
+        <span>
+          <strong>Listen in the car</strong>
+          <span className="small muted" style={{ display: 'block' }}>Whole lessons as audio, hands-free</span>
+        </span>
+      </a>
 
       <div className="rooms">
         <a className="room" href={`#/c/${c}`}>

@@ -5,6 +5,7 @@ const chapterFiles = import.meta.glob('../../content/courses/*/chapters/*.json',
 const sceneFiles = import.meta.glob('../../content/courses/*/scenes/*.json', { eager: true, import: 'default' });
 const comicFiles = import.meta.glob('../../content/courses/*/comics/*.json', { eager: true, import: 'default' });
 const audioFiles = import.meta.glob('../../content/courses/*/audio/manifest.json', { eager: true, import: 'default' });
+const episodeFiles = import.meta.glob('../../content/courses/*/audio/episodes.json', { eager: true, import: 'default' });
 
 const BLOCK_TYPES = new Set(['text', 'callout', 'examples', 'vocab', 'table', 'dialogue', 'image', 'exercise', 'scene', 'comic']);
 
@@ -88,6 +89,16 @@ export function getAudioManifest(courseId: string): AudioRecording[] {
     | { recordings: AudioRecording[] }
     | undefined;
   return m?.recordings ?? [];
+}
+
+export interface EpisodeSection { title: string; start: number }
+export interface EpisodeTrack { src: string; duration: number; sections: EpisodeSection[] }
+export interface Episode { id: string; lessonId: string; chapter: number; title: string; normal: EpisodeTrack; slow: EpisodeTrack }
+
+/** The "In the Car" listening episodes, in book order. */
+export function getEpisodes(courseId: string): Episode[] {
+  const m = episodeFiles[`../../content/courses/${courseId}/audio/episodes.json`] as { episodes: Episode[] } | undefined;
+  return m?.episodes ?? [];
 }
 
 export function getGlossary(courseId: string): any {

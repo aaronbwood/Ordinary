@@ -451,3 +451,21 @@ details > summary { cursor: pointer; }
 .bank-chip.on { background: var(--blue-soft); border-color: var(--blue); }
 .bank-chip:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
 .input { min-height: 44px; border-radius: 10px; padding: 0 12px; background: var(--plaster); border: 1px solid var(--line); width: 100%; box-sizing: border-box; }
+
+/* In the Car */
+.car-player { display: flex; flex-direction: column; gap: 12px; text-align: center; }
+.car-title { margin: 0; font-size: 1.35rem; }
+.car-section { color: var(--terracotta); font-weight: 600; min-height: 1.5em; }
+.car-progress { width: 100%; accent-color: var(--terracotta); height: 28px; }
+.car-controls { display: flex; justify-content: center; align-items: center; gap: 10px; }
+.car-btn { flex: none; display: inline-flex; align-items: center; justify-content: center; width: 64px; height: 64px; border-radius: 999px; border: 1px solid var(--line); background: var(--plaster); color: var(--ink); cursor: pointer; }
+.car-btn.big { width: 104px; height: 104px; background: var(--terracotta); border-color: var(--terracotta); color: #fff; }
+.car-btn:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
+.car-skip { font-weight: 700; font-size: 1rem; }
+.big-chip { font-size: 0.9rem; padding: 8px 14px; min-height: 40px; }
+.episode-row { display: flex; align-items: center; gap: 12px; padding: 10px 12px; }
+.episode-row.on { border-color: var(--terracotta); background: var(--terracotta-soft); }
+.episode-meta { flex: 1; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.car-cta { display: flex; align-items: center; gap: 14px; text-decoration: none; color: var(--ink); border-color: var(--terracotta); }
+.car-cta svg { color: var(--terracotta); flex: none; }
+@media (max-width: 380px) { .car-btn { width: 54px; height: 54px; } .car-btn.big { width: 88px; height: 88px; } }

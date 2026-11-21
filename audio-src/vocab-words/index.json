@@ -1,0 +1,5382 @@
+[
+ {
+  "key": "مَرحَبا|marḥaba",
+  "ids": [
+   "v-ch1-marhaba",
+   "v-ch1-marhaba-2"
+  ],
+  "ar": "مَرحَبا",
+  "translit": "marḥaba",
+  "voice": "مَرحَبا",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَرحَبتَين|marḥabtēn",
+  "ids": [
+   "v-ch1-marhabten"
+  ],
+  "ar": "مَرحَبتَين",
+  "translit": "marḥabtēn",
+  "voice": "مَرحَبتَين",
+  "masculineOnly": false
+ },
+ {
+  "key": "صَباح الخَيْر|ṣabāḥ il-khēr",
+  "ids": [
+   "v-ch1-sabah-il-kher"
+  ],
+  "ar": "صَباح الخَيْر",
+  "translit": "ṣabāḥ il-khēr",
+  "voice": "صَباح الخَيْر",
+  "masculineOnly": false
+ },
+ {
+  "key": "صَباح النّور|ṣabāḥ in-nūr",
+  "ids": [
+   "v-ch1-sabah-in-nur"
+  ],
+  "ar": "صَباح النّور",
+  "translit": "ṣabāḥ in-nūr",
+  "voice": "صَباح النّور",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَسا الخَيْر|masa il-khēr",
+  "ids": [
+   "v-ch1-masa-il-kher"
+  ],
+  "ar": "مَسا الخَيْر",
+  "translit": "masa il-khēr",
+  "voice": "مَسا الخَيْر",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَسا النّور|masa in-nūr",
+  "ids": [
+   "v-ch1-masa-in-nur"
+  ],
+  "ar": "مَسا النّور",
+  "translit": "masa in-nūr",
+  "voice": "مَسا النّور",
+  "masculineOnly": false
+ },
+ {
+  "key": "تِصبَح عَلى خَيْر|tiṣbaḥ ʿala khēr",
+  "ids": [
+   "v-ch1-tisbah-ala-kher"
+  ],
+  "ar": "تِصبَح عَلى خَيْر",
+  "translit": "tiṣbaḥ ʿala khēr",
+  "voice": "تِصبَح عَلى خَيْر",
+  "masculineOnly": false
+ },
+ {
+  "key": "تِصبَحِي عَلى خَيْر|tiṣbaḥī ʿala khēr",
+  "ids": [
+   "v-ch1-tisbahi-ala-kher"
+  ],
+  "ar": "تِصبَحِي عَلى خَيْر",
+  "translit": "tiṣbaḥī ʿala khēr",
+  "voice": "تِصبَحِي عَلى خَيْر",
+  "masculineOnly": false
+ },
+ {
+  "key": "تِصبَحوا عَلى خَيْر|tiṣbaḥū ʿala khēr",
+  "ids": [
+   "v-ch1-tisbahu-ala-kher"
+  ],
+  "ar": "تِصبَحوا عَلى خَيْر",
+  "translit": "tiṣbaḥū ʿala khēr",
+  "voice": "تِصبَحوا عَلى خَيْر",
+  "masculineOnly": false
+ },
+ {
+  "key": "واِنتَ مِن أَهلُه|w-inta min ahlo",
+  "ids": [
+   "v-ch1-w-inta-min-ahlo"
+  ],
+  "ar": "واِنتَ مِن أَهلُه",
+  "translit": "w-inta min ahlo",
+  "voice": "واِنتَ مِن أَهلُه",
+  "masculineOnly": false
+ },
+ {
+  "key": "واِنتي مِن أَهلُه|w-intī min ahlo",
+  "ids": [
+   "v-ch1-w-inti-min-ahlo"
+  ],
+  "ar": "واِنتي مِن أَهلُه",
+  "translit": "w-intī min ahlo",
+  "voice": "واِنتي مِن أَهلُه",
+  "masculineOnly": false
+ },
+ {
+  "key": "واِنتو مِن أَهلُه|w-intu min ahlo",
+  "ids": [
+   "v-ch1-w-intu-min-ahlo"
+  ],
+  "ar": "واِنتو مِن أَهلُه",
+  "translit": "w-intu min ahlo",
+  "voice": "واِنتو مِن أَهلُه",
+  "masculineOnly": false
+ },
+ {
+  "key": "شو في ما في؟|shū fī mā fī?",
+  "ids": [
+   "v-ch1-shu-fi-ma-fi"
+  ],
+  "ar": "شو في ما في؟",
+  "translit": "shū fī mā fī?",
+  "voice": "شو في ما في؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "كُلّه تَمام|kullo tamām",
+  "ids": [
+   "v-ch1-kullo-tamam"
+  ],
+  "ar": "كُلّه تَمام",
+  "translit": "kullo tamām",
+  "voice": "كُلّه تَمام",
+  "masculineOnly": false
+ },
+ {
+  "key": "صافْيِة وافْيِة|ṣāfye wāfye",
+  "ids": [
+   "v-ch1-safye-wafye"
+  ],
+  "ar": "صافْيِة وافْيِة",
+  "translit": "ṣāfye wāfye",
+  "voice": "صافْيِة وافْيِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "شو اِسمَك؟|shū ismak?",
+  "ids": [
+   "v-ch1-shu-ismak"
+  ],
+  "ar": "شو اِسمَك؟",
+  "translit": "shū ismak?",
+  "voice": "شو اِسمَك؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "شو اِسمِك؟|shū ismik?",
+  "ids": [
+   "v-ch1-shu-ismik"
+  ],
+  "ar": "شو اِسمِك؟",
+  "translit": "shū ismik?",
+  "voice": "شو اِسمِك؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "شو اِسمْكُم؟|shū ismkum?",
+  "ids": [
+   "v-ch1-shu-ismkum"
+  ],
+  "ar": "شو اِسمْكُم؟",
+  "translit": "shū ismkum?",
+  "voice": "شو اِسمْكُم؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِسمِي…|ismī …",
+  "ids": [
+   "v-ch1-ismi"
+  ],
+  "ar": "اِسمِي…",
+  "translit": "ismī …",
+  "voice": "اِسمِي",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَعَ السَّلامِة|maʿ is-salāme",
+  "ids": [
+   "v-ch1-ma-is-salame"
+  ],
+  "ar": "مَعَ السَّلامِة",
+  "translit": "maʿ is-salāme",
+  "voice": "مَعَ السَّلامِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْسَلِّمَك|Allāh ysallmak",
+  "ids": [
+   "v-ch1-allah-ysallmak"
+  ],
+  "ar": "الله يْسَلِّمَك",
+  "translit": "Allāh ysallmak",
+  "voice": "الله يْسَلِّمَك",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْسَلِّمِك|Allāh ysallmik",
+  "ids": [
+   "v-ch1-allah-ysallmik"
+  ],
+  "ar": "الله يْسَلِّمِك",
+  "translit": "Allāh ysallmik",
+  "voice": "الله يْسَلِّمِك",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْسَلِّمكُم|Allāh ysallmkum",
+  "ids": [
+   "v-ch1-allah-ysallmkum"
+  ],
+  "ar": "الله يْسَلِّمكُم",
+  "translit": "Allāh ysallmkum",
+  "voice": "الله يْسَلِّمكُم",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَهلًا وَسَهلًا|ahlan w-sahlan",
+  "ids": [
+   "v-ch1-ahlan-w-sahlan"
+  ],
+  "ar": "أَهلًا وَسَهلًا",
+  "translit": "ahlan w-sahlan",
+  "voice": "أَهلًا وَسَهلًا",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَهلًا فِيك|ahlan fīk",
+  "ids": [
+   "v-ch1-ahlan-fik"
+  ],
+  "ar": "أَهلًا فِيك",
+  "translit": "ahlan fīk",
+  "voice": "أَهلًا فِيك",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَهلًا فِيكي|ahlan fīki",
+  "ids": [
+   "v-ch1-ahlan-fiki"
+  ],
+  "ar": "أَهلًا فِيكي",
+  "translit": "ahlan fīki",
+  "voice": "أَهلًا فِيكي",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَهلًا فِيكُم|ahlan fīkum",
+  "ids": [
+   "v-ch1-ahlan-fikum"
+  ],
+  "ar": "أَهلًا فِيكُم",
+  "translit": "ahlan fīkum",
+  "voice": "أَهلًا فِيكُم",
+  "masculineOnly": false
+ },
+ {
+  "key": "كِيفَك؟|kīfak?",
+  "ids": [
+   "v-ch1-kifak"
+  ],
+  "ar": "كِيفَك؟",
+  "translit": "kīfak?",
+  "voice": "كِيفَك؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "كِيفِك؟|kīfik?",
+  "ids": [
+   "v-ch1-kifik"
+  ],
+  "ar": "كِيفِك؟",
+  "translit": "kīfik?",
+  "voice": "كِيفِك؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "كِيفكُم؟|kīfkum?",
+  "ids": [
+   "v-ch1-kifkum"
+  ],
+  "ar": "كِيفكُم؟",
+  "translit": "kīfkum?",
+  "voice": "كِيفكُم؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْنِيح|mnīḥ",
+  "ids": [
+   "v-ch1-mnih"
+  ],
+  "ar": "مْنِيح",
+  "translit": "mnīḥ",
+  "voice": "مْنِيح",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْنِيحَة|mnīḥa",
+  "ids": [
+   "v-ch1-mniha"
+  ],
+  "ar": "مْنِيحَة",
+  "translit": "mnīḥa",
+  "voice": "مْنِيحَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْنيحين / مْناح|mnīḥīn / mnāḥ",
+  "ids": [
+   "v-ch1-mnihin-mnah"
+  ],
+  "ar": "مْنيحين / مْناح",
+  "translit": "mnīḥīn / mnāḥ",
+  "voice": "مْنيحين، مْناح",
+  "masculineOnly": false
+ },
+ {
+  "key": "الحَمْد لله|il-ḥamdillāh",
+  "ids": [
+   "v-ch1-il-hamdillah"
+  ],
+  "ar": "الحَمْد لله",
+  "translit": "il-ḥamdillāh",
+  "voice": "الحَمْد لله",
+  "masculineOnly": false
+ },
+ {
+  "key": "كِيف الحال؟|kīf il-ḥāl?",
+  "ids": [
+   "v-ch1-kif-il-hal"
+  ],
+  "ar": "كِيف الحال؟",
+  "translit": "kīf il-ḥāl?",
+  "voice": "كِيف الحال؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "كُلّه تَمَام|kullo tamām",
+  "ids": [
+   "v-ch1-kullo-tamam-2"
+  ],
+  "ar": "كُلّه تَمَام",
+  "translit": "kullo tamām",
+  "voice": "كُلّه تَمَام",
+  "masculineOnly": false
+ },
+ {
+  "key": "شو أَخبارَك؟|shū akhbārak?",
+  "ids": [
+   "v-ch1-shu-akhbarak"
+  ],
+  "ar": "شو أَخبارَك؟",
+  "translit": "shū akhbārak?",
+  "voice": "شو أَخبارَك؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "شو أَخبارِك؟|shū akhbārik?",
+  "ids": [
+   "v-ch1-shu-akhbarik"
+  ],
+  "ar": "شو أَخبارِك؟",
+  "translit": "shū akhbārik?",
+  "voice": "شو أَخبارِك؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "شو أَخباركُم؟|shū akhbārkum?",
+  "ids": [
+   "v-ch1-shu-akhbarkum"
+  ],
+  "ar": "شو أَخباركُم؟",
+  "translit": "shū akhbārkum?",
+  "voice": "شو أَخباركُم؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "تَمام|tamām",
+  "ids": [
+   "v-ch1-tamam"
+  ],
+  "ar": "تَمام",
+  "translit": "tamām",
+  "voice": "تَمام",
+  "masculineOnly": false
+ },
+ {
+  "key": "تْشَرَّفنا|tsharrafna",
+  "ids": [
+   "v-ch1-tsharrafna"
+  ],
+  "ar": "تْشَرَّفنا",
+  "translit": "tsharrafna",
+  "voice": "تْشَرَّفنا",
+  "masculineOnly": false
+ },
+ {
+  "key": "الشَّرَف إِلنا|ish-sharaf ilna",
+  "ids": [
+   "v-ch1-ish-sharaf-ilna"
+  ],
+  "ar": "الشَّرَف إِلنا",
+  "translit": "ish-sharaf ilna",
+  "voice": "الشَّرَف إِلنا",
+  "masculineOnly": false
+ },
+ {
+  "key": "شُكرًا|shukran",
+  "ids": [
+   "v-ch1-shukran"
+  ],
+  "ar": "شُكرًا",
+  "translit": "shukran",
+  "voice": "شُكرًا",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَفوًا|ʿafwan",
+  "ids": [
+   "v-ch1-afwan"
+  ],
+  "ar": "عَفوًا",
+  "translit": "ʿafwan",
+  "voice": "عَفوًا",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَلَو|walaw",
+  "ids": [
+   "v-ch1-walaw"
+  ],
+  "ar": "وَلَو",
+  "translit": "walaw",
+  "voice": "وَلَو",
+  "masculineOnly": false
+ },
+ {
+  "key": "لو سَمَحت|law samaḥt",
+  "ids": [
+   "v-ch1-law-samaht"
+  ],
+  "ar": "لو سَمَحت",
+  "translit": "law samaḥt",
+  "voice": "لو سَمَحت",
+  "masculineOnly": false
+ },
+ {
+  "key": "لو سَمَحتِي|law samaḥtī",
+  "ids": [
+   "v-ch1-law-samahti"
+  ],
+  "ar": "لو سَمَحتِي",
+  "translit": "law samaḥtī",
+  "voice": "لو سَمَحتِي",
+  "masculineOnly": false
+ },
+ {
+  "key": "لو سَمَحتوا|law samaḥtū",
+  "ids": [
+   "v-ch1-law-samahtu"
+  ],
+  "ar": "لو سَمَحتوا",
+  "translit": "law samaḥtū",
+  "voice": "لو سَمَحتوا",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَنا آسِف|ana āsif",
+  "ids": [
+   "v-ch1-ana-asif"
+  ],
+  "ar": "أَنا آسِف",
+  "translit": "ana āsif",
+  "voice": "أَنا آسِف",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَنا آسْفِة|ana āsfe",
+  "ids": [
+   "v-ch1-ana-asfe"
+  ],
+  "ar": "أَنا آسْفِة",
+  "translit": "ana āsfe",
+  "voice": "أَنا آسْفِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَبروك|mabrūk",
+  "ids": [
+   "v-ch1-mabruk"
+  ],
+  "ar": "مَبروك",
+  "translit": "mabrūk",
+  "voice": "مَبروك",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْبارِك فِيك|Allāh ybārik fīk",
+  "ids": [
+   "v-ch1-allah-ybarik-fik"
+  ],
+  "ar": "الله يْبارِك فِيك",
+  "translit": "Allāh ybārik fīk",
+  "voice": "الله يْبارِك فِيك",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْبارِك فيكي|Allāh ybārik fīki",
+  "ids": [
+   "v-ch1-allah-ybarik-fiki"
+  ],
+  "ar": "الله يْبارِك فيكي",
+  "translit": "Allāh ybārik fīki",
+  "voice": "الله يْبارِك فيكي",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْبارِك فِيكُم|Allāh ybārik fīkum",
+  "ids": [
+   "v-ch1-allah-ybarik-fikum"
+  ],
+  "ar": "الله يْبارِك فِيكُم",
+  "translit": "Allāh ybārik fīkum",
+  "voice": "الله يْبارِك فِيكُم",
+  "masculineOnly": false
+ },
+ {
+  "key": "صَحْتَين|ṣaḥtēn",
+  "ids": [
+   "v-ch1-sahten"
+  ],
+  "ar": "صَحْتَين",
+  "translit": "ṣaḥtēn",
+  "voice": "صَحْتَين",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَلى قَلْبَك|ʿala ʾalbak",
+  "ids": [
+   "v-ch1-ala-albak"
+  ],
+  "ar": "عَلى قَلْبَك",
+  "translit": "ʿala ʾalbak",
+  "voice": "عَلى أَلْبَك",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَلى قَلْبِك|ʿala ʾalbik",
+  "ids": [
+   "v-ch1-ala-albik"
+  ],
+  "ar": "عَلى قَلْبِك",
+  "translit": "ʿala ʾalbik",
+  "voice": "عَلى أَلْبِك",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَلى قَلْبْكُم|ʿala ʾalbkum",
+  "ids": [
+   "v-ch1-ala-albkum"
+  ],
+  "ar": "عَلى قَلْبْكُم",
+  "translit": "ʿala ʾalbkum",
+  "voice": "عَلى أَلْبْكُم",
+  "masculineOnly": false
+ },
+ {
+  "key": "يَعطيك العافْيِة|yaʿṭīk il-ʿāfye",
+  "ids": [
+   "v-ch1-yatik-il-afye"
+  ],
+  "ar": "يَعطيك العافْيِة",
+  "translit": "yaʿṭīk il-ʿāfye",
+  "voice": "يَعطيك العافْيِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "يَعطيكي العافْيِة|yaʿṭīki il-ʿāfye",
+  "ids": [
+   "v-ch1-yatiki-il-afye"
+  ],
+  "ar": "يَعطيكي العافْيِة",
+  "translit": "yaʿṭīki il-ʿāfye",
+  "voice": "يَعطيكي العافْيِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "يَعطيكُم العافْيِة|yaʿṭīkum il-ʿāfye",
+  "ids": [
+   "v-ch1-yatikum-il-afye"
+  ],
+  "ar": "يَعطيكُم العافْيِة",
+  "translit": "yaʿṭīkum il-ʿāfye",
+  "voice": "يَعطيكُم العافْيِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْعافِيك|Allāh yʿāfīk",
+  "ids": [
+   "v-ch1-allah-yafik"
+  ],
+  "ar": "الله يْعافِيك",
+  "translit": "Allāh yʿāfīk",
+  "voice": "الله يْعافِيك",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْعافِيكي|Allāh yʿāfīki",
+  "ids": [
+   "v-ch1-allah-yafiki"
+  ],
+  "ar": "الله يْعافِيكي",
+  "translit": "Allāh yʿāfīki",
+  "voice": "الله يْعافِيكي",
+  "masculineOnly": false
+ },
+ {
+  "key": "الله يْعافِيكُم|Allāh yʿāfīkum",
+  "ids": [
+   "v-ch1-allah-yafikum"
+  ],
+  "ar": "الله يْعافِيكُم",
+  "translit": "Allāh yʿāfīkum",
+  "voice": "الله يْعافِيكُم",
+  "masculineOnly": false
+ },
+ {
+  "key": "يَلّا|yalla",
+  "ids": [
+   "v-ch1-yalla"
+  ],
+  "ar": "يَلّا",
+  "translit": "yalla",
+  "voice": "يَلّا",
+  "masculineOnly": false
+ },
+ {
+  "key": "خَلَص|khalaṣ",
+  "ids": [
+   "v-ch1-khalas"
+  ],
+  "ar": "خَلَص",
+  "translit": "khalaṣ",
+  "voice": "خَلَص",
+  "masculineOnly": false
+ },
+ {
+  "key": "صَحّ؟|ṣaḥḥ?",
+  "ids": [
+   "v-ch1-sahh"
+  ],
+  "ar": "صَحّ؟",
+  "translit": "ṣaḥḥ?",
+  "voice": "صَحّ؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَنْجَد؟|ʿanjad?",
+  "ids": [
+   "v-ch1-anjad"
+  ],
+  "ar": "عَنْجَد؟",
+  "translit": "ʿanjad?",
+  "voice": "عَنْجَد؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "طَبعًا|ṭabʿan",
+  "ids": [
+   "v-ch1-taban"
+  ],
+  "ar": "طَبعًا",
+  "translit": "ṭabʿan",
+  "voice": "طَبعًا",
+  "masculineOnly": false
+ },
+ {
+  "key": "ما فِي مُشكِلِة|mā fī mushkile",
+  "ids": [
+   "v-ch1-ma-fi-mushkile"
+  ],
+  "ar": "ما فِي مُشكِلِة",
+  "translit": "mā fī mushkile",
+  "voice": "ما فِي مُشكِلِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَالله|wallāh",
+  "ids": [
+   "v-ch1-wallah"
+  ],
+  "ar": "وَالله",
+  "translit": "wallāh",
+  "voice": "وَالله",
+  "masculineOnly": false
+ },
+ {
+  "key": "إِن شاء الله|in shāʾ Allāh",
+  "ids": [
+   "v-ch1-in-sha-allah"
+  ],
+  "ar": "إِن شاء الله",
+  "translit": "in shāʾ Allāh",
+  "voice": "إِن شاء الله",
+  "masculineOnly": false
+ },
+ {
+  "key": "آه / نَعَم|āh / naʿam",
+  "ids": [
+   "v-ch1-ah-naam"
+  ],
+  "ar": "آه / نَعَم",
+  "translit": "āh / naʿam",
+  "voice": "آه، نَعَم",
+  "masculineOnly": false
+ },
+ {
+  "key": "لأ|laʾ",
+  "ids": [
+   "v-ch1-la"
+  ],
+  "ar": "لأ",
+  "translit": "laʾ",
+  "voice": "لأ",
+  "masculineOnly": false
+ },
+ {
+  "key": "وِين الحَمّام؟|wēn il-ḥammām?",
+  "ids": [
+   "v-ch1-wen-il-hammam"
+  ],
+  "ar": "وِين الحَمّام؟",
+  "translit": "wēn il-ḥammām?",
+  "voice": "وِين الحَمّام؟",
+  "masculineOnly": false
+ },
+ {
+  "key": "هُون|hōn",
+  "ids": [
+   "v-ch1-hon"
+  ],
+  "ar": "هُون",
+  "translit": "hōn",
+  "voice": "هُون",
+  "masculineOnly": false
+ },
+ {
+  "key": "هْناك|hnāk",
+  "ids": [
+   "v-ch1-hnak",
+   "v-ch3-hnak"
+  ],
+  "ar": "هْناك",
+  "translit": "hnāk",
+  "voice": "هْناك",
+  "masculineOnly": false
+ },
+ {
+  "key": "مين|mīn",
+  "ids": [
+   "v-ch1-min"
+  ],
+  "ar": "مين",
+  "translit": "mīn",
+  "voice": "مين",
+  "masculineOnly": false
+ },
+ {
+  "key": "شو|shū",
+  "ids": [
+   "v-ch1-shu"
+  ],
+  "ar": "شو",
+  "translit": "shū",
+  "voice": "شو",
+  "masculineOnly": false
+ },
+ {
+  "key": "إيش|ēsh",
+  "ids": [
+   "v-ch1-esh"
+  ],
+  "ar": "إيش",
+  "translit": "ēsh",
+  "voice": "إيش",
+  "masculineOnly": false
+ },
+ {
+  "key": "وين|wēn",
+  "ids": [
+   "v-ch1-wen"
+  ],
+  "ar": "وين",
+  "translit": "wēn",
+  "voice": "وين",
+  "masculineOnly": false
+ },
+ {
+  "key": "إمتى|ēmta",
+  "ids": [
+   "v-ch1-emta"
+  ],
+  "ar": "إمتى",
+  "translit": "ēmta",
+  "voice": "إمتى",
+  "masculineOnly": false
+ },
+ {
+  "key": "ليش|lēsh",
+  "ids": [
+   "v-ch1-lesh"
+  ],
+  "ar": "ليش",
+  "translit": "lēsh",
+  "voice": "ليش",
+  "masculineOnly": false
+ },
+ {
+  "key": "كيف|kīf",
+  "ids": [
+   "v-ch1-kif"
+  ],
+  "ar": "كيف",
+  "translit": "kīf",
+  "voice": "كيف",
+  "masculineOnly": false
+ },
+ {
+  "key": "قدّيش|ʾaddēsh / qaddēsh",
+  "ids": [
+   "v-ch1-addesh-qaddesh"
+  ],
+  "ar": "قدّيش",
+  "translit": "ʾaddēsh / qaddēsh",
+  "voice": "أدّيش، قدّيش",
+  "masculineOnly": false
+ },
+ {
+  "key": "أيّ|ayy",
+  "ids": [
+   "v-ch1-ayy"
+  ],
+  "ar": "أيّ",
+  "translit": "ayy",
+  "voice": "أيّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "أنا|ana",
+  "ids": [
+   "v-ch1-ana"
+  ],
+  "ar": "أنا",
+  "translit": "ana",
+  "voice": "أنا",
+  "masculineOnly": false
+ },
+ {
+  "key": "إحْنا|iḥna",
+  "ids": [
+   "v-ch1-ihna"
+  ],
+  "ar": "إحْنا",
+  "translit": "iḥna",
+  "voice": "إحْنا",
+  "masculineOnly": false
+ },
+ {
+  "key": "إنْتَ|inta",
+  "ids": [
+   "v-ch1-inta"
+  ],
+  "ar": "إنْتَ",
+  "translit": "inta",
+  "voice": "إنْتَ",
+  "masculineOnly": false
+ },
+ {
+  "key": "إنْتي|intī",
+  "ids": [
+   "v-ch1-inti"
+  ],
+  "ar": "إنْتي",
+  "translit": "intī",
+  "voice": "إنْتي",
+  "masculineOnly": false
+ },
+ {
+  "key": "إنْتو|intu",
+  "ids": [
+   "v-ch1-intu"
+  ],
+  "ar": "إنْتو",
+  "translit": "intu",
+  "voice": "إنْتو",
+  "masculineOnly": false
+ },
+ {
+  "key": "هُوِّ|huwwe",
+  "ids": [
+   "v-ch1-huwwe"
+  ],
+  "ar": "هُوِّ",
+  "translit": "huwwe",
+  "voice": "هُوِّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "هِيِّ|hiyye",
+  "ids": [
+   "v-ch1-hiyye"
+  ],
+  "ar": "هِيِّ",
+  "translit": "hiyye",
+  "voice": "هِيِّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "هُمِّ|humme",
+  "ids": [
+   "v-ch1-humme"
+  ],
+  "ar": "هُمِّ",
+  "translit": "humme",
+  "voice": "هُمِّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "هَارُون|Hārūn",
+  "ids": [
+   "v-ch1-harun"
+  ],
+  "ar": "هَارُون",
+  "translit": "Hārūn",
+  "voice": "هَارُون",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَحْمَد|Aḥmad",
+  "ids": [
+   "v-ch1-ahmad"
+  ],
+  "ar": "أَحْمَد",
+  "translit": "Aḥmad",
+  "voice": "أَحْمَد",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَلِيّ|ʿAlī",
+  "ids": [
+   "v-ch1-ali"
+  ],
+  "ar": "عَلِيّ",
+  "translit": "ʿAlī",
+  "voice": "عَلِيّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَسَن|Ḥasan",
+  "ids": [
+   "v-ch1-hasan"
+  ],
+  "ar": "حَسَن",
+  "translit": "Ḥasan",
+  "voice": "حَسَن",
+  "masculineOnly": false
+ },
+ {
+  "key": "حُسَيْن|Ḥusayn",
+  "ids": [
+   "v-ch1-husayn"
+  ],
+  "ar": "حُسَيْن",
+  "translit": "Ḥusayn",
+  "voice": "حُسَيْن",
+  "masculineOnly": false
+ },
+ {
+  "key": "خَالِد|Khālid",
+  "ids": [
+   "v-ch1-khalid"
+  ],
+  "ar": "خَالِد",
+  "translit": "Khālid",
+  "voice": "خَالِد",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُحَمَّد|Muḥammad",
+  "ids": [
+   "v-ch1-muhammad"
+  ],
+  "ar": "مُحَمَّد",
+  "translit": "Muḥammad",
+  "voice": "مُحَمَّد",
+  "masculineOnly": false
+ },
+ {
+  "key": "نُور|Nūr",
+  "ids": [
+   "v-ch1-nur"
+  ],
+  "ar": "نُور",
+  "translit": "Nūr",
+  "voice": "نُور",
+  "masculineOnly": false
+ },
+ {
+  "key": "عُمَر|ʿOmar",
+  "ids": [
+   "v-ch1-omar"
+  ],
+  "ar": "عُمَر",
+  "translit": "ʿOmar",
+  "voice": "عُمَر",
+  "masculineOnly": false
+ },
+ {
+  "key": "طَه|Ṭāhā",
+  "ids": [
+   "v-ch1-taha"
+  ],
+  "ar": "طَه",
+  "translit": "Ṭāhā",
+  "voice": "طَه",
+  "masculineOnly": false
+ },
+ {
+  "key": "طَارِق|Ṭāriq",
+  "ids": [
+   "v-ch1-tariq"
+  ],
+  "ar": "طَارِق",
+  "translit": "Ṭāriq",
+  "voice": "طَارِق",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَلِيد|Walīd",
+  "ids": [
+   "v-ch1-walid"
+  ],
+  "ar": "وَلِيد",
+  "translit": "Walīd",
+  "voice": "وَلِيد",
+  "masculineOnly": false
+ },
+ {
+  "key": "يُوسُف|Yūsuf",
+  "ids": [
+   "v-ch1-yusuf"
+  ],
+  "ar": "يُوسُف",
+  "translit": "Yūsuf",
+  "voice": "يُوسُف",
+  "masculineOnly": false
+ },
+ {
+  "key": "دَانَا|Dāna",
+  "ids": [
+   "v-ch1-dana"
+  ],
+  "ar": "دَانَا",
+  "translit": "Dāna",
+  "voice": "دَانَا",
+  "masculineOnly": false
+ },
+ {
+  "key": "فَرَح|Faraḥ",
+  "ids": [
+   "v-ch1-farah"
+  ],
+  "ar": "فَرَح",
+  "translit": "Faraḥ",
+  "voice": "فَرَح",
+  "masculineOnly": false
+ },
+ {
+  "key": "فَاطِمَة|Fāṭima",
+  "ids": [
+   "v-ch1-fatima"
+  ],
+  "ar": "فَاطِمَة",
+  "translit": "Fāṭima",
+  "voice": "فَاطِمَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "غَيْدَاء|Ghaydāʾ",
+  "ids": [
+   "v-ch1-ghayda"
+  ],
+  "ar": "غَيْدَاء",
+  "translit": "Ghaydāʾ",
+  "voice": "غَيْدَاء",
+  "masculineOnly": false
+ },
+ {
+  "key": "لَيْلَى|Laylā",
+  "ids": [
+   "v-ch1-layla"
+  ],
+  "ar": "لَيْلَى",
+  "translit": "Laylā",
+  "voice": "لَيْلَى",
+  "masculineOnly": false
+ },
+ {
+  "key": "لِينَا|Līna",
+  "ids": [
+   "v-ch1-lina"
+  ],
+  "ar": "لِينَا",
+  "translit": "Līna",
+  "voice": "لِينَا",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَرْيَم|Maryam",
+  "ids": [
+   "v-ch1-maryam"
+  ],
+  "ar": "مَرْيَم",
+  "translit": "Maryam",
+  "voice": "مَرْيَم",
+  "masculineOnly": false
+ },
+ {
+  "key": "رَنَا|Rana",
+  "ids": [
+   "v-ch1-rana"
+  ],
+  "ar": "رَنَا",
+  "translit": "Rana",
+  "voice": "رَنَا",
+  "masculineOnly": false
+ },
+ {
+  "key": "رَانْيَا|Rānyā",
+  "ids": [
+   "v-ch1-ranya"
+  ],
+  "ar": "رَانْيَا",
+  "translit": "Rānyā",
+  "voice": "رَانْيَا",
+  "masculineOnly": false
+ },
+ {
+  "key": "رِيم|Rīm",
+  "ids": [
+   "v-ch1-rim"
+  ],
+  "ar": "رِيم",
+  "translit": "Rīm",
+  "voice": "رِيم",
+  "masculineOnly": false
+ },
+ {
+  "key": "سَارَة|Sāra",
+  "ids": [
+   "v-ch1-sara"
+  ],
+  "ar": "سَارَة",
+  "translit": "Sāra",
+  "voice": "سَارَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَلَاء|Walāʾ",
+  "ids": [
+   "v-ch1-wala"
+  ],
+  "ar": "وَلَاء",
+  "translit": "Walāʾ",
+  "voice": "وَلَاء",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَخ|akh",
+  "ids": [
+   "v-ch2-akh",
+   "v-ch5-akh"
+  ],
+  "ar": "أَخ",
+  "translit": "akh",
+  "voice": "أَخ",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَلَد|walad",
+  "ids": [
+   "v-ch2-walad"
+  ],
+  "ar": "وَلَد",
+  "translit": "walad",
+  "voice": "وَلَد",
+  "masculineOnly": false
+ },
+ {
+  "key": "طِفْل (ـة)|ṭifil(e)",
+  "ids": [
+   "v-ch2-tifil"
+  ],
+  "ar": "طِفْل (ـة)",
+  "translit": "ṭifil(e)",
+  "voice": "طِفْل",
+  "masculineOnly": true
+ },
+ {
+  "key": "بِنْت|bint",
+  "ids": [
+   "v-ch2-bint",
+   "v-ch5-bint"
+  ],
+  "ar": "بِنْت",
+  "translit": "bint",
+  "voice": "بِنْت",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَب|ab",
+  "ids": [
+   "v-ch2-ab",
+   "v-ch5-ab"
+  ],
+  "ar": "أَب",
+  "translit": "ab",
+  "voice": "أَب",
+  "masculineOnly": false
+ },
+ {
+  "key": "صاحِب (ـة)|ṣāḥib(e)",
+  "ids": [
+   "v-ch2-sahib"
+  ],
+  "ar": "صاحِب (ـة)",
+  "translit": "ṣāḥib(e)",
+  "voice": "صاحِب",
+  "masculineOnly": true
+ },
+ {
+  "key": "زَلَمة|zalame",
+  "ids": [
+   "v-ch2-zalame"
+  ],
+  "ar": "زَلَمة",
+  "translit": "zalame",
+  "voice": "زَلَمة",
+  "masculineOnly": false
+ },
+ {
+  "key": "إِمّ|imm",
+  "ids": [
+   "v-ch2-imm",
+   "v-ch5-imm"
+  ],
+  "ar": "إِمّ",
+  "translit": "imm",
+  "voice": "إِمّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "جار|jār",
+  "ids": [
+   "v-ch2-jar"
+  ],
+  "ar": "جار",
+  "translit": "jār",
+  "voice": "جار",
+  "masculineOnly": false
+ },
+ {
+  "key": "ناس|nās",
+  "ids": [
+   "v-ch2-nas"
+  ],
+  "ar": "ناس",
+  "translit": "nās",
+  "voice": "ناس",
+  "masculineOnly": false
+ },
+ {
+  "key": "شَخْص|shakhṣ",
+  "ids": [
+   "v-ch2-shakhs"
+  ],
+  "ar": "شَخْص",
+  "translit": "shakhṣ",
+  "voice": "شَخْص",
+  "masculineOnly": false
+ },
+ {
+  "key": "أُخْت|ukht",
+  "ids": [
+   "v-ch2-ukht",
+   "v-ch5-ukht"
+  ],
+  "ar": "أُخْت",
+  "translit": "ukht",
+  "voice": "أُخْت",
+  "masculineOnly": false
+ },
+ {
+  "key": "طالِب (ـة)|ṭālib",
+  "ids": [
+   "v-ch2-talib"
+  ],
+  "ar": "طالِب (ـة)",
+  "translit": "ṭālib",
+  "voice": "طالِب",
+  "masculineOnly": true
+ },
+ {
+  "key": "أُسْتاذ (ـة)|ustāz(e)",
+  "ids": [
+   "v-ch2-ustaz"
+  ],
+  "ar": "أُسْتاذ (ـة)",
+  "translit": "ustāz(e)",
+  "voice": "أُسْتاز",
+  "masculineOnly": true
+ },
+ {
+  "key": "مَرَة|mara",
+  "ids": [
+   "v-ch2-mara",
+   "v-ch5-mara"
+  ],
+  "ar": "مَرَة",
+  "translit": "mara",
+  "voice": "مَرَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "شَنطَة|shanṭa",
+  "ids": [
+   "v-ch2-shanta"
+  ],
+  "ar": "شَنطَة",
+  "translit": "shanṭa",
+  "voice": "شَنطَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "تَخِت|takhit",
+  "ids": [
+   "v-ch2-takhit",
+   "v-ch3-takhit"
+  ],
+  "ar": "تَخِت",
+  "translit": "takhit",
+  "voice": "تَخِت",
+  "masculineOnly": false
+ },
+ {
+  "key": "كتاب|ktāb",
+  "ids": [
+   "v-ch2-ktab"
+  ],
+  "ar": "كتاب",
+  "translit": "ktāb",
+  "voice": "كتاب",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَنّينِة|ʾannīne",
+  "ids": [
+   "v-ch2-annine"
+  ],
+  "ar": "قَنّينِة",
+  "translit": "ʾannīne",
+  "voice": "أَنّينِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "سَيّارة|sayyāra",
+  "ids": [
+   "v-ch2-sayyara"
+  ],
+  "ar": "سَيّارة",
+  "translit": "sayyāra",
+  "voice": "سَيّارة",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِسِّة|bisse",
+  "ids": [
+   "v-ch2-bisse"
+  ],
+  "ar": "بِسِّة",
+  "translit": "bisse",
+  "voice": "بِسِّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "جَوّال|jawwāl",
+  "ids": [
+   "v-ch2-jawwal",
+   "v-ch4-thing-jawwal"
+  ],
+  "ar": "جَوّال",
+  "translit": "jawwāl",
+  "voice": "جَوّال",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَدينة|madīne",
+  "ids": [
+   "v-ch2-madine"
+  ],
+  "ar": "مَدينة",
+  "translit": "madīne",
+  "voice": "مَدينة",
+  "masculineOnly": false
+ },
+ {
+  "key": "كاسِة|kāse",
+  "ids": [
+   "v-ch2-kase"
+  ],
+  "ar": "كاسِة",
+  "translit": "kāse",
+  "voice": "كاسِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَهْوة|ʾahwe",
+  "ids": [
+   "v-ch2-ahwe",
+   "v-ch4-thing-ahwe",
+   "v-ch5-ahwe"
+  ],
+  "ar": "قَهْوة",
+  "translit": "ʾahwe",
+  "voice": "أَهْوة",
+  "masculineOnly": false
+ },
+ {
+  "key": "كَلْب|kalb",
+  "ids": [
+   "v-ch2-kalb"
+  ],
+  "ar": "كَلْب",
+  "translit": "kalb",
+  "voice": "كَلْب",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَكِل|akil",
+  "ids": [
+   "v-ch2-akil",
+   "v-ch4-thing-akil",
+   "v-ch5-akil"
+  ],
+  "ar": "أَكِل",
+  "translit": "akil",
+  "voice": "أَكِل",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَيت|bēt",
+  "ids": [
+   "v-ch2-bet"
+  ],
+  "ar": "بَيت",
+  "translit": "bēt",
+  "voice": "بَيت",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِفْتاح|miftāḥ",
+  "ids": [
+   "v-ch2-miftah",
+   "v-ch4-thing-miftah"
+  ],
+  "ar": "مِفْتاح",
+  "translit": "miftāḥ",
+  "voice": "مِفْتاح",
+  "masculineOnly": false
+ },
+ {
+  "key": "دَوا|dawa",
+  "ids": [
+   "v-ch2-dawa",
+   "v-ch4-thing-dawa"
+  ],
+  "ar": "دَوا",
+  "translit": "dawa",
+  "voice": "دَوا",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِراية|mirāye",
+  "ids": [
+   "v-ch2-miraye",
+   "v-ch3-miraye"
+  ],
+  "ar": "مِراية",
+  "translit": "mirāye",
+  "voice": "مِراية",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَصاري|maṣāri",
+  "ids": [
+   "v-ch2-masari",
+   "v-ch4-thing-masari"
+  ],
+  "ar": "مَصاري",
+  "translit": "maṣāri",
+  "voice": "مَصاري",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَلَم|ʾalam",
+  "ids": [
+   "v-ch2-alam",
+   "v-ch4-thing-alam"
+  ],
+  "ar": "قَلَم",
+  "translit": "ʾalam",
+  "voice": "أَلَم",
+  "masculineOnly": false
+ },
+ {
+  "key": "صورة|ṣūra",
+  "ids": [
+   "v-ch2-sura"
+  ],
+  "ar": "صورة",
+  "translit": "ṣūra",
+  "voice": "صورة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَحَلّ|maḥall",
+  "ids": [
+   "v-ch2-mahall",
+   "v-ch4-place-mahall"
+  ],
+  "ar": "مَحَلّ",
+  "translit": "maḥall",
+  "voice": "مَحَلّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَطْعَم|maṭʿam",
+  "ids": [
+   "v-ch2-matam",
+   "v-ch4-place-matam"
+  ],
+  "ar": "مَطْعَم",
+  "translit": "maṭʿam",
+  "voice": "مَطْعَم",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَدْرَسة|madrase",
+  "ids": [
+   "v-ch2-madrase",
+   "v-ch4-place-madrase"
+  ],
+  "ar": "مَدْرَسة",
+  "translit": "madrase",
+  "voice": "مَدْرَسة",
+  "masculineOnly": false
+ },
+ {
+  "key": "تلفزيون|tilfizyōn",
+  "ids": [
+   "v-ch2-tilfizyon"
+  ],
+  "ar": "تلفزيون",
+  "translit": "tilfizyōn",
+  "voice": "تلفزيون",
+  "masculineOnly": false
+ },
+ {
+  "key": "لُعْبة|luʿbe",
+  "ids": [
+   "v-ch2-lube"
+  ],
+  "ar": "لُعْبة",
+  "translit": "luʿbe",
+  "voice": "لُعْبة",
+  "masculineOnly": false
+ },
+ {
+  "key": "شاي|shāy",
+  "ids": [
+   "v-ch2-shay",
+   "v-ch5-shay"
+  ],
+  "ar": "شاي",
+  "translit": "shāy",
+  "voice": "شاي",
+  "masculineOnly": false
+ },
+ {
+  "key": "سُؤال|suʾāl",
+  "ids": [
+   "v-ch2-sual"
+  ],
+  "ar": "سُؤال",
+  "translit": "suʾāl",
+  "voice": "سُؤال",
+  "masculineOnly": false
+ },
+ {
+  "key": "مطعم|ma-t'am",
+  "ids": [
+   "v-ch2-sifl-1"
+  ],
+  "ar": "مطعم",
+  "translit": "ma-t'am",
+  "voice": "مطعم",
+  "masculineOnly": false
+ },
+ {
+  "key": "مدرسة|madrase",
+  "ids": [
+   "v-ch2-sifl-2"
+  ],
+  "ar": "مدرسة",
+  "translit": "madrase",
+  "voice": "مدرسة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مطار|matār",
+  "ids": [
+   "v-ch2-sifl-3"
+  ],
+  "ar": "مطار",
+  "translit": "matār",
+  "voice": "مطار",
+  "masculineOnly": false
+ },
+ {
+  "key": "دفتر|daftar",
+  "ids": [
+   "v-ch2-sifl-4"
+  ],
+  "ar": "دفتر",
+  "translit": "daftar",
+  "voice": "دفتر",
+  "masculineOnly": false
+ },
+ {
+  "key": "مفتاح|miftāḥ",
+  "ids": [
+   "v-ch2-sifl-5"
+  ],
+  "ar": "مفتاح",
+  "translit": "miftāḥ",
+  "voice": "مفتاح",
+  "masculineOnly": false
+ },
+ {
+  "key": "كْبير (ـة)|kbīr(e)",
+  "ids": [
+   "v-ch2-adj-kbir"
+  ],
+  "ar": "كْبير (ـة)",
+  "translit": "kbīr(e)",
+  "voice": "كْبير",
+  "masculineOnly": true
+ },
+ {
+  "key": "بِشِع (ـة)|bishiʿ",
+  "ids": [
+   "v-ch2-adj-bishi"
+  ],
+  "ar": "بِشِع (ـة)",
+  "translit": "bishiʿ",
+  "voice": "بِشِع",
+  "masculineOnly": true
+ },
+ {
+  "key": "رْخيص (ـة)|rkhīṣ(a)",
+  "ids": [
+   "v-ch2-adj-rkhis"
+  ],
+  "ar": "رْخيص (ـة)",
+  "translit": "rkhīṣ(a)",
+  "voice": "رْخيص",
+  "masculineOnly": true
+ },
+ {
+  "key": "نْضيف (ـة)|nḍīf(e)",
+  "ids": [
+   "v-ch2-adj-ndif"
+  ],
+  "ar": "نْضيف (ـة)",
+  "translit": "nḍīf(e)",
+  "voice": "نْضيف",
+  "masculineOnly": true
+ },
+ {
+  "key": "بارِد|bārid",
+  "ids": [
+   "v-ch2-adj-barid"
+  ],
+  "ar": "بارِد",
+  "translit": "bārid",
+  "voice": "بارِد",
+  "masculineOnly": false
+ },
+ {
+  "key": "وِسِخ|wisikh",
+  "ids": [
+   "v-ch2-adj-wisikh",
+   "v-ch3-wisikh",
+   "v-ch3-wisikh-2",
+   "v-ch4-adjplace-wisikh",
+   "v-ch4-adjthing-wisikh"
+  ],
+  "ar": "وِسِخ",
+  "translit": "wisikh",
+  "voice": "وِسِخ",
+  "masculineOnly": false
+ },
+ {
+  "key": "غالي|ghāli",
+  "ids": [
+   "v-ch2-adj-ghali",
+   "v-ch4-adjplace-ghali",
+   "v-ch4-adjthing-ghali"
+  ],
+  "ar": "غالي",
+  "translit": "ghāli",
+  "voice": "غالي",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَشْهور (ـة)|mashhūr(e)",
+  "ids": [
+   "v-ch2-adj-mashhur"
+  ],
+  "ar": "مَشْهور (ـة)",
+  "translit": "mashhūr(e)",
+  "voice": "مَشْهور",
+  "masculineOnly": true
+ },
+ {
+  "key": "سَريع (ـة)|sarīʿ(a)",
+  "ids": [
+   "v-ch2-adj-sari"
+  ],
+  "ar": "سَريع (ـة)",
+  "translit": "sarīʿ(a)",
+  "voice": "سَريع",
+  "masculineOnly": true
+ },
+ {
+  "key": "طازَة|ṭāza",
+  "ids": [
+   "v-ch2-adj-taza"
+  ],
+  "ar": "طازَة",
+  "translit": "ṭāza",
+  "voice": "طازَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "حامي|ḥāmi",
+  "ids": [
+   "v-ch2-adj-hami"
+  ],
+  "ar": "حامي",
+  "translit": "ḥāmi",
+  "voice": "حامي",
+  "masculineOnly": false
+ },
+ {
+  "key": "حِلو (ـة)|ḥilu",
+  "ids": [
+   "v-ch2-adj-hilu"
+  ],
+  "ar": "حِلو (ـة)",
+  "translit": "ḥilu",
+  "voice": "حِلو",
+  "masculineOnly": true
+ },
+ {
+  "key": "لَطيف (ـة)|laṭīf(e)",
+  "ids": [
+   "v-ch2-adj-latif"
+  ],
+  "ar": "لَطيف (ـة)",
+  "translit": "laṭīf(e)",
+  "voice": "لَطيف",
+  "masculineOnly": true
+ },
+ {
+  "key": "طَويل (ـة)|ṭawīl(e)",
+  "ids": [
+   "v-ch2-adj-tawil"
+  ],
+  "ar": "طَويل (ـة)",
+  "translit": "ṭawīl(e)",
+  "voice": "طَويل",
+  "masculineOnly": true
+ },
+ {
+  "key": "لَئيم (ـة)|laʾīm(e)",
+  "ids": [
+   "v-ch2-adj-laim"
+  ],
+  "ar": "لَئيم (ـة)",
+  "translit": "laʾīm(e)",
+  "voice": "لَئيم",
+  "masculineOnly": true
+ },
+ {
+  "key": "جْديد (ـة)|jdīd(e)",
+  "ids": [
+   "v-ch2-adj-jdid"
+  ],
+  "ar": "جْديد (ـة)",
+  "translit": "jdīd(e)",
+  "voice": "جْديد",
+  "masculineOnly": true
+ },
+ {
+  "key": "قَديم (ـة)|ʾadīm(e)",
+  "ids": [
+   "v-ch2-adj-adim"
+  ],
+  "ar": "قَديم (ـة)",
+  "translit": "ʾadīm(e)",
+  "voice": "أَديم",
+  "masculineOnly": true
+ },
+ {
+  "key": "قَصير (ـة)|ʾaṣīr(e)",
+  "ids": [
+   "v-ch2-adj-asir"
+  ],
+  "ar": "قَصير (ـة)",
+  "translit": "ʾaṣīr(e)",
+  "voice": "أَصير",
+  "masculineOnly": true
+ },
+ {
+  "key": "بَطيء (ـة)|baṭīʾ(a)",
+  "ids": [
+   "v-ch2-adj-batii"
+  ],
+  "ar": "بَطيء (ـة)",
+  "translit": "baṭīʾ(a)",
+  "voice": "بَطيء",
+  "masculineOnly": true
+ },
+ {
+  "key": "صْغير (ـة)|ẓghīr(e)",
+  "ids": [
+   "v-ch2-adj-zghir"
+  ],
+  "ar": "صْغير (ـة)",
+  "translit": "ẓghīr(e)",
+  "voice": "زْغير",
+  "masculineOnly": true
+ },
+ {
+  "key": "مُناسِب (ـة)|munāsib(e)",
+  "ids": [
+   "v-ch2-adj-munasib"
+  ],
+  "ar": "مُناسِب (ـة)",
+  "translit": "munāsib(e)",
+  "voice": "مُناسِب",
+  "masculineOnly": true
+ },
+ {
+  "key": "جَزائري|jazāʾiri",
+  "ids": [
+   "v-ch2-nat-jazairi"
+  ],
+  "ar": "جَزائري",
+  "translit": "jazāʾiri",
+  "voice": "جَزائري",
+  "masculineOnly": false
+ },
+ {
+  "key": "أمريكي|amrīki",
+  "ids": [
+   "v-ch2-nat-amriki"
+  ],
+  "ar": "أمريكي",
+  "translit": "amrīki",
+  "voice": "أمريكي",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَرَبي|ʿarabi",
+  "ids": [
+   "v-ch2-nat-arabi"
+  ],
+  "ar": "عَرَبي",
+  "translit": "ʿarabi",
+  "voice": "عَرَبي",
+  "masculineOnly": false
+ },
+ {
+  "key": "أسترالي|ustrāli",
+  "ids": [
+   "v-ch2-nat-ustrali"
+  ],
+  "ar": "أسترالي",
+  "translit": "ustrāli",
+  "voice": "أسترالي",
+  "masculineOnly": false
+ },
+ {
+  "key": "برازيلي|barāzīli",
+  "ids": [
+   "v-ch2-nat-barazili"
+  ],
+  "ar": "برازيلي",
+  "translit": "barāzīli",
+  "voice": "برازيلي",
+  "masculineOnly": false
+ },
+ {
+  "key": "بريطاني|briṭāni",
+  "ids": [
+   "v-ch2-nat-britani"
+  ],
+  "ar": "بريطاني",
+  "translit": "briṭāni",
+  "voice": "بريطاني",
+  "masculineOnly": false
+ },
+ {
+  "key": "كندي|kanadi",
+  "ids": [
+   "v-ch2-nat-kanadi"
+  ],
+  "ar": "كندي",
+  "translit": "kanadi",
+  "voice": "كندي",
+  "masculineOnly": false
+ },
+ {
+  "key": "صيني|ṣīni",
+  "ids": [
+   "v-ch2-nat-sini"
+  ],
+  "ar": "صيني",
+  "translit": "ṣīni",
+  "voice": "صيني",
+  "masculineOnly": false
+ },
+ {
+  "key": "دنماركي|dinmārki",
+  "ids": [
+   "v-ch2-nat-dinmarki"
+  ],
+  "ar": "دنماركي",
+  "translit": "dinmārki",
+  "voice": "دنماركي",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِصري|miṣri",
+  "ids": [
+   "v-ch2-nat-misri"
+  ],
+  "ar": "مِصري",
+  "translit": "miṣri",
+  "voice": "مِصري",
+  "masculineOnly": false
+ },
+ {
+  "key": "إنْجليزي|inglīzi",
+  "ids": [
+   "v-ch2-nat-inglizi"
+  ],
+  "ar": "إنْجليزي",
+  "translit": "inglīzi",
+  "voice": "إنْجليزي",
+  "masculineOnly": false
+ },
+ {
+  "key": "إماراتي|imārāti",
+  "ids": [
+   "v-ch2-nat-imarati"
+  ],
+  "ar": "إماراتي",
+  "translit": "imārāti",
+  "voice": "إماراتي",
+  "masculineOnly": false
+ },
+ {
+  "key": "فَرَنْسي|faransi",
+  "ids": [
+   "v-ch2-nat-faransi"
+  ],
+  "ar": "فَرَنْسي",
+  "translit": "faransi",
+  "voice": "فَرَنْسي",
+  "masculineOnly": false
+ },
+ {
+  "key": "ألماني|almāni",
+  "ids": [
+   "v-ch2-nat-almani"
+  ],
+  "ar": "ألماني",
+  "translit": "almāni",
+  "voice": "ألماني",
+  "masculineOnly": false
+ },
+ {
+  "key": "يوناني|yūnāni",
+  "ids": [
+   "v-ch2-nat-yunani"
+  ],
+  "ar": "يوناني",
+  "translit": "yūnāni",
+  "voice": "يوناني",
+  "masculineOnly": false
+ },
+ {
+  "key": "هِنْدي|hindi",
+  "ids": [
+   "v-ch2-nat-hindi"
+  ],
+  "ar": "هِنْدي",
+  "translit": "hindi",
+  "voice": "هِنْدي",
+  "masculineOnly": false
+ },
+ {
+  "key": "إندونيسي|indūnīsi",
+  "ids": [
+   "v-ch2-nat-indunisi"
+  ],
+  "ar": "إندونيسي",
+  "translit": "indūnīsi",
+  "voice": "إندونيسي",
+  "masculineOnly": false
+ },
+ {
+  "key": "إيراني|īrāni",
+  "ids": [
+   "v-ch2-nat-irani"
+  ],
+  "ar": "إيراني",
+  "translit": "īrāni",
+  "voice": "إيراني",
+  "masculineOnly": false
+ },
+ {
+  "key": "عِراقي|ʿirāqi",
+  "ids": [
+   "v-ch2-nat-iraqi"
+  ],
+  "ar": "عِراقي",
+  "translit": "ʿirāqi",
+  "voice": "عِراقي",
+  "masculineOnly": false
+ },
+ {
+  "key": "إيرلندي|īrlandi",
+  "ids": [
+   "v-ch2-nat-irlandi"
+  ],
+  "ar": "إيرلندي",
+  "translit": "īrlandi",
+  "voice": "إيرلندي",
+  "masculineOnly": false
+ },
+ {
+  "key": "إيطالي|iṭāli",
+  "ids": [
+   "v-ch2-nat-itali"
+  ],
+  "ar": "إيطالي",
+  "translit": "iṭāli",
+  "voice": "إيطالي",
+  "masculineOnly": false
+ },
+ {
+  "key": "ياباني|yābāni",
+  "ids": [
+   "v-ch2-nat-yabani"
+  ],
+  "ar": "ياباني",
+  "translit": "yābāni",
+  "voice": "ياباني",
+  "masculineOnly": false
+ },
+ {
+  "key": "أُرْدُني|urdunni",
+  "ids": [
+   "v-ch2-nat-urdunni"
+  ],
+  "ar": "أُرْدُني",
+  "translit": "urdunni",
+  "voice": "أُرْدُني",
+  "masculineOnly": false
+ },
+ {
+  "key": "كوري|kūri",
+  "ids": [
+   "v-ch2-nat-kuri"
+  ],
+  "ar": "كوري",
+  "translit": "kūri",
+  "voice": "كوري",
+  "masculineOnly": false
+ },
+ {
+  "key": "كويتي|kuwēti",
+  "ids": [
+   "v-ch2-nat-kuweti"
+  ],
+  "ar": "كويتي",
+  "translit": "kuwēti",
+  "voice": "كويتي",
+  "masculineOnly": false
+ },
+ {
+  "key": "لُبْناني|lubnāni",
+  "ids": [
+   "v-ch2-nat-lubnani"
+  ],
+  "ar": "لُبْناني",
+  "translit": "lubnāni",
+  "voice": "لُبْناني",
+  "masculineOnly": false
+ },
+ {
+  "key": "مكسيكي|maksīki",
+  "ids": [
+   "v-ch2-nat-maksiki"
+  ],
+  "ar": "مكسيكي",
+  "translit": "maksīki",
+  "voice": "مكسيكي",
+  "masculineOnly": false
+ },
+ {
+  "key": "مغربي|maghribi",
+  "ids": [
+   "v-ch2-nat-maghribi"
+  ],
+  "ar": "مغربي",
+  "translit": "maghribi",
+  "voice": "مغربي",
+  "masculineOnly": false
+ },
+ {
+  "key": "هولندي|hōlandi",
+  "ids": [
+   "v-ch2-nat-holandi"
+  ],
+  "ar": "هولندي",
+  "translit": "hōlandi",
+  "voice": "هولندي",
+  "masculineOnly": false
+ },
+ {
+  "key": "نرويجي|nirwīji",
+  "ids": [
+   "v-ch2-nat-nirwiji"
+  ],
+  "ar": "نرويجي",
+  "translit": "nirwīji",
+  "voice": "نرويجي",
+  "masculineOnly": false
+ },
+ {
+  "key": "فلسطيني|filasṭīni",
+  "ids": [
+   "v-ch2-nat-filastini"
+  ],
+  "ar": "فلسطيني",
+  "translit": "filasṭīni",
+  "voice": "فلسطيني",
+  "masculineOnly": false
+ },
+ {
+  "key": "باكستاني|bākistāni",
+  "ids": [
+   "v-ch2-nat-bakistani"
+  ],
+  "ar": "باكستاني",
+  "translit": "bākistāni",
+  "voice": "باكستاني",
+  "masculineOnly": false
+ },
+ {
+  "key": "بولندي|būlandi",
+  "ids": [
+   "v-ch2-nat-bulandi"
+  ],
+  "ar": "بولندي",
+  "translit": "būlandi",
+  "voice": "بولندي",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَطَري|qaṭari",
+  "ids": [
+   "v-ch2-nat-qatari"
+  ],
+  "ar": "قَطَري",
+  "translit": "qaṭari",
+  "voice": "قَطَري",
+  "masculineOnly": false
+ },
+ {
+  "key": "روسي|rūsi",
+  "ids": [
+   "v-ch2-nat-rusi"
+  ],
+  "ar": "روسي",
+  "translit": "rūsi",
+  "voice": "روسي",
+  "masculineOnly": false
+ },
+ {
+  "key": "سعودي|saʿūdi",
+  "ids": [
+   "v-ch2-nat-saudi"
+  ],
+  "ar": "سعودي",
+  "translit": "saʿūdi",
+  "voice": "سعودي",
+  "masculineOnly": false
+ },
+ {
+  "key": "إسباني|isbāni",
+  "ids": [
+   "v-ch2-nat-isbani"
+  ],
+  "ar": "إسباني",
+  "translit": "isbāni",
+  "voice": "إسباني",
+  "masculineOnly": false
+ },
+ {
+  "key": "سوداني|sūdāni",
+  "ids": [
+   "v-ch2-nat-sudani"
+  ],
+  "ar": "سوداني",
+  "translit": "sūdāni",
+  "voice": "سوداني",
+  "masculineOnly": false
+ },
+ {
+  "key": "سويدي|swīdi",
+  "ids": [
+   "v-ch2-nat-swidi"
+  ],
+  "ar": "سويدي",
+  "translit": "swīdi",
+  "voice": "سويدي",
+  "masculineOnly": false
+ },
+ {
+  "key": "سوري|sūri",
+  "ids": [
+   "v-ch2-nat-suri"
+  ],
+  "ar": "سوري",
+  "translit": "sūri",
+  "voice": "سوري",
+  "masculineOnly": false
+ },
+ {
+  "key": "تونسي|tūnisi",
+  "ids": [
+   "v-ch2-nat-tunisi"
+  ],
+  "ar": "تونسي",
+  "translit": "tūnisi",
+  "voice": "تونسي",
+  "masculineOnly": false
+ },
+ {
+  "key": "تُركي|turki",
+  "ids": [
+   "v-ch2-nat-turki"
+  ],
+  "ar": "تُركي",
+  "translit": "turki",
+  "voice": "تُركي",
+  "masculineOnly": false
+ },
+ {
+  "key": "أوكراني|ukrāni",
+  "ids": [
+   "v-ch2-nat-ukrani"
+  ],
+  "ar": "أوكراني",
+  "translit": "ukrāni",
+  "voice": "أوكراني",
+  "masculineOnly": false
+ },
+ {
+  "key": "يَمَني|yamani",
+  "ids": [
+   "v-ch2-nat-yamani"
+  ],
+  "ar": "يَمَني",
+  "translit": "yamani",
+  "voice": "يَمَني",
+  "masculineOnly": false
+ },
+ {
+  "key": "شَقّة|shaʾʾa",
+  "ids": [
+   "v-ch3-shaa"
+  ],
+  "ar": "شَقّة",
+  "translit": "shaʾʾa",
+  "voice": "شَءّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "عِمارة|ʿimāra",
+  "ids": [
+   "v-ch3-imara"
+  ],
+  "ar": "عِمارة",
+  "translit": "ʿimāra",
+  "voice": "عِمارة",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَصَنْصير|aṣanṣīr",
+  "ids": [
+   "v-ch3-asansir"
+  ],
+  "ar": "أَصَنْصير",
+  "translit": "aṣanṣīr",
+  "voice": "أَصَنْصير",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَدْخَل|madkhal",
+  "ids": [
+   "v-ch3-madkhal"
+  ],
+  "ar": "مَدْخَل",
+  "translit": "madkhal",
+  "voice": "مَدْخَل",
+  "masculineOnly": false
+ },
+ {
+  "key": "طابِق|ṭābiʾ",
+  "ids": [
+   "v-ch3-tabi"
+  ],
+  "ar": "طابِق",
+  "translit": "ṭābiʾ",
+  "voice": "طابِء",
+  "masculineOnly": false
+ },
+ {
+  "key": "كَراج|karāj",
+  "ids": [
+   "v-ch3-karaj"
+  ],
+  "ar": "كَراج",
+  "translit": "karāj",
+  "voice": "كَراج",
+  "masculineOnly": false
+ },
+ {
+  "key": "جَنينة|janīne",
+  "ids": [
+   "v-ch3-janine"
+  ],
+  "ar": "جَنينة",
+  "translit": "janīne",
+  "voice": "جَنينة",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَيْت|bēt",
+  "ids": [
+   "v-ch3-bet"
+  ],
+  "ar": "بَيْت",
+  "translit": "bēt",
+  "voice": "بَيْت",
+  "masculineOnly": false
+ },
+ {
+  "key": "سَقْف|saʾf",
+  "ids": [
+   "v-ch3-saf"
+  ],
+  "ar": "سَقْف",
+  "translit": "saʾf",
+  "voice": "سَءْف",
+  "masculineOnly": false
+ },
+ {
+  "key": "حوش|ḥōsh",
+  "ids": [
+   "v-ch3-hosh"
+  ],
+  "ar": "حوش",
+  "translit": "ḥōsh",
+  "voice": "حوش",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَلْكونِة|balkōne",
+  "ids": [
+   "v-ch3-balkone"
+  ],
+  "ar": "بَلْكونِة",
+  "translit": "balkōne",
+  "voice": "بَلْكونِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَمّام|ḥammām",
+  "ids": [
+   "v-ch3-hammam"
+  ],
+  "ar": "حَمّام",
+  "translit": "ḥammām",
+  "voice": "حَمّام",
+  "masculineOnly": false
+ },
+ {
+  "key": "غُرْفِة النَّوم|ghurfet in-nōm",
+  "ids": [
+   "v-ch3-ghurfet-in-nom"
+  ],
+  "ar": "غُرْفِة النَّوم",
+  "translit": "ghurfet in-nōm",
+  "voice": "غُرْفِة النَّوم",
+  "masculineOnly": false
+ },
+ {
+  "key": "خِزانة|khizāne",
+  "ids": [
+   "v-ch3-khizane",
+   "v-ch3-khizane-2"
+  ],
+  "ar": "خِزانة",
+  "translit": "khizāne",
+  "voice": "خِزانة",
+  "masculineOnly": false
+ },
+ {
+  "key": "غُرْفِة السُّفْرة|ghurfet is-sufra",
+  "ids": [
+   "v-ch3-ghurfet-is-sufra"
+  ],
+  "ar": "غُرْفِة السُّفْرة",
+  "translit": "ghurfet is-sufra",
+  "voice": "غُرْفِة السُّفْرة",
+  "masculineOnly": false
+ },
+ {
+  "key": "غُرْفِة الضُّيوف|ghurfet iḍ-ḍyūf",
+  "ids": [
+   "v-ch3-ghurfet-id-dyuf"
+  ],
+  "ar": "غُرْفِة الضُّيوف",
+  "translit": "ghurfet iḍ-ḍyūf",
+  "voice": "غُرْفِة الضُّيوف",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَطْبَخ|maṭbakh",
+  "ids": [
+   "v-ch3-matbakh"
+  ],
+  "ar": "مَطْبَخ",
+  "translit": "maṭbakh",
+  "voice": "مَطْبَخ",
+  "masculineOnly": false
+ },
+ {
+  "key": "غُرْفِة الغَسيل|ghurfet il-ghasīl",
+  "ids": [
+   "v-ch3-ghurfet-il-ghasil"
+  ],
+  "ar": "غُرْفِة الغَسيل",
+  "translit": "ghurfet il-ghasīl",
+  "voice": "غُرْفِة الغَسيل",
+  "masculineOnly": false
+ },
+ {
+  "key": "صالون|ṣālōn",
+  "ids": [
+   "v-ch3-salon"
+  ],
+  "ar": "صالون",
+  "translit": "ṣālōn",
+  "voice": "صالون",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَكْتَب|maktab",
+  "ids": [
+   "v-ch3-maktab",
+   "v-ch3-maktab-2",
+   "v-ch4-place-maktab"
+  ],
+  "ar": "مَكْتَب",
+  "translit": "maktab",
+  "voice": "مَكْتَب",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَسْبَح|masbaḥ",
+  "ids": [
+   "v-ch3-masbah"
+  ],
+  "ar": "مَسْبَح",
+  "translit": "masbaḥ",
+  "voice": "مَسْبَح",
+  "masculineOnly": false
+ },
+ {
+  "key": "غُرْفَة|ghurfe",
+  "ids": [
+   "v-ch3-ghurfe"
+  ],
+  "ar": "غُرْفَة",
+  "translit": "ghurfe",
+  "voice": "غُرْفَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَخْزَن|makhzan",
+  "ids": [
+   "v-ch3-makhzan"
+  ],
+  "ar": "مَخْزَن",
+  "translit": "makhzan",
+  "voice": "مَخْزَن",
+  "masculineOnly": false
+ },
+ {
+  "key": "كُرْسي|kursi",
+  "ids": [
+   "v-ch3-kursi"
+  ],
+  "ar": "كُرْسي",
+  "translit": "kursi",
+  "voice": "كُرْسي",
+  "masculineOnly": false
+ },
+ {
+  "key": "طاوْلِة وَسَط|ṭāwlet wsaṭ",
+  "ids": [
+   "v-ch3-tawlet-wsat"
+  ],
+  "ar": "طاوْلِة وَسَط",
+  "translit": "ṭāwlet wsaṭ",
+  "voice": "طاوْلِة وَسَط",
+  "masculineOnly": false
+ },
+ {
+  "key": "طاوْلِة سُفْرَة|ṭāwlet sufra",
+  "ids": [
+   "v-ch3-tawlet-sufra"
+  ],
+  "ar": "طاوْلِة سُفْرَة",
+  "translit": "ṭāwlet sufra",
+  "voice": "طاوْلِة سُفْرَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "جَرّار|jarrār",
+  "ids": [
+   "v-ch3-jarrar"
+  ],
+  "ar": "جَرّار",
+  "translit": "jarrār",
+  "voice": "جَرّار",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَفِش|ʿafish",
+  "ids": [
+   "v-ch3-afish"
+  ],
+  "ar": "عَفِش",
+  "translit": "ʿafish",
+  "voice": "عَفِش",
+  "masculineOnly": false
+ },
+ {
+  "key": "رَفّ|raff",
+  "ids": [
+   "v-ch3-raff"
+  ],
+  "ar": "رَفّ",
+  "translit": "raff",
+  "voice": "رَفّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "كَنَبايِة|kanabāye",
+  "ids": [
+   "v-ch3-kanabaye"
+  ],
+  "ar": "كَنَبايِة",
+  "translit": "kanabāye",
+  "voice": "كَنَبايِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "طاوْلِة|ṭāwle",
+  "ids": [
+   "v-ch3-tawle"
+  ],
+  "ar": "طاوْلِة",
+  "translit": "ṭāwle",
+  "voice": "طاوْلِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "حْرام|ḥrām",
+  "ids": [
+   "v-ch3-hram"
+  ],
+  "ar": "حْرام",
+  "translit": "ḥrām",
+  "voice": "حْرام",
+  "masculineOnly": false
+ },
+ {
+  "key": "زاويِة|zāwye",
+  "ids": [
+   "v-ch3-zawye"
+  ],
+  "ar": "زاويِة",
+  "translit": "zāwye",
+  "voice": "زاويِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "باب|bāb",
+  "ids": [
+   "v-ch3-bab"
+  ],
+  "ar": "باب",
+  "translit": "bāb",
+  "voice": "باب",
+  "masculineOnly": false
+ },
+ {
+  "key": "سور|sūr",
+  "ids": [
+   "v-ch3-sur"
+  ],
+  "ar": "سور",
+  "translit": "sūr",
+  "voice": "سور",
+  "masculineOnly": false
+ },
+ {
+  "key": "ضَوّ|ḍaww",
+  "ids": [
+   "v-ch3-daww"
+  ],
+  "ar": "ضَوّ",
+  "translit": "ḍaww",
+  "voice": "ضَوّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "لَمْبِة|lambe",
+  "ids": [
+   "v-ch3-lambe"
+  ],
+  "ar": "لَمْبِة",
+  "translit": "lambe",
+  "voice": "لَمْبِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْخَدِّة|mkhadde",
+  "ids": [
+   "v-ch3-mkhadde"
+  ],
+  "ar": "مْخَدِّة",
+  "translit": "mkhadde",
+  "voice": "مْخَدِّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُشْكِلِة|mushkile",
+  "ids": [
+   "v-ch3-mushkile"
+  ],
+  "ar": "مُشْكِلِة",
+  "translit": "mushkile",
+  "voice": "مُشْكِلِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَرّاد|barrād",
+  "ids": [
+   "v-ch3-barrad"
+  ],
+  "ar": "بَرّاد",
+  "translit": "barrād",
+  "voice": "بَرّاد",
+  "masculineOnly": false
+ },
+ {
+  "key": "سَجّادِة|sajjāde",
+  "ids": [
+   "v-ch3-sajjade"
+  ],
+  "ar": "سَجّادِة",
+  "translit": "sajjāde",
+  "voice": "سَجّادِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَغْسَلِة|maghsale",
+  "ids": [
+   "v-ch3-maghsale"
+  ],
+  "ar": "مَغْسَلِة",
+  "translit": "maghsale",
+  "voice": "مَغْسَلِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَجْلَى|majla",
+  "ids": [
+   "v-ch3-majla"
+  ],
+  "ar": "مَجْلَى",
+  "translit": "majla",
+  "voice": "مَجْلَى",
+  "masculineOnly": false
+ },
+ {
+  "key": "صابون|ṣābūn",
+  "ids": [
+   "v-ch3-sabun"
+  ],
+  "ar": "صابون",
+  "translit": "ṣābūn",
+  "voice": "صابون",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَدا|ḥada",
+  "ids": [
+   "v-ch3-hada"
+  ],
+  "ar": "حَدا",
+  "translit": "ḥada",
+  "voice": "حَدا",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَسْعَة|wasʿa",
+  "ids": [
+   "v-ch3-wasa"
+  ],
+  "ar": "وَسْعَة",
+  "translit": "wasʿa",
+  "voice": "وَسْعَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "تِلْفِزْيون|tilfizyōn",
+  "ids": [
+   "v-ch3-tilfizyon"
+  ],
+  "ar": "تِلْفِزْيون",
+  "translit": "tilfizyōn",
+  "voice": "تِلْفِزْيون",
+  "masculineOnly": false
+ },
+ {
+  "key": "غَرَض|gharaḍ",
+  "ids": [
+   "v-ch3-gharad"
+  ],
+  "ar": "غَرَض",
+  "translit": "gharaḍ",
+  "voice": "غَرَض",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَشْكير|bashkīr",
+  "ids": [
+   "v-ch3-bashkir"
+  ],
+  "ar": "بَشْكير",
+  "translit": "bashkīr",
+  "voice": "بَشْكير",
+  "masculineOnly": false
+ },
+ {
+  "key": "إِطْلالِة|iṭlāle",
+  "ids": [
+   "v-ch3-itlale"
+  ],
+  "ar": "إِطْلالِة",
+  "translit": "iṭlāle",
+  "voice": "إِطْلالِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَيْط|ḥēṭ",
+  "ids": [
+   "v-ch3-het"
+  ],
+  "ar": "حَيْط",
+  "translit": "ḥēṭ",
+  "voice": "حَيْط",
+  "masculineOnly": false
+ },
+ {
+  "key": "غَسّالة|ghassāle",
+  "ids": [
+   "v-ch3-ghassale"
+  ],
+  "ar": "غَسّالة",
+  "translit": "ghassāle",
+  "voice": "غَسّالة",
+  "masculineOnly": false
+ },
+ {
+  "key": "شُبّاك|shubbāk",
+  "ids": [
+   "v-ch3-shubbak"
+  ],
+  "ar": "شُبّاك",
+  "translit": "shubbāk",
+  "voice": "شُبّاك",
+  "masculineOnly": false
+ },
+ {
+  "key": "كْبير|kbīr",
+  "ids": [
+   "v-ch3-kbir",
+   "v-ch4-adjplace-kbir",
+   "v-ch4-adjthing-kbir"
+  ],
+  "ar": "كْبير",
+  "translit": "kbīr",
+  "voice": "كْبير",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَضْوي|maḍwi",
+  "ids": [
+   "v-ch3-madwi"
+  ],
+  "ar": "مَضْوي",
+  "translit": "maḍwi",
+  "voice": "مَضْوي",
+  "masculineOnly": false
+ },
+ {
+  "key": "نْضيف|nḍīf",
+  "ids": [
+   "v-ch3-ndif",
+   "v-ch4-adjplace-ndif",
+   "v-ch4-adjthing-ndif"
+  ],
+  "ar": "نْضيف",
+  "translit": "nḍīf",
+  "voice": "نْضيف",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْسَكَّر|msakkar",
+  "ids": [
+   "v-ch3-msakkar",
+   "v-ch4-adjplace-msakkar"
+  ],
+  "ar": "مْسَكَّر",
+  "translit": "msakkar",
+  "voice": "مْسَكَّر",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُريح|murīḥ",
+  "ids": [
+   "v-ch3-murih"
+  ],
+  "ar": "مُريح",
+  "translit": "murīḥ",
+  "voice": "مُريح",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْعَتِّم|mʿattim",
+  "ids": [
+   "v-ch3-mattim"
+  ],
+  "ar": "مْعَتِّم",
+  "translit": "mʿattim",
+  "voice": "مْعَتِّم",
+  "masculineOnly": false
+ },
+ {
+  "key": "فاضي|fāḍi",
+  "ids": [
+   "v-ch3-fadi",
+   "v-ch4-adjthing-fadi"
+  ],
+  "ar": "فاضي",
+  "translit": "fāḍi",
+  "voice": "فاضي",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَفْروش|mafrūsh",
+  "ids": [
+   "v-ch3-mafrush"
+  ],
+  "ar": "مَفْروش",
+  "translit": "mafrūsh",
+  "voice": "مَفْروش",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَقْفول|maʾfūl",
+  "ids": [
+   "v-ch3-maful"
+  ],
+  "ar": "مَقْفول",
+  "translit": "maʾfūl",
+  "voice": "مَءْفول",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْكَرْكَب|mkarkab",
+  "ids": [
+   "v-ch3-mkarkab"
+  ],
+  "ar": "مْكَرْكَب",
+  "translit": "mkarkab",
+  "voice": "مْكَرْكَب",
+  "masculineOnly": false
+ },
+ {
+  "key": "ضَيِّق|ḍayyiʾ",
+  "ids": [
+   "v-ch3-dayyi"
+  ],
+  "ar": "ضَيِّق",
+  "translit": "ḍayyiʾ",
+  "voice": "ضَيِّء",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْرَتَّب|mrattab",
+  "ids": [
+   "v-ch3-mrattab"
+  ],
+  "ar": "مْرَتَّب",
+  "translit": "mrattab",
+  "voice": "مْرَتَّب",
+  "masculineOnly": false
+ },
+ {
+  "key": "جْديد|jdīd",
+  "ids": [
+   "v-ch3-jdid",
+   "v-ch4-adjplace-jdid",
+   "v-ch4-adjthing-jdid"
+  ],
+  "ar": "جْديد",
+  "translit": "jdīd",
+  "voice": "جْديد",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَديم|ʾadīm",
+  "ids": [
+   "v-ch3-adim",
+   "v-ch4-adjplace-adim",
+   "v-ch4-adjthing-adim"
+  ],
+  "ar": "قَديم",
+  "translit": "ʾadīm",
+  "voice": "أَديم",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَفْتوح|maftūḥ",
+  "ids": [
+   "v-ch3-maftuh",
+   "v-ch4-adjplace-maftuh"
+  ],
+  "ar": "مَفْتوح",
+  "translit": "maftūḥ",
+  "voice": "مَفْتوح",
+  "masculineOnly": false
+ },
+ {
+  "key": "صْغير|ẓghīr",
+  "ids": [
+   "v-ch3-zghir",
+   "v-ch4-adjplace-zghir",
+   "v-ch4-adjthing-zghir"
+  ],
+  "ar": "صْغير",
+  "translit": "ẓghīr",
+  "voice": "زْغير",
+  "masculineOnly": false
+ },
+ {
+  "key": "واسِع|wāsiʿ",
+  "ids": [
+   "v-ch3-wasi"
+  ],
+  "ar": "واسِع",
+  "translit": "wāsiʿ",
+  "voice": "واسِع",
+  "masculineOnly": false
+ },
+ {
+  "key": "شيك|shīk",
+  "ids": [
+   "v-ch3-shik"
+  ],
+  "ar": "شيك",
+  "translit": "shīk",
+  "voice": "شيك",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِش مُريح|mish murīḥ",
+  "ids": [
+   "v-ch3-mish-murih"
+  ],
+  "ar": "مِش مُريح",
+  "translit": "mish murīḥ",
+  "voice": "مِش مُريح",
+  "masculineOnly": false
+ },
+ {
+  "key": "خَرْبان|kharbān",
+  "ids": [
+   "v-ch3-kharban"
+  ],
+  "ar": "خَرْبان",
+  "translit": "kharbān",
+  "voice": "خَرْبان",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَطْلان|ʿaṭlān",
+  "ids": [
+   "v-ch3-atlan"
+  ],
+  "ar": "عَطْلان",
+  "translit": "ʿaṭlān",
+  "voice": "عَطْلان",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْبَلَّل|mballal",
+  "ids": [
+   "v-ch3-mballal"
+  ],
+  "ar": "مْبَلَّل",
+  "translit": "mballal",
+  "voice": "مْبَلَّل",
+  "masculineOnly": false
+ },
+ {
+  "key": "ناشِف|nāshif",
+  "ids": [
+   "v-ch3-nashif"
+  ],
+  "ar": "ناشِف",
+  "translit": "nāshif",
+  "voice": "ناشِف",
+  "masculineOnly": false
+ },
+ {
+  "key": "نازِل|nāzil",
+  "ids": [
+   "v-ch3-nazil"
+  ],
+  "ar": "نازِل",
+  "translit": "nāzil",
+  "voice": "نازِل",
+  "masculineOnly": false
+ },
+ {
+  "key": "عالي|ʿāli",
+  "ids": [
+   "v-ch3-ali"
+  ],
+  "ar": "عالي",
+  "translit": "ʿāli",
+  "voice": "عالي",
+  "masculineOnly": false
+ },
+ {
+  "key": "واطي|wāṭi",
+  "ids": [
+   "v-ch3-wati"
+  ],
+  "ar": "واطي",
+  "translit": "wāṭi",
+  "voice": "واطي",
+  "masculineOnly": false
+ },
+ {
+  "key": "لامِع|lāmiʿ",
+  "ids": [
+   "v-ch3-lami"
+  ],
+  "ar": "لامِع",
+  "translit": "lāmiʿ",
+  "voice": "لامِع",
+  "masculineOnly": false
+ },
+ {
+  "key": "خَشِن|khashin",
+  "ids": [
+   "v-ch3-khashin"
+  ],
+  "ar": "خَشِن",
+  "translit": "khashin",
+  "voice": "خَشِن",
+  "masculineOnly": false
+ },
+ {
+  "key": "ناعِم|nāʿim",
+  "ids": [
+   "v-ch3-naim"
+  ],
+  "ar": "ناعِم",
+  "translit": "nāʿim",
+  "voice": "ناعِم",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَتين|matīn",
+  "ids": [
+   "v-ch3-matin"
+  ],
+  "ar": "مَتين",
+  "translit": "matīn",
+  "voice": "مَتين",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَطْفي|maṭfi",
+  "ids": [
+   "v-ch3-matfi"
+  ],
+  "ar": "مَطْفي",
+  "translit": "maṭfi",
+  "voice": "مَطْفي",
+  "masculineOnly": false
+ },
+ {
+  "key": "ضَعيف|ḍaʿīf",
+  "ids": [
+   "v-ch3-daif"
+  ],
+  "ar": "ضَعيف",
+  "translit": "ḍaʿīf",
+  "voice": "ضَعيف",
+  "masculineOnly": false
+ },
+ {
+  "key": "شَغّال|shaghghāl",
+  "ids": [
+   "v-ch3-shaghghal"
+  ],
+  "ar": "شَغّال",
+  "translit": "shaghghāl",
+  "voice": "شَغّال",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَنْ|ʿan",
+  "ids": [
+   "v-ch3-an"
+  ],
+  "ar": "عَنْ",
+  "translit": "ʿan",
+  "voice": "عَنْ",
+  "masculineOnly": false
+ },
+ {
+  "key": "لَحالُه|laḥālo",
+  "ids": [
+   "v-ch3-lahalo"
+  ],
+  "ar": "لَحالُه",
+  "translit": "laḥālo",
+  "voice": "لَحالُه",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَتّى|ḥatta",
+  "ids": [
+   "v-ch3-hatta"
+  ],
+  "ar": "حَتّى",
+  "translit": "ḥatta",
+  "voice": "حَتّى",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَتّى لَو|ḥatta law",
+  "ids": [
+   "v-ch3-hatta-law"
+  ],
+  "ar": "حَتّى لَو",
+  "translit": "ḥatta law",
+  "voice": "حَتّى لَو",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِن|min",
+  "ids": [
+   "v-ch3-min"
+  ],
+  "ar": "مِن",
+  "translit": "min",
+  "voice": "مِن",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِـ|bi-",
+  "ids": [
+   "v-ch3-bi"
+  ],
+  "ar": "بِـ",
+  "translit": "bi-",
+  "voice": "بِـ",
+  "masculineOnly": false
+ },
+ {
+  "key": "زَيّ|zayy",
+  "ids": [
+   "v-ch3-zayy"
+  ],
+  "ar": "زَيّ",
+  "translit": "zayy",
+  "voice": "زَيّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَ|ʿa",
+  "ids": [
+   "v-ch3-a"
+  ],
+  "ar": "عَ",
+  "translit": "ʿa",
+  "voice": "عَ",
+  "masculineOnly": false
+ },
+ {
+  "key": "لِـ|la",
+  "ids": [
+   "v-ch3-la"
+  ],
+  "ar": "لِـ",
+  "translit": "la",
+  "voice": "لِـ",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِاتِّجاه|bittijāh",
+  "ids": [
+   "v-ch3-bittijah"
+  ],
+  "ar": "بِاتِّجاه",
+  "translit": "bittijāh",
+  "voice": "بِاتِّجاه",
+  "masculineOnly": false
+ },
+ {
+  "key": "لَحَدّ|laḥadd",
+  "ids": [
+   "v-ch3-lahadd"
+  ],
+  "ar": "لَحَدّ",
+  "translit": "laḥadd",
+  "voice": "لَحَدّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَع|maʿ",
+  "ids": [
+   "v-ch3-ma"
+  ],
+  "ar": "مَع",
+  "translit": "maʿ",
+  "voice": "مَع",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَلا|balā",
+  "ids": [
+   "v-ch3-bala"
+  ],
+  "ar": "بَلا",
+  "translit": "balā",
+  "voice": "بَلا",
+  "masculineOnly": false
+ },
+ {
+  "key": "فَوْق|fōʾ",
+  "ids": [
+   "v-ch3-fo"
+  ],
+  "ar": "فَوْق",
+  "translit": "fōʾ",
+  "voice": "فَوْء",
+  "masculineOnly": false
+ },
+ {
+  "key": "قْبال|ʾbāl",
+  "ids": [
+   "v-ch3-bal"
+  ],
+  "ar": "قْبال",
+  "translit": "ʾbāl",
+  "voice": "أْبال",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَعْد|baʿd",
+  "ids": [
+   "v-ch3-bad"
+  ],
+  "ar": "بَعْد",
+  "translit": "baʿd",
+  "voice": "بَعْد",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَوالين|ḥawālēn",
+  "ids": [
+   "v-ch3-hawalen"
+  ],
+  "ar": "حَوالين",
+  "translit": "ḥawālēn",
+  "voice": "حَوالين",
+  "masculineOnly": false
+ },
+ {
+  "key": "عِنْد|ʿind",
+  "ids": [
+   "v-ch3-ind"
+  ],
+  "ar": "عِنْد",
+  "translit": "ʿind",
+  "voice": "عِنْد",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَبْل|ʾabl",
+  "ids": [
+   "v-ch3-abl"
+  ],
+  "ar": "قَبْل",
+  "translit": "ʾabl",
+  "voice": "أَبْل",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَرا|wara",
+  "ids": [
+   "v-ch3-wara"
+  ],
+  "ar": "وَرا",
+  "translit": "wara",
+  "voice": "وَرا",
+  "masculineOnly": false
+ },
+ {
+  "key": "تَحْت|taḥt",
+  "ids": [
+   "v-ch3-taht"
+  ],
+  "ar": "تَحْت",
+  "translit": "taḥt",
+  "voice": "تَحْت",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَيْن|bēn",
+  "ids": [
+   "v-ch3-ben"
+  ],
+  "ar": "بَيْن",
+  "translit": "bēn",
+  "voice": "بَيْن",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَريب مِن|ʾarīb min",
+  "ids": [
+   "v-ch3-arib-min"
+  ],
+  "ar": "قَريب مِن",
+  "translit": "ʾarīb min",
+  "voice": "أَريب مِن",
+  "masculineOnly": false
+ },
+ {
+  "key": "بْعيد عَنْ|bʿīd ʿan",
+  "ids": [
+   "v-ch3-bid-an"
+  ],
+  "ar": "بْعيد عَنْ",
+  "translit": "bʿīd ʿan",
+  "voice": "بْعيد عَنْ",
+  "masculineOnly": false
+ },
+ {
+  "key": "هون|hōn",
+  "ids": [
+   "v-ch3-hon"
+  ],
+  "ar": "هون",
+  "translit": "hōn",
+  "voice": "هون",
+  "masculineOnly": false
+ },
+ {
+  "key": "قُدّام|ʾuddām",
+  "ids": [
+   "v-ch3-uddam"
+  ],
+  "ar": "قُدّام",
+  "translit": "ʾuddām",
+  "voice": "أُدّام",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِالزاوية|biz-zāwye",
+  "ids": [
+   "v-ch3-biz-zawye"
+  ],
+  "ar": "بِالزاوية",
+  "translit": "biz-zāwye",
+  "voice": "بِالزاوية",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنُصّ|b-nuṣṣ",
+  "ids": [
+   "v-ch3-b-nuss"
+  ],
+  "ar": "بِنُصّ",
+  "translit": "b-nuṣṣ",
+  "voice": "بِنُصّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "جُوّا|juwwa",
+  "ids": [
+   "v-ch3-juwwa"
+  ],
+  "ar": "جُوّا",
+  "translit": "juwwa",
+  "voice": "جُوّا",
+  "masculineOnly": false
+ },
+ {
+  "key": "شَمال|shimāl",
+  "ids": [
+   "v-ch3-shimal"
+  ],
+  "ar": "شَمال",
+  "translit": "shimāl",
+  "voice": "شَمال",
+  "masculineOnly": false
+ },
+ {
+  "key": "جَنْب|janb",
+  "ids": [
+   "v-ch3-janb"
+  ],
+  "ar": "جَنْب",
+  "translit": "janb",
+  "voice": "جَنْب",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَرّا|barra",
+  "ids": [
+   "v-ch3-barra"
+  ],
+  "ar": "بَرّا",
+  "translit": "barra",
+  "voice": "بَرّا",
+  "masculineOnly": false
+ },
+ {
+  "key": "يَمين|yamīn",
+  "ids": [
+   "v-ch3-yamin"
+  ],
+  "ar": "يَمين",
+  "translit": "yamīn",
+  "voice": "يَمين",
+  "masculineOnly": false
+ },
+ {
+  "key": "دُغري|dughri",
+  "ids": [
+   "v-ch3-dughri"
+  ],
+  "ar": "دُغري",
+  "translit": "dughri",
+  "voice": "دُغري",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَلى طول|ʿala ṭūl",
+  "ids": [
+   "v-ch3-ala-tul"
+  ],
+  "ar": "عَلى طول",
+  "translit": "ʿala ṭūl",
+  "voice": "عَلى طول",
+  "masculineOnly": false
+ },
+ {
+  "key": "امْبارِح|mbāriḥ",
+  "ids": [
+   "v-ch3-mbarih"
+  ],
+  "ar": "امْبارِح",
+  "translit": "mbāriḥ",
+  "voice": "امْبارِح",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَبِل|ʾabil",
+  "ids": [
+   "v-ch3-abil"
+  ],
+  "ar": "قَبِل",
+  "translit": "ʾabil",
+  "voice": "أَبِل",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِن فَتْرِة|min fatra",
+  "ids": [
+   "v-ch3-min-fatra"
+  ],
+  "ar": "مِن فَتْرِة",
+  "translit": "min fatra",
+  "voice": "مِن فَتْرِة",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِالماضي|bil-māḍi",
+  "ids": [
+   "v-ch3-bil-madi"
+  ],
+  "ar": "بِالماضي",
+  "translit": "bil-māḍi",
+  "voice": "بِالماضي",
+  "masculineOnly": false
+ },
+ {
+  "key": "اليَوْم|il-yōm",
+  "ids": [
+   "v-ch3-il-yom"
+  ],
+  "ar": "اليَوْم",
+  "translit": "il-yōm",
+  "voice": "اليَوْم",
+  "masculineOnly": false
+ },
+ {
+  "key": "هَلَّأ|hallaʾ",
+  "ids": [
+   "v-ch3-halla"
+  ],
+  "ar": "هَلَّأ",
+  "translit": "hallaʾ",
+  "voice": "هَلَّأ",
+  "masculineOnly": false
+ },
+ {
+  "key": "بُكْرا|bukra",
+  "ids": [
+   "v-ch3-bukra"
+  ],
+  "ar": "بُكْرا",
+  "translit": "bukra",
+  "voice": "بُكْرا",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَعْدين|baʿdēn",
+  "ids": [
+   "v-ch3-baden"
+  ],
+  "ar": "بَعْدين",
+  "translit": "baʿdēn",
+  "voice": "بَعْدين",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَعْد شْوَيِّة|baʿd shwayye",
+  "ids": [
+   "v-ch3-bad-shwayye"
+  ],
+  "ar": "بَعْد شْوَيِّة",
+  "translit": "baʿd shwayye",
+  "voice": "بَعْد شْوَيِّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِالمُسْتَقْبَل|bil-mustaʾbal",
+  "ids": [
+   "v-ch3-bil-mustaqbal"
+  ],
+  "ar": "بِالمُسْتَقْبَل",
+  "translit": "bil-mustaʾbal",
+  "voice": "بِالمُسْتَءْبَل",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَطار|maṭār",
+  "ids": [
+   "v-ch4-place-matar"
+  ],
+  "ar": "مَطار",
+  "translit": "maṭār",
+  "voice": "مَطار",
+  "masculineOnly": false
+ },
+ {
+  "key": "صَرّاف آلي|ṣarrāf āli",
+  "ids": [
+   "v-ch4-place-sarraf-ali"
+  ],
+  "ar": "صَرّاف آلي",
+  "translit": "ṣarrāf āli",
+  "voice": "صَرّاف آلي",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَخْبَز|makhbaz",
+  "ids": [
+   "v-ch4-place-makhbaz"
+  ],
+  "ar": "مَخْبَز",
+  "translit": "makhbaz",
+  "voice": "مَخْبَز",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَنْك|bank",
+  "ids": [
+   "v-ch4-place-bank"
+  ],
+  "ar": "بَنْك",
+  "translit": "bank",
+  "voice": "بَنْك",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَحَطّة باصات|maḥaṭṭet bāṣāt",
+  "ids": [
+   "v-ch4-place-mahattet-basat"
+  ],
+  "ar": "مَحَطّة باصات",
+  "translit": "maḥaṭṭet bāṣāt",
+  "voice": "مَحَطّة باصات",
+  "masculineOnly": false
+ },
+ {
+  "key": "كافيه|kāfēh",
+  "ids": [
+   "v-ch4-place-kafeh"
+  ],
+  "ar": "كافيه",
+  "translit": "kāfēh",
+  "voice": "كافيه",
+  "masculineOnly": false
+ },
+ {
+  "key": "كَنيسة|kanīse",
+  "ids": [
+   "v-ch4-place-kanise"
+  ],
+  "ar": "كَنيسة",
+  "translit": "kanīse",
+  "voice": "كَنيسة",
+  "masculineOnly": false
+ },
+ {
+  "key": "عِيادة|ʿiyāde",
+  "ids": [
+   "v-ch4-place-iyade"
+  ],
+  "ar": "عِيادة",
+  "translit": "ʿiyāde",
+  "voice": "عِيادة",
+  "masculineOnly": false
+ },
+ {
+  "key": "كازِيّة|kāziyye",
+  "ids": [
+   "v-ch4-place-kaziyye"
+  ],
+  "ar": "كازِيّة",
+  "translit": "kāziyye",
+  "voice": "كازِيّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "دُكّانة|dukkāne",
+  "ids": [
+   "v-ch4-place-dukkane"
+  ],
+  "ar": "دُكّانة",
+  "translit": "dukkāne",
+  "voice": "دُكّانة",
+  "masculineOnly": false
+ },
+ {
+  "key": "جيم|jīm",
+  "ids": [
+   "v-ch4-place-jim"
+  ],
+  "ar": "جيم",
+  "translit": "jīm",
+  "voice": "جيم",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُسْتَشْفى|mustashfa",
+  "ids": [
+   "v-ch4-place-mustashfa"
+  ],
+  "ar": "مُسْتَشْفى",
+  "translit": "mustashfa",
+  "voice": "مُسْتَشْفى",
+  "masculineOnly": false
+ },
+ {
+  "key": "فُنْدُق|funduʾ",
+  "ids": [
+   "v-ch4-place-fundu"
+  ],
+  "ar": "فُنْدُق",
+  "translit": "funduʾ",
+  "voice": "فُنْدُء",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَكْتَبة|maktabe",
+  "ids": [
+   "v-ch4-place-maktabe"
+  ],
+  "ar": "مَكْتَبة",
+  "translit": "maktabe",
+  "voice": "مَكْتَبة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مول|mōl",
+  "ids": [
+   "v-ch4-place-mol"
+  ],
+  "ar": "مول",
+  "translit": "mōl",
+  "voice": "مول",
+  "masculineOnly": false
+ },
+ {
+  "key": "سوق|sūʾ",
+  "ids": [
+   "v-ch4-place-su"
+  ],
+  "ar": "سوق",
+  "translit": "sūʾ",
+  "voice": "سوء",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَسْجِد|masjid",
+  "ids": [
+   "v-ch4-place-masjid"
+  ],
+  "ar": "مَسْجِد",
+  "translit": "masjid",
+  "voice": "مَسْجِد",
+  "masculineOnly": false
+ },
+ {
+  "key": "سينَما|sīnama",
+  "ids": [
+   "v-ch4-place-sinama"
+  ],
+  "ar": "سينَما",
+  "translit": "sīnama",
+  "voice": "سينَما",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَتْحَف|matḥaf",
+  "ids": [
+   "v-ch4-place-mathaf"
+  ],
+  "ar": "مَتْحَف",
+  "translit": "matḥaf",
+  "voice": "مَتْحَف",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَديقة|ḥadīʾa",
+  "ids": [
+   "v-ch4-place-hadia"
+  ],
+  "ar": "حَديقة",
+  "translit": "ḥadīʾa",
+  "voice": "حَديءة",
+  "masculineOnly": false
+ },
+ {
+  "key": "صَيْدَلِيّة|ṣaydaliyye",
+  "ids": [
+   "v-ch4-place-saydaliyye"
+  ],
+  "ar": "صَيْدَلِيّة",
+  "translit": "ṣaydaliyye",
+  "voice": "صَيْدَلِيّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَحَلّ تِلِفونات|maḥall tilifōnāt",
+  "ids": [
+   "v-ch4-place-mahall-tilifonat"
+  ],
+  "ar": "مَحَلّ تِلِفونات",
+  "translit": "maḥall tilifōnāt",
+  "voice": "مَحَلّ تِلِفونات",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَرْكَز شُرْطة|markaz shurṭa",
+  "ids": [
+   "v-ch4-place-markaz-shurta"
+  ],
+  "ar": "مَرْكَز شُرْطة",
+  "translit": "markaz shurṭa",
+  "voice": "مَرْكَز شُرْطة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَكْتَب بَريد|maktab barīd",
+  "ids": [
+   "v-ch4-place-maktab-barid"
+  ],
+  "ar": "مَكْتَب بَريد",
+  "translit": "maktab barīd",
+  "voice": "مَكْتَب بَريد",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَحَلّ كَنادِر|maḥall kanādir",
+  "ids": [
+   "v-ch4-place-mahall-kanadir"
+  ],
+  "ar": "مَحَلّ كَنادِر",
+  "translit": "maḥall kanādir",
+  "voice": "مَحَلّ كَنادِر",
+  "masculineOnly": false
+ },
+ {
+  "key": "سوبرماركت|sūbarmārkit",
+  "ids": [
+   "v-ch4-place-subarmarkit"
+  ],
+  "ar": "سوبرماركت",
+  "translit": "sūbarmārkit",
+  "voice": "سوبرماركت",
+  "masculineOnly": false
+ },
+ {
+  "key": "جامِعة|jāmʿa",
+  "ids": [
+   "v-ch4-place-jama"
+  ],
+  "ar": "جامِعة",
+  "translit": "jāmʿa",
+  "voice": "جامِعة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَوْعِد|mawʿid",
+  "ids": [
+   "v-ch4-thing-mawid",
+   "v-ch5-mawid"
+  ],
+  "ar": "مَوْعِد",
+  "translit": "mawʿid",
+  "voice": "مَوْعِد",
+  "masculineOnly": false
+ },
+ {
+  "key": "شَنْطة|shanṭa",
+  "ids": [
+   "v-ch4-thing-shanta"
+  ],
+  "ar": "شَنْطة",
+  "translit": "shanṭa",
+  "voice": "شَنْطة",
+  "masculineOnly": false
+ },
+ {
+  "key": "طابة|ṭābe",
+  "ids": [
+   "v-ch4-thing-tabe"
+  ],
+  "ar": "طابة",
+  "translit": "ṭābe",
+  "voice": "طابة",
+  "masculineOnly": false
+ },
+ {
+  "key": "كْتاب|ktāb",
+  "ids": [
+   "v-ch4-thing-ktab"
+  ],
+  "ar": "كْتاب",
+  "translit": "ktāb",
+  "voice": "كْتاب",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَنّينة|ʾannīne",
+  "ids": [
+   "v-ch4-thing-annine"
+  ],
+  "ar": "قَنّينة",
+  "translit": "ʾannīne",
+  "voice": "أَنّينة",
+  "masculineOnly": false
+ },
+ {
+  "key": "باص|bāṣ",
+  "ids": [
+   "v-ch4-thing-bas"
+  ],
+  "ar": "باص",
+  "translit": "bāṣ",
+  "voice": "باص",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِطاقة|biṭāʾa",
+  "ids": [
+   "v-ch4-thing-bitaa"
+  ],
+  "ar": "بِطاقة",
+  "translit": "biṭāʾa",
+  "voice": "بِطاءة",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَواعي|awāʿi",
+  "ids": [
+   "v-ch4-thing-awai"
+  ],
+  "ar": "أَواعي",
+  "translit": "awāʿi",
+  "voice": "أَواعي",
+  "masculineOnly": false
+ },
+ {
+  "key": "كَمْبيوتر|kambyūtar",
+  "ids": [
+   "v-ch4-thing-kambyutar"
+  ],
+  "ar": "كَمْبيوتر",
+  "translit": "kambyūtar",
+  "voice": "كَمْبيوتر",
+  "masculineOnly": false
+ },
+ {
+  "key": "دُكْتور|duktōr",
+  "ids": [
+   "v-ch4-thing-duktor"
+  ],
+  "ar": "دُكْتور",
+  "translit": "duktōr",
+  "voice": "دُكْتور",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَنْزين|banzīn",
+  "ids": [
+   "v-ch4-thing-banzin"
+  ],
+  "ar": "بَنْزين",
+  "translit": "banzīn",
+  "voice": "بَنْزين",
+  "masculineOnly": false
+ },
+ {
+  "key": "أَغْراض|aghrāḍ",
+  "ids": [
+   "v-ch4-thing-aghrad"
+  ],
+  "ar": "أَغْراض",
+  "translit": "aghrāḍ",
+  "voice": "أَغْراض",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِطاقة هُوِيّة|biṭāʾet huwiyye",
+  "ids": [
+   "v-ch4-thing-bitaet-huwiyye"
+  ],
+  "ar": "بِطاقة هُوِيّة",
+  "translit": "biṭāʾet huwiyye",
+  "voice": "بِطاءة هُوِيّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "رِسالة|risāle",
+  "ids": [
+   "v-ch4-thing-risale"
+  ],
+  "ar": "رِسالة",
+  "translit": "risāle",
+  "voice": "رِسالة",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَليب|ḥalīb",
+  "ids": [
+   "v-ch4-thing-halib"
+  ],
+  "ar": "حَليب",
+  "translit": "ḥalīb",
+  "voice": "حَليب",
+  "masculineOnly": false
+ },
+ {
+  "key": "فَحْص|faḥṣ",
+  "ids": [
+   "v-ch4-thing-fahs"
+  ],
+  "ar": "فَحْص",
+  "translit": "faḥṣ",
+  "voice": "فَحْص",
+  "masculineOnly": false
+ },
+ {
+  "key": "رَغيف خُبْز|raghīf khubz",
+  "ids": [
+   "v-ch4-thing-raghif-khubz"
+  ],
+  "ar": "رَغيف خُبْز",
+  "translit": "raghīf khubz",
+  "voice": "رَغيف خُبْز",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِشْتِراك|ishtirāk",
+  "ids": [
+   "v-ch4-thing-ishtirak"
+  ],
+  "ar": "اِشْتِراك",
+  "translit": "ishtirāk",
+  "voice": "اِشْتِراك",
+  "masculineOnly": false
+ },
+ {
+  "key": "دَفْتَر|daftar",
+  "ids": [
+   "v-ch4-thing-daftar"
+  ],
+  "ar": "دَفْتَر",
+  "translit": "daftar",
+  "voice": "دَفْتَر",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَوْقِف|mawʾif",
+  "ids": [
+   "v-ch4-thing-mawif"
+  ],
+  "ar": "مَوْقِف",
+  "translit": "mawʾif",
+  "voice": "مَوْءِف",
+  "masculineOnly": false
+ },
+ {
+  "key": "تِلِفون|tilifōn",
+  "ids": [
+   "v-ch4-thing-tilifon"
+  ],
+  "ar": "تِلِفون",
+  "translit": "tilifōn",
+  "voice": "تِلِفون",
+  "masculineOnly": false
+ },
+ {
+  "key": "شُرْطي|shurṭi",
+  "ids": [
+   "v-ch4-thing-shurti"
+  ],
+  "ar": "شُرْطي",
+  "translit": "shurṭi",
+  "voice": "شُرْطي",
+  "masculineOnly": false
+ },
+ {
+  "key": "غُرْفة|ghurfe",
+  "ids": [
+   "v-ch4-thing-ghurfe"
+  ],
+  "ar": "غُرْفة",
+  "translit": "ghurfe",
+  "voice": "غُرْفة",
+  "masculineOnly": false
+ },
+ {
+  "key": "كُنْدَرة|kundara",
+  "ids": [
+   "v-ch4-thing-kundara"
+  ],
+  "ar": "كُنْدَرة",
+  "translit": "kundara",
+  "voice": "كُنْدَرة",
+  "masculineOnly": false
+ },
+ {
+  "key": "تَذْكَرة|tazkara",
+  "ids": [
+   "v-ch4-thing-tazkara"
+  ],
+  "ar": "تَذْكَرة",
+  "translit": "tazkara",
+  "voice": "تَزْكَرة",
+  "masculineOnly": false
+ },
+ {
+  "key": "عِدّة|ʿidde",
+  "ids": [
+   "v-ch4-thing-idde"
+  ],
+  "ar": "عِدّة",
+  "translit": "ʿidde",
+  "voice": "عِدّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "خُضْرة|khuḍra",
+  "ids": [
+   "v-ch4-thing-khudra"
+  ],
+  "ar": "خُضْرة",
+  "translit": "khuḍra",
+  "voice": "خُضْرة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَيّ|mayy",
+  "ids": [
+   "v-ch4-thing-mayy",
+   "v-ch5-mayy"
+  ],
+  "ar": "مَيّ",
+  "translit": "mayy",
+  "voice": "مَيّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَنّينة مَيّ|ʾannīnet mayy",
+  "ids": [
+   "v-ch4-thing-anninet-mayy"
+  ],
+  "ar": "قَنّينة مَيّ",
+  "translit": "ʾannīnet mayy",
+  "voice": "أَنّينة مَيّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَزْن|wazn",
+  "ids": [
+   "v-ch4-thing-wazn"
+  ],
+  "ar": "وَزْن",
+  "translit": "wazn",
+  "voice": "وَزْن",
+  "masculineOnly": false
+ },
+ {
+  "key": "فيه زَحْمة|fīh zaḥme",
+  "ids": [
+   "v-ch4-adjplace-fih-zahme"
+  ],
+  "ar": "فيه زَحْمة",
+  "translit": "fīh zaḥme",
+  "voice": "فيه زَحْمة",
+  "masculineOnly": false
+ },
+ {
+  "key": "رْخيص|rkhīṣ",
+  "ids": [
+   "v-ch4-adjplace-rkhis",
+   "v-ch4-adjthing-rkhis"
+  ],
+  "ar": "رْخيص",
+  "translit": "rkhīṣ",
+  "voice": "رْخيص",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَريب|ʾarīb",
+  "ids": [
+   "v-ch4-adjplace-arib",
+   "v-ch5-arib"
+  ],
+  "ar": "قَريب",
+  "translit": "ʾarīb",
+  "voice": "أَريب",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَشْهور|mashhūr",
+  "ids": [
+   "v-ch4-adjplace-mashhur"
+  ],
+  "ar": "مَشْهور",
+  "translit": "mashhūr",
+  "voice": "مَشْهور",
+  "masculineOnly": false
+ },
+ {
+  "key": "بْعيد|bʿīd",
+  "ids": [
+   "v-ch4-adjplace-bid"
+  ],
+  "ar": "بْعيد",
+  "translit": "bʿīd",
+  "voice": "بْعيد",
+  "masculineOnly": false
+ },
+ {
+  "key": "هادي|hādi",
+  "ids": [
+   "v-ch4-adjplace-hadi"
+  ],
+  "ar": "هادي",
+  "translit": "hādi",
+  "voice": "هادي",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَوْجود|mawjūd",
+  "ids": [
+   "v-ch4-adjthing-mawjud"
+  ],
+  "ar": "مَوْجود",
+  "translit": "mawjūd",
+  "voice": "مَوْجود",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَكْسور|maksūr",
+  "ids": [
+   "v-ch4-adjthing-maksur"
+  ],
+  "ar": "مَكْسور",
+  "translit": "maksūr",
+  "voice": "مَكْسور",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَشْحون|mashḥūn",
+  "ids": [
+   "v-ch4-adjthing-mashhun"
+  ],
+  "ar": "مَشْحون",
+  "translit": "mashḥūn",
+  "voice": "مَشْحون",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَلْيان|malyān",
+  "ids": [
+   "v-ch4-adjthing-malyan"
+  ],
+  "ar": "مَلْيان",
+  "translit": "malyān",
+  "voice": "مَلْيان",
+  "masculineOnly": false
+ },
+ {
+  "key": "تْقيل|tʾīl",
+  "ids": [
+   "v-ch4-adjthing-til"
+  ],
+  "ar": "تْقيل",
+  "translit": "tʾīl",
+  "voice": "تْءيل",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُهِمّ|muhimm",
+  "ids": [
+   "v-ch4-adjthing-muhimm",
+   "v-ch5-muhimm"
+  ],
+  "ar": "مُهِمّ",
+  "translit": "muhimm",
+  "voice": "مُهِمّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "خَفيف|khafīf",
+  "ids": [
+   "v-ch4-adjthing-khafif"
+  ],
+  "ar": "خَفيف",
+  "translit": "khafīf",
+  "voice": "خَفيف",
+  "masculineOnly": false
+ },
+ {
+  "key": "ضايِع|ḍāyiʿ",
+  "ids": [
+   "v-ch4-adjthing-dayi"
+  ],
+  "ar": "ضايِع",
+  "translit": "ḍāyiʿ",
+  "voice": "ضايِع",
+  "masculineOnly": false
+ },
+ {
+  "key": "ضَروري|ḍarūri",
+  "ids": [
+   "v-ch4-adjthing-daruri"
+  ],
+  "ar": "ضَروري",
+  "translit": "ḍarūri",
+  "voice": "ضَروري",
+  "masculineOnly": false
+ },
+ {
+  "key": "عِيلة|ʿēle",
+  "ids": [
+   "v-ch5-eile"
+  ],
+  "ar": "عِيلة",
+  "translit": "ʿēle",
+  "voice": "عِيلة",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَلَد، اِبِن|walad, ibin",
+  "ids": [
+   "v-ch5-walad-ibin"
+  ],
+  "ar": "وَلَد، اِبِن",
+  "translit": "walad, ibin",
+  "voice": "وَلَد، اِبِن",
+  "masculineOnly": false
+ },
+ {
+  "key": "زَوْج|zōj",
+  "ids": [
+   "v-ch5-zoj"
+  ],
+  "ar": "زَوْج",
+  "translit": "zōj",
+  "voice": "زَوْج",
+  "masculineOnly": false
+ },
+ {
+  "key": "سِيد|sīd",
+  "ids": [
+   "v-ch5-sid"
+  ],
+  "ar": "سِيد",
+  "translit": "sīd",
+  "voice": "سِيد",
+  "masculineOnly": false
+ },
+ {
+  "key": "سِتّ|sitt",
+  "ids": [
+   "v-ch5-sitt"
+  ],
+  "ar": "سِتّ",
+  "translit": "sitt",
+  "voice": "سِتّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَفيد|ḥafīd",
+  "ids": [
+   "v-ch5-hafid"
+  ],
+  "ar": "حَفيد",
+  "translit": "ḥafīd",
+  "voice": "حَفيد",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَفيدة|ḥafīde",
+  "ids": [
+   "v-ch5-hafide"
+  ],
+  "ar": "حَفيدة",
+  "translit": "ḥafīde",
+  "voice": "حَفيدة",
+  "masculineOnly": false
+ },
+ {
+  "key": "والِدَيْن|wālidēn",
+  "ids": [
+   "v-ch5-walidein"
+  ],
+  "ar": "والِدَيْن",
+  "translit": "wālidēn",
+  "voice": "والِدَيْن",
+  "masculineOnly": false
+ },
+ {
+  "key": "أهِل|ahl",
+  "ids": [
+   "v-ch5-ahl"
+  ],
+  "ar": "أهِل",
+  "translit": "ahl",
+  "voice": "أهِل",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَمّ|ʿamm",
+  "ids": [
+   "v-ch5-amm"
+  ],
+  "ar": "عَمّ",
+  "translit": "ʿamm",
+  "voice": "عَمّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَمّة|ʿamme",
+  "ids": [
+   "v-ch5-amme"
+  ],
+  "ar": "عَمّة",
+  "translit": "ʿamme",
+  "voice": "عَمّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "خال|khāl",
+  "ids": [
+   "v-ch5-khal"
+  ],
+  "ar": "خال",
+  "translit": "khāl",
+  "voice": "خال",
+  "masculineOnly": false
+ },
+ {
+  "key": "خالة|khāle",
+  "ids": [
+   "v-ch5-khale"
+  ],
+  "ar": "خالة",
+  "translit": "khāle",
+  "voice": "خالة",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِبْن عَمّ|ibin ʿamm",
+  "ids": [
+   "v-ch5-ibin-amm"
+  ],
+  "ar": "اِبْن عَمّ",
+  "translit": "ibin ʿamm",
+  "voice": "اِبْن عَمّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنْت عَمّ|bint ʿamm",
+  "ids": [
+   "v-ch5-bint-amm"
+  ],
+  "ar": "بِنْت عَمّ",
+  "translit": "bint ʿamm",
+  "voice": "بِنْت عَمّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِبْن عَمّة|ibin ʿamme",
+  "ids": [
+   "v-ch5-ibin-amme"
+  ],
+  "ar": "اِبْن عَمّة",
+  "translit": "ibin ʿamme",
+  "voice": "اِبْن عَمّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنْت عَمّة|bint ʿamme",
+  "ids": [
+   "v-ch5-bint-amme"
+  ],
+  "ar": "بِنْت عَمّة",
+  "translit": "bint ʿamme",
+  "voice": "بِنْت عَمّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِبْن خال|ibin khāl",
+  "ids": [
+   "v-ch5-ibin-khal"
+  ],
+  "ar": "اِبْن خال",
+  "translit": "ibin khāl",
+  "voice": "اِبْن خال",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنْت خال|bint khāl",
+  "ids": [
+   "v-ch5-bint-khal"
+  ],
+  "ar": "بِنْت خال",
+  "translit": "bint khāl",
+  "voice": "بِنْت خال",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِبْن خالة|ibin khāle",
+  "ids": [
+   "v-ch5-ibin-khale"
+  ],
+  "ar": "اِبْن خالة",
+  "translit": "ibin khāle",
+  "voice": "اِبْن خالة",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنْت خالة|bint khāle",
+  "ids": [
+   "v-ch5-bint-khale"
+  ],
+  "ar": "بِنْت خالة",
+  "translit": "bint khāle",
+  "voice": "بِنْت خالة",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِبْن عَمّي|ibin ʿammī",
+  "ids": [
+   "v-ch5-ibin-ammi"
+  ],
+  "ar": "اِبْن عَمّي",
+  "translit": "ibin ʿammī",
+  "voice": "اِبْن عَمّي",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنْت عَمّي|bint ʿammī",
+  "ids": [
+   "v-ch5-bint-ammi"
+  ],
+  "ar": "بِنْت عَمّي",
+  "translit": "bint ʿammī",
+  "voice": "بِنْت عَمّي",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِبْن عَمّتي|ibin ʿammtī",
+  "ids": [
+   "v-ch5-ibin-ammti"
+  ],
+  "ar": "اِبْن عَمّتي",
+  "translit": "ibin ʿammtī",
+  "voice": "اِبْن عَمّتي",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنْت عَمّتي|bint ʿammtī",
+  "ids": [
+   "v-ch5-bint-ammti"
+  ],
+  "ar": "بِنْت عَمّتي",
+  "translit": "bint ʿammtī",
+  "voice": "بِنْت عَمّتي",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِبْن خالي|ibin khālī",
+  "ids": [
+   "v-ch5-ibin-khali"
+  ],
+  "ar": "اِبْن خالي",
+  "translit": "ibin khālī",
+  "voice": "اِبْن خالي",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنْت خالي|bint khālī",
+  "ids": [
+   "v-ch5-bint-khali"
+  ],
+  "ar": "بِنْت خالي",
+  "translit": "bint khālī",
+  "voice": "بِنْت خالي",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِبْن خالتي|ibin khāltī",
+  "ids": [
+   "v-ch5-ibin-khalti"
+  ],
+  "ar": "اِبْن خالتي",
+  "translit": "ibin khāltī",
+  "voice": "اِبْن خالتي",
+  "masculineOnly": false
+ },
+ {
+  "key": "بِنْت خالتي|bint khāltī",
+  "ids": [
+   "v-ch5-bint-khalti"
+  ],
+  "ar": "بِنْت خالتي",
+  "translit": "bint khāltī",
+  "voice": "بِنْت خالتي",
+  "masculineOnly": false
+ },
+ {
+  "key": "كِنّة|kinne",
+  "ids": [
+   "v-ch5-kinne"
+  ],
+  "ar": "كِنّة",
+  "translit": "kinne",
+  "voice": "كِنّة",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَما|ḥamā",
+  "ids": [
+   "v-ch5-hama"
+  ],
+  "ar": "حَما",
+  "translit": "ḥamā",
+  "voice": "حَما",
+  "masculineOnly": false
+ },
+ {
+  "key": "نَسيب|nasīb",
+  "ids": [
+   "v-ch5-nasib"
+  ],
+  "ar": "نَسيب",
+  "translit": "nasīb",
+  "voice": "نَسيب",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَماة|ḥamāt",
+  "ids": [
+   "v-ch5-hamat"
+  ],
+  "ar": "حَماة",
+  "translit": "ḥamāt",
+  "voice": "حَماة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْعَصِّب|mʿaṣṣib",
+  "ids": [
+   "v-ch5-mAassib"
+  ],
+  "ar": "مْعَصِّب",
+  "translit": "mʿaṣṣib",
+  "voice": "مْعَصِّب",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِتْضايِق|mitḍāyiʾ",
+  "ids": [
+   "v-ch5-mitdayi2"
+  ],
+  "ar": "مِتْضايِق",
+  "translit": "mitḍāyiʾ",
+  "voice": "مِتْضايِء",
+  "masculineOnly": false
+ },
+ {
+  "key": "زَهْقان|zahʾān",
+  "ids": [
+   "v-ch5-zah2an"
+  ],
+  "ar": "زَهْقان",
+  "translit": "zahʾān",
+  "voice": "زَهْءان",
+  "masculineOnly": false
+ },
+ {
+  "key": "مْخَرْبَط|mkharbaṭ",
+  "ids": [
+   "v-ch5-mkharbat"
+  ],
+  "ar": "مْخَرْبَط",
+  "translit": "mkharbaṭ",
+  "voice": "مْخَرْبَط",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِتْحَمِّس|mitḥammis",
+  "ids": [
+   "v-ch5-mithammis"
+  ],
+  "ar": "مِتْحَمِّس",
+  "translit": "mitḥammis",
+  "voice": "مِتْحَمِّس",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَبْسوط|mabsūṭ",
+  "ids": [
+   "v-ch5-mabsut"
+  ],
+  "ar": "مَبْسوط",
+  "translit": "mabsūṭ",
+  "voice": "مَبْسوط",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِهْتَمّ|mihtamm",
+  "ids": [
+   "v-ch5-mihtamm"
+  ],
+  "ar": "مِهْتَمّ",
+  "translit": "mihtamm",
+  "voice": "مِهْتَمّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "فَخور|fakhūr",
+  "ids": [
+   "v-ch5-fakhur"
+  ],
+  "ar": "فَخور",
+  "translit": "fakhūr",
+  "voice": "فَخور",
+  "masculineOnly": false
+ },
+ {
+  "key": "خايِف|khāyif",
+  "ids": [
+   "v-ch5-khayif"
+  ],
+  "ar": "خايِف",
+  "translit": "khāyif",
+  "voice": "خايِف",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَضْغوط|maḍghūṭ",
+  "ids": [
+   "v-ch5-madghut"
+  ],
+  "ar": "مَضْغوط",
+  "translit": "maḍghūṭ",
+  "voice": "مَضْغوط",
+  "masculineOnly": false
+ },
+ {
+  "key": "زَعْلان|zaʿlān",
+  "ids": [
+   "v-ch5-zaAlan"
+  ],
+  "ar": "زَعْلان",
+  "translit": "zaʿlān",
+  "voice": "زَعْلان",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَشْغول|mashghūl",
+  "ids": [
+   "v-ch5-mashghul"
+  ],
+  "ar": "مَشْغول",
+  "translit": "mashghūl",
+  "voice": "مَشْغول",
+  "masculineOnly": false
+ },
+ {
+  "key": "بَرْدان|bardān",
+  "ids": [
+   "v-ch5-bardan"
+  ],
+  "ar": "بَرْدان",
+  "translit": "bardān",
+  "voice": "بَرْدان",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِرْتاح|mirtāḥ",
+  "ids": [
+   "v-ch5-mirtah"
+  ],
+  "ar": "مِرْتاح",
+  "translit": "mirtāḥ",
+  "voice": "مِرْتاح",
+  "masculineOnly": false
+ },
+ {
+  "key": "خَجْلان|khajlān",
+  "ids": [
+   "v-ch5-khajlan"
+  ],
+  "ar": "خَجْلان",
+  "translit": "khajlān",
+  "voice": "خَجْلان",
+  "masculineOnly": false
+ },
+ {
+  "key": "جوعان|jūʿān",
+  "ids": [
+   "v-ch5-juAan"
+  ],
+  "ar": "جوعان",
+  "translit": "jūʿān",
+  "voice": "جوعان",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِسْتَعْجِل|mistaʿjil",
+  "ids": [
+   "v-ch5-mistaAjil"
+  ],
+  "ar": "مِسْتَعْجِل",
+  "translit": "mistaʿjil",
+  "voice": "مِسْتَعْجِل",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِتْأَخِّر|mitʾakhkhir",
+  "ids": [
+   "v-ch5-mit2akhkhir"
+  ],
+  "ar": "مِتْأَخِّر",
+  "translit": "mitʾakhkhir",
+  "voice": "مِتْأَخِّر",
+  "masculineOnly": false
+ },
+ {
+  "key": "جاهِز|jāhiz",
+  "ids": [
+   "v-ch5-jahiz"
+  ],
+  "ar": "جاهِز",
+  "translit": "jāhiz",
+  "voice": "جاهِز",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَريض|marīḍ",
+  "ids": [
+   "v-ch5-marid"
+  ],
+  "ar": "مَريض",
+  "translit": "marīḍ",
+  "voice": "مَريض",
+  "masculineOnly": false
+ },
+ {
+  "key": "نَعْسان|naʿsān",
+  "ids": [
+   "v-ch5-naAsan"
+  ],
+  "ar": "نَعْسان",
+  "translit": "naʿsān",
+  "voice": "نَعْسان",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَطْشان|ʿaṭshān",
+  "ids": [
+   "v-ch5-Aatshan"
+  ],
+  "ar": "عَطْشان",
+  "translit": "ʿaṭshān",
+  "voice": "عَطْشان",
+  "masculineOnly": false
+ },
+ {
+  "key": "تَعْبان|taʿbān",
+  "ids": [
+   "v-ch5-taAban"
+  ],
+  "ar": "تَعْبان",
+  "translit": "taʿbān",
+  "voice": "تَعْبان",
+  "masculineOnly": false
+ },
+ {
+  "key": "قَلْقان|ʾalʾān",
+  "ids": [
+   "v-ch5-2al2an"
+  ],
+  "ar": "قَلْقان",
+  "translit": "ʾalʾān",
+  "voice": "أَلْءان",
+  "masculineOnly": false
+ },
+ {
+  "key": "مِزْعِج|mizʿij",
+  "ids": [
+   "v-ch5-mizAij"
+  ],
+  "ar": "مِزْعِج",
+  "translit": "mizʿij",
+  "voice": "مِزْعِج",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُمِلّ|mumill",
+  "ids": [
+   "v-ch5-mumill"
+  ],
+  "ar": "مُمِلّ",
+  "translit": "mumill",
+  "voice": "مُمِلّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "صَعِب|ṣaʿib",
+  "ids": [
+   "v-ch5-saAib"
+  ],
+  "ar": "صَعِب",
+  "translit": "ṣaʿib",
+  "voice": "صَعِب",
+  "masculineOnly": false
+ },
+ {
+  "key": "سَهِل|sahil",
+  "ids": [
+   "v-ch5-sahil"
+  ],
+  "ar": "سَهِل",
+  "translit": "sahil",
+  "voice": "سَهِل",
+  "masculineOnly": false
+ },
+ {
+  "key": "لَطيف|laṭīf",
+  "ids": [
+   "v-ch5-latif"
+  ],
+  "ar": "لَطيف",
+  "translit": "laṭīf",
+  "voice": "لَطيف",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُتْعِب|mutʿib",
+  "ids": [
+   "v-ch5-mutAib"
+  ],
+  "ar": "مُتْعِب",
+  "translit": "mutʿib",
+  "voice": "مُتْعِب",
+  "masculineOnly": false
+ },
+ {
+  "key": "السُؤال|is-suʾāl",
+  "ids": [
+   "v-ch5-suaal"
+  ],
+  "ar": "السُؤال",
+  "translit": "is-suʾāl",
+  "voice": "السُؤال",
+  "masculineOnly": false
+ },
+ {
+  "key": "الاِحْتِفال|il-iḥtifāl",
+  "ids": [
+   "v-ch5-ihtifal"
+  ],
+  "ar": "الاِحْتِفال",
+  "translit": "il-iḥtifāl",
+  "voice": "الاِحْتِفال",
+  "masculineOnly": false
+ },
+ {
+  "key": "التَنْضيف|it-tanḍīf",
+  "ids": [
+   "v-ch5-tandif"
+  ],
+  "ar": "التَنْضيف",
+  "translit": "it-tanḍīf",
+  "voice": "التَنْضيف",
+  "masculineOnly": false
+ },
+ {
+  "key": "الطَّبْخ|iṭ-ṭabkh",
+  "ids": [
+   "v-ch5-tabkh"
+  ],
+  "ar": "الطَّبْخ",
+  "translit": "iṭ-ṭabkh",
+  "voice": "الطَّبْخ",
+  "masculineOnly": false
+ },
+ {
+  "key": "الرَّقْص|ir-raʾṣ",
+  "ids": [
+   "v-ch5-raqs"
+  ],
+  "ar": "الرَّقْص",
+  "translit": "ir-raʾṣ",
+  "voice": "الرَّءْص",
+  "masculineOnly": false
+ },
+ {
+  "key": "التَأْخير|it-taʾkhīr",
+  "ids": [
+   "v-ch5-takhir"
+  ],
+  "ar": "التَأْخير",
+  "translit": "it-taʾkhīr",
+  "voice": "التَأْخير",
+  "masculineOnly": false
+ },
+ {
+  "key": "السَّواقة|is-sawāʾa",
+  "ids": [
+   "v-ch5-sawaa"
+  ],
+  "ar": "السَّواقة",
+  "translit": "is-sawāʾa",
+  "voice": "السَّواءة",
+  "masculineOnly": false
+ },
+ {
+  "key": "التَّمْرين|it-tamrīn",
+  "ids": [
+   "v-ch5-tamrin"
+  ],
+  "ar": "التَّمْرين",
+  "translit": "it-tamrīn",
+  "voice": "التَّمْرين",
+  "masculineOnly": false
+ },
+ {
+  "key": "القِراية|il-ʾirāye",
+  "ids": [
+   "v-ch5-iraye"
+  ],
+  "ar": "القِراية",
+  "translit": "il-ʾirāye",
+  "voice": "الإراية",
+  "masculineOnly": false
+ },
+ {
+  "key": "الرَكَض|ir-rakiḍ",
+  "ids": [
+   "v-ch5-rakid"
+  ],
+  "ar": "الرَكَض",
+  "translit": "ir-rakiḍ",
+  "voice": "الرَكَض",
+  "masculineOnly": false
+ },
+ {
+  "key": "التَسَوُّق|it-tasawwuʾ",
+  "ids": [
+   "v-ch5-tasawwuq"
+  ],
+  "ar": "التَسَوُّق",
+  "translit": "it-tasawwuʾ",
+  "voice": "التَسَوُّء",
+  "masculineOnly": false
+ },
+ {
+  "key": "النَّوْم|in-nōm",
+  "ids": [
+   "v-ch5-nom"
+  ],
+  "ar": "النَّوْم",
+  "translit": "in-nōm",
+  "voice": "النَّوْم",
+  "masculineOnly": false
+ },
+ {
+  "key": "الدِراسة|id-dirāse",
+  "ids": [
+   "v-ch5-dirase"
+  ],
+  "ar": "الدِراسة",
+  "translit": "id-dirāse",
+  "voice": "الدِراسة",
+  "masculineOnly": false
+ },
+ {
+  "key": "النَجاح|in-najāḥ",
+  "ids": [
+   "v-ch5-najah"
+  ],
+  "ar": "النَجاح",
+  "translit": "in-najāḥ",
+  "voice": "النَجاح",
+  "masculineOnly": false
+ },
+ {
+  "key": "السِباحة|is-sibāḥa",
+  "ids": [
+   "v-ch5-sibaha"
+  ],
+  "ar": "السِباحة",
+  "translit": "is-sibāḥa",
+  "voice": "السِباحة",
+  "masculineOnly": false
+ },
+ {
+  "key": "الحَكي|il-ḥaki",
+  "ids": [
+   "v-ch5-haki"
+  ],
+  "ar": "الحَكي",
+  "translit": "il-ḥaki",
+  "voice": "الحَكي",
+  "masculineOnly": false
+ },
+ {
+  "key": "السَفَر|is-safar",
+  "ids": [
+   "v-ch5-safar"
+  ],
+  "ar": "السَفَر",
+  "translit": "is-safar",
+  "voice": "السَفَر",
+  "masculineOnly": false
+ },
+ {
+  "key": "الاِنْتِظار|il-intiẓār",
+  "ids": [
+   "v-ch5-intizar"
+  ],
+  "ar": "الاِنْتِظار",
+  "translit": "il-intiẓār",
+  "voice": "الاِنْتِظار",
+  "masculineOnly": false
+ },
+ {
+  "key": "المَشِي|il-mashi",
+  "ids": [
+   "v-ch5-mashi"
+  ],
+  "ar": "المَشِي",
+  "translit": "il-mashi",
+  "voice": "المَشِي",
+  "masculineOnly": false
+ },
+ {
+  "key": "الشُغْل|ish-shughl",
+  "ids": [
+   "v-ch5-shughl"
+  ],
+  "ar": "الشُغْل",
+  "translit": "ish-shughl",
+  "voice": "الشُغْل",
+  "masculineOnly": false
+ },
+ {
+  "key": "القَعْدَة|il-ʾaʿde",
+  "ids": [
+   "v-ch5-aade"
+  ],
+  "ar": "القَعْدَة",
+  "translit": "il-ʾaʿde",
+  "voice": "الأَعْدَة",
+  "masculineOnly": false
+ },
+ {
+  "key": "الحَلّ|il-ḥall",
+  "ids": [
+   "v-ch5-hall"
+  ],
+  "ar": "الحَلّ",
+  "translit": "il-ḥall",
+  "voice": "الحَلّ",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُناسَبة|munāsabe",
+  "ids": [
+   "v-ch5-munasabe"
+  ],
+  "ar": "مُناسَبة",
+  "translit": "munāsabe",
+  "voice": "مُناسَبة",
+  "masculineOnly": false
+ },
+ {
+  "key": "مَعْرَض|maʿraḍ",
+  "ids": [
+   "v-ch5-marad"
+  ],
+  "ar": "مَعْرَض",
+  "translit": "maʿraḍ",
+  "voice": "مَعْرَض",
+  "masculineOnly": false
+ },
+ {
+  "key": "مُحاضَرة|muḥāḍara",
+  "ids": [
+   "v-ch5-muhadara"
+  ],
+  "ar": "مُحاضَرة",
+  "translit": "muḥāḍara",
+  "voice": "مُحاضَرة",
+  "masculineOnly": false
+ },
+ {
+  "key": "دَرْس|dars",
+  "ids": [
+   "v-ch5-dars"
+  ],
+  "ar": "دَرْس",
+  "translit": "dars",
+  "voice": "دَرْس",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِجْتِماع|ijtimāʿ",
+  "ids": [
+   "v-ch5-ijtima"
+  ],
+  "ar": "اِجْتِماع",
+  "translit": "ijtimāʿ",
+  "voice": "اِجْتِماع",
+  "masculineOnly": false
+ },
+ {
+  "key": "حَفْلة|ḥafle",
+  "ids": [
+   "v-ch5-hafle"
+  ],
+  "ar": "حَفْلة",
+  "translit": "ḥafle",
+  "voice": "حَفْلة",
+  "masculineOnly": false
+ },
+ {
+  "key": "اِمْتِحان|imtiḥān",
+  "ids": [
+   "v-ch5-imtihan"
+  ],
+  "ar": "اِمْتِحان",
+  "translit": "imtiḥān",
+  "voice": "اِمْتِحان",
+  "masculineOnly": false
+ },
+ {
+  "key": "رِحْلة|riḥle",
+  "ids": [
+   "v-ch5-rihle"
+  ],
+  "ar": "رِحْلة",
+  "translit": "riḥle",
+  "voice": "رِحْلة",
+  "masculineOnly": false
+ },
+ {
+  "key": "عُرْس|ʿurs",
+  "ids": [
+   "v-ch5-urs"
+  ],
+  "ar": "عُرْس",
+  "translit": "ʿurs",
+  "voice": "عُرْس",
+  "masculineOnly": false
+ },
+ {
+  "key": "التَّوْجِيهي|it-tawjīhī",
+  "ids": [
+   "v-ch5-tawjihi"
+  ],
+  "ar": "التَّوْجِيهي",
+  "translit": "it-tawjīhī",
+  "voice": "التَّوْجِيهي",
+  "masculineOnly": false
+ },
+ {
+  "key": "فْطور|fṭūr",
+  "ids": [
+   "v-ch5-ftur"
+  ],
+  "ar": "فْطور",
+  "translit": "fṭūr",
+  "voice": "فْطور",
+  "masculineOnly": false
+ },
+ {
+  "key": "عَشا|ʿasha",
+  "ids": [
+   "v-ch5-asha"
+  ],
+  "ar": "عَشا",
+  "translit": "ʿasha",
+  "voice": "عَشا",
+  "masculineOnly": false
+ },
+ {
+  "key": "غَدا|ghada",
+  "ids": [
+   "v-ch5-ghada"
+  ],
+  "ar": "غَدا",
+  "translit": "ghada",
+  "voice": "غَدا",
+  "masculineOnly": false
+ },
+ {
+  "key": "وَجْبة|wajbe",
+  "ids": [
+   "v-ch5-wajbe"
+  ],
+  "ar": "وَجْبة",
+  "translit": "wajbe",
+  "voice": "وَجْبة",
+  "masculineOnly": false
+ },
+ {
+  "key": "راحة|rāḥa",
+  "ids": [
+   "v-ch5-raha"
+  ],
+  "ar": "راحة",
+  "translit": "rāḥa",
+  "voice": "راحة",
+  "masculineOnly": false
+ }
+]

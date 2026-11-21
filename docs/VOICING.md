@@ -44,3 +44,11 @@ Every vocabulary word is voiced in Aaron's own voice (see `vocabulary` in `audio
 4. Level the files with `scripts/normalize-audio.sh`, pack them into one file per chapter with
    `scripts/pack-vocab-audio.py` (the published app may hold only ~500 files), then list them in `audio/parts/vocab.json` and the manifest
    (`kind: "vocab"`, keyed by vocabulary id, with `start`/`end` of the word inside its chapter file).
+
+## In the Car episodes
+
+One audio episode per lesson that has recorded audio (vocabulary banks and comics), in book order, in two paces.
+English cues come from the book's glosses, cleaned up for speaking by `scripts/episodes/plan.mjs` (singular only,
+grammar notes in brackets dropped), and are voiced by Aaron. `scripts/episodes/build.py` assembles each episode
+into one file; the app's player (`src/audio/episodePlayer.ts`) uses a real media element and the Media Session API,
+so it keeps playing with the phone locked and responds to car and headphone buttons. See `audio-src/README.md`.
