@@ -4,6 +4,7 @@
 //   node scripts/voice-jobs.mjs <comicId> [--missing]
 import fs from 'node:fs';
 import { pronounce } from './pronounce.mjs';
+import { vocalize } from './vocalize.mjs';
 const course = 'content/courses/abv-vol1';
 const cast = JSON.parse(fs.readFileSync(`${course}/audio/cast.json`, 'utf8'));
 const manifest = JSON.parse(fs.readFileSync(`${course}/audio/manifest.json`, 'utf8'));
@@ -27,7 +28,8 @@ for (const p of comic.panels)
     const text = dl?.ar && strip(dl.ar) === strip(l.ar) ? dl.ar.trim().replace(/[.!؟?…]+$/, '') + end(l.ar) : l.ar;
     const v = cast.characters[l.speaker];
     // performance direction (eleven_v4 audio tag), never shown on screen
-    const spoken = pronounce(text, l.translit ?? dl?.translit);
+    const tr = l.translit ?? dl?.translit;
+    const spoken = tr ? vocalize(pronounce(text, tr), tr) : text; // consonants and vowels follow the transliteration
     const prompt = l.direction ? `${l.direction} ${spoken}` : spoken;
     jobs.push({ id: l.id, speaker: l.speaker, voiceId: v?.voiceId ?? null, text: prompt, chars: prompt.length });
   }
